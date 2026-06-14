@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Birdle — Daily Bird Guessing Game</title>
+  <meta name="description" content="Guess today's mystery bird. Five clues unlock around a central hub — song, habitat, behaviour, silhouette, then the full photo. New bird every day!">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Load Google Fonts asynchronously so they never block first render -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" media="print" onload="this.media='all'">
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap">
+  </noscript>
+  <link rel="stylesheet" href="css/styles.css">
+  <!-- Set theme before first paint to avoid a flash of the wrong colour scheme -->
+  <script>
+    try {
+      var t = localStorage.getItem('birdle_theme') ||
+        ((window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  </script>
+</head>
+<body>
+
+  <!-- ── Header ──────────────────────────────────── -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">🐦</span>
+        <span class="logo-text">Bird<em>le</em></span>
+      </div>
+      <div class="mode-tabs" role="tablist" aria-label="Game mode">
+        <button class="mode-tab mode-tab--active" data-mode="daily" role="tab" aria-selected="true">Daily Bird</button>
+        <button class="mode-tab" data-mode="archive" role="tab" aria-selected="false">Archive</button>
+      </div>
+      <button class="icon-btn" id="btn-stats" aria-label="Statistics">
+        <svg width="14" height="12" viewBox="0 0 14 12" fill="currentColor" aria-hidden="true">
+          <rect x="0" y="6" width="3" height="6" rx="0"/>
+          <rect x="4" y="3" width="3" height="9" rx="0"/>
+          <rect x="8" y="0" width="3" height="12" rx="0"/>
+          <rect x="12" y="4" width="2" height="8" rx="0"/>
+        </svg>
+      </button>
+      <button class="icon-btn" id="btn-help" aria-label="How to play">?</button>
+      <button class="icon-btn" id="btn-theme" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </header>
+
+  <!-- ── Main ────────────────────────────────────── -->
+  <main id="main">
+
+    <!-- Loading placeholder — visible before JS initializes, hidden immediately after -->
+    <div class="screen" id="screen-loading">
+      <div class="loading-splash">
+        <span class="loading-bird-icon">🐦</span>
+        <p class="loading-text">Loading…</p>
+      </div>
+    </div>
+
+    <!-- Archive picker — replay the last 5 daily birds (does not affect stats) -->
+    <div class="screen" id="screen-archive" hidden>
+      <div class="archive-wrap">
+        <h2 class="archive-title">Archive</h2>
+        <p class="archive-sub">Replay a recent daily bird. Archive rounds don't affect your stats or streak.</p>
+        <div class="archive-list" id="archive-list" role="list"></div>
+      </div>
+    </div>
+
+    <!-- Game screen (daily + archive share the same hub-and-spoke layout) -->
+    <div class="screen" id="screen-game" hidden>
+      <div class="game-layout">
+
+        <!-- Context bar -->
+        <div class="game-context" id="game-context" aria-live="polite"></div>
+
+        <!-- Hub and spoke: 5 clue spokes arranged around a central guess hub -->
+        <div class="hub-spoke" id="hub-spoke">
+          <!-- Spokes (clue 1–5) are injected here by UI.renderSpokes() -->
+
+          <!-- Hub — always-active guess input. Never transformed (holds interactive children). -->
+          <div class="game-hub" id="game-hub">
+            <div class="hub-counter" id="guess-badge" aria-live="polite">Guess 1 of 5</div>
+
+            <div class="guess-area" id="guess-area">
+              <div class="guess-row">
+                <div class="autocomplete-wrap">
+                  <input
+                    id="guess-input"
+                    type="text"
+                    class="input-field guess-input"
+                    placeholder="Name the bird…"
+                    autocomplete="off"
+                    spellcheck="false"
+                    aria-label="Bird name guess"
+                    aria-autocomplete="list"
+                    aria-controls="guess-suggestions"
+                  >
+                  <div id="guess-suggestions" class="suggestions-list" role="listbox" hidden></div>
+                </div>
+                <button id="btn-guess" class="btn btn-primary">Guess</button>
+              </div>
+              <div class="guess-history" id="guess-history" aria-live="polite" aria-label="Guess history"></div>
+            </div>
+          </div>
+
+        </div><!-- /.hub-spoke -->
+
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ── Bird card overlay ────────────────────── -->
+  <div class="overlay" id="overlay-card" role="dialog" aria-modal="true" aria-label="Bird result card" hidden>
+    <div class="bird-card" id="bird-card">
+
+      <div class="card-result" id="card-result"></div>
+
+      <div class="card-photo-wrap">
+        <img id="card-photo" class="card-photo" src="" alt="">
+      </div>
+
+      <div class="card-body">
+        <h2 class="card-name" id="card-name"></h2>
+        <p class="card-sci" id="card-sci"></p>
+
+        <!-- Share result (daily only) -->
+        <div class="card-share" id="card-share" hidden>
+          <div class="share-preview" id="share-preview" aria-hidden="true"></div>
+          <p class="share-line" id="share-line"></p>
+        </div>
+
+        <ul class="card-facts" id="card-facts"></ul>
+
+        <div class="card-audio" id="card-audio" hidden>
+          <p class="card-audio-label">Bird Song</p>
+          <audio id="card-audio-player" controls></audio>
+        </div>
+
+        <div class="card-xeno" id="card-xeno" hidden>
+          <a class="xeno-link" id="card-xeno-link" target="_blank" rel="noopener">Listen on Xeno-canto ↗</a>
+        </div>
+
+        <div class="card-ext-links" id="card-ext-links"></div>
+        <p class="card-credit" id="card-credit"></p>
+      </div>
+
+      <div class="card-actions">
+        <button class="btn btn-ghost" id="btn-card-close">Close</button>
+        <button class="btn btn-outline" id="btn-card-share" hidden>Share Result</button>
+        <button class="btn btn-primary" id="btn-card-next" hidden>Back to Archive</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── Stats modal ─────────────────────────── -->
+  <div class="overlay" id="overlay-stats" role="dialog" aria-modal="true" aria-label="Your statistics" hidden>
+    <div class="modal" id="modal-stats">
+      <div class="modal-header">
+        <h2 class="modal-title">Statistics</h2>
+        <button class="modal-close" id="btn-close-stats" aria-label="Close">&#x2715;</button>
+      </div>
+      <div class="modal-body">
+        <div class="stats-grid">
+          <div class="stat-cell">
+            <span class="stat-num" id="stat-played">0</span>
+            <span class="stat-label">Played</span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-num" id="stat-win-pct">0</span>
+            <span class="stat-label">Win %</span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-num" id="stat-streak">0</span>
+            <span class="stat-label">Streak</span>
+          </div>
+          <div class="stat-cell">
+            <span class="stat-num" id="stat-max-streak">0</span>
+            <span class="stat-label">Best</span>
+          </div>
+        </div>
+        <h3 class="dist-heading">Solved on clue</h3>
+        <div class="guess-dist" id="guess-dist"></div>
+        <p class="dist-note">Daily birds only — Archive rounds aren't counted.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Help modal ───────────────────────────── -->
+  <div class="overlay" id="overlay-help" role="dialog" aria-modal="true" aria-label="How to play" hidden>
+    <div class="modal" id="modal-help">
+      <!-- Sticky header row keeps the close button always visible -->
+      <div class="modal-header">
+        <h2 class="modal-title">How to Play</h2>
+        <button class="modal-close" id="btn-close-help" aria-label="Close">&#x2715;</button>
+      </div>
+      <div class="modal-body">
+        <p>Guess the mystery bird in <strong>5 tries</strong>. Type to search, then pick a name from the dropdown — guesses must match a known species.</p>
+
+        <h3>Hub &amp; spokes</h3>
+        <p>The guess box sits at the <strong>centre</strong>. Around it are <strong>5 clue spokes</strong>. You start with just one clue unlocked — the <strong>bird song</strong>. Every wrong guess unlocks the next spoke.</p>
+
+        <h3>Clues unlock in this order:</h3>
+        <ol class="hint-list">
+          <li><strong>Bird song</strong> — available immediately</li>
+          <li><strong>Habitat &amp; range</strong></li>
+          <li><strong>Behaviour &amp; diet</strong></li>
+          <li><strong>Silhouette</strong> — shape &amp; relative size</li>
+          <li><strong>Full photo</strong> — the biggest giveaway, saved for last</li>
+        </ol>
+
+        <h3>Modes</h3>
+        <p><strong>Daily Bird</strong> — one bird per day, the same for everyone. Progress saves if you close the tab, and results count toward your stats.</p>
+        <p><strong>Archive</strong> — replay the last 5 daily birds. Great for practice — but Archive rounds <em>don't</em> affect your streak or stats.</p>
+
+        <h3>After the game</h3>
+        <p>Win or lose, a <em>Bird Card</em> reveals the full photo, facts, and the bird's call. On Daily, you can <strong>share</strong> a spoiler-free result.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Credits modal ────────────────────────── -->
+  <div class="overlay" id="overlay-credits" role="dialog" aria-modal="true" aria-label="Credits" hidden>
+    <div class="modal" id="modal-credits">
+      <div class="modal-header">
+        <h2 class="modal-title">Credits</h2>
+        <button class="modal-close" id="btn-close-credits" aria-label="Close">&#x2715;</button>
+      </div>
+      <div class="modal-body">
+        <p>Every photo and call is credited to its author under its license. Photos from
+        <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>;
+        calls from <a href="https://www.inaturalist.org/" target="_blank" rel="noopener">iNaturalist</a> &amp;
+        <a href="https://xeno-canto.org/" target="_blank" rel="noopener">Xeno-canto</a> (Creative Commons).</p>
+        <div class="credits-list" id="credits-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Footer ───────────────────────────────── -->
+  <footer class="site-footer">
+    <p>
+      Photos via <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a> ·
+      audio via <a href="https://www.inaturalist.org/" target="_blank" rel="noopener">iNaturalist</a> &amp;
+      <a href="https://xeno-canto.org/" target="_blank" rel="noopener">Xeno-canto</a> (CC).
+      <button class="link-btn" id="btn-credits">Full credits</button>
+    </p>
+  </footer>
+
+  <!-- Scripts: load order matters (birds → media → ui → app) -->
+  <script src="js/birds.js"></script>
+  <script src="js/media.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

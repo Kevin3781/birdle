@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tiny hovering hummingbird silhouette">
+  <g fill="currentColor">
+    <!-- tiny body, kept small to read as smallest bird -->
+    <ellipse cx="96" cy="104" rx="16" ry="13"/>
+    <!-- head -->
+    <circle cx="112" cy="92" r="10"/>
+    <!-- long needle bill -->
+    <path d="M120 88 l40 -10 -38 16 z"/>
+    <!-- swept hovering wing -->
+    <path d="M90 100 q-34 6 -48 -14 q30 -2 50 4 z"/>
+    <!-- forked tail -->
+    <path d="M82 110 l-18 16 16 -6 10 4 z"/>
+  </g>
+</svg>

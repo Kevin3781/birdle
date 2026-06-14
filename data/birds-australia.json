@@ -1,0 +1,127 @@
+[
+  {
+    "id": "laughing-kookaburra",
+    "commonName": "Laughing Kookaburra",
+    "scientificName": "Dacelo novaeguineae",
+    "regions": ["australia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Laughing_kookaburra_dec08_melb.jpg/800px-Laughing_kookaburra_dec08_melb.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Dacelo novaeguineae",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 38–47 cm — the largest member of the kingfisher family",
+      "habitat": "Open woodland, forest edges, and suburban gardens",
+      "diet": "Snakes, lizards, insects, and small rodents",
+      "migration": "Non-migratory; territorial and resident year-round"
+    },
+    "hints": {
+      "region": "Native to eastern Australia and introduced to Western Australia and New Zealand — one of Australia's most iconic bird calls",
+      "size": "About 42 cm — the world's largest kingfisher, stocky and broad-headed",
+      "behavior": "Starts each day with a loud, cackling call that sounds like hysterical laughter — family groups call together in a 'chorus' to declare their territory at dawn and dusk"
+    },
+    "funFact": "Kookaburras kill snakes by snatching them behind the head and slamming them against a hard surface, or dropping them from height, before swallowing them whole.",
+    "ebirdUrl": "https://ebird.org/species/laukoo1",
+    "audubonUrl": ""
+  },
+  {
+    "id": "rainbow-lorikeet",
+    "commonName": "Rainbow Lorikeet",
+    "scientificName": "Trichoglossus moluccanus",
+    "regions": ["australia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Trichoglossus_moluccanus_-_Mogo_Zoo.jpg/800px-Trichoglossus_moluccanus_-_Mogo_Zoo.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Trichoglossus moluccanus",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 25–30 cm",
+      "habitat": "Rainforest, woodland, heathland, and suburban gardens with flowering trees",
+      "diet": "Nectar, pollen, and soft fruit",
+      "migration": "Nomadic; follows flowering events across the landscape"
+    },
+    "hints": {
+      "region": "Common across coastal eastern Australia — noisy flocks are a familiar sight in Australian cities and parks",
+      "size": "About 28 cm — similar in size to a pigeon but far more colourful — vivid blue, green, red, orange, and yellow",
+      "behavior": "Has a specialised brush-tipped tongue for lapping up nectar from flowers; travels in noisy, fast-moving flocks and roosts communally in thousands"
+    },
+    "funFact": "Rainbow Lorikeets have been observed to play — rolling around on branches, hanging upside down, and wrestling with other birds, apparently for fun.",
+    "ebirdUrl": "https://ebird.org/species/rainlo1",
+    "audubonUrl": ""
+  },
+  {
+    "id": "emu",
+    "commonName": "Emu",
+    "scientificName": "Dromaius novaehollandiae",
+    "regions": ["australia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emu_-_melbourne_zoo_crop.jpg/800px-Emu_-_melbourne_zoo_crop.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Dromaius novaehollandiae",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "150–190 cm tall; the world's second-largest living bird",
+      "habitat": "Scrubland, grassland, and open woodland across mainland Australia",
+      "diet": "Plants, seeds, fruits, insects, and grubs",
+      "migration": "Nomadic; travels long distances in response to rainfall and food availability"
+    },
+    "hints": {
+      "region": "Found across mainland Australia — the national bird emblem on the Australian coat of arms, and a familiar sight in outback Australia",
+      "size": "Up to 190 cm tall — the second-tallest bird in the world and a formidable runner reaching speeds of 50 km/h",
+      "behavior": "Completely flightless — its wings are tiny vestigial structures; the male alone incubates the eggs and raises the chicks, fasting for eight weeks without food or water"
+    },
+    "funFact": "Australia fought an infamous 'Emu War' in 1932 — soldiers armed with machine guns failed to significantly reduce Emu numbers threatening Western Australian wheat farms.",
+    "ebirdUrl": "https://ebird.org/species/emu1",
+    "audubonUrl": ""
+  },
+  {
+    "id": "australian-magpie",
+    "commonName": "Australian Magpie",
+    "scientificName": "Gymnorhina tibicen",
+    "regions": ["australia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gymnorhina_tibicen_-Canberra,_Australia-8_%283%29.jpg/800px-Gymnorhina_tibicen_-Canberra,_Australia-8_%283%29.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Gymnorhina tibicen",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "37–43 cm",
+      "habitat": "Open woodland, parks, farmland, and suburban areas",
+      "diet": "Invertebrates, insects, small lizards, and seeds",
+      "migration": "Non-migratory; territorial and resident year-round"
+    },
+    "hints": {
+      "region": "Found across Australia and southern New Guinea — one of Australia's most common and familiar birds, particularly in cities",
+      "size": "About 40 cm — slightly larger than a European Magpie, with bold black-and-white plumage and a distinctive pale blue-grey bill",
+      "behavior": "Has one of the most complex and musical calls of any bird — groups perform loud carolling choruses, especially at dawn; notorious for swooping cyclists and pedestrians during nesting season"
+    },
+    "funFact": "Australian Magpies can recognise individual human faces and have been documented holding 'grudges' against specific people who have disturbed their nests in previous years.",
+    "ebirdUrl": "https://ebird.org/species/ausmag1",
+    "audubonUrl": ""
+  },
+  {
+    "id": "superb-fairywren",
+    "commonName": "Superb Fairywren",
+    "scientificName": "Malurus cyaneus",
+    "regions": ["australia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Superb_Fairywren_male_1.jpg/800px-Superb_Fairywren_male_1.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Malurus cyaneus",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 14 cm including the long cocked tail",
+      "habitat": "Coastal scrub, heathland, and suburban gardens with dense low shrubs",
+      "diet": "Insects and seeds",
+      "migration": "Non-migratory; sedentary and territorial year-round"
+    },
+    "hints": {
+      "region": "Common across southeastern Australia from Queensland to South Australia — a beloved backyard bird",
+      "size": "Tiny — about 14 cm including its long, cocked tail — with the breeding male's brilliant blue head being one of the most striking colours in Australian bird life",
+      "behavior": "Lives in cooperative family groups where younger males help raise the dominant pair's chicks; females still mate with males from other groups — one of the most studied examples of 'extra-pair' mating in birds"
+    },
+    "funFact": "Female Superb Fairywrens teach their eggs a 'password' — a specific call note — before they hatch; chicks that include this call in their begging calls get more food, which also helps parents identify cuckoo chicks.",
+    "ebirdUrl": "https://ebird.org/species/supfai1",
+    "audubonUrl": ""
+  }
+]

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Kingfisher silhouette">
+  <g fill="currentColor">
+    <rect x="50" y="158" width="80" height="6"/>
+    <!-- stocky body -->
+    <ellipse cx="92" cy="106" rx="30" ry="34"/>
+    <!-- large head -->
+    <circle cx="118" cy="76" r="22"/>
+    <!-- long heavy dagger bill -->
+    <path d="M138 70 l44 6 -44 12 z"/>
+    <!-- very short tail -->
+    <path d="M64 120 l-18 8 8 -18 z"/>
+    <!-- short legs -->
+    <rect x="86" y="138" width="5" height="20"/>
+    <rect x="100" y="138" width="5" height="20"/>
+  </g>
+</svg>

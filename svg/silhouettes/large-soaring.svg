@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Large soaring bird with enormous wingspan">
+  <g fill="currentColor">
+    <!-- body -->
+    <ellipse cx="100" cy="106" rx="16" ry="36"/>
+    <!-- head -->
+    <circle cx="100" cy="68" r="13"/>
+    <!-- bill -->
+    <path d="M100 56 l3 -14 3 14 z"/>
+    <!-- enormous glider wings spanning full width -->
+    <path d="M88 92 q-90 -26 -86 6 q6 16 30 14 q30 -2 56 -6 z"/>
+    <path d="M112 92 q90 -26 86 6 q-6 16 -30 14 q-30 -2 -56 -6 z"/>
+    <!-- short tail -->
+    <path d="M92 140 l8 22 8 -22 z"/>
+  </g>
+</svg>

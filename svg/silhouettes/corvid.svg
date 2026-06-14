@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Crow or jay silhouette">
+  <g fill="currentColor">
+    <rect x="45" y="158" width="110" height="6"/>
+    <!-- upright body -->
+    <ellipse cx="96" cy="104" rx="32" ry="42"/>
+    <!-- head -->
+    <circle cx="124" cy="62" r="22"/>
+    <!-- crest hint -->
+    <path d="M118 42 l-6 -16 14 8 z"/>
+    <!-- stout bill -->
+    <path d="M144 58 l24 5 -24 7 z"/>
+    <!-- long tail -->
+    <path d="M70 128 l-34 34 -2 -30 22 -14 z"/>
+    <!-- legs -->
+    <rect x="88" y="144" width="4" height="16"/>
+    <rect x="104" y="144" width="4" height="16"/>
+  </g>
+</svg>

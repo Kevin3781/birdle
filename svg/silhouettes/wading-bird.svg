@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tall long-legged wading bird silhouette">
+  <g fill="currentColor">
+    <rect x="40" y="186" width="120" height="6"/>
+    <!-- body -->
+    <ellipse cx="84" cy="92" rx="34" ry="22"/>
+    <!-- long curved neck -->
+    <path d="M104 84 q24 -10 18 -38 q-4 -22 14 -30 q10 8 4 24 q-8 22 -8 44 q0 14 -18 16 z"/>
+    <!-- head -->
+    <circle cx="138" cy="20" r="11"/>
+    <!-- bill -->
+    <path d="M148 18 l26 6 -26 4 z"/>
+    <!-- long legs -->
+    <path d="M76 112 l-6 74 6 0 4 -72 z"/>
+    <path d="M96 112 l8 74 -6 0 -8 -72 z"/>
+  </g>
+</svg>

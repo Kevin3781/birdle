@@ -1,0 +1,6 @@
+# Birdle media pipelines.
+# fetch_audio.py is stdlib-only and needs NOTHING here.
+# make_silhouette.py needs:
+rembg[cpu]>=2.0.50
+pillow>=10.0.0
+# (numpy + onnxruntime are pulled in by the rembg[cpu] extra)

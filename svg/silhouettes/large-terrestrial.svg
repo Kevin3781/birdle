@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Large ground bird silhouette">
+  <g fill="currentColor">
+    <rect x="36" y="188" width="128" height="6"/>
+    <!-- large bulky body -->
+    <ellipse cx="86" cy="108" rx="48" ry="36"/>
+    <!-- long neck -->
+    <path d="M118 92 q18 -16 20 -44 q2 -22 16 -26 q6 12 -2 28 q-10 22 -12 44 q-2 14 -22 14 z"/>
+    <!-- head -->
+    <circle cx="150" cy="24" r="12"/>
+    <!-- bill -->
+    <path d="M160 22 l22 4 -22 6 z"/>
+    <!-- long strong legs -->
+    <path d="M74 142 l-8 46 8 0 6 -44 z"/>
+    <path d="M100 142 l10 46 -8 0 -10 -44 z"/>
+  </g>
+</svg>

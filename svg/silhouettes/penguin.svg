@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Penguin silhouette">
+  <g fill="currentColor">
+    <rect x="60" y="184" width="80" height="6"/>
+    <!-- upright body -->
+    <path d="M70 86 q0 -46 30 -46 q30 0 30 46 q0 96 -30 96 q-30 0 -30 -96 z"/>
+    <!-- head -->
+    <circle cx="100" cy="46" r="22"/>
+    <!-- bill -->
+    <path d="M120 44 l22 4 -22 7 z"/>
+    <!-- flipper -->
+    <path d="M72 92 q-22 30 -8 70 q12 -6 12 -36 z"/>
+    <!-- feet -->
+    <path d="M78 182 l-16 6 16 2 z"/>
+    <path d="M122 182 l16 6 -16 2 z"/>
+  </g>
+</svg>

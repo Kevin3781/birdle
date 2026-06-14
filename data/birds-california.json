@@ -1,0 +1,127 @@
+[
+  {
+    "id": "california-quail",
+    "commonName": "California Quail",
+    "scientificName": "Callipepla californica",
+    "regions": ["california", "north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/California_quail_%28Callipepla_californica%29_male.jpg/800px-California_quail_%28Callipepla_californica%29_male.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Callipepla californica",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 25 cm — similar to a small pigeon",
+      "habitat": "Chaparral, oak woodland, and open scrubby areas",
+      "diet": "Seeds, leaves, berries, and insects",
+      "migration": "Non-migratory; resident year-round"
+    },
+    "hints": {
+      "region": "The state bird of California — common in chaparral, parks, and suburban gardens across the western USA",
+      "size": "About 25 cm — compact and round, similar in size to a small pigeon",
+      "behavior": "Moves in coveys (family groups) on the ground; the distinctive teardrop-shaped topknot is actually a cluster of six feathers that curves forward over the bill"
+    },
+    "funFact": "California Quail chicks leave the nest within hours of hatching and can run and feed themselves almost immediately, though parents continue to brood them at night.",
+    "ebirdUrl": "https://ebird.org/species/calqua",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/california-quail"
+  },
+  {
+    "id": "annas-hummingbird",
+    "commonName": "Anna's Hummingbird",
+    "scientificName": "Calypte anna",
+    "regions": ["california", "north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Anna%27s_Hummingbird%2C_a_male_%28cropped%29.jpg/800px-Anna%27s_Hummingbird%2C_a_male_%28cropped%29.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Calypte anna",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 10 cm — slightly larger than most other North American hummingbirds",
+      "habitat": "Coastal scrub, chaparral, open woodland, and suburban gardens",
+      "diet": "Nectar from flowers, tree sap, and small insects",
+      "migration": "Non-migratory; year-round resident along the Pacific Coast"
+    },
+    "hints": {
+      "region": "Common year-round along the Pacific Coast of North America, particularly in California — the most widespread hummingbird on the west coast",
+      "size": "About 10 cm — tiny even by hummingbird standards, weighing around 4 grams",
+      "behavior": "Males perform a dramatic dive display — climbing over 30 metres then diving nearly straight down past the female, making a loud chirp with their tail feathers at the bottom of the arc"
+    },
+    "funFact": "Anna's Hummingbirds sing — making them unusual among hummingbirds; males perch and sing a buzzy, complex song year-round.",
+    "ebirdUrl": "https://ebird.org/species/annhum",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/annas-hummingbird"
+  },
+  {
+    "id": "california-condor",
+    "commonName": "California Condor",
+    "scientificName": "Gymnogyps californianus",
+    "regions": ["california", "north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/California_condor_%28Gymnogyps_californianus%29_above_Hopper_Mountain_NWR.jpg/800px-California_condor_%28Gymnogyps_californianus%29_above_Hopper_Mountain_NWR.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Gymnogyps californianus",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "109–140 cm; wingspan up to 3 m — the largest flying bird in North America",
+      "habitat": "Rocky scrubland, coniferous forests, and canyon country",
+      "diet": "Carrion — almost exclusively large dead animals",
+      "migration": "Non-migratory; wide-ranging over large territories"
+    },
+    "hints": {
+      "region": "Found in the mountains and canyons of California, Arizona, Utah, and Baja California — an iconic conservation success story brought back from the brink",
+      "size": "The largest flying land bird in North America — wingspan up to 3 metres, the width of a small car",
+      "behavior": "Soars on thermal updrafts for hours without flapping, covering enormous distances to find carrion; bald head is an adaptation for feeding inside large carcasses"
+    },
+    "funFact": "By 1987 only 27 California Condors remained alive — all were captured for a captive breeding programme that has since restored the wild population to over 500 birds.",
+    "ebirdUrl": "https://ebird.org/species/calcon",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/california-condor"
+  },
+  {
+    "id": "black-phoebe",
+    "commonName": "Black Phoebe",
+    "scientificName": "Sayornis nigricans",
+    "regions": ["california", "north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Black_Phoebe.jpg/800px-Black_Phoebe.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Sayornis nigricans",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 16–18 cm",
+      "habitat": "Near water — streams, ponds, and coastal areas with overhanging vegetation",
+      "diet": "Flying insects caught in mid-air",
+      "migration": "Non-migratory; year-round resident"
+    },
+    "hints": {
+      "region": "Common year-round near water in California and the southwestern USA; expands through Central and South America",
+      "size": "Small — about 17 cm, roughly sparrow-sized, and sits very upright on exposed perches near water",
+      "behavior": "Sallies out from a low perch to snap flying insects out of the air, always returning to the same perch — and bobs its tail up and down constantly"
+    },
+    "funFact": "Black Phoebes often build their mud nests under bridges and eaves — the same individual will frequently return to the same nest site year after year.",
+    "ebirdUrl": "https://ebird.org/species/blkpho",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/black-phoebe"
+  },
+  {
+    "id": "western-meadowlark",
+    "commonName": "Western Meadowlark",
+    "scientificName": "Sturnella neglecta",
+    "regions": ["california", "north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Western_Meadowlark.jpg/800px-Western_Meadowlark.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Sturnella neglecta",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 22–25 cm",
+      "habitat": "Grasslands, prairies, meadows, and agricultural fields",
+      "diet": "Insects in summer; seeds and grains in winter",
+      "migration": "Partially migratory; northern populations move south in winter"
+    },
+    "hints": {
+      "region": "Common across western North America from Canada to Mexico — the state bird of six western US states",
+      "size": "About 23 cm — robin-sized, plump, and short-tailed when perched on a fence post",
+      "behavior": "Sings one of the most celebrated bird songs in North America — a rich, flute-like bubbling from open fence posts and tall grass stems"
+    },
+    "funFact": "The Western Meadowlark's song is so complex that it has up to 12 different song types and can sing them in different orders to avoid sounding repetitive.",
+    "ebirdUrl": "https://ebird.org/species/wesmea",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/western-meadowlark"
+  }
+]

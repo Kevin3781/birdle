@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Hawk or eagle silhouette">
+  <g fill="currentColor">
+    <rect x="40" y="170" width="120" height="6"/>
+    <!-- broad powerful body -->
+    <path d="M70 70 q40 -18 64 4 q14 16 6 56 q-8 44 -42 44 q-34 0 -40 -44 q-6 -42 12 -60 z"/>
+    <!-- head -->
+    <circle cx="120" cy="58" r="24"/>
+    <!-- hooked bill -->
+    <path d="M142 52 q18 0 18 10 q-2 10 -16 8 q6 -10 -2 -18 z"/>
+    <!-- talons -->
+    <rect x="86" y="166" width="5" height="12"/>
+    <rect x="108" y="166" width="5" height="12"/>
+  </g>
+</svg>

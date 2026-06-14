@@ -1,0 +1,12 @@
+# Secrets — never commit the Xeno-canto key
+scripts/.xeno_canto_key
+scripts/secrets.env
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+
+# Test artifacts
+screenshots/FAIL*.png

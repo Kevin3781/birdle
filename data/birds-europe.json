@@ -1,0 +1,127 @@
+[
+  {
+    "id": "eurasian-blue-tit",
+    "commonName": "Eurasian Blue Tit",
+    "scientificName": "Cyanistes caeruleus",
+    "regions": ["europe"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cyanistes_caeruleus_-Spain-8.jpg/800px-Cyanistes_caeruleus_-Spain-8.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Cyanistes caeruleus",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 11–12 cm — smaller than a sparrow",
+      "habitat": "Deciduous woodland, parks, hedgerows, and gardens",
+      "diet": "Insects, caterpillars, seeds, and nuts",
+      "migration": "Mostly resident; some cold-weather wandering in hard winters"
+    },
+    "hints": {
+      "region": "One of the most common garden birds across Europe and western Asia — the most frequent visitor to garden feeders in Britain",
+      "size": "Tiny — about 11–12 cm, lighter than a 10-pence coin, and extremely acrobatic",
+      "behavior": "Hangs upside-down to feed on caterpillars in tree canopies; pairs return to the same nest box every year and can have over a dozen chicks in a single clutch"
+    },
+    "funFact": "Blue Tit clutch size is precisely timed to peak caterpillar abundance — pairs that start even a week too early or late have significantly fewer surviving chicks.",
+    "ebirdUrl": "https://ebird.org/species/eusbti1",
+    "audubonUrl": ""
+  },
+  {
+    "id": "common-blackbird",
+    "commonName": "Common Blackbird",
+    "scientificName": "Turdus merula",
+    "regions": ["europe", "asia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/800px-Common_Blackbird.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Turdus merula",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 24–25 cm — similar to an American Robin",
+      "habitat": "Gardens, parks, woodland, and hedgerows",
+      "diet": "Worms, insects, berries, and fruit",
+      "migration": "Largely resident; northern populations move south in winter"
+    },
+    "hints": {
+      "region": "One of the most widespread and familiar birds across Europe, from Scandinavia to North Africa and east into Asia",
+      "size": "About 25 cm — similar in size to an American Robin, but slimmer and longer-tailed",
+      "behavior": "Males sing a rich, melodious song from rooftops at dawn and dusk — one of the most celebrated bird songs in Europe; runs across lawns stopping to listen for worms"
+    },
+    "funFact": "The Common Blackbird is a relative newcomer to suburban habitats — it was primarily a woodland bird until the 19th century, when it rapidly colonised European cities.",
+    "ebirdUrl": "https://ebird.org/species/combla2",
+    "audubonUrl": ""
+  },
+  {
+    "id": "white-stork",
+    "commonName": "White Stork",
+    "scientificName": "Ciconia ciconia",
+    "regions": ["europe", "africa"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weißstorch_Ciconia_ciconia.jpg/800px-Weißstorch_Ciconia_ciconia.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Ciconia ciconia",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "100–115 cm tall; wingspan 155–215 cm",
+      "habitat": "Open farmland, meadows, and marshes near villages and towns",
+      "diet": "Frogs, insects, small mammals, reptiles, and fish",
+      "migration": "Long-distance migrant — breeds in Europe, winters in sub-Saharan Africa"
+    },
+    "hints": {
+      "region": "Breeds across Europe from Iberia to central Asia; winters in Africa south of the Sahara — a long-distance migrant covering up to 20,000 km each year",
+      "size": "A large, unmistakable wading bird — up to 115 cm tall with a wingspan of over 2 metres",
+      "behavior": "Nests on rooftops, chimneys, and purpose-built platforms in villages; pairs reunite at the nest each spring and perform a greeting ceremony of loud bill-clattering"
+    },
+    "funFact": "White Storks are completely silent — they have no song or call muscles. Their only vocalisation is a bill-clattering display at the nest.",
+    "ebirdUrl": "https://ebird.org/species/whisto3",
+    "audubonUrl": ""
+  },
+  {
+    "id": "great-tit",
+    "commonName": "Great Tit",
+    "scientificName": "Parus major",
+    "regions": ["europe", "asia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Parus_major_%28Linnaeus%2C_1758%29.jpg/800px-Parus_major_%28Linnaeus%2C_1758%29.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Parus major",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 14 cm — slightly larger than a Blue Tit",
+      "habitat": "Deciduous and mixed woodland, parks, and gardens",
+      "diet": "Insects, caterpillars, seeds, and nuts",
+      "migration": "Mostly resident; some dispersal in cold winters"
+    },
+    "hints": {
+      "region": "The most widespread tit in the world — found from western Europe across Asia to Japan; one of the most-studied birds in ornithology",
+      "size": "About 14 cm — slightly larger than a House Sparrow, with a striking black-and-white head pattern and bright yellow belly",
+      "behavior": "Has one of the largest and most variable song repertoires of any bird — can learn new songs by listening to neighbours and has been recorded using over 40 different calls"
+    },
+    "funFact": "Great Tit populations in urban areas have evolved slightly longer bills compared to rural birds, thought to be an adaptation to bird feeder feeding over just a few decades.",
+    "ebirdUrl": "https://ebird.org/species/gretti1",
+    "audubonUrl": ""
+  },
+  {
+    "id": "eurasian-jay",
+    "commonName": "Eurasian Jay",
+    "scientificName": "Garrulus glandarius",
+    "regions": ["europe", "asia"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Garrulus_glandarius_-_Eurasian_jay_(Garrulus_glandarius).jpg/800px-Garrulus_glandarius_-_Eurasian_jay_(Garrulus_glandarius).jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Garrulus glandarius",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 34–35 cm — similar to a Jackdaw",
+      "habitat": "Oak woodland, mixed forest, parks, and large gardens",
+      "diet": "Acorns (primary), insects, eggs, nestlings, and berries",
+      "migration": "Mostly resident; large irruptions in years of acorn failure"
+    },
+    "hints": {
+      "region": "Found across Europe and Asia from Britain to Japan — shy and often heard before seen in oak woodland",
+      "size": "About 35 cm — larger than a Blackbird, with a streaked pinkish-brown body and striking blue wing patches",
+      "behavior": "Buries thousands of acorns each autumn as a food store and can remember the location of hundreds of individual caches; many forgotten caches germinate into oak trees"
+    },
+    "funFact": "Eurasian Jays have been shown to 'plan for the future' by caching food based on what they expect to need tomorrow — a form of mental time travel previously thought unique to humans.",
+    "ebirdUrl": "https://ebird.org/species/eurjay1",
+    "audubonUrl": ""
+  }
+]

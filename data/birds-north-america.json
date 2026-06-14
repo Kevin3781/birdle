@@ -1,0 +1,127 @@
+[
+  {
+    "id": "canada-goose",
+    "commonName": "Canada Goose",
+    "scientificName": "Branta canadensis",
+    "regions": ["north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose_on_Seedskadee_NWR_%2827826871489%29.jpg/800px-Canada_goose_on_Seedskadee_NWR_%2827826871489%29.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Branta canadensis",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "75–110 cm; wingspan up to 180 cm",
+      "habitat": "Lakes, rivers, parks, golf courses, and suburban ponds",
+      "diet": "Grasses, grains, aquatic vegetation, and berries",
+      "migration": "Partially migratory; northern populations move south in autumn"
+    },
+    "hints": {
+      "region": "Found across North America — from Arctic Canada to the Gulf Coast; populations have expanded greatly in urban areas",
+      "size": "A large goose — up to 110 cm and weighing up to 6.5 kg, with a wingspan nearly as wide as a person is tall",
+      "behavior": "Grazes in large flocks on lawns and open areas; known for its honking call and for aggressively defending nests near water"
+    },
+    "funFact": "Canada Geese fly in a V-formation during migration because each bird benefits from the uplift created by the wingtip vortex of the bird ahead.",
+    "ebirdUrl": "https://ebird.org/species/cangoo",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/canada-goose"
+  },
+  {
+    "id": "great-horned-owl",
+    "commonName": "Great Horned Owl",
+    "scientificName": "Bubo virginianus",
+    "regions": ["north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Great_horned_owl_%28Bubo_virginianus%29_2.jpg/800px-Great_horned_owl_%28Bubo_virginianus%29_2.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Bubo virginianus",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "46–63 cm; wingspan 101–145 cm",
+      "habitat": "Forests, deserts, swamps, and cities — one of the most adaptable owls",
+      "diet": "Rabbits, hares, squirrels, mice, other birds (including smaller owls), and skunks",
+      "migration": "Non-migratory; year-round resident"
+    },
+    "hints": {
+      "region": "Found across virtually all of North and South America — one of the most widespread owls on Earth",
+      "size": "Large and powerful — up to 63 cm tall with a wingspan exceeding 1.4 metres and the strongest grip of any North American owl",
+      "behavior": "Begins nesting in mid-winter while snow is still on the ground; its deep hoot-hoot call is one of the most recognizable night sounds in North America"
+    },
+    "funFact": "Great Horned Owls have no true horns — the 'ear tufts' are just feathers used for camouflage and communication.",
+    "ebirdUrl": "https://ebird.org/species/grhowl",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/great-horned-owl"
+  },
+  {
+    "id": "red-tailed-hawk",
+    "commonName": "Red-tailed Hawk",
+    "scientificName": "Buteo jamaicensis",
+    "regions": ["north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Red-tailed_Hawk_in_flight.jpg/800px-Red-tailed_Hawk_in_flight.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Buteo jamaicensis",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "45–65 cm; wingspan 105–141 cm",
+      "habitat": "Open areas with scattered trees — fields, roadsides, deserts, and forest edges",
+      "diet": "Small mammals, especially rodents; also rabbits, snakes, and birds",
+      "migration": "Partially migratory; many populations resident year-round"
+    },
+    "hints": {
+      "region": "The most common hawk in North America — seen year-round from Alaska to Panama",
+      "size": "A large, stocky raptor — about 50 cm with a wingspan of over a metre; often seen circling high overhead on thermal updrafts",
+      "behavior": "Frequently perches on roadside poles and fence posts watching for prey; the piercing cry used as the 'generic hawk scream' in movies and TV"
+    },
+    "funFact": "The distinctive red tail of adult Red-tailed Hawks appears only after their second year of life — juveniles have a brown-banded tail instead.",
+    "ebirdUrl": "https://ebird.org/species/rethaw",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/red-tailed-hawk"
+  },
+  {
+    "id": "mallard",
+    "commonName": "Mallard",
+    "scientificName": "Anas platyrhynchos",
+    "regions": ["north-america", "europe"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mallard-male-and-female.jpg/800px-Mallard-male-and-female.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Anas platyrhynchos",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "50–65 cm; wingspan 81–98 cm",
+      "habitat": "Lakes, rivers, ponds, wetlands, and urban park ponds",
+      "diet": "Aquatic vegetation, seeds, insects, worms, and small fish",
+      "migration": "Partially migratory; northern populations move south in winter"
+    },
+    "hints": {
+      "region": "Found across the northern hemisphere — one of the most abundant and widespread ducks in the world",
+      "size": "A typical 'duck-sized duck' — about 55–60 cm from bill to tail, stocky and low in the water",
+      "behavior": "Dabbles for food at the water's surface rather than diving; the familiar 'quack' is made by the female — males give a quieter, raspier call"
+    },
+    "funFact": "Most domestic duck breeds worldwide are descended from the wild Mallard, domesticated thousands of years ago in China.",
+    "ebirdUrl": "https://ebird.org/species/mallar3",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/mallard"
+  },
+  {
+    "id": "american-goldfinch",
+    "commonName": "American Goldfinch",
+    "scientificName": "Spinus tristis",
+    "regions": ["north-america"],
+    "globalPool": false,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/American_Goldfinch-27527.jpg/800px-American_Goldfinch-27527.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Spinus tristis",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 11–13 cm — sparrow-sized",
+      "habitat": "Open areas with weedy fields, roadsides, gardens, and woodland edges",
+      "diet": "Almost exclusively seeds, especially thistles and sunflowers",
+      "migration": "Short-distance migrant; moves south within North America in winter"
+    },
+    "hints": {
+      "region": "Found across North America — common at garden feeders in summer across the US and southern Canada",
+      "size": "Tiny — about 12 cm and weighing only 11–20 grams, roughly the weight of three quarters",
+      "behavior": "One of the strictest vegetarians among birds; feeds almost exclusively on seeds and even feeds its chicks regurgitated seeds rather than insects"
+    },
+    "funFact": "The American Goldfinch is one of the latest breeders in North America, waiting until thistles and other seed plants are in full seed in mid-summer.",
+    "ebirdUrl": "https://ebird.org/species/amegfi",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/american-goldfinch"
+  }
+]

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Tern or gull silhouette in flight">
+  <g fill="currentColor">
+    <!-- slender body -->
+    <ellipse cx="100" cy="104" rx="20" ry="40"/>
+    <!-- head -->
+    <circle cx="100" cy="60" r="15"/>
+    <!-- pointed bill -->
+    <path d="M100 46 l4 -18 4 18 z"/>
+    <!-- long swept wings -->
+    <path d="M86 96 q-66 -38 -78 -8 q40 6 78 22 z"/>
+    <path d="M114 96 q66 -38 78 -8 q-40 6 -78 22 z"/>
+    <!-- forked tail -->
+    <path d="M88 140 l-10 36 22 -22 22 22 -10 -36 z"/>
+  </g>
+</svg>

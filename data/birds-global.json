@@ -1,0 +1,377 @@
+[
+  {
+    "id": "american-robin",
+    "commonName": "American Robin",
+    "scientificName": "Turdus migratorius",
+    "regions": ["north-america"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Turdus-migratorius-002.jpg/800px-Turdus-migratorius-002.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Turdus migratorius",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 25 cm (10 in) — similar in length to a starling",
+      "habitat": "Lawns, parks, open woodlands, and gardens",
+      "diet": "Earthworms, insects, and berries",
+      "migration": "Short-distance migrant; some populations stay year-round in warmer areas"
+    },
+    "hints": {
+      "region": "Found year-round across North America, from Canada south to central Mexico",
+      "size": "About the size of a large starling — roughly 25 cm from bill to tail tip",
+      "behavior": "Famously runs across lawns in quick bursts, then stops and tilts its head to listen for earthworms underground"
+    },
+    "funFact": "American Robins can produce up to three clutches of chicks in a single breeding season.",
+    "ebirdUrl": "https://ebird.org/species/amerob",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/american-robin"
+  },
+  {
+    "id": "bald-eagle",
+    "commonName": "Bald Eagle",
+    "scientificName": "Haliaeetus leucocephalus",
+    "regions": ["north-america"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bald_Eagle_Portrait.jpg/800px-Bald_Eagle_Portrait.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Haliaeetus leucocephalus",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "71–96 cm body length; wingspan up to 2.4 m",
+      "habitat": "Coasts, large lakes, and rivers with tall trees for nesting",
+      "diet": "Primarily fish, supplemented by waterfowl and carrion",
+      "migration": "Mostly resident; northern populations migrate south in winter"
+    },
+    "hints": {
+      "region": "Found near large bodies of water across North America, from Alaska to Florida",
+      "size": "One of North America's largest raptors — wingspan can reach over 2 metres",
+      "behavior": "Swoops low to snatch live fish from just below the water's surface with its powerful talons"
+    },
+    "funFact": "Bald Eagles mate for life and return to the same nest each year, adding sticks until the nest can weigh over a tonne.",
+    "ebirdUrl": "https://ebird.org/species/baleag",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/bald-eagle"
+  },
+  {
+    "id": "atlantic-puffin",
+    "commonName": "Atlantic Puffin",
+    "scientificName": "Fratercula arctica",
+    "regions": ["europe"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fratercula_arctica_04.jpg/800px-Fratercula_arctica_04.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Fratercula arctica",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 25–30 cm, roughly the size of a pigeon",
+      "habitat": "Open ocean in winter; returns to grassy sea cliffs to breed in summer",
+      "diet": "Small fish, especially sand eels and herring",
+      "migration": "Spends most of the year far out at sea; comes ashore only to breed"
+    },
+    "hints": {
+      "region": "Nests on rocky sea cliffs of the North Atlantic — Iceland, Norway, and the British Isles hold huge colonies",
+      "size": "About the size of a pigeon — 25–30 cm — but surprisingly compact and round",
+      "behavior": "Dives underwater and can carry a dozen small fish crosswise in its bill at once, flying back to its burrow to feed chicks"
+    },
+    "funFact": "Puffins are excellent swimmers, using their wings to 'fly' underwater at depths of up to 60 metres.",
+    "ebirdUrl": "https://ebird.org/species/atlpuf",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/atlantic-puffin"
+  },
+  {
+    "id": "blue-jay",
+    "commonName": "Blue Jay",
+    "scientificName": "Cyanocitta cristata",
+    "regions": ["north-america"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blue_jay_in_PP_%281%29.jpg/800px-Blue_jay_in_PP_%281%29.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Cyanocitta cristata",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 25–30 cm — slightly larger than an American Robin",
+      "habitat": "Mixed and deciduous forests, parks, and suburban areas",
+      "diet": "Acorns, seeds, nuts, insects, and occasionally eggs of other birds",
+      "migration": "Partially migratory; some populations move south in autumn"
+    },
+    "hints": {
+      "region": "Common across eastern and central North America, from southern Canada to Florida",
+      "size": "A bit larger than a robin — around 25–30 cm, bold and upright in posture",
+      "behavior": "Known for its loud, raucous calls and its ability to mimic the calls of Red-tailed Hawks to scare off competitors"
+    },
+    "funFact": "Blue Jays play a key ecological role by caching thousands of acorns each autumn — many of which sprout into oak trees.",
+    "ebirdUrl": "https://ebird.org/species/blujay",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/blue-jay"
+  },
+  {
+    "id": "greater-flamingo",
+    "commonName": "Greater Flamingo",
+    "scientificName": "Phoenicopterus roseus",
+    "regions": ["europe", "africa", "asia"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Greater_flamingo_%28Phoenicopterus_roseus%29_Lanzarote.jpg/800px-Greater_flamingo_%28Phoenicopterus_roseus%29_Lanzarote.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Phoenicopterus roseus",
+    "focalPoint": { "x": 0.5, "y": 0.3 },
+    "facts": {
+      "size": "120–145 cm tall — one of the tallest wading birds",
+      "habitat": "Shallow saltwater lagoons, estuaries, and mudflats",
+      "diet": "Algae, brine shrimp, and small invertebrates filtered from the water",
+      "migration": "Partially migratory; populations move in response to water levels and food availability"
+    },
+    "hints": {
+      "region": "Found in large flocks around shallow salty lakes and lagoons across southern Europe, Africa, and Asia",
+      "size": "One of the tallest wading birds — standing up to 145 cm on long, spindly legs",
+      "behavior": "Feeds by holding its distinctive bent bill upside-down in the water, filtering tiny organisms through a specialised comb-like structure"
+    },
+    "funFact": "Flamingos get their pink colour from the carotenoid pigments in the algae and crustaceans they eat — without this diet, they would be white.",
+    "ebirdUrl": "https://ebird.org/species/grefla3",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/greater-flamingo"
+  },
+  {
+    "id": "indian-peafowl",
+    "commonName": "Indian Peafowl",
+    "scientificName": "Pavo cristatus",
+    "regions": ["asia"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Peacock_Plumage.jpg/800px-Peacock_Plumage.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Pavo cristatus",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "Body 100–120 cm; male train up to 160 cm long",
+      "habitat": "Forests, grasslands, and farmland; also common around villages",
+      "diet": "Seeds, insects, lizards, small snakes, and fruit",
+      "migration": "Non-migratory; resident year-round"
+    },
+    "hints": {
+      "region": "Native to the Indian subcontinent; introduced widely across the world in parks and estates",
+      "size": "A large, ground-dwelling bird — the body alone is over a metre long, with the male's trailing display plumage adding another 160 cm",
+      "behavior": "Males spread and shake their brilliant iridescent tail fans in elaborate courtship displays, vibrating feathers to produce an infrasonic rumble"
+    },
+    "funFact": "The 'tail' feathers of a peacock are actually elongated upper tail coverts — the real tail beneath acts as a support strut.",
+    "ebirdUrl": "https://ebird.org/species/inopea1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/indian-peafowl"
+  },
+  {
+    "id": "keel-billed-toucan",
+    "commonName": "Keel-billed Toucan",
+    "scientificName": "Ramphastos sulfuratus",
+    "regions": ["central-america"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Keel-billed_Toucan_Boca_Tapada.jpg/800px-Keel-billed_Toucan_Boca_Tapada.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Ramphastos sulfuratus",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 42–55 cm, including the large bill",
+      "habitat": "Tropical and subtropical lowland rainforest",
+      "diet": "Fruit (especially figs and berries), insects, small lizards, and eggs",
+      "migration": "Non-migratory; may make short altitudinal movements"
+    },
+    "hints": {
+      "region": "Found in the humid lowland forests of southern Mexico through Central America to Colombia and Venezuela",
+      "size": "About 50 cm long — roughly the size of a crow — but the enormous bill accounts for a third of that length",
+      "behavior": "Uses its long, lightweight bill to pluck fruit and toss it into the air, catching it at the back of the throat to swallow"
+    },
+    "funFact": "Despite its enormous appearance, the toucan's bill is mostly hollow keratin — extremely lightweight and also helps regulate body temperature.",
+    "ebirdUrl": "https://ebird.org/species/kebtou1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/keel-billed-toucan"
+  },
+  {
+    "id": "snowy-owl",
+    "commonName": "Snowy Owl",
+    "scientificName": "Bubo scandiacus",
+    "regions": ["north-america", "europe"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Snowy_Owl_%28Nyctea_scandiaca%29.jpg/800px-Snowy_Owl_%28Nyctea_scandiaca%29.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Bubo scandiacus",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "53–65 cm; wingspan 125–150 cm",
+      "habitat": "Open Arctic tundra; moves to open farmland, airports, and coasts in winter",
+      "diet": "Mainly lemmings; also voles, rabbits, and birds",
+      "migration": "Irruptive migrant — numbers moving south vary dramatically year to year with lemming population cycles"
+    },
+    "hints": {
+      "region": "Breeds on the Arctic tundra; in winter, individuals drift south to open country across Canada, northern USA, and northern Europe",
+      "size": "One of the largest owls by weight — 53–65 cm tall with a wingspan exceeding 1.5 metres",
+      "behavior": "Unlike most owls, hunts by day as well as night on the treeless tundra; a single owl can eat over 1,600 lemmings per year"
+    },
+    "funFact": "Female Snowy Owls are larger than males and more heavily barred with brown — a reversal of the typical size difference in most bird of prey species.",
+    "ebirdUrl": "https://ebird.org/species/snoowl1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/snowy-owl"
+  },
+  {
+    "id": "european-robin",
+    "commonName": "European Robin",
+    "scientificName": "Erithacus rubecula",
+    "regions": ["europe"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/800px-Erithacus_rubecula_with_cocked_head.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Erithacus rubecula",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 14 cm — roughly palm-sized",
+      "habitat": "Deciduous woodlands, hedgerows, parks, and gardens",
+      "diet": "Worms, insects, berries, and seeds",
+      "migration": "Mostly resident in western Europe; eastern populations migrate to the Mediterranean in winter"
+    },
+    "hints": {
+      "region": "Found across Europe and western Asia, from Scandinavia to the Azores — one of the most familiar garden birds in Britain",
+      "size": "Palm-sized at about 14 cm — much smaller than most people imagine when they first see one up close",
+      "behavior": "Aggressively territorial year-round; famously follows gardeners, dashing forward to grab worms disturbed by digging"
+    },
+    "funFact": "The European Robin's melodious song can be heard on Christmas Eve and into the small hours of the morning — they are one of the few European birds to sing at night.",
+    "ebirdUrl": "https://ebird.org/species/eurrob1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/european-robin"
+  },
+  {
+    "id": "common-kingfisher",
+    "commonName": "Common Kingfisher",
+    "scientificName": "Alcedo atthis",
+    "regions": ["europe", "asia"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alcedo_atthis_3_-_Rspb_sandy.jpg/800px-Alcedo_atthis_3_-_Rspb_sandy.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Alcedo atthis",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 16–17 cm — roughly the size of a sparrow",
+      "habitat": "Clear, slow-moving rivers and streams; also ponds and coasts in winter",
+      "diet": "Small fish, aquatic insects, and occasionally tadpoles",
+      "migration": "Mostly resident; some northern birds move south or to sheltered coasts in hard winters"
+    },
+    "hints": {
+      "region": "Found along clear waterways across Europe, Asia, and North Africa — look for a fast-moving electric-blue flash low over the water",
+      "size": "Surprisingly small — roughly sparrow-sized at 16–17 cm, though its vivid colour makes it appear larger",
+      "behavior": "Perches motionless on a branch above the water, then dives beak-first to catch fish, always returning to the same perch to stun and swallow its prey"
+    },
+    "funFact": "The Common Kingfisher's iridescent blue back feathers contain no blue pigment at all — the colour is produced entirely by the microscopic structure of the feather barbs scattering light.",
+    "ebirdUrl": "https://ebird.org/species/comkin1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/common-kingfisher"
+  },
+  {
+    "id": "northern-cardinal",
+    "commonName": "Northern Cardinal",
+    "scientificName": "Cardinalis cardinalis",
+    "regions": ["north-america"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Male_Northern_Cardinal_Broadside.jpg/800px-Male_Northern_Cardinal_Broadside.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Cardinalis cardinalis",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "About 21–23 cm — similar to an American Robin but slimmer",
+      "habitat": "Woodland edges, shrubby gardens, thickets, and hedgerows",
+      "diet": "Seeds, fruit, insects, and berries",
+      "migration": "Non-migratory; year-round resident"
+    },
+    "hints": {
+      "region": "Common across eastern and central North America, from southern Canada to northern Mexico; expanding its range northward",
+      "size": "About 22 cm long — comparable to a robin in length, with a prominent pointed crest",
+      "behavior": "Unlike most birds, female Northern Cardinals also sing — pairs often counter-sing to each other to communicate food needs or predator alerts"
+    },
+    "funFact": "The Northern Cardinal is the official state bird of seven US states — more than any other species.",
+    "ebirdUrl": "https://ebird.org/species/norcar",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/northern-cardinal"
+  },
+  {
+    "id": "emperor-penguin",
+    "commonName": "Emperor Penguin",
+    "scientificName": "Aptenodytes forsteri",
+    "regions": ["antarctica"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Georgia_Penguins.jpg/800px-South_Georgia_Penguins.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Aptenodytes forsteri",
+    "focalPoint": { "x": 0.5, "y": 0.4 },
+    "facts": {
+      "size": "100–130 cm tall — the tallest and heaviest penguin species",
+      "habitat": "Antarctic sea ice and surrounding Southern Ocean",
+      "diet": "Fish, squid, and krill caught by diving",
+      "migration": "Non-migratory; travels on foot or by swimming between feeding grounds and breeding colonies"
+    },
+    "hints": {
+      "region": "Lives on and around Antarctica — the only penguin species that breeds during the Antarctic winter",
+      "size": "The largest penguin — up to 130 cm tall and weighing up to 45 kg",
+      "behavior": "Males incubate a single egg on their feet through the brutal Antarctic winter, huddling in large groups, fasting for up to four months until the chick hatches"
+    },
+    "funFact": "Emperor Penguins can dive to depths of over 550 metres and hold their breath for more than 20 minutes — deeper and longer than any other bird.",
+    "ebirdUrl": "https://ebird.org/species/emppen1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/emperor-penguin"
+  },
+  {
+    "id": "ruby-throated-hummingbird",
+    "commonName": "Ruby-throated Hummingbird",
+    "scientificName": "Archilochus colubris",
+    "regions": ["north-america"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ruby-throated_hummingbird.jpg/800px-Ruby-throated_hummingbird.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Archilochus colubris",
+    "focalPoint": { "x": 0.5, "y": 0.45 },
+    "facts": {
+      "size": "About 8–9 cm — roughly the length of your thumb",
+      "habitat": "Open woodlands, forest edges, meadows, and gardens with flowering plants",
+      "diet": "Nectar from flowers and small insects for protein",
+      "migration": "Long-distance migrant — crosses the Gulf of Mexico non-stop to winter in Central America"
+    },
+    "hints": {
+      "region": "The only hummingbird that breeds in eastern North America; summers from Canada to the Gulf Coast, winters in Central America",
+      "size": "Tiny — about 8–9 cm, no longer than your thumb, and weighing less than a 5-cent coin",
+      "behavior": "Hovers in place by beating its wings up to 53 times per second; the only bird that can fly backwards and upside down"
+    },
+    "funFact": "Despite weighing just 3 grams, Ruby-throated Hummingbirds fly non-stop across the Gulf of Mexico — a 900 km journey — during migration.",
+    "ebirdUrl": "https://ebird.org/species/rthhum",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird"
+  },
+  {
+    "id": "sulphur-crested-cockatoo",
+    "commonName": "Sulphur-crested Cockatoo",
+    "scientificName": "Cacatua galerita",
+    "regions": ["australia"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cacatua_galerita_-Queensland_-Australia-8.jpg/800px-Cacatua_galerita_-Queensland_-Australia-8.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Cacatua galerita",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "44–55 cm — about the size of a large crow",
+      "habitat": "Forests, woodlands, and increasingly urban parks and gardens",
+      "diet": "Seeds, berries, nuts, roots, and leaf buds",
+      "migration": "Non-migratory; resident and wide-ranging"
+    },
+    "hints": {
+      "region": "Native to Australia and New Guinea; noisy flocks are a familiar sight across Australian cities and bushland",
+      "size": "About 50 cm — crow-sized — with a dramatic, fan-shaped yellow crest it raises when alarmed or excited",
+      "behavior": "Highly intelligent and social; known for making significant noise in large flocks at dawn and dusk, and for its ability to mimic speech in captivity"
+    },
+    "funFact": "Sulphur-crested Cockatoos can live for 70 years or more in captivity, making them a true lifetime commitment as a pet.",
+    "ebirdUrl": "https://ebird.org/species/sccoca1",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/sulphur-crested-cockatoo"
+  },
+  {
+    "id": "barn-owl",
+    "commonName": "Barn Owl",
+    "scientificName": "Tyto alba",
+    "regions": ["north-america", "europe", "australia"],
+    "globalPool": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tyto_alba_-_Vic%C3%AAnça.jpg/800px-Tyto_alba_-_Vic%C3%AAnça.jpg",
+    "audioUrl": "",
+    "xenoCantoQuery": "Tyto alba",
+    "focalPoint": { "x": 0.5, "y": 0.35 },
+    "facts": {
+      "size": "33–39 cm; wingspan 80–95 cm",
+      "habitat": "Open farmland, grassland, and woodland edges; often nests in old barns and church towers",
+      "diet": "Small mammals — especially voles, mice, and shrews",
+      "migration": "Mostly resident; a sedentary species rarely moving far from its territory"
+    },
+    "hints": {
+      "region": "One of the most widespread land birds on Earth — found on every continent except Antarctica and most of the Arctic",
+      "size": "Medium-sized owl — about 35 cm tall with a wingspan approaching a metre, but very lightweight at only 250–350 g",
+      "behavior": "Hunts entirely in darkness by sound — its asymmetric ear placement gives it the ability to locate prey with millimetre accuracy without any light at all"
+    },
+    "funFact": "The Barn Owl's heart-shaped facial disc acts like a satellite dish, channelling sound waves to its ears — its hearing is the most sensitive of any animal ever tested.",
+    "ebirdUrl": "https://ebird.org/species/brnowl",
+    "audubonUrl": "https://www.audubon.org/field-guide/bird/barn-owl"
+  }
+]

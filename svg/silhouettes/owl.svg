@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Owl silhouette">
+  <g fill="currentColor">
+    <rect x="48" y="172" width="104" height="6"/>
+    <!-- rounded upright body -->
+    <path d="M58 96 q0 -46 42 -46 q42 0 42 46 q0 76 -42 76 q-42 0 -42 -76 z"/>
+    <!-- ear tufts -->
+    <path d="M68 56 l-8 -22 20 12 z"/>
+    <path d="M132 56 l8 -22 -20 12 z"/>
+    <!-- talons -->
+    <rect x="86" y="168" width="6" height="10"/>
+    <rect x="108" y="168" width="6" height="10"/>
+  </g>
+</svg>

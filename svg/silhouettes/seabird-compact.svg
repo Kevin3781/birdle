@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Compact diving seabird silhouette">
+  <g fill="currentColor">
+    <rect x="56" y="166" width="88" height="6"/>
+    <!-- compact rounded body -->
+    <ellipse cx="96" cy="110" rx="36" ry="38"/>
+    <!-- head -->
+    <circle cx="120" cy="70" r="22"/>
+    <!-- large deep triangular bill -->
+    <path d="M138 58 q26 4 24 18 q-2 14 -26 12 q8 -16 2 -30 z"/>
+    <!-- short tail -->
+    <path d="M62 122 l-22 6 8 -16 z"/>
+    <!-- feet -->
+    <rect x="86" y="146" width="6" height="20"/>
+    <rect x="104" y="146" width="6" height="20"/>
+  </g>
+</svg>
