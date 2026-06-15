@@ -11,7 +11,7 @@ Usage:
   python scripts/fetch_credits.py --ids shoebill,american-robin
   python scripts/fetch_credits.py --all
 """
-import argparse, html, json, os, re, sys, urllib.parse, urllib.request
+import argparse, html, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -22,10 +22,23 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import birdle_lib as lib
 
 UA = {"User-Agent": "BirdleMediaBot/1.0 (credits/attribution)"}
+THROTTLE_SEC = 1.0      # polite delay between Commons API calls (avoid 429)
 
 
-def _get(url):
-    return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=25).read()
+def _get(url, retries=5):
+    # Commons 429s bursty clients under its robot policy — back off and retry.
+    req = urllib.request.Request(url, headers=UA)
+    for attempt in range(retries):
+        try:
+            return urllib.request.urlopen(req, timeout=25).read()
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries - 1:
+                wait = 5.0 * (attempt + 1)
+                print(f"      -> 429 from Commons, backing off {wait:.0f}s "
+                      f"(attempt {attempt + 1}/{retries})")
+                time.sleep(wait)
+                continue
+            raise
 
 
 def file_title_from_url(url):
@@ -92,6 +105,7 @@ def main():
     for b in birds:
         r = fetch_one(b)
         counts[r] = counts.get(r, 0) + 1
+        time.sleep(THROTTLE_SEC)
     print(f"\nDone: {counts}")
 
 

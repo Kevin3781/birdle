@@ -1,0 +1,362 @@
+{
+  "bullocks-oriole": {
+    "size": "Small songbird, slightly larger than a sparrow",
+    "habitat": "Open woodlands, riparian groves, and parklands of western North America",
+    "diet": "Insects, nectar, and fruit",
+    "migration": "Migratory; breeds in western North America and winters in Mexico and Central America"
+  },
+  "yellow-headed-blackbird": {
+    "size": "Medium-sized blackbird",
+    "habitat": "Freshwater marshes and wetlands with dense emergent vegetation",
+    "diet": "Seeds and insects; forages on the ground in fields and marshes",
+    "migration": "Migratory; breeds in western North America and winters in the southwestern US and Mexico"
+  },
+  "cactus-wren": {
+    "size": "Largest wren in the United States",
+    "habitat": "Desert scrub of the southwestern US and Mexico, especially among saguaro and cholla cactus",
+    "diet": "Primarily insects, supplemented by some plant matter; meets water needs from its food",
+    "migration": "Non-migratory; resident year-round in established territories"
+  },
+  "verdin": {
+    "size": "Very small songbird, smaller than a sparrow",
+    "habitat": "Desert scrub and thorny brush of the American Southwest and Mexico",
+    "diet": "Insects, spiders, and small berries gleaned from shrubs",
+    "migration": "Largely resident; does not migrate"
+  },
+  "phainopepla": {
+    "size": "Slender medium-small songbird, larger than a sparrow",
+    "habitat": "Desert scrub with mistletoe-laden trees, and oak woodlands in California",
+    "diet": "Primarily mistletoe berries; also catches insects in aerial sallies",
+    "migration": "Partially migratory; some populations move between desert and woodland habitats seasonally"
+  },
+  "vermilion-flycatcher": {
+    "size": "Small passerine bird",
+    "habitat": "Riparian areas, semi-open environments, and scrublands near water in southern North America and South America",
+    "diet": "Insectivorous; catches prey entirely in flight (aerial insectivore)",
+    "migration": "Mostly resident; northern populations may move short distances southward in winter"
+  },
+  "common-chaffinch": {
+    "size": "Small passerine bird",
+    "habitat": "Woodlands, gardens, parks, and open farmland across Europe and the Palearctic",
+    "diet": "Seeds outside breeding season; invertebrates, especially caterpillars, during breeding",
+    "migration": "Partial migrant; birds in warmer regions are sedentary, northern breeders winter further south"
+  },
+  "european-greenfinch": {
+    "size": "Small passerine bird",
+    "habitat": "Woodland edges, hedgerows, parks, and gardens across Europe, North Africa and Southwest Asia",
+    "diet": "Seeds and berries; particularly fond of sunflower seeds at garden feeders",
+    "migration": "Mainly resident; northern populations migrate south in winter"
+  },
+  "eurasian-bullfinch": {
+    "size": "Small passerine bird",
+    "habitat": "Woodland, scrub, orchards, and gardens across Europe and the Palearctic",
+    "diet": "Seeds, berries, and buds, especially fruit tree buds in spring",
+    "migration": "Largely resident; some northern birds move south in winter"
+  },
+  "common-linnet": {
+    "size": "Small passerine bird",
+    "habitat": "Open country with scrub, heathland, farmland, and hedgerows across Europe and Asia",
+    "diet": "Seeds, especially flax and hemp; named for its fondness for these plants",
+    "migration": "Partial migrant; northern and eastern populations move south and west in winter"
+  },
+  "eurasian-siskin": {
+    "size": "Small passerine bird",
+    "habitat": "Forested areas, both coniferous and mixed woodland, across Europe and Eurosiberia",
+    "diet": "Seeds of all kinds, especially alder and conifers; an acrobatic feeder that hangs upside down",
+    "migration": "Partially migratory; migrates south in large numbers in some years, driven by food availability"
+  },
+  "hawfinch": {
+    "size": "16.5–18 cm long; a large, bulky finch with a massive bill",
+    "habitat": "Deciduous or mixed woodland, including parkland, with large trees, especially hornbeam",
+    "diet": "Seeds and fruit kernels, especially cherry stones, cracked with its powerful bill",
+    "migration": "Mainly resident in Europe; many Asian birds migrate further south in winter"
+  },
+  "yellowhammer": {
+    "size": "Small bunting, about sparrow-sized",
+    "habitat": "Open areas with shrubs or trees, farmland, hedgerows, and woodland edges across Eurasia",
+    "diet": "Mainly seeds, supplemented by invertebrates during the breeding season",
+    "migration": "Mostly resident in western Europe; eastern populations partially migrate south in winter"
+  },
+  "common-reed-bunting": {
+    "size": "Small passerine bird, about sparrow-sized",
+    "habitat": "Reedbeds and wetland margins; also drier open areas such as moorland and arable fields",
+    "diet": "Seeds and invertebrates; shifts to insects during the breeding season",
+    "migration": "Partial migrant; most birds move south in winter, but southern and western birds are resident"
+  },
+  "eurasian-tree-sparrow": {
+    "size": "Small passerine bird, slightly smaller than a house sparrow",
+    "habitat": "Lightly wooded open countryside and farmland in Europe; towns and cities in eastern Asia",
+    "diet": "Mainly seeds; also invertebrates, particularly during the breeding season",
+    "migration": "Largely resident; some populations make short local movements in winter"
+  },
+  "coal-tit": {
+    "size": "Very small passerine bird, one of the smallest tits",
+    "habitat": "Forests, particularly coniferous woodland, throughout the temperate to subtropical Palearctic and North Africa",
+    "diet": "Insects and spiders; also seeds and caches food for winter",
+    "migration": "Largely resident; non-migratory throughout most of its range"
+  },
+  "long-tailed-tit": {
+    "size": "Small bird with a distinctively long tail; body very small, similar to a wren",
+    "habitat": "Deciduous and mixed woodlands, scrub, heathland, farmland, parks, and gardens across Eurasia",
+    "diet": "Insectivorous; feeds on insects, spiders, and other small invertebrates",
+    "migration": "Resident; largely non-migratory, forming roving family flocks in winter"
+  },
+  "dunnock": {
+    "size": "Small passerine bird, about sparrow-sized",
+    "habitat": "Hedgerows, gardens, woodland edges, and scrub throughout temperate Europe and into Asian Russia",
+    "diet": "Insects, worms, and small seeds gleaned from the ground",
+    "migration": "Largely resident across most of its range; some northern birds may move short distances"
+  },
+  "song-thrush": {
+    "size": "Medium-small thrush with brown upperparts and spotted underparts",
+    "habitat": "Forests, gardens, and parks across the West Palearctic",
+    "diet": "Omnivorous; earthworms, snails (broken on an anvil stone), insects, and berries",
+    "migration": "Partially migratory; many birds winter in southern Europe, North Africa, and the Middle East"
+  },
+  "mistle-thrush": {
+    "size": "Large thrush; the largest thrush in Europe",
+    "habitat": "Open woods, parks, hedges, and cultivated land across Europe, temperate Asia, and North Africa",
+    "diet": "Wide variety of invertebrates, seeds, and berries, especially mistletoe, holly, rowan, and yew",
+    "migration": "Mostly resident; northern and eastern populations migrate south in winter"
+  },
+  "redwing": {
+    "size": "Small thrush, slightly smaller than the song thrush",
+    "habitat": "Woodland, farmland, and open ground; breeds in northern Eurasia, winters further south",
+    "diet": "Earthworms, insects, and berries, especially in winter",
+    "migration": "Strongly migratory; breeds in northern Europe and the Palearctic, winters in western and southern Europe"
+  },
+  "fieldfare": {
+    "size": "25 cm (10 in) long; a large, robust thrush",
+    "habitat": "Woodland and scrub for breeding in northern Europe and the Palearctic; open fields and farmland in winter",
+    "diet": "Omnivorous; molluscs, insects, and earthworms in summer; berries, grain, and seeds in winter",
+    "migration": "Strongly migratory; breeds in northern Europe, winters in western Europe, North Africa, and the Middle East"
+  },
+  "european-pied-flycatcher": {
+    "size": "Small passerine bird",
+    "habitat": "Deciduous woodland, particularly oak woods, across Europe and the Western Palearctic",
+    "diet": "Mainly insectivorous; catches caterpillars, flies, spiders, ants, and bees",
+    "migration": "Migratory; breeds in Europe and winters mainly in tropical Africa"
+  },
+  "common-nightingale": {
+    "size": "Small passerine bird, slightly larger than a robin",
+    "habitat": "Dense thickets, woodland undergrowth, and scrub across Europe and into Asia",
+    "diet": "Insects, worms, and berries foraged on or near the ground",
+    "migration": "Migratory; breeds in Europe and western Asia, winters in sub-Saharan Africa"
+  },
+  "black-redstart": {
+    "size": "Small passerine bird, similar in size to a robin",
+    "habitat": "Rocky habitats, cliffs, and built-up areas across Eurasia and North Africa",
+    "diet": "Insects, spiders, and small berries; forages on the ground and from low perches",
+    "migration": "Partial migrant; resident in milder parts, northern and eastern birds migrate south in winter"
+  },
+  "common-redstart": {
+    "size": "Small passerine bird, similar in size to a robin",
+    "habitat": "Open woodland, parks, old orchards, and gardens across Europe and into Asia",
+    "diet": "Insects, spiders, and small berries; forages on the ground and in trees",
+    "migration": "Migratory; breeds in Europe and western Asia, winters in sub-Saharan Africa"
+  },
+  "european-stonechat": {
+    "size": "Small passerine bird, slightly smaller than a robin",
+    "habitat": "Heathland, gorse, scrub, and rough grassland across Europe and parts of North Africa",
+    "diet": "Insects, worms, and small berries; hunts from exposed perches",
+    "migration": "Partial migrant; some populations resident year-round, others move south in winter"
+  },
+  "northern-wheatear": {
+    "size": "Small passerine bird",
+    "habitat": "Open stony country, moorland, tundra, and rocky slopes across Europe, Asia, and parts of North America",
+    "diet": "Insectivorous; feeds on insects, spiders, and other small invertebrates on the ground",
+    "migration": "Strongly migratory; all populations winter in Africa"
+  },
+  "common-house-martin": {
+    "size": "Small swallow-family bird",
+    "habitat": "Open country and near human habitation across Europe, North Africa, and west-central Asia",
+    "diet": "Insectivorous; catches flying insects entirely in the air",
+    "migration": "Migratory; breeds in Europe and winters in sub-Saharan Africa and southwestern Asia"
+  },
+  "sand-martin": {
+    "size": "Small swallow-family bird, one of the smallest in its family",
+    "habitat": "Open country near rivers, lakes, and sand banks across the Holarctic; nests in burrows in sandy cliffs",
+    "diet": "Insectivorous; catches small flying insects in the air over water",
+    "migration": "Migratory; breeds across the Holarctic and winters in eastern and southern Africa, southern Asia, and South America"
+  },
+  "common-swift": {
+    "size": "Medium-sized bird, somewhat larger than a barn swallow",
+    "habitat": "Aerial; breeds near buildings and cliffs in towns and villages across Europe and Asia",
+    "diet": "Insectivorous; catches all food in the air; feeds on flying insects and airborne spiders",
+    "migration": "Migratory; spends winter in sub-Saharan Africa; non-breeding birds may remain in continuous flight for up to ten months"
+  },
+  "white-wagtail": {
+    "size": "Small passerine bird",
+    "habitat": "Open country, often near habitation and water; forages on bare ground and paved areas",
+    "diet": "Insectivorous; catches insects and other invertebrates on the ground",
+    "migration": "Partial migrant; resident in mildest parts of range, otherwise migrates to Africa"
+  },
+  "grey-wagtail": {
+    "size": "Around 18–19 cm overall length",
+    "habitat": "Always associated with running water when breeding; also lakes, coasts, and other watery habitats outside breeding season",
+    "diet": "Insects and other invertebrates caught near water",
+    "migration": "Partially migratory; several populations migrate to tropical Asia and Africa in winter"
+  },
+  "yellow-wagtail": {
+    "size": "15–16 cm long; slender with a long, constantly wagging tail",
+    "habitat": "Open country near water, wet meadows, and damp grassland across temperate Europe and Asia",
+    "diet": "Insectivorous; catches insects on the ground and in low vegetation",
+    "migration": "Mostly migratory; winters in tropical Africa and southern Asia; small Egyptian population is resident"
+  },
+  "meadow-pipit": {
+    "size": "Small passerine bird",
+    "habitat": "Open grassland, moorland, tundra, and upland areas across the Palearctic",
+    "diet": "Insects and other invertebrates; some seeds, especially in winter",
+    "migration": "Migratory over most of its range; winters in southern Europe, North Africa, and southwestern Asia; resident in western Europe"
+  },
+  "eurasian-skylark": {
+    "size": "Small passerine bird, streaked greyish-brown with a buff-white belly",
+    "habitat": "Open farmland, heathland, and grassland across Europe and the Palearctic",
+    "diet": "Seeds, leaves, and invertebrates; forages entirely on the ground",
+    "migration": "Partial migrant; many birds move south or to lower ground in winter"
+  },
+  "common-starling": {
+    "size": "About 20 cm (8 in) long; medium-sized passerine with glossy black, speckled plumage",
+    "habitat": "Open habitats, farmland, woodland, and urban areas across temperate Europe and the Palearctic",
+    "diet": "Omnivorous; invertebrates, seeds, and fruit",
+    "migration": "Resident in western and southern Europe; northeastern populations migrate south and west in winter"
+  },
+  "eurasian-magpie": {
+    "size": "Medium-large corvid; one of Europe's largest passerines",
+    "habitat": "Farmland, woodland edges, parks, and urban areas throughout northern Eurasia",
+    "diet": "Omnivorous; insects, worms, seeds, carrion, eggs, and nestlings",
+    "migration": "Resident; non-migratory throughout its range"
+  },
+  "western-jackdaw": {
+    "size": "34–39 cm (13–15 in) in length; a small crow",
+    "habitat": "Farmland, open woodland, coastal cliffs, and urban settings across Europe, western Asia, and western North Africa",
+    "diet": "Omnivorous; plant material, invertebrates, and food waste from urban areas",
+    "migration": "Mostly resident; northern and eastern populations migrate south in winter"
+  },
+  "carrion-crow": {
+    "size": "Medium-large corvid, larger and stockier than the American crow",
+    "habitat": "Wide variety of habitats including farmland, woodland, coasts, and urban areas across western Europe and eastern Palearctic",
+    "diet": "Omnivorous; carrion, invertebrates, eggs, seeds, and refuse",
+    "migration": "Largely resident; non-migratory across most of its range"
+  },
+  "common-wood-pigeon": {
+    "size": "Large pigeon, the largest pigeon in Europe",
+    "habitat": "Farmland, woodland, parks, and gardens across the western Palearctic",
+    "diet": "Mainly plant material, including cereals, leaves, seeds, and berries",
+    "migration": "Largely resident in western Europe; some northern birds move south in winter"
+  },
+  "eurasian-collared-dove": {
+    "size": "Medium-sized dove, larger than a turtle dove",
+    "habitat": "Urban and suburban areas, farmland, and gardens across Europe, Asia, and northern Africa",
+    "diet": "Mainly seeds and grain; also berries and some invertebrates",
+    "migration": "Largely resident; non-migratory following its remarkable 20th-century range expansion"
+  },
+  "european-turtle-dove": {
+    "size": "Small dove, the smallest European dove",
+    "habitat": "Woodland edges, scrub, hedgerows, and farmland across the southwestern Palearctic and North Africa",
+    "diet": "Primarily seeds; forages on the ground in fields and woodland clearings",
+    "migration": "Migratory; breeds in Europe and North Africa, winters in northern sub-Saharan Africa"
+  },
+  "common-cuckoo": {
+    "size": "Medium-sized bird, similar in size to a collared dove",
+    "habitat": "Wide variety of open habitats including woodland, moorland, marshes, and farmland across Europe and Asia",
+    "diet": "Insects, especially hairy caterpillars that most birds avoid",
+    "migration": "Migratory; breeds in Europe and Asia, winters in Africa"
+  },
+  "great-spotted-woodpecker": {
+    "size": "Medium-sized woodpecker; pied black and white with a red belly patch",
+    "habitat": "All types of woodland across the Palearctic including parts of North Africa",
+    "diet": "Seeds (especially pine cone kernels), insect larvae excavated from wood, and occasionally eggs and chicks of other birds",
+    "migration": "Mostly resident; some northern birds irrupt southward if conifer cone crop fails"
+  },
+  "european-green-woodpecker": {
+    "size": "Large woodpecker with vivid green plumage and a bright red crown",
+    "habitat": "Open woodland, parkland, orchards, and grassland with nearby trees across Europe and western Palearctic",
+    "diet": "Primarily ants and their larvae dug from the ground with its long tongue; rarely drums on trees",
+    "migration": "Resident; non-migratory throughout its range"
+  },
+  "eurasian-wryneck": {
+    "size": "About 16–18 cm (6.3–7.1 in) in length; a small, cryptically-patterned woodpecker relative",
+    "habitat": "Open countryside, woodland, and orchards across temperate Europe and Asia; also in northwestern Africa",
+    "diet": "Primarily ants and other insects found in decaying wood or on the ground",
+    "migration": "Mostly migratory; winters in tropical Africa and southern Asia; some populations resident in northwestern Africa"
+  },
+  "european-bee-eater": {
+    "size": "Medium-sized, vividly coloured bird",
+    "habitat": "Open country with bare sandy banks for nesting, and open woodland across southern Europe, North Africa, and western Asia",
+    "diet": "Bees, wasps, and other large flying insects; removes stings before swallowing prey",
+    "migration": "Strongly migratory; breeds in southern Europe and Asia, winters in tropical Africa"
+  },
+  "european-roller": {
+    "size": "Medium-sized, stocky bird with brilliant blue and chestnut plumage",
+    "habitat": "Open country with trees, woodland edges, and dry savanna; avoids treeless plains",
+    "diet": "Large insects, small reptiles, frogs, and rodents caught on the ground",
+    "migration": "Migratory; breeds across Europe, the Maghreb, and central Asia, winters in southern Africa"
+  },
+  "eurasian-hoopoe": {
+    "size": "Distinctive medium-sized bird with a tall erectile crest and a long narrow downcurved bill",
+    "habitat": "Open countryside, orchards, olive groves, and parkland across Europe, Asia, and Africa",
+    "diet": "Insects, larvae, and small reptiles probed from the ground with its long bill",
+    "migration": "Migratory in the northern part of its range; resident in Africa and southern parts of its range"
+  },
+  "common-pheasant": {
+    "size": "Large gamebird; males are much larger than females with a long tail",
+    "habitat": "Woodland edges, farmland, and scrub; native to Asia, widely introduced as a gamebird worldwide",
+    "diet": "Seeds, berries, insects, and small vertebrates; forages on the ground",
+    "migration": "Largely resident; does not migrate"
+  },
+  "grey-partridge": {
+    "size": "Medium-sized, rotund gamebird",
+    "habitat": "Open farmland, grassland, and hedgerows across Europe and the Palearctic",
+    "diet": "Seeds, leaves, and invertebrates; insects are especially important for chicks",
+    "migration": "Resident; non-migratory"
+  },
+  "red-legged-partridge": {
+    "size": "Medium-sized, rotund gamebird with distinctive red legs and bill",
+    "habitat": "Open farmland, scrub, and stony hillsides across southwestern Europe and northern Africa",
+    "diet": "Seeds and plant material; young birds especially take insects for protein",
+    "migration": "Resident; non-migratory"
+  },
+  "common-quail": {
+    "size": "Small ground-nesting gamebird; the smallest European galliform",
+    "habitat": "Open farmland, grassland, and cereal fields across Europe and North Africa",
+    "diet": "Seeds, leaves, and invertebrates foraged from the ground",
+    "migration": "Mainly migratory; breeds in the western Palearctic and winters in Africa and southern India"
+  },
+  "western-capercaillie": {
+    "size": "Largest of all extant grouse species; males nearly twice the size of females",
+    "habitat": "Dense coniferous and mixed forest across Europe and the Palearctic",
+    "diet": "Pine needles, buds, berries, seeds, and invertebrates; diet shifts seasonally",
+    "migration": "Largely resident; a ground-dwelling forest species that does not migrate"
+  },
+  "eurasian-woodcock": {
+    "size": "Medium-small wading bird with cryptic reddish-brown plumage",
+    "habitat": "Damp woodland with thick leaf litter across temperate and subarctic Eurasia",
+    "diet": "Earthworms and invertebrates probed from soft ground with its long sensitive bill",
+    "migration": "Partial migrant; northern populations move south and west to milder areas in winter"
+  },
+  "northern-lapwing": {
+    "size": "Medium-sized wading bird with distinctive crest and broad rounded wings",
+    "habitat": "Open farmland, wet meadows, moorland, and estuaries across temperate Eurosiberia",
+    "diet": "Invertebrates, especially earthworms and insects, foraged from the ground",
+    "migration": "Partial migrant; northern and eastern birds move south and west in winter"
+  },
+  "european-golden-plover": {
+    "size": "Relatively large plover; larger than American and Pacific golden plovers",
+    "habitat": "Upland moorland and tundra for breeding; lowland farmland and grassland in winter",
+    "diet": "Invertebrates, especially earthworms and insects; also some berries and seeds",
+    "migration": "Migratory; breeds on northern moorland and tundra, winters on lower farmland and coasts further south"
+  },
+  "common-redshank": {
+    "size": "Medium-sized wading bird with distinctive red legs and bill base",
+    "habitat": "Wet meadows, saltmarshes, estuaries, and mudflats across Eurasia",
+    "diet": "Invertebrates including worms, crustaceans, and insects probed from mud and shallow water",
+    "migration": "Partial migrant; northern populations move to coasts and south in winter"
+  },
+  "black-tailed-godwit": {
+    "size": "Large, long-legged, long-billed shorebird",
+    "habitat": "Breeds in fens, lake edges, damp meadows, moorlands, and bogs; winters on estuaries, swamps, and flooded areas",
+    "diet": "Invertebrates, worms, and aquatic prey probed from mud with its long bill",
+    "migration": "Strongly migratory; breeds from Iceland across Europe and central Asia, winters across the Indian subcontinent, Australia, and West Africa"
+  }
+}

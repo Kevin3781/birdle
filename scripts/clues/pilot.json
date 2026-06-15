@@ -1,0 +1,62 @@
+{
+  "mute-swan": {
+    "region": "Native to much of Europe and parts of Asia, this species has also been introduced to North America, Australasia, and southern Africa, where it now holds its largest populations outside its native range.",
+    "behavior": "Less vocal than its relatives, it is most recognisable by the pronounced knob atop its orange beak — larger in males — and its wholly white plumage on the water.",
+    "funFact": "The Mute Swan's common name is a bit misleading — while quieter than other swans, it is not truly silent, and can hiss aggressively when threatened."
+  },
+  "common-loon": {
+    "region": "Breeds on lakes and waterways across Canada, the northern United States, and parts of Greenland and Iceland; winters on both coasts of North America and the Atlantic coast of Europe, ranging as far south as Mexico.",
+    "behavior": "An accomplished diver that catches fish, crustaceans, and molluscs underwater, swallowing most prey beneath the surface; chicks can dive within days of hatching and are fed by both parents.",
+    "funFact": "The Common Loon is so iconic in Canada that it appears on the one-dollar coin — nicknamed the 'loonie' — and has given that coin its popular name."
+  },
+  "american-crow": {
+    "region": "Found throughout most of North America, absent only from the arctic tundra; highly adaptable to urban and suburban environments across a vast range.",
+    "behavior": "An omnivore that eats insects, seeds, nuts, and small animals, and occasionally carrion; its high intelligence and adaptability to human environments make it one of the most versatile foragers on the continent.",
+    "funFact": "The American Crow is a useful bioindicator for West Nile virus — its widespread susceptibility to the disease helps scientists track the virus's geographic spread in real time."
+  },
+  "eurasian-nuthatch": {
+    "region": "Found across the Palearctic and throughout Europe, preferring mature deciduous or mixed woodland with large, old trees — especially oak — where pairs hold permanent year-round territories.",
+    "behavior": "Uniquely able to forage head-first down tree trunks as well as upward, it probes bark for insects and beetles, and hoards surplus food year-round; if a nest hole is too large, the female plasters the entrance with mud to shrink it.",
+    "funFact": "The Eurasian Nuthatch is one of the very few birds that can run headfirst down a tree trunk — a skill it uses to find food that upward-climbing birds miss entirely."
+  },
+  "eurasian-treecreeper": {
+    "region": "Widespread across the Palearctic, it inhabits woodlands of all kinds; in western Europe, where it overlaps with the short-toed treecreeper, it tends to favour coniferous forests or higher altitudes.",
+    "behavior": "Climbing tree trunks in a mouse-like spiral, it probes bark crevices with its fine curved bill for insects, then drops to the base of a neighbouring tree and starts again; solitary in winter, it may join communal roosts in cold weather.",
+    "funFact": "The Eurasian Treecreeper has a particular fondness for nesting behind the loose bark of introduced giant sequoias — a tree it never evolved alongside, yet exploits perfectly."
+  },
+  "winter-wren": {
+    "region": "Breeds in coniferous forests from British Columbia east to the Atlantic, then migrates through and winters across southeastern Canada and the eastern half of the United States.",
+    "behavior": "Almost exclusively a ground-gleaner, this tiny bird forages in thick underbrush and dark forest floors, creeping through cavities and dense vegetation in search of insects.",
+    "funFact": "The Winter Wren's genus name Troglodytes means 'cave-dweller' in Greek — a nod to its habit of creeping into holes and dense cover as if disappearing underground."
+  },
+  "sarus-crane": {
+    "region": "A non-migratory species of open wetlands in the Indian subcontinent, seasonally flooded forests in Southeast Asia, and Eucalyptus-dominated grasslands in northern Australia.",
+    "behavior": "It forages in marshes and shallow wetlands for roots, tubers, insects, crustaceans, and small vertebrates; pairs perform elaborate courtship displays of loud trumpeting, high leaps, and coordinated dance-like movements.",
+    "funFact": "The Sarus Crane is the tallest flying bird on Earth — standing up to 1.8 metres — and in India is revered as a symbol of lifelong marital fidelity, with legend holding that a widowed bird will pine to death."
+  },
+  "demoiselle-crane": {
+    "region": "Breeds across central Eurosiberia from the Black Sea through Mongolia to northeast China, with a small population in Turkey; western birds winter in Africa while Asian populations winter on the Indian subcontinent.",
+    "behavior": "A migratory crane that undertakes long seasonal journeys between its breeding and wintering grounds, making it notable among cranes for the scale of its annual movements.",
+    "funFact": "The Demoiselle Crane holds deep cultural significance in India, where it is known as koonj or kurjaa and has inspired poetry and folk songs for centuries."
+  },
+  "black-headed-ibis": {
+    "region": "Breeds across South and Southeast Asia from India to Japan, foraging in a wide range of wetland and man-made habitats; nesting is timed exclusively to the rainy season.",
+    "behavior": "Though closely associated with wetlands, this species forages opportunistically across both natural and agricultural landscapes, probing with its long down-curved black bill; it is the only ibis in its range with predominantly white plumage.",
+    "funFact": "The Black-headed Ibis is known by several names — Oriental white ibis, Indian white ibis, and black-necked ibis — reflecting just how widely it is recognised across its vast Asian range."
+  },
+  "indian-white-eye": {
+    "region": "A resident breeder in open woodland across the Indian subcontinent, recently redefined to exclude Southeast Asian populations that were reclassified as a separate species.",
+    "behavior": "Forages in small, active groups, feeding on nectar and small insects; its distinctive white eye-ring and yellowish upperparts make it easy to spot among foliage.",
+    "funFact": "The Indian White-eye's scientific name and common name were both recently updated after DNA analysis revealed that what was once one wide-ranging species was actually multiple distinct species."
+  },
+  "pheasant-tailed-jacana": {
+    "region": "Found in tropical Asia from Yemen east to the Philippines, inhabiting shallow lakes with floating vegetation; it moves seasonally within its range and is the only jacana known to migrate long distances.",
+    "behavior": "It walks directly on floating lily pads and aquatic plants using its extraordinarily elongated toes and nails, foraging for invertebrates; females are larger than males and are polyandrous, leaving multiple males to incubate and raise their separate clutches.",
+    "funFact": "The Pheasant-tailed Jacana is the only jacana species that sports completely different breeding and non-breeding plumages — the long, sweeping tail feathers that give it its name appear only in the breeding season."
+  },
+  "crested-caracara": {
+    "region": "Native to the southern and southeastern United States south through Mexico and the majority of mainland Latin America, reaching as far as Tierra del Fuego; highly adaptable to deserts, coasts, tropical forests, plains, swamps, and even cities.",
+    "behavior": "A versatile opportunist in the falcon family, it exploits an unusually wide range of habitats and food sources — an adaptability rare among raptors.",
+    "funFact": "Despite being a falcon, the Crested Caracara behaves more like a vulture in many respects — walking on the ground, scavenging carrion, and even displacing vultures from carcasses — making it one of the most ecologically unusual raptors in the Americas."
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "eurasian-curlew": {
+    "size": "Large wader; one of the largest in its family, with a notably long downcurved bill",
+    "habitat": "Breeds on moorlands and grasslands; winters on estuaries, mudflats, and coastal wetlands",
+    "diet": "Invertebrates including worms, crustaceans, and molluscs probed from mud and soil",
+    "migration": "Partially migratory; northern breeders move to coasts and southern Europe or Africa in winter"
+  },
+  "pied-avocet": {
+    "size": "About 40 cm long; wingspan around 70 cm",
+    "habitat": "Coastal lagoons, saltmarshes, mudflats, and estuaries",
+    "diet": "Aquatic invertebrates swept from water or mudflats with its distinctive upturned bill",
+    "migration": "Partially migratory; northern populations winter in southern Europe or Africa, others are resident"
+  },
+  "eurasian-oystercatcher": {
+    "size": "Large, stocky wader with a long orange-red bill; sexes similar but female's bill is longer",
+    "habitat": "Coastal shores, estuaries, and increasingly inland rivers and farmland",
+    "diet": "Bivalves (especially mussels and oysters), worms, and other invertebrates",
+    "migration": "Partially migratory; many western European birds are resident, others move south in winter"
+  },
+  "grey-heron": {
+    "size": "Up to 1 m tall; adults weigh 1–2 kg",
+    "habitat": "Lakes, rivers, ponds, marshes, and sea coasts across temperate Europe, Asia, and Africa",
+    "diet": "Mostly aquatic prey — fish, frogs, and small mammals caught by standing still or stalking in shallows",
+    "migration": "Largely resident; northern populations migrate south in autumn"
+  },
+  "little-egret": {
+    "size": "Small heron; slender and white with a black bill and long black legs",
+    "habitat": "Wetlands, waterways, and shorelines in warm temperate to tropical regions",
+    "diet": "Small fish, amphibians, insects, and other aquatic invertebrates caught in shallow water",
+    "migration": "Partially migratory; northern European birds winter in Africa or southern Asia; southern birds largely resident"
+  },
+  "eurasian-bittern": {
+    "size": "Large, stocky heron-like bird with cryptic brown streaked plumage",
+    "habitat": "Reed beds and thick vegetation bordering lakes, rivers, and marshes",
+    "diet": "Fish, amphibians, small mammals, fledgling birds, crustaceans, and insects",
+    "migration": "Partially migratory; some northern birds move south in winter, but many are largely resident"
+  },
+  "eurasian-spoonbill": {
+    "size": "Large wading bird with a distinctive spatula-shaped bill; all-white plumage",
+    "habitat": "Shallow wetlands, estuaries, lagoons, and mudflats across Europe, Africa, and Asia",
+    "diet": "Small fish, crustaceans, and aquatic invertebrates swept up with its spoon-shaped bill",
+    "migration": "Partially migratory; northerly breeding populations migrate south for winter"
+  },
+  "common-crane": {
+    "size": "Medium-sized crane; one of the tallest birds regularly seen in Europe",
+    "habitat": "Breeds in bogs, wet forests, and marshes; winters on farmland, open fields, and wetlands",
+    "diet": "Omnivorous — seeds, roots, grain, insects, small vertebrates, and invertebrates",
+    "migration": "Strongly migratory; European birds winter in Spain, North Africa, and the Middle East"
+  },
+  "eurasian-coot": {
+    "size": "Medium-sized waterbird with slaty-black body, white bill, and white frontal shield",
+    "habitat": "Lakes, ponds, reservoirs, slow rivers, and marshes across Europe, Asia, and Australasia",
+    "diet": "Aquatic plants, algae, seeds, and invertebrates; dives and grazes on land",
+    "migration": "Largely resident over most of range; northern birds move south or west in hard winters"
+  },
+  "common-moorhen": {
+    "size": "Medium-sized rail; smaller than the Eurasian coot, with red-and-yellow bill",
+    "habitat": "Well-vegetated marshes, ponds, canals, rivers, and other wetlands",
+    "diet": "Omnivorous — plants, seeds, insects, worms, and small invertebrates",
+    "migration": "Largely resident across most of range; some northern populations move south in winter"
+  },
+  "great-crested-grebe": {
+    "size": "Largest grebe in Europe; long neck, distinctive orange-brown and black breeding plumage",
+    "habitat": "Lakes, reservoirs, and large slow-moving rivers; coastal waters in winter",
+    "diet": "Primarily fish, caught by diving; also amphibians and aquatic invertebrates",
+    "migration": "Partially migratory; inland breeders move to coasts or ice-free lakes in winter"
+  },
+  "whooper-swan": {
+    "size": "Large northern swan; one of the heaviest flying birds",
+    "habitat": "Breeds on subarctic lakes, rivers, and marshes; winters on wetlands, flooded fields, and estuaries",
+    "diet": "Aquatic plants, grasses, grain, and agricultural crops",
+    "migration": "Strongly migratory; breeds in Iceland, Scandinavia, and Siberia; winters in Western Europe and East Asia"
+  },
+  "greylag-goose": {
+    "size": "74–91 cm long; average weight about 3.3 kg",
+    "habitat": "Moorlands, marshes, lake shores, coastal islands; winters on estuaries, marshes, and flooded fields",
+    "diet": "Grasses, roots, grain, and agricultural crops",
+    "migration": "Partially migratory; northern populations migrate south in autumn, many southern birds are resident year-round"
+  },
+  "barnacle-goose": {
+    "size": "Medium-sized black goose with white face; smaller than the greylag goose",
+    "habitat": "Breeds on Arctic cliffs and islands; winters on coastal grasslands and salt marshes",
+    "diet": "Grasses, clover, and other short vegetation grazed on coastal and inland fields",
+    "migration": "Strongly migratory; breeds in Greenland, Svalbard, and Siberia; winters in western Europe"
+  },
+  "brent-goose": {
+    "size": "Small, compact goose — one of the smallest in the genus Branta",
+    "habitat": "Breeds on high-Arctic tundra; winters on temperate sea coasts, estuaries, and coastal grasslands",
+    "diet": "Eel-grass and other coastal vegetation; also grazes on salt marshes and fields",
+    "migration": "Strongly migratory; breeds in high-Arctic tundra, winters on temperate sea coasts"
+  },
+  "common-shelduck": {
+    "size": "Large, boldly patterned duck with chestnut breast band and red bill",
+    "habitat": "Coasts, estuaries, saline pools, and salt lakes; increasingly on inland freshwater",
+    "diet": "Small invertebrates, molluscs, and algae filtered from mud and shallow water",
+    "migration": "Partially migratory; many birds moult-migrate to Heligoland Bight; others are largely resident"
+  },
+  "eurasian-wigeon": {
+    "size": "Medium-sized dabbling duck; male has chestnut head and cream forehead",
+    "habitat": "Breeds on lakes and bogs in northern Eurasia; winters on coastal marshes, estuaries, and flooded fields",
+    "diet": "Primarily grasses and aquatic plants; grazes on land and dabbles in shallow water",
+    "migration": "Migratory; breeds in northern Eurasia, winters across Western Europe, Africa, and southern Asia"
+  },
+  "common-teal": {
+    "size": "Small dabbling duck; one of the smallest ducks in its range",
+    "habitat": "Sheltered wetlands, marshes, shallow lakes, and rivers with dense vegetation",
+    "diet": "Seeds and aquatic invertebrates obtained by dabbling in shallow water",
+    "migration": "Strongly migratory; breeds in temperate Eurasia, migrates south in winter"
+  },
+  "tufted-duck": {
+    "size": "Small diving duck with a distinctive drooping crest; population of nearly one million birds",
+    "habitat": "Lakes, reservoirs, and slow rivers in northern Eurasia; also coastal bays in winter",
+    "diet": "Molluscs, aquatic insects, and plant matter obtained by diving",
+    "migration": "Partially migratory; northern birds move south or west in winter"
+  },
+  "common-pochard": {
+    "size": "Medium-sized diving duck; male has chestnut head and grey body",
+    "habitat": "Breeds on steppe lakes and Scandinavian waters; winters on large lakes, reservoirs, and estuaries",
+    "diet": "Aquatic plants, molluscs, and invertebrates obtained by diving",
+    "migration": "Migratory; breeds in Scandinavia and Siberia, winters farther south and west in Europe"
+  },
+  "common-eider": {
+    "size": "50–71 cm long; large sea-duck, one of the heaviest ducks in its range",
+    "habitat": "Arctic and northern temperate coasts; breeds close to the sea, winters on coastal waters",
+    "diet": "Molluscs, crustaceans, and other marine invertebrates obtained by diving",
+    "migration": "Partially migratory; breeds in the Arctic, winters somewhat farther south on temperate coasts"
+  },
+  "red-breasted-merganser": {
+    "size": "Medium-sized diving duck with a serrated bill and, in males, a red-brown breast in breeding plumage",
+    "habitat": "Breeds on lakes and rivers; winters mostly on coastal saltwater bays and estuaries",
+    "diet": "Fish caught underwater using serrated bills; dives from the surface to pursue prey",
+    "migration": "Migratory; moves from inland breeding lakes and rivers to coastal wintering areas each year"
+  },
+  "goosander": {
+    "size": "Large sea duck; the largest species of merganser",
+    "habitat": "Rivers and lakes in forested areas of Europe, Asia, and North America",
+    "diet": "Mainly fish, caught by diving; nests in holes in riverside trees",
+    "migration": "Partially migratory; some birds move to lower-altitude or coastal waters in winter"
+  },
+  "white-tailed-eagle": {
+    "size": "Large eagle; one of the largest in Eurasia with a very broad wingspan",
+    "habitat": "Coastal areas, large rivers, lakes, wetlands, and bogs; requires old-growth trees or cliffs for nesting",
+    "diet": "Fish and water birds primarily; also mammals and carrion as an opportunistic predator and scavenger",
+    "migration": "Largely resident; some northern or eastern birds move south in winter"
+  },
+  "western-marsh-harrier": {
+    "size": "Large harrier; the heaviest and biggest of the European harriers",
+    "habitat": "Reed beds, marshes, and wetlands of temperate and subtropical western Eurasia and Africa",
+    "diet": "Small birds, mammals, frogs, and other wetland prey caught in low hunting flights over reedbeds",
+    "migration": "Largely migratory; most birds migrate south to Africa for winter; North African race is resident"
+  },
+  "eurasian-sparrowhawk": {
+    "size": "Small bird of prey; female up to 25% larger than male — one of the greatest size differences in any bird",
+    "habitat": "Woodland of any type for breeding; also hunts in gardens and urban areas",
+    "diet": "Woodland birds — males take small birds like tits and finches; females take thrushes and starlings up to 500 g",
+    "migration": "Partially migratory; northern birds migrate south in winter, southern birds are largely resident"
+  },
+  "northern-goshawk": {
+    "size": "Medium-large raptor; the largest accipiter in its range",
+    "habitat": "Temperate forests across Eurasia; mostly found in mature woodland",
+    "diet": "Birds and mammals up to the size of hares and pheasants, caught in rapid woodland pursuits",
+    "migration": "Mainly resident; birds from colder northern regions migrate south for the winter"
+  },
+  "common-buzzard": {
+    "size": "Medium-sized raptor; the most abundant diurnal bird of prey in Europe",
+    "habitat": "Most habitats with trees for nesting, including woodland, farmland, and upland areas",
+    "diet": "Mostly small mammals, especially voles and rabbits; also birds, amphibians, and carrion",
+    "migration": "Largely resident over much of range; birds from colder northern and eastern areas migrate south in winter"
+  },
+  "red-kite": {
+    "size": "Medium-large raptor with a distinctive forked tail and rufous-brown plumage",
+    "habitat": "Woodland, farmland, and open country across Europe; often seen in hilly areas",
+    "diet": "Carrion, earthworms, small mammals, and birds; an opportunistic and partly scavenging raptor",
+    "migration": "Partially migratory; western birds historically resident, northern mainland European birds winter farther south"
+  },
+  "common-kestrel": {
+    "size": "Small falcon, roughly pigeon-sized; known for its distinctive hovering flight",
+    "habitat": "Open and semi-open country — farmland, roadsides, moorland, and urban areas across Europe, Asia, and Africa",
+    "diet": "Small mammals (especially voles), large insects, and occasionally small birds spotted from a hover",
+    "migration": "Partially migratory; northern and eastern birds move south in winter; many western European birds are resident"
+  },
+  "eurasian-hobby": {
+    "size": "Small, slim falcon; roughly the size of a Eurasian kestrel but more streamlined",
+    "habitat": "Open woodland, heathland, farmland with scattered trees, and wetland edges",
+    "diet": "Large flying insects (dragonflies, beetles) and small birds including swallows and swifts, caught in aerial pursuit",
+    "migration": "Strongly migratory; breeds in Eurasia, winters in sub-Saharan Africa"
+  },
+  "eurasian-eagle-owl": {
+    "size": "Females up to 75 cm long with a wingspan of 188 cm; one of the largest owl species in the world",
+    "habitat": "Mountainous and rocky areas, forest edges, steppes, and remote areas across Eurasia",
+    "diet": "Small mammals (rodents, rabbits), birds, and occasionally reptiles, amphibians, and large insects",
+    "migration": "Largely resident across its wide Eurasian range"
+  },
+  "tawny-owl": {
+    "size": "Stocky, medium-sized owl; round-headed with brown or grey plumage",
+    "habitat": "Woodlands across Europe and western Siberia; also parks, gardens, and urban areas",
+    "diet": "Mainly rodents; also small birds, frogs, and invertebrates in urban areas",
+    "migration": "Non-migratory and highly territorial; young birds unable to find territories often starve"
+  },
+  "little-owl": {
+    "size": "Small owl, approximately 22 cm long",
+    "habitat": "Farmland, woodland fringes, steppes, and semi-deserts across Europe, Asia, and North Africa",
+    "diet": "Insects, earthworms, other invertebrates, and small vertebrates",
+    "migration": "Largely resident and sedentary across its range"
+  },
+  "short-eared-owl": {
+    "size": "Medium-sized owl with very short, usually invisible ear tufts",
+    "habitat": "Open grasslands, moorland, tundra, and marshes; a widespread grassland specialist",
+    "diet": "Small mammals, especially voles, caught in low coursing flights over open ground",
+    "migration": "Partially migratory and nomadic; follows prey populations, moving south or to lower ground in winter"
+  },
+  "long-eared-owl": {
+    "size": "Medium-sized owl with conspicuous long ear tufts when erect",
+    "habitat": "Woodland edges, forest patches near open ground; roosts communally in dense scrub",
+    "diet": "Primarily small rodents, especially voles; can adapt to birds and insects under some conditions",
+    "migration": "Partially migratory and sometimes nomadic; northern populations move south in winter"
+  },
+  "razorbill": {
+    "size": "Colonial North Atlantic seabird; the only living member of the genus Alca",
+    "habitat": "Open North Atlantic Ocean; nests in crevices and ledges on coastal cliffs",
+    "diet": "Fish and marine invertebrates caught by diving underwater",
+    "migration": "Migratory; disperses to sea in winter away from breeding cliffs"
+  },
+  "common-guillemot": {
+    "size": "Large auk with a circumpolar distribution; one of the largest members of the auk family",
+    "habitat": "Low-Arctic and boreal seas; nests in dense colonies on bare rocky cliff ledges",
+    "diet": "Fish (especially sand eels and capelin) and marine invertebrates, caught by deep dives up to 180 m",
+    "migration": "Partially migratory; some populations remain near breeding sites year-round, others disperse to sea in winter"
+  },
+  "black-legged-kittiwake": {
+    "size": "Small, dainty gull named for its distinctive 'kittee-wa-aaake' call",
+    "habitat": "Open ocean and coastal cliffs; breeds in colonies on cliff faces and sea stacks",
+    "diet": "Small fish and marine invertebrates caught near the sea surface",
+    "migration": "Migratory; spends winter at sea away from breeding cliffs, ranging widely over open ocean"
+  },
+  "european-herring-gull": {
+    "size": "Large gull, up to 66 cm long",
+    "habitat": "Northern and western European coasts, inland areas, and urban environments",
+    "diet": "Fish, crustaceans, some plant matter, carrion, and food scavenged from humans",
+    "migration": "Partially migratory; colder-region birds move south in winter, many coastal birds are resident year-round"
+  },
+  "great-cormorant": {
+    "size": "Large, dark seabird with a long hooked bill and distinctive upright wing-drying posture",
+    "habitat": "Coastal waters, large rivers, lakes, and reservoirs across the Old World and Australasia",
+    "diet": "Fish caught by pursuit diving; a highly effective underwater hunter",
+    "migration": "Largely resident; some northern birds move to coasts or southward in winter"
+  },
+  "northern-gannet": {
+    "size": "87–100 cm long; wingspan 170–180 cm; the largest seabird in the northern Atlantic",
+    "habitat": "North Atlantic Ocean; nests in large colonies on offshore islands and sea cliffs",
+    "diet": "Primarily fish, caught by high-speed plunge-dives from height into the sea",
+    "migration": "Migratory; undertakes seasonal movements, ranging widely across the North Atlantic in winter"
+  },
+  "common-ostrich": {
+    "size": "The largest living bird; can run at 55 km/h sustained, with bursts up to 70 km/h",
+    "habitat": "Savanna, open woodland, and semi-arid plains of Africa",
+    "diet": "Mainly plant matter; also invertebrates and small reptiles",
+    "migration": "Nomadic rather than migratory; moves in groups of 5–50 birds across the African savanna"
+  },
+  "secretarybird": {
+    "size": "Very large, eagle-bodied bird on crane-like legs; stands up to 1.3 m tall",
+    "habitat": "Open grasslands and savanna of sub-Saharan Africa",
+    "diet": "Insects, small vertebrates, and snakes, killed by powerful stomping on the ground",
+    "migration": "Largely resident and terrestrial across its sub-Saharan range"
+  },
+  "lesser-flamingo": {
+    "size": "The smallest flamingo species; smaller and deeper pink than the greater flamingo",
+    "habitat": "Alkaline and saline lakes and lagoons in sub-Saharan Africa and western India",
+    "diet": "Blue-green algae and diatoms filtered from alkaline water with its highly specialised bill",
+    "migration": "Nomadic rather than strictly migratory; moves between suitable saline lakes as conditions change"
+  },
+  "hamerkop": {
+    "size": "Medium-sized waterbird with brown plumage and a distinctive backward-projecting crest",
+    "habitat": "Wide variety of wetlands — estuaries, lakesides, fish ponds, riverbanks, and rocky coasts in Africa",
+    "diet": "Fish and amphibians primarily; also shrimps, insects, and rodents, caught in shallow water",
+    "migration": "Sedentary; largely resident with only local seasonal movements"
+  },
+  "sacred-ibis": {
+    "size": "Large wading bird with white plumage and a long, bare black head and neck",
+    "habitat": "Wetlands, river margins, coastal shores, and farmland across much of Africa",
+    "diet": "Fish, frogs, insects, small reptiles, and carrion; probes mud with its curved bill",
+    "migration": "Largely resident across its African range; some seasonal local movements"
+  },
+  "marabou-stork": {
+    "size": "Very large stork; average wingspan 2.6 m, recorded up to 3.2 m — among the widest of any land bird",
+    "habitat": "Sub-Saharan Africa in both wet and arid habitats, often near human habitation and landfill sites",
+    "diet": "Carrion, offal, and almost any organic waste; also fish, frogs, and small vertebrates",
+    "migration": "Largely resident; some local seasonal movements within sub-Saharan Africa"
+  },
+  "yellow-billed-stork": {
+    "size": "Large African stork with a distinctive yellow bill and pink-flushed white plumage",
+    "habitat": "Wetlands, flooded grasslands, lake margins, and rivers south of the Sahara and in Madagascar",
+    "diet": "Fish, frogs, insects, and crustaceans, caught by tactile bill-sweeping in shallow water",
+    "migration": "Largely resident; some local movements following water levels and rainfall"
+  },
+  "grey-crowned-crane": {
+    "size": "Large crane with distinctive stiff golden crown and red throat patch",
+    "habitat": "Dry savannah, marshes, cultivated lands, and grassy areas near rivers and lakes in sub-Saharan Africa",
+    "diet": "Omnivorous — plants, seeds, grain, insects, frogs, worms, snakes, and small fish",
+    "migration": "Largely resident; undertakes some local seasonal movements"
+  },
+  "martial-eagle": {
+    "size": "One of the largest and most powerful eagles in Africa; hunts primarily from a high soar",
+    "habitat": "Wooded belts and savanna across sub-Saharan Africa",
+    "diet": "Mammals, birds, and reptiles; an opportunistic predator that stoops on prey from great height",
+    "migration": "Largely resident within its sub-Saharan African range"
+  },
+  "bateleur": {
+    "size": "Medium-sized eagle with very long bow-like wings and a uniquely short tail; large head",
+    "habitat": "Open savanna with scattered trees and open dry woodland in sub-Saharan Africa and Arabia",
+    "diet": "Carrion, small to medium-sized mammals, reptiles, and birds; a free-wheeling generalist predator",
+    "migration": "Largely resident; a highly aerial species that soars widely over its range"
+  },
+  "african-crowned-eagle": {
+    "size": "Overall length up to 90 cm; considered Africa's most powerful eagle relative to prey size",
+    "habitat": "Riparian woodlands and forests of sub-Saharan Africa; also adapts to urban wooded areas",
+    "diet": "Primarily mammals — monkeys, antelopes, hyraxes, and rodents; occasionally birds and reptiles",
+    "migration": "Largely resident within its sub-Saharan forest and woodland range"
+  },
+  "white-backed-vulture": {
+    "size": "Large vulture; the most common vulture species in Africa",
+    "habitat": "Open savanna, grassland, and woodland of sub-Saharan Africa",
+    "diet": "Carrion; a obligate scavenger that locates carcasses from the air",
+    "migration": "Largely resident; some dispersal movements across the African savanna"
+  },
+  "pied-crow": {
+    "size": "Small crow-sized raven; widely distributed African corvid with contrasting black-and-white plumage",
+    "habitat": "Wide range of open and semi-open habitats across mainland Africa, including urban areas",
+    "diet": "Omnivorous scavenger — insects, carrion, seeds, fruit, and human food waste",
+    "migration": "Largely resident across its African range"
+  },
+  "greater-blue-eared-starling": {
+    "size": "Medium-sized glossy starling with iridescent blue-green plumage",
+    "habitat": "Open woodland and savanna from Senegal east to Ethiopia and south to South Africa",
+    "diet": "Fruit, seeds, and insects; a typical open-woodland omnivore",
+    "migration": "Largely resident with some seasonal movements within its African range"
+  },
+  "red-billed-oxpecker": {
+    "size": "Small passerine bird; slender with a distinctive bright red bill",
+    "habitat": "Eastern African savanna, closely associated with large mammals like buffalo and rhino",
+    "diet": "Ticks, parasites, and blood from the skin of large African mammals",
+    "migration": "Largely resident in the eastern savanna of sub-Saharan Africa"
+  },
+  "southern-carmine-bee-eater": {
+    "size": "Large, brilliantly coloured bee-eater with a long central tail spike and crimson plumage",
+    "habitat": "Open country, river valleys, and cliffs across sub-equatorial Africa",
+    "diet": "Bees and other large flying insects caught in aerial pursuit",
+    "migration": "Migratory within Africa; follows seasonal insect availability across sub-equatorial regions"
+  },
+  "white-fronted-bee-eater": {
+    "size": "Medium-sized bee-eater with a white forehead, red throat, and square tail",
+    "habitat": "Open country, river banks, and earthen cliffs of sub-equatorial Africa",
+    "diet": "Bees and other flying insects caught in hawking flights from low perches",
+    "migration": "Largely resident in sub-equatorial Africa with some local seasonal movements"
+  },
+  "malachite-kingfisher": {
+    "size": "Tiny, jewel-bright kingfisher; one of the smallest kingfishers in Africa",
+    "habitat": "Rivers, lakes, and wetland margins with dense vegetation south of the Sahara",
+    "diet": "Small fish and aquatic invertebrates caught by plunge-diving from a low perch",
+    "migration": "Largely resident; some climate-related seasonal movements"
+  }
+}

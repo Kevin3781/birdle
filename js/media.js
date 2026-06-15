@@ -2,6 +2,150 @@
    Maps bird id -> local media so the game never reveals the answer via a
    query-string. Do not edit by hand; re-run the pipelines instead. */
 const BirdMedia = {
+  "acorn-woodpecker": {
+    "audio": "audio/acorn-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) everflores, CC-BY-NC — observation 147283276",
+    "imageArtist": "Frank Schulenburg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg",
+    "silhouette": "svg/silhouettes/species/acorn-woodpecker.png"
+  },
+  "adelie-penguin": {
+    "audio": "audio/adelie-penguin.m4a",
+    "audioAttribution": "iNaturalist (c) dima_volkov, CC-BY-NC — observation 184364265",
+    "imageArtist": "Godot13",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_(Pygoscelis_adeliae)_04.jpg",
+    "silhouette": "svg/silhouettes/species/adelie-penguin.png"
+  },
+  "african-crowned-eagle": {
+    "audio": "audio/african-crowned-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) dejong, CC-BY-NC-SA — observation 21661614",
+    "imageArtist": "Bernard DUPONT from FRANCE",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Crowned_Eagle_(Stephanoaetus_coronatus)_with_prey_..._(29591438981).jpg",
+    "silhouette": "svg/silhouettes/species/african-crowned-eagle.png"
+  },
+  "african-fish-eagle": {
+    "audio": "audio/african-fish-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) eliegaget, CC-BY-NC — observation 236076874",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:African_fish_eagle_(Haliaeetus_vocifer).jpg",
+    "silhouette": "svg/silhouettes/species/african-fish-eagle.png"
+  },
+  "african-grey-parrot": {
+    "audio": "audio/african-grey-parrot.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 252942978",
+    "imageArtist": "Florettesokeng",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg",
+    "silhouette": "svg/silhouettes/species/african-grey-parrot.png"
+  },
+  "african-jacana": {
+    "audio": "audio/african-jacana.mp3",
+    "audioAttribution": "iNaturalist (c) bureaubenjamin, CC-BY-NC — observation 92368645",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:African_jacana_actophilornis_africanus.jpg",
+    "silhouette": "svg/silhouettes/species/african-jacana.png"
+  },
+  "african-penguin": {
+    "audio": "audio/african-penguin.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257159859",
+    "imageArtist": "Matti Blume",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(_1050602),_crop.jpg",
+    "silhouette": "svg/silhouettes/species/african-penguin.png"
+  },
+  "alexandrine-parakeet": {
+    "audio": "audio/alexandrine-parakeet.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 183086492",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Alexandrine_parakeet_(Psittacula_eupatria_eupatria)_male.jpg",
+    "silhouette": "svg/silhouettes/species/alexandrine-parakeet.png"
+  },
+  "american-avocet": {
+    "audio": "audio/american-avocet.mp3",
+    "audioAttribution": "iNaturalist (c) r2d2yoda1, CC-BY-NC — observation 131299469",
+    "imageArtist": "Dan Pancamo",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_Avocet1.jpg",
+    "silhouette": "svg/silhouettes/species/american-avocet.png"
+  },
+  "american-coot": {
+    "audio": "audio/american-coot.mp3",
+    "audioAttribution": "iNaturalist (c) terolinjama, CC-BY — observation 249284188",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_coot_in_Prospect_Park_(06152).jpg",
+    "silhouette": "svg/silhouettes/species/american-coot.png"
+  },
+  "american-crow": {
+    "audio": "audio/american-crow.mp3",
+    "audioAttribution": "iNaturalist (c) taroman, CC-BY-NC-ND — observation 202978904",
+    "imageArtist": "Unknown",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus-brachyrhynchos-001.jpg",
+    "silhouette": "svg/silhouettes/species/american-crow.png"
+  },
+  "american-dipper": {
+    "audio": "audio/american-dipper.mp3",
+    "audioAttribution": "iNaturalist (c) birdwhisperer, CC-BY-NC — observation 152340986",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:AmericanDipper.jpg",
+    "silhouette": "svg/silhouettes/species/american-dipper.png"
+  },
+  "american-flamingo": {
+    "audio": "audio/american-flamingo.mp3",
+    "audioAttribution": "iNaturalist (c) raf-pan, CC-BY-NC — observation 104482453",
+    "imageArtist": "JeffreyGammon",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_Flamingo_JG.jpg",
+    "silhouette": "svg/silhouettes/species/american-flamingo.png"
+  },
+  "american-goldfinch": {
+    "audio": "audio/american-goldfinch.mp3",
+    "audioAttribution": "iNaturalist (c) k_a_m, CC-BY-NC — observation 46441651",
+    "imageArtist": "Rodney Campbell",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Carduelis_tristis_-Michigan,_USA_-male-8.jpg",
+    "silhouette": "svg/silhouettes/species/american-goldfinch.png"
+  },
+  "american-kestrel": {
+    "audio": "audio/american-kestrel.mp3",
+    "audioAttribution": "iNaturalist (c) tboyd987, CC-BY-NC — observation 36732610",
+    "imageArtist": "Channel City Camera Club from Santa Barbara, US",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_Kestrel_(53468230687).jpg",
+    "silhouette": "svg/silhouettes/species/american-kestrel.png"
+  },
+  "american-redstart": {
+    "audio": "audio/american-redstart.mp3",
+    "audioAttribution": "iNaturalist (c) davidenrique, CC-BY-NC-SA — observation 75902046",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_redstart_in_JBWR_(24754).jpg",
+    "silhouette": "svg/silhouettes/species/american-redstart.png"
+  },
   "american-robin": {
     "audio": "audio/american-robin.m4a",
     "audioAttribution": "iNaturalist (c) meswift, CC-BY-NC — observation 153438595",
@@ -11,13 +155,4176 @@ const BirdMedia = {
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg",
     "silhouette": "svg/silhouettes/species/american-robin.png"
   },
-  "shoebill": {
-    "audio": false,
-    "audioAttribution": false,
-    "imageArtist": "Bob Owen",
+  "american-white-pelican": {
+    "audio": "audio/american-white-pelican.m4a",
+    "audioAttribution": "iNaturalist (c) gepennell, CC-BY-NC — observation 267911000",
+    "imageArtist": "Manjith Kainickara",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_White_Pelican.jpg",
+    "silhouette": "svg/silhouettes/species/american-white-pelican.png"
+  },
+  "american-wigeon": {
+    "audio": "audio/american-wigeon.m4a",
+    "audioAttribution": "iNaturalist (c) jonathan8800, CC-BY-NC — observation 254544406",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_Wigeon_Male.jpg",
+    "silhouette": "svg/silhouettes/species/american-wigeon.png"
+  },
+  "american-woodcock": {
+    "audio": "audio/american-woodcock.mp3",
+    "audioAttribution": "iNaturalist (c) joedziewa, CC-BY-NC — observation 155088023",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_woodcock_(95252).jpg",
+    "silhouette": "svg/silhouettes/species/american-woodcock.png"
+  },
+  "andean-cock-of-the-rock": {
+    "audio": "audio/andean-cock-of-the-rock.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 61776960",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Andean_cock-of-the-rock_(Rupicola_peruvianus_sanguinolentus)_male_Antioquia.jpg",
+    "silhouette": "svg/silhouettes/species/andean-cock-of-the-rock.png"
+  },
+  "andean-condor": {
+    "audio": "audio/andean-condor.mp3",
+    "audioAttribution": "Xeno-canto (c) Fernando Castro, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1105093",
+    "imageArtist": "Greg Hume",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:AndeanCondorMale.jpg",
+    "silhouette": "svg/silhouettes/species/andean-condor.png"
+  },
+  "andean-flamingo": {
+    "audio": "audio/andean-flamingo.mp3",
+    "audioAttribution": "Xeno-canto (c) Peter Boesman, https://creativecommons.org/licenses/by-nc-nd/4.0/ — XC272585",
+    "imageArtist": "(c) Luciano Massa, some rights reserved (CC BY)",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Andean_Flamingo,_Salta,_AR_imported_from_iNaturalist_photo_171995487.jpg",
+    "silhouette": "svg/silhouettes/species/andean-flamingo.png"
+  },
+  "annas-hummingbird": {
+    "audio": "audio/annas-hummingbird.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 24632754",
+    "imageArtist": "Robert McMorran, United States Fish and Wildlife Service",
+    "imageLicense": "Public domain",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Anna%27s_hummingbird.jpg",
+    "silhouette": "svg/silhouettes/species/annas-hummingbird.png"
+  },
+  "arctic-tern": {
+    "audio": "audio/arctic-tern.mp3",
+    "audioAttribution": "iNaturalist (c) taimyr, CC-BY-NC — observation 136572509",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Arctic_tern_(Sterna_paradisaea)_Flatey_3.jpg",
+    "silhouette": "svg/silhouettes/species/arctic-tern.png"
+  },
+  "asian-green-bee-eater": {
+    "audio": "audio/asian-green-bee-eater.mp3",
+    "audioAttribution": "iNaturalist (c) tatiana_chimera, CC-BY-NC — observation 284859456",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Green_bee-eater_(Merops_orientalis)_with_blue_pansy_4_Jojawar.jpg",
+    "silhouette": "svg/silhouettes/species/asian-green-bee-eater.png"
+  },
+  "asian-koel": {
+    "audio": "audio/asian-koel.mp3",
+    "audioAttribution": "iNaturalist (c) vivek32, CC-BY-NC-ND — observation 225861429",
+    "imageArtist": "Challiyan",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Asian_koel.jpg",
+    "silhouette": "svg/silhouettes/species/asian-koel.png"
+  },
+  "asian-openbill": {
+    "audio": "audio/asian-openbill.m4a",
+    "audioAttribution": "iNaturalist (c) lannamountainscharlie, CC-BY-NC-SA — observation 248739505",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Asian_openbill_(Anastomus_oscitans)_Pearaing.jpg",
+    "silhouette": "svg/silhouettes/species/asian-openbill.png"
+  },
+  "atlantic-puffin": {
+    "audio": "audio/atlantic-puffin.m4a",
+    "audioAttribution": "iNaturalist (c) tulipifera-ike, CC-BY-NC — observation 179069594",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+    "silhouette": "svg/silhouettes/species/atlantic-puffin.png"
+  },
+  "australasian-gannet": {
+    "audio": "audio/australasian-gannet.mp3",
+    "audioAttribution": "iNaturalist (c) intyrely_eco, CC-BY — observation 40835387",
+    "imageArtist": "Pseudopanax at English Wikipedia",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gannet_standing_in_Black_Reef_colony.jpg",
+    "silhouette": "svg/silhouettes/species/australasian-gannet.png"
+  },
+  "australian-king-parrot": {
+    "audio": "audio/australian-king-parrot.mp3",
+    "audioAttribution": "iNaturalist (c) lisekool, CC-BY-NC — observation 44090525",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Australian_King_Parrot_male_4737.jpg",
+    "silhouette": "svg/silhouettes/species/australian-king-parrot.png"
+  },
+  "australian-magpie": {
+    "audio": "audio/australian-magpie.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 200509013",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cracticus_tibicen_hypoleuca_male_domain.jpg",
+    "silhouette": "svg/silhouettes/species/australian-magpie.png"
+  },
+  "australian-pelican": {
+    "audio": "audio/australian-pelican.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 206043763",
+    "imageArtist": "JJ Harrison (https://tiny.jjharrison.com.au/t/j7XQOlEZP52BDn8g)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pelecanus_conspicillatus_-_Doughboy_Head.jpg",
+    "silhouette": "svg/silhouettes/species/australian-pelican.png"
+  },
+  "australian-raven": {
+    "audio": "audio/australian-raven.mp3",
+    "audioAttribution": "iNaturalist (c) lifeisamazing, CC-BY-NC — observation 61929135",
+    "imageArtist": "JJ Harrison (https://tiny.jjharrison.com.au/t/ZoQvcc05qhmjQ9eE)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_coronoides_-_Doughboy_Head.jpg",
+    "silhouette": "svg/silhouettes/species/australian-raven.png"
+  },
+  "australian-wood-duck": {
+    "audio": "audio/australian-wood-duck.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 246745495",
+    "imageArtist": "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Canon 70-200mm f/2.8 L",
+    "imageLicense": "GFDL 1.2",
+    "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Australian_wood_duck_-_male.jpg",
+    "silhouette": "svg/silhouettes/species/australian-wood-duck.png"
+  },
+  "bald-eagle": {
+    "audio": "audio/bald-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) beartracker, CC-BY-NC-ND — observation 57488493",
+    "imageArtist": "Andy Morffew from Itchen Abbas, Hampshire, UK",
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-Ueno_Zoo,_Tokyo,_Japan-8a.jpg",
-    "silhouette": "svg/silhouettes/species/shoebill.png"
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+    "silhouette": "svg/silhouettes/species/bald-eagle.png"
+  },
+  "baltimore-oriole": {
+    "audio": "audio/baltimore-oriole.mp3",
+    "audioAttribution": "iNaturalist (c) jhousephotos, CC-BY-NC — observation 48735617",
+    "imageArtist": "TonyCastro",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Baltimore_Oriole-_dorsum.jpg",
+    "silhouette": "svg/silhouettes/species/baltimore-oriole.png"
+  },
+  "bar-headed-goose": {
+    "audio": "audio/bar-headed-goose.mp3",
+    "audioAttribution": "iNaturalist (c) a_7sh_a, CC-BY-NC — observation 124220168",
+    "imageArtist": "Savi.odl",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bar-headed_Goose_AMSM5825_BHGE.jpg",
+    "silhouette": "svg/silhouettes/species/bar-headed-goose.png"
+  },
+  "barn-owl": {
+    "audio": "audio/barn-owl.mp3",
+    "audioAttribution": "iNaturalist (c) hug0m, CC-BY-NC — observation 261409667",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_Barn_Owl_(Tyto_furcata_guatemalae),_Orange_Walk.jpg",
+    "silhouette": "svg/silhouettes/species/barn-owl.png"
+  },
+  "barn-swallow": {
+    "audio": "audio/barn-swallow.mp3",
+    "audioAttribution": "iNaturalist (c) k_tolentino, CC-BY-NC — observation 361482262",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+    "silhouette": "svg/silhouettes/species/barn-swallow.png"
+  },
+  "barnacle-goose": {
+    "audio": "audio/barnacle-goose.mp3",
+    "audioAttribution": "iNaturalist (c) jonasrolighed, CC-BY-NC — observation 208487684",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Barnacle-Goose.jpg",
+    "silhouette": "svg/silhouettes/species/barnacle-goose.png"
+  },
+  "barred-owl": {
+    "audio": "audio/barred-owl.mp3",
+    "audioAttribution": "iNaturalist (c) kitemongoose, CC-BY-NC — observation 134671618",
+    "imageArtist": "Mdf",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Strix-varia-005.jpg",
+    "silhouette": "svg/silhouettes/species/barred-owl.png"
+  },
+  "bateleur": {
+    "audio": "audio/bateleur.mp3",
+    "audioAttribution": "Xeno-canto (c) Vikram, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC940364",
+    "imageArtist": "Derek Keats from Johannesburg, South Africa",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bataleur_-_Kruger_National_park_(37161617713).jpg",
+    "silhouette": "svg/silhouettes/species/bateleur.png"
+  },
+  "baya-weaver": {
+    "audio": "audio/baya-weaver.mp3",
+    "audioAttribution": "iNaturalist (c) sonukumar055, CC-BY-NC — observation 320166208",
+    "imageArtist": "Drashokk",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Baya_weaver_bird_on_its_nest_(India,_2022).jpg",
+    "silhouette": "svg/silhouettes/species/baya-weaver.png"
+  },
+  "belted-kingfisher": {
+    "audio": "audio/belted-kingfisher.mp3",
+    "audioAttribution": "iNaturalist (c) cvharris, CC0 — observation 350421573",
+    "imageArtist": "JeffreyGammon",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:BeltedKingfisherJG_Male.jpg",
+    "silhouette": "svg/silhouettes/species/belted-kingfisher.png"
+  },
+  "black-billed-magpie": {
+    "audio": "audio/black-billed-magpie.mp3",
+    "audioAttribution": "iNaturalist (c) jaegermeister, CC-BY-NC — observation 222317211",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:BlackBilledMagpie.jpg",
+    "silhouette": "svg/silhouettes/species/black-billed-magpie.png"
+  },
+  "black-browed-albatross": {
+    "audio": "audio/black-browed-albatross.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257249659",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Thalassarche_melanophrys_-_SE_Tasmania.jpg",
+    "silhouette": "svg/silhouettes/species/black-browed-albatross.png"
+  },
+  "black-capped-chickadee": {
+    "audio": "audio/black-capped-chickadee.mp3",
+    "audioAttribution": "iNaturalist (c) joedziewa, CC-BY-NC — observation 178987729",
+    "imageArtist": "No machine-readable author provided. Mdf assumed (based on copyright claims).",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Poecile-atricapilla-001.jpg",
+    "silhouette": "svg/silhouettes/species/black-capped-chickadee.png"
+  },
+  "black-crowned-night-heron": {
+    "audio": "audio/black-crowned-night-heron.mp3",
+    "audioAttribution": "iNaturalist (c) eleggua, CC-BY-NC — observation 297570995",
+    "imageArtist": "ramidos",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
+    "silhouette": "svg/silhouettes/species/black-crowned-night-heron.png"
+  },
+  "black-drongo": {
+    "audio": "audio/black-drongo.mp3",
+    "audioAttribution": "iNaturalist (c) sunandav, CC-BY-NC — observation 182825526",
+    "imageArtist": "Swardeepak",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bdrongo-Sandeep1.jpg",
+    "silhouette": "svg/silhouettes/species/black-drongo.png"
+  },
+  "black-headed-gull": {
+    "audio": "audio/black-headed-gull.mp3",
+    "audioAttribution": "iNaturalist (c) tatianakirova, CC-BY-NC — observation 339294765",
+    "imageArtist": "Hans Hillewaert",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_(summer).jpg",
+    "silhouette": "svg/silhouettes/species/black-headed-gull.png"
+  },
+  "black-headed-ibis": {
+    "audio": "audio/black-headed-ibis.mp3",
+    "audioAttribution": "Xeno-canto (c) Peter Boesman, https://creativecommons.org/licenses/by-nc-nd/4.0/ — XC460207",
+    "imageArtist": "Hari Krishnan",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black-headed_Ibis_(Threskiornis_melanocephalus).jpg",
+    "silhouette": "svg/silhouettes/species/black-headed-ibis.png"
+  },
+  "black-kite": {
+    "audio": "audio/black-kite.mp3",
+    "audioAttribution": "iNaturalist (c) svetlotus, CC-BY-NC — observation 212649783",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Schwarzmilan.jpg",
+    "silhouette": "svg/silhouettes/species/black-kite.png"
+  },
+  "black-legged-kittiwake": {
+    "audio": "audio/black-legged-kittiwake.mp3",
+    "audioAttribution": "iNaturalist (c) oakleafe, CC-BY — observation 116530140",
+    "imageArtist": "Yathin S Krishnappa",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rissa_tridactyla_(Vard%C3%B8,_2012).jpg",
+    "silhouette": "svg/silhouettes/species/black-legged-kittiwake.png"
+  },
+  "black-necked-stilt": {
+    "audio": "audio/black-necked-stilt.mp3",
+    "audioAttribution": "iNaturalist (c) olivier_pichard, CC-BY-NC — observation 195581466",
+    "imageArtist": "Frank Schulenburg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black-necked_Stilt_(Himantopus_mexicanus),_Corte_Madera.jpg",
+    "silhouette": "svg/silhouettes/species/black-necked-stilt.png"
+  },
+  "black-phoebe": {
+    "audio": "audio/black-phoebe.mp3",
+    "audioAttribution": "iNaturalist (c) samstrich, CC-BY-NC — observation 190562418",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black_phoebe_(Sayornis_nigricans_aquaticus)_Palopo.jpg",
+    "silhouette": "svg/silhouettes/species/black-phoebe.png"
+  },
+  "black-redstart": {
+    "audio": "audio/black-redstart.mp3",
+    "audioAttribution": "iNaturalist (c) sarahhaeger, CC-BY-NC — observation 219711011",
+    "imageArtist": "El Golli Mohamed",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rougequeue_noir_ichkeul057.jpg",
+    "silhouette": "svg/silhouettes/species/black-redstart.png"
+  },
+  "black-swan": {
+    "audio": "audio/black-swan.mp3",
+    "audioAttribution": "iNaturalist (c) maximion, CC-BY-NC — observation 213259358",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black_swan_(Cygnus_atratus)_Scottsdale.jpg",
+    "silhouette": "svg/silhouettes/species/black-swan.png"
+  },
+  "black-tailed-godwit": {
+    "audio": "audio/black-tailed-godwit.mp3",
+    "audioAttribution": "iNaturalist (c) davisprovan, CC-BY-NC — observation 196102047",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black-tailed_Godwit_Uferschnepfe.jpg",
+    "silhouette": "svg/silhouettes/species/black-tailed-godwit.png"
+  },
+  "black-vulture": {
+    "audio": "audio/black-vulture.mp3",
+    "audioAttribution": "iNaturalist (c) alisson_01, CC-BY-NC — observation 250954620",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black_vulture_(Coragyps_atratus_brasiliensis)_Peten.jpg",
+    "silhouette": "svg/silhouettes/species/black-vulture.png"
+  },
+  "black-winged-stilt": {
+    "audio": "audio/black-winged-stilt.mp3",
+    "audioAttribution": "iNaturalist (c) olivier_pichard, CC-BY-NC — observation 195581466",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_(Himantopus_himantopus)_Pearaing.jpg",
+    "silhouette": "svg/silhouettes/species/black-winged-stilt.png"
+  },
+  "blacksmith-lapwing": {
+    "audio": "audio/blacksmith-lapwing.mp3",
+    "audioAttribution": "iNaturalist (c) vynbos, CC-BY-SA — observation 23788960",
+    "imageArtist": "Yathin S Krishnappa",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Vanellus_armatus_-_Etosha_2014.jpg",
+    "silhouette": "svg/silhouettes/species/blacksmith-lapwing.png"
+  },
+  "blood-pheasant": {
+    "audio": "audio/blood-pheasant.m4a",
+    "audioAttribution": "iNaturalist (c) chchencc, CC-BY-NC — observation 170554215",
+    "imageArtist": "Dibyendu Ash",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_Phrumsingla_National_Park_Bhutan.jpg",
+    "silhouette": "svg/silhouettes/species/blood-pheasant.png"
+  },
+  "blue-and-yellow-macaw": {
+    "audio": "audio/blue-and-yellow-macaw.mp3",
+    "audioAttribution": "iNaturalist (c) alejandroluy, CC-BY-NC — observation 183693611",
+    "imageArtist": "Luc Viatour",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ara_ararauna_Luc_Viatour.jpg",
+    "silhouette": "svg/silhouettes/species/blue-and-yellow-macaw.png"
+  },
+  "blue-crowned-motmot": {
+    "audio": "audio/blue-crowned-motmot.mp3",
+    "audioAttribution": "iNaturalist (c) manuelhernandezancheita, CC-BY-NC-SA — observation 12274598",
+    "imageArtist": "Charles Patrick Ewing",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Blue_Crowned_Motmot_-_26676895852.jpg",
+    "silhouette": "svg/silhouettes/species/blue-crowned-motmot.png"
+  },
+  "blue-footed-booby": {
+    "audio": "audio/blue-footed-booby.mp3",
+    "audioAttribution": "iNaturalist (c) lauraelenawicochea, CC-BY-NC — observation 18847957",
+    "imageArtist": "Benjamint444",
+    "imageLicense": "GFDL 1.2",
+    "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Blue-footed-booby.jpg",
+    "silhouette": "svg/silhouettes/species/blue-footed-booby.png"
+  },
+  "blue-grosbeak": {
+    "audio": "audio/blue-grosbeak.mp3",
+    "audioAttribution": "iNaturalist (c) arrowheadspiketail58, CC-BY-NC-ND — observation 227868617",
+    "imageArtist": "Dan Pancamo",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Blue_Grosbeak_by_Dan_Pancamo.jpg",
+    "silhouette": "svg/silhouettes/species/blue-grosbeak.png"
+  },
+  "blue-jay": {
+    "audio": "audio/blue-jay.mp3",
+    "audioAttribution": "iNaturalist (c) jonathan_mack, CC-BY-NC — observation 17635087",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Blue_jay_in_PP_(30960).jpg",
+    "silhouette": "svg/silhouettes/species/blue-jay.png"
+  },
+  "blue-winged-kookaburra": {
+    "audio": "audio/blue-winged-kookaburra.mp3",
+    "audioAttribution": "iNaturalist (c) ozgadabout, CC-BY-NC — observation 173726312",
+    "imageArtist": "Scott Williams",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bluewingedkookaburra-male-2025.jpg",
+    "silhouette": "svg/silhouettes/species/blue-winged-kookaburra.png"
+  },
+  "blue-winged-teal": {
+    "audio": "audio/blue-winged-teal.mp3",
+    "audioAttribution": "iNaturalist (c) meangreenfan, CC-BY-NC — observation 208481816",
+    "imageArtist": "Alan D. Wilson, www.naturespicsonline.com",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Blue-Winged_Teal.jpg",
+    "silhouette": "svg/silhouettes/species/blue-winged-teal.png"
+  },
+  "bobolink": {
+    "audio": "audio/bobolink.mp3",
+    "audioAttribution": "iNaturalist (c) agmcmll, CC-BY-NC — observation 12841106",
+    "imageArtist": "Paul Danese",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:20250702_adult_male_bobolink_glastonbury_meadows_squre_PD206841.jpg",
+    "silhouette": "svg/silhouettes/species/bobolink.png"
+  },
+  "brahminy-kite": {
+    "audio": "audio/brahminy-kite.mp3",
+    "audioAttribution": "iNaturalist (c) mayukhajra, CC-BY-NC — observation 239353964",
+    "imageArtist": "Afsar Nayakkan",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Haliastur_indus_136698204.jpg",
+    "silhouette": "svg/silhouettes/species/brahminy-kite.png"
+  },
+  "brent-goose": {
+    "audio": "audio/brent-goose.mp3",
+    "audioAttribution": "iNaturalist (c) chickenparmesan24, CC-BY — observation 256701022",
+    "imageArtist": "Needsmoreritalin",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Atlantic_Brant_Fly-By_Wiki.png",
+    "silhouette": "svg/silhouettes/species/brent-goose.png"
+  },
+  "brolga": {
+    "audio": "audio/brolga.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 30160350",
+    "imageArtist": "jjron, edited by Fir0002",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brolga-1-Healesville,-Vic,-3.1.2008_edit.jpg",
+    "silhouette": "svg/silhouettes/species/brolga.png"
+  },
+  "brown-booby": {
+    "audio": "audio/brown-booby.wav",
+    "audioAttribution": "iNaturalist (c) dan_macneal, CC-BY — observation 202391586",
+    "imageArtist": "Danilo da Castro",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Atob%C3%A1-pardo.jpg",
+    "silhouette": "svg/silhouettes/species/brown-booby.png"
+  },
+  "brown-creeper": {
+    "audio": "audio/brown-creeper.mp3",
+    "audioAttribution": "iNaturalist (c) stevenmcgrath, CC-BY-NC-ND — observation 114657678",
+    "imageArtist": "Chuck Homler, Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_creeper_(Certhia_americana)_in_Center_City,_Philadelphia,_PA,_USA.png",
+    "silhouette": "svg/silhouettes/species/brown-creeper.png"
+  },
+  "brown-fish-owl": {
+    "audio": "audio/brown-fish-owl.m4a",
+    "audioAttribution": "iNaturalist (c) seemamerchant, CC-BY — observation 311008998",
+    "imageArtist": "Somaskanda",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_fishing_owl.jpg",
+    "silhouette": "svg/silhouettes/species/brown-fish-owl.png"
+  },
+  "brown-headed-cowbird": {
+    "audio": "audio/brown-headed-cowbird.mp3",
+    "audioAttribution": "iNaturalist (c) supertiger, CC-BY — observation 267941727",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brown-headed_cowbird_male_(71126).jpg",
+    "silhouette": "svg/silhouettes/species/brown-headed-cowbird.png"
+  },
+  "brown-pelican": {
+    "audio": "audio/brown-pelican.m4a",
+    "audioAttribution": "iNaturalist (c) daniel5, CC-BY-NC-SA — observation 264926443",
+    "imageArtist": "Frank Schulenburg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_pelican_in_flight_(Bodega_Bay).jpg",
+    "silhouette": "svg/silhouettes/species/brown-pelican.png"
+  },
+  "brown-thrasher": {
+    "audio": "audio/brown-thrasher.mp3",
+    "audioAttribution": "iNaturalist (c) rroutledge, CC-BY-NC — observation 360055790",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_thrasher_in_CP_(02147).jpg",
+    "silhouette": "svg/silhouettes/species/brown-thrasher.png"
+  },
+  "budgerigar": {
+    "audio": "audio/budgerigar.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 123850529",
+    "imageArtist": "Benjamint444",
+    "imageLicense": "GFDL 1.2",
+    "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Budgerigar-male-strzelecki-qld.jpg",
+    "silhouette": "svg/silhouettes/species/budgerigar.png"
+  },
+  "bufflehead": {
+    "audio": "audio/bufflehead.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 272108795",
+    "imageArtist": "Chuck Homler, Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Drake_Bufflehead_LBI_(cropped).png",
+    "silhouette": "svg/silhouettes/species/bufflehead.png"
+  },
+  "bullocks-oriole": {
+    "audio": "audio/bullocks-oriole.mp3",
+    "audioAttribution": "iNaturalist (c) neontetraploid, CC-BY-NC — observation 74703214",
+    "imageArtist": "Kevin Cole from Pacific Coast, USA (en:User:Kevinlcole)",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bullock%27s_Oriole.jpg",
+    "silhouette": "svg/silhouettes/species/bullocks-oriole.png"
+  },
+  "burrowing-owl": {
+    "audio": "audio/burrowing-owl.mp3",
+    "audioAttribution": "iNaturalist (c) adam_kalab, CC-BY-NC — observation 171990866",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_burrowing_owl_(Athene_cunicularia_cunicularia)_Colonia.jpg",
+    "silhouette": "svg/silhouettes/species/burrowing-owl.png"
+  },
+  "burrowing-parrot": {
+    "audio": "audio/burrowing-parrot.mp3",
+    "audioAttribution": "iNaturalist (c) curaeuscuraeus, CC-BY-NC — observation 344311483",
+    "imageArtist": "Martin Pettitt",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cyanoliseus_patagonus.jpg",
+    "silhouette": "svg/silhouettes/species/burrowing-parrot.png"
+  },
+  "cactus-wren": {
+    "audio": "audio/cactus-wren.mp3",
+    "audioAttribution": "iNaturalist (c) johnnyrhomboid, CC-BY-NC — observation 203754893",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cactus_Wren_Sandia_Mountains.jpg",
+    "silhouette": "svg/silhouettes/species/cactus-wren.png"
+  },
+  "california-condor": {
+    "audio": "audio/california-condor.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257243506",
+    "imageArtist": "Don Graham from Redlands, CA, USA - God bless it!",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:California-condor-gymnogyps-californianus-078_(21196759264).jpg",
+    "silhouette": "svg/silhouettes/species/california-condor.png"
+  },
+  "california-quail": {
+    "audio": "audio/california-quail.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 39862075",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:California_quail_(Callipepla_californica)_male_Tricao.jpg",
+    "silhouette": "svg/silhouettes/species/california-quail.png"
+  },
+  "canada-goose": {
+    "audio": "audio/canada-goose.mp3",
+    "audioAttribution": "iNaturalist (c) cvharris, CC0 — observation 343301392",
+    "imageArtist": "Rror",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Canada_goose.jpg",
+    "silhouette": "svg/silhouettes/species/canada-goose.png"
+  },
+  "canvasback": {
+    "audio": "audio/canvasback.wav",
+    "audioAttribution": "iNaturalist (c) nsharp, CC-BY-NC — observation 73353676",
+    "imageArtist": "Frank Schulenburg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Aythya_valisineria_at_Las_Gallinas_Wildlife_Ponds.jpg",
+    "silhouette": "svg/silhouettes/species/canvasback.png"
+  },
+  "cape-gannet": {
+    "audio": "audio/cape-gannet.mp3",
+    "audioAttribution": "Xeno-canto (c) JJSUN, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1079085",
+    "imageArtist": "Bernard DUPONT",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cape_gannet_(Morus_capensis)_sideview.jpg",
+    "silhouette": "svg/silhouettes/species/cape-gannet.png"
+  },
+  "cape-sugarbird": {
+    "audio": "audio/cape-sugarbird.mp3",
+    "audioAttribution": "iNaturalist (c) karoopixie, CC-BY-NC — observation 308441915",
+    "imageArtist": "Alan Manson",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cape_Sugarbird_(Promerops_cafer).jpg",
+    "silhouette": "svg/silhouettes/species/cape-sugarbird.png"
+  },
+  "cape-weaver": {
+    "audio": "audio/cape-weaver.mp3",
+    "audioAttribution": "iNaturalist (c) karoopixie, CC-BY-NC — observation 296026267",
+    "imageArtist": "Derek Keats from South Africa",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ploceus_capensis_-Johannesburg,_South_Africa_-male-8.jpg",
+    "silhouette": "svg/silhouettes/species/cape-weaver.png"
+  },
+  "carolina-chickadee": {
+    "audio": "audio/carolina-chickadee.mp3",
+    "audioAttribution": "iNaturalist (c) cvharris, CC0 — observation 360780240",
+    "imageArtist": "Dan Pancamo",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Carolina_Chickadee1_by_Dan_Pancamo.jpg",
+    "silhouette": "svg/silhouettes/species/carolina-chickadee.png"
+  },
+  "carolina-wren": {
+    "audio": "audio/carolina-wren.mp3",
+    "audioAttribution": "iNaturalist (c) riona_dia, CC-BY-NC — observation 144821837",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Carolina_wren_(14391).jpg",
+    "silhouette": "svg/silhouettes/species/carolina-wren.png"
+  },
+  "carrion-crow": {
+    "audio": "audio/carrion-crow.mp3",
+    "audioAttribution": "iNaturalist (c) sylvain_naturaliste, CC-BY-NC — observation 256300515",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Carrion_crow_2022_04_05_05_02.jpg",
+    "silhouette": "svg/silhouettes/species/carrion-crow.png"
+  },
+  "cedar-waxwing": {
+    "audio": "audio/cedar-waxwing.mp3",
+    "audioAttribution": "iNaturalist (c) hb2000, CC-BY-NC — observation 178892937",
+    "imageArtist": "Judy Gallagher",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cedar_Waxwing_-_Bombycilla_cedrorum,_George_Washington%27s_Birthplace_National_Monument,_Colonial_Beach,_Virginia_(39997434862).jpg",
+    "silhouette": "svg/silhouettes/species/cedar-waxwing.png"
+  },
+  "channel-billed-toucan": {
+    "audio": "audio/channel-billed-toucan.mp3",
+    "audioAttribution": "iNaturalist (c) mspenko, CC-BY-NC — observation 236518593",
+    "imageArtist": "Ramphastos_vitellinus_-Matsue_Vogel_Park-8a.jpg: ori2uru\nderivative work: Snowmanradio (talk)",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ramphastos_vitellinus_-Matsue_Vogel_Park-8a-4c.jpg",
+    "silhouette": "svg/silhouettes/species/channel-billed-toucan.png"
+  },
+  "chilean-flamingo": {
+    "audio": "audio/chilean-flamingo.mp3",
+    "audioAttribution": "iNaturalist (c) goncrisdi, CC-BY-NC — observation 146867998",
+    "imageArtist": "(c) David F. Belmonte, some rights reserved (CC BY)",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chilean_Flamingo,_Poza_La_Arenilla,_El_Callao_imported_from_iNaturalist_photo_517735784.jpg",
+    "silhouette": "svg/silhouettes/species/chilean-flamingo.png"
+  },
+  "chimney-swift": {
+    "audio": "audio/chimney-swift.mp3",
+    "audioAttribution": "iNaturalist (c) sandboa, CC-BY-NC — observation 5423030",
+    "imageArtist": "Adam Jackson",
+    "imageLicense": "CC0",
+    "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chaetura_pelagica,_by_Lake_Erie,_Cleveland,_Ohio,_USA_339593191.jpg",
+    "silhouette": "svg/silhouettes/species/chimney-swift.png"
+  },
+  "chinstrap-penguin": {
+    "audio": "audio/chinstrap-penguin.m4a",
+    "audioAttribution": "iNaturalist (c) dpotter75, CC-BY-NC — observation 201186092",
+    "imageArtist": "Godot13",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg",
+    "silhouette": "svg/silhouettes/species/chinstrap-penguin.png"
+  },
+  "chipping-sparrow": {
+    "audio": "audio/chipping-sparrow.mp3",
+    "audioAttribution": "iNaturalist (c) liren, CC-BY — observation 84771593",
+    "imageArtist": "Mdf, Edited by Fir0002",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Spizella-passerina-015_edit.jpg",
+    "silhouette": "svg/silhouettes/species/chipping-sparrow.png"
+  },
+  "clarks-nutcracker": {
+    "audio": "audio/clarks-nutcracker.mp3",
+    "audioAttribution": "iNaturalist (c) birdwhisperer, CC-BY-NC — observation 172461403",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:ClarksNutcracker.jpg",
+    "silhouette": "svg/silhouettes/species/clarks-nutcracker.png"
+  },
+  "coal-tit": {
+    "audio": "audio/coal-tit.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 254562813",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Coal_Tit_2026_03_23.jpg",
+    "silhouette": "svg/silhouettes/species/coal-tit.png"
+  },
+  "cockatiel": {
+    "audio": "audio/cockatiel.mp3",
+    "audioAttribution": "iNaturalist (c) walquiria5, CC-BY-NC — observation 266228267",
+    "imageArtist": "Photo by: Ganatron – paulweberphoto.com",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cockatiel_3.jpg",
+    "silhouette": "svg/silhouettes/species/cockatiel.png"
+  },
+  "common-blackbird": {
+    "audio": "audio/common-blackbird.mp3",
+    "audioAttribution": "iNaturalist (c) miriamoettl, CC-BY-NC — observation 212995421",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Blackbird.jpg",
+    "silhouette": "svg/silhouettes/species/common-blackbird.png"
+  },
+  "common-buzzard": {
+    "audio": "audio/common-buzzard.mp3",
+    "audioAttribution": "iNaturalist (c) brennafarrell, CC-BY-NC — observation 13919680",
+    "imageArtist": "caroline legg",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Buzzard_by_caroline_legg_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/common-buzzard.png"
+  },
+  "common-chaffinch": {
+    "audio": "audio/common-chaffinch.mp3",
+    "audioAttribution": "iNaturalist (c) velibortravoved, CC-BY-NC — observation 45567168",
+    "imageArtist": "caroline legg",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Male_Chaffinch_-_Fringilla_coelebs.jpg",
+    "silhouette": "svg/silhouettes/species/common-chaffinch.png"
+  },
+  "common-crane": {
+    "audio": "audio/common-crane.mp3",
+    "audioAttribution": "iNaturalist (c) rroutledge, CC-BY-NC — observation 53544402",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_crane_grus_grus.jpg",
+    "silhouette": "svg/silhouettes/species/common-crane.png"
+  },
+  "common-cuckoo": {
+    "audio": "audio/common-cuckoo.mp3",
+    "audioAttribution": "iNaturalist (c) miriamoettl, CC-BY-NC — observation 322574818",
+    "imageArtist": "Andy  Morffew from Itchen Abbas, Hampshire, UK",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cuckoo_(51169010335).jpg",
+    "silhouette": "svg/silhouettes/species/common-cuckoo.png"
+  },
+  "common-eider": {
+    "audio": "audio/common-eider.mp3",
+    "audioAttribution": "iNaturalist (c) jansson, CC-BY-NC — observation 282723709",
+    "imageArtist": "Ryzhkov Sergey",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg",
+    "silhouette": "svg/silhouettes/species/common-eider.png"
+  },
+  "common-gallinule": {
+    "audio": "audio/common-gallinule.mp3",
+    "audioAttribution": "iNaturalist (c) alvaro_atrogularis, CC-BY-NC — observation 106899610",
+    "imageArtist": "Casey Klebba",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common-gallinule-galapagos-casey-klebba.jpg",
+    "silhouette": "svg/silhouettes/species/common-gallinule.png"
+  },
+  "common-goldeneye": {
+    "audio": "audio/common-goldeneye.mp3",
+    "audioAttribution": "iNaturalist (c) andrejus, CC-BY — observation 266426095",
+    "imageArtist": "https://www.flickr.com/photos/sbern/",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_(Bucephala_clangula).jpg",
+    "silhouette": "svg/silhouettes/species/common-goldeneye.png"
+  },
+  "common-grackle": {
+    "audio": "audio/common-grackle.mp3",
+    "audioAttribution": "iNaturalist (c) joedziewa, CC-BY-NC — observation 118586236",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_grackle_in_PP_(36732).jpg",
+    "silhouette": "svg/silhouettes/species/common-grackle.png"
+  },
+  "common-guillemot": {
+    "audio": "audio/common-guillemot.mp3",
+    "audioAttribution": "iNaturalist (c) twig777, CC0 — observation 288294377",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Murre_Uria_aalge.jpg",
+    "silhouette": "svg/silhouettes/species/common-guillemot.png"
+  },
+  "common-house-martin": {
+    "audio": "audio/common-house-martin.mp3",
+    "audioAttribution": "iNaturalist (c) bofrie, CC-BY-NC — observation 144413520",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+    "silhouette": "svg/silhouettes/species/common-house-martin.png"
+  },
+  "common-kestrel": {
+    "audio": "audio/common-kestrel.mp3",
+    "audioAttribution": "iNaturalist (c) sibirtania, CC-BY-NC — observation 176943226",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+    "silhouette": "svg/silhouettes/species/common-kestrel.png"
+  },
+  "common-kingfisher": {
+    "audio": "audio/common-kingfisher.mp3",
+    "audioAttribution": "iNaturalist (c) svetlotus, CC-BY-NC — observation 204976561",
+    "imageArtist": "Tony Wood",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Alcedo_atthis_-England-8_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/common-kingfisher.png"
+  },
+  "common-linnet": {
+    "audio": "audio/common-linnet.mp3",
+    "audioAttribution": "iNaturalist (c) tanyakuz, CC-BY-NC — observation 72204808",
+    "imageArtist": "Joe Pell",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
+    "silhouette": "svg/silhouettes/species/common-linnet.png"
+  },
+  "common-loon": {
+    "audio": "audio/common-loon.mp3",
+    "audioAttribution": "iNaturalist (c) richardjbuist, CC-BY-NC — observation 45918289",
+    "imageArtist": "John Picken from Chicago, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gavia_immer_-Minocqua,_Wisconsin,_USA_-swimming-8.jpg",
+    "silhouette": "svg/silhouettes/species/common-loon.png"
+  },
+  "common-merganser": {
+    "audio": "audio/common-merganser.mp3",
+    "audioAttribution": "iNaturalist (c) little_blue_heron, CC-BY-NC — observation 223132703",
+    "imageArtist": "Bengt Nyman from Vaxholm, Sweden",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_merganser_2078_(5561922560).jpg",
+    "silhouette": "svg/silhouettes/species/common-merganser.png"
+  },
+  "common-moorhen": {
+    "audio": "audio/common-moorhen.mp3",
+    "audioAttribution": "iNaturalist (c) david-j-afc, CC-BY — observation 257936423",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg",
+    "silhouette": "svg/silhouettes/species/common-moorhen.png"
+  },
+  "common-myna": {
+    "audio": "audio/common-myna.mp3",
+    "audioAttribution": "iNaturalist (c) swmplf, CC-BY-NC — observation 215470615",
+    "imageArtist": "Gerrie van Vuuren",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+    "silhouette": "svg/silhouettes/species/common-myna.png"
+  },
+  "common-nighthawk": {
+    "audio": "audio/common-nighthawk.mp3",
+    "audioAttribution": "iNaturalist (c) finatic, CC-BY-NC — observation 86294414",
+    "imageArtist": "Andy Reago & Chrissy McClarren",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Nighthawk_(14428313550).jpg",
+    "silhouette": "svg/silhouettes/species/common-nighthawk.png"
+  },
+  "common-nightingale": {
+    "audio": "audio/common-nightingale.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 25799058",
+    "imageArtist": "Warrieboy",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/common-nightingale.png"
+  },
+  "common-ostrich": {
+    "audio": "audio/common-ostrich.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257238699",
+    "imageArtist": "Yathin S Krishnappa",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_(3).jpg",
+    "silhouette": "svg/silhouettes/species/common-ostrich.png"
+  },
+  "common-pheasant": {
+    "audio": "audio/common-pheasant.mp3",
+    "audioAttribution": "iNaturalist (c) emabus7, CC-BY-NC — observation 149809042",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_pheasant_(Phasianus_colchicus)_male_Heligan.jpg",
+    "silhouette": "svg/silhouettes/species/common-pheasant.png"
+  },
+  "common-pochard": {
+    "audio": "audio/common-pochard.mp3",
+    "audioAttribution": "iNaturalist (c) alexopalev, CC-BY-NC — observation 74554669",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Pochard_2025_11_15_04.jpg",
+    "silhouette": "svg/silhouettes/species/common-pochard.png"
+  },
+  "common-quail": {
+    "audio": "audio/common-quail.mp3",
+    "audioAttribution": "iNaturalist (c) irinaskorohodova, CC-BY-NC — observation 288110900",
+    "imageArtist": "christoph_moning",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix,_Fraunberg,_Bayern,_Deutschland_1,_Ausschnitt.jpg",
+    "silhouette": "svg/silhouettes/species/common-quail.png"
+  },
+  "common-raven": {
+    "audio": "audio/common-raven.mp3",
+    "audioAttribution": "iNaturalist (c) wouterkoch, CC0 — observation 6040422",
+    "imageArtist": "Juan Lacruz",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_corax.jpg",
+    "silhouette": "svg/silhouettes/species/common-raven.png"
+  },
+  "common-redshank": {
+    "audio": "audio/common-redshank.mp3",
+    "audioAttribution": "iNaturalist (c) andreyradygin, CC-BY-NC — observation 345634446",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_redshank_(Tringa_totanus)_breeding_Marken.jpg",
+    "silhouette": "svg/silhouettes/species/common-redshank.png"
+  },
+  "common-redstart": {
+    "audio": "audio/common-redstart.mp3",
+    "audioAttribution": "iNaturalist (c) lllcmingslll, CC-BY-NC — observation 198619194",
+    "imageArtist": "Jerzy Strzelecki",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08(js),_Lodz_(Poland).jpg",
+    "silhouette": "svg/silhouettes/species/common-redstart.png"
+  },
+  "common-reed-bunting": {
+    "audio": "audio/common-reed-bunting.mp3",
+    "audioAttribution": "iNaturalist (c) maximion, CC-BY-NC — observation 199120135",
+    "imageArtist": "caroline legg",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Reed_Bunting_-_Emberiza_schoeniclus_(52015951301).jpg",
+    "silhouette": "svg/silhouettes/species/common-reed-bunting.png"
+  },
+  "common-shelduck": {
+    "audio": "audio/common-shelduck.mp3",
+    "audioAttribution": "iNaturalist (c) isla_read, CC-BY-NC — observation 177416747",
+    "imageArtist": "Bernard DUPONT from FRANCE",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Shellduck_(Tadorna_tadorna)_(26499348215).jpg",
+    "silhouette": "svg/silhouettes/species/common-shelduck.png"
+  },
+  "common-starling": {
+    "audio": "audio/common-starling.mp3",
+    "audioAttribution": "iNaturalist (c) benjamin_schmid, CC-BY-NC — observation 65168579",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg",
+    "silhouette": "svg/silhouettes/species/common-starling.png"
+  },
+  "common-swift": {
+    "audio": "audio/common-swift.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 129433725",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/common-swift.png"
+  },
+  "common-teal": {
+    "audio": "audio/common-teal.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 202718032",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_(Anas_crecca_crecca)_male_Qingshui.jpg",
+    "silhouette": "svg/silhouettes/species/common-teal.png"
+  },
+  "common-tern": {
+    "audio": "audio/common-tern.mp3",
+    "audioAttribution": "iNaturalist (c) kens18, CC-BY-NC — observation 15751297",
+    "imageArtist": "MPF",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2014-05-18_Sterna_hirundo,_Killingworth_Lake,_Northumberland_04.jpg",
+    "silhouette": "svg/silhouettes/species/common-tern.png"
+  },
+  "common-wood-pigeon": {
+    "audio": "audio/common-wood-pigeon.mp3",
+    "audioAttribution": "iNaturalist (c) carlesguinart, CC-BY-NC — observation 71497210",
+    "imageArtist": "Bengt Nyman from Vaxholm, Sweden",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_EM1B1397_(27445478998).jpg",
+    "silhouette": "svg/silhouettes/species/common-wood-pigeon.png"
+  },
+  "common-yellowthroat": {
+    "audio": "audio/common-yellowthroat.mp3",
+    "audioAttribution": "iNaturalist (c) elrayman210, CC-BY-NC — observation 12200169",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_yellowthroat_in_PP_(14155).jpg",
+    "silhouette": "svg/silhouettes/species/common-yellowthroat.png"
+  },
+  "coopers-hawk": {
+    "audio": "audio/coopers-hawk.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 333194120",
+    "imageArtist": "Mykola Swarnyk",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg",
+    "silhouette": "svg/silhouettes/species/coopers-hawk.png"
+  },
+  "coppersmith-barbet": {
+    "audio": "audio/coppersmith-barbet.mp3",
+    "audioAttribution": "iNaturalist (c) tusharagarwal18, CC-BY-NC — observation 172950095",
+    "imageArtist": "Shantanu Kuveskar",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Coppersmith_Barbet_(Megalaima_haemacephala)_by_Shantanu_Kuveskar.jpg",
+    "silhouette": "svg/silhouettes/species/coppersmith-barbet.png"
+  },
+  "crested-caracara": {
+    "audio": "audio/crested-caracara.mp3",
+    "audioAttribution": "iNaturalist (c) helio-lourencini, CC-BY — observation 74924043",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Schopfkarakara.jpg",
+    "silhouette": "svg/silhouettes/species/crested-caracara.png"
+  },
+  "crested-serpent-eagle": {
+    "audio": "audio/crested-serpent-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) chiuluan, CC-BY — observation 60484691",
+    "imageArtist": "Yathin S Krishnappa",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Spilornis_cheela_(Bandipur,_2008).jpg",
+    "silhouette": "svg/silhouettes/species/crested-serpent-eagle.png"
+  },
+  "crimson-chat": {
+    "audio": "audio/crimson-chat.mp3",
+    "audioAttribution": "Xeno-canto (c) Marc Anderson, https://creativecommons.org/licenses/by-nc-nd/4.0/ — XC689105",
+    "imageArtist": "Aviceda",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Crimson_Chat_Newhaven_Sep04.JPG",
+    "silhouette": "svg/silhouettes/species/crimson-chat.png"
+  },
+  "crimson-rosella": {
+    "audio": "audio/crimson-rosella.mp3",
+    "audioAttribution": "iNaturalist (c) reiner, CC-BY-NC — observation 271114345",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Platycercus_elegans_Wilsons_Prom.jpg",
+    "silhouette": "svg/silhouettes/species/crimson-rosella.png"
+  },
+  "crimson-sunbird": {
+    "audio": "audio/crimson-sunbird.mp3",
+    "audioAttribution": "iNaturalist (c) samuel_lee, CC-BY — observation 91616753",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:0A2A6965_Crimson_Sunbird.jpg",
+    "silhouette": "svg/silhouettes/species/crimson-sunbird.png"
+  },
+  "crimson-topaz": {
+    "audio": "audio/crimson-topaz.mp3",
+    "audioAttribution": "iNaturalist (c) luciano_bernardes, CC-BY-NC — observation 73020557",
+    "imageArtist": "AISSE GAERTNER",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Crimson_Topaz_(Topaza_pella).jpg",
+    "silhouette": "svg/silhouettes/species/crimson-topaz.png"
+  },
+  "crowned-lapwing": {
+    "audio": "audio/crowned-lapwing.mp3",
+    "audioAttribution": "iNaturalist (c) karoopixie, CC-BY-NC — observation 244657732",
+    "imageArtist": "Diego Delso",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Avefr%C3%ADa_coronada_(Vanellus_coronatus),_Santuario_de_Rinocerontes_Khama,_Botsuana,_2018-08-02,_DD_22.jpg",
+    "silhouette": "svg/silhouettes/species/crowned-lapwing.png"
+  },
+  "dark-eyed-junco": {
+    "audio": "audio/dark-eyed-junco.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 25363649",
+    "imageArtist": "Cephas",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Junco_hyemalis_hyemalis_CT1_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/dark-eyed-junco.png"
+  },
+  "demoiselle-crane": {
+    "audio": "audio/demoiselle-crane.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 89051250",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Demoiselle_Cranes_at_Tal_Chappar.jpg",
+    "silhouette": "svg/silhouettes/species/demoiselle-crane.png"
+  },
+  "double-crested-cormorant": {
+    "audio": "audio/double-crested-cormorant.mp3",
+    "audioAttribution": "iNaturalist (c) neontetraploid, CC-BY-NC — observation 68944459",
+    "imageArtist": "Mdf",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Phalacrocorax-auritus-007.jpg",
+    "silhouette": "svg/silhouettes/species/double-crested-cormorant.png"
+  },
+  "downy-woodpecker": {
+    "audio": "audio/downy-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) linzyl, CC-BY-SA — observation 66797377",
+    "imageArtist": "Cephas",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Dryobates_pubescens_UL_03.jpg",
+    "silhouette": "svg/silhouettes/species/downy-woodpecker.png"
+  },
+  "dunnock": {
+    "audio": "audio/dunnock.mp3",
+    "audioAttribution": "iNaturalist (c) heiditaiao, CC-BY-NC — observation 177284120",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Dunnock_(Prunella_modularis)_3.jpg",
+    "silhouette": "svg/silhouettes/species/dunnock.png"
+  },
+  "eastern-bluebird": {
+    "audio": "audio/eastern-bluebird.mp3",
+    "audioAttribution": "iNaturalist (c) owenstrickland, CC-BY-NC — observation 283841573",
+    "imageArtist": "Sandysphotos2009",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sialia_sialis_-Michigan,_USA_-pair-8c.jpg",
+    "silhouette": "svg/silhouettes/species/eastern-bluebird.png"
+  },
+  "eastern-kingbird": {
+    "audio": "audio/eastern-kingbird.mp3",
+    "audioAttribution": "iNaturalist (c) guy23, CC-BY — observation 335213428",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eastern_kingbird_on_the_hunt_(56948).jpg",
+    "silhouette": "svg/silhouettes/species/eastern-kingbird.png"
+  },
+  "eastern-meadowlark": {
+    "audio": "audio/eastern-meadowlark.mp3",
+    "audioAttribution": "iNaturalist (c) afranck, CC-BY-NC — observation 71914349",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eastern_meadowlark_(Sturnella_magna_mexicana)_Orange_Walk.jpg",
+    "silhouette": "svg/silhouettes/species/eastern-meadowlark.png"
+  },
+  "eastern-phoebe": {
+    "audio": "audio/eastern-phoebe.mp3",
+    "audioAttribution": "iNaturalist (c) nflicker101, CC-BY-NC — observation 110041639",
+    "imageArtist": "John Benson",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sayornis_phoebe_-Owen_Conservation_Park,_Madison,_Wisconsin,_USA-8.jpg",
+    "silhouette": "svg/silhouettes/species/eastern-phoebe.png"
+  },
+  "eastern-rosella": {
+    "audio": "audio/eastern-rosella.mp3",
+    "audioAttribution": "iNaturalist (c) a_emmerson, CC-BY-NC — observation 261469448",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Platycercus_eximius_diemenensis_male.jpg",
+    "silhouette": "svg/silhouettes/species/eastern-rosella.png"
+  },
+  "eastern-screech-owl": {
+    "audio": "audio/eastern-screech-owl.mp3",
+    "audioAttribution": "iNaturalist (c) driftlessroots, CC-BY-NC — observation 132282962",
+    "imageArtist": "Wolfgang Wander",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eastern_Screech_Owl.jpg",
+    "silhouette": "svg/silhouettes/species/eastern-screech-owl.png"
+  },
+  "eastern-towhee": {
+    "audio": "audio/eastern-towhee.mp3",
+    "audioAttribution": "iNaturalist (c) stephaniezed, CC-BY-NC — observation 74465682",
+    "imageArtist": "Paul Danese",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:20241004_eastern_towhee_pleasant_valley_PD207764.jpg",
+    "silhouette": "svg/silhouettes/species/eastern-towhee.png"
+  },
+  "egyptian-goose": {
+    "audio": "audio/egyptian-goose.mp3",
+    "audioAttribution": "iNaturalist (c) billpranty, CC-BY-NC — observation 319050233",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Egyptian_goose_(Alopochen_aegyptiaca)_London.jpg",
+    "silhouette": "svg/silhouettes/species/egyptian-goose.png"
+  },
+  "emperor-penguin": {
+    "audio": "audio/emperor-penguin.m4a",
+    "audioAttribution": "iNaturalist (c) marionfr, CC-BY-NC — observation 340976835",
+    "imageArtist": "Ian Duffy from UK",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "silhouette": "svg/silhouettes/species/emperor-penguin.png"
+  },
+  "emu": {
+    "audio": "audio/emu.mp3",
+    "audioAttribution": "iNaturalist (c) reiner, CC-BY-NC — observation 242578306",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg",
+    "silhouette": "svg/silhouettes/species/emu.png"
+  },
+  "eurasian-bittern": {
+    "audio": "audio/eurasian-bittern.mp3",
+    "audioAttribution": "iNaturalist (c) dina_hromova, CC-BY-NC — observation 305012469",
+    "imageArtist": "Francesco Veronesi from Italy",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_(15409347121).jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-bittern.png"
+  },
+  "eurasian-blue-tit": {
+    "audio": "audio/eurasian-blue-tit.mp3",
+    "audioAttribution": "iNaturalist (c) irilily, CC-BY-NC — observation 198642541",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_blue_tit_(Cyanistes_caeruleus_caeruleus)_Biebrzanski.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-blue-tit.png"
+  },
+  "eurasian-bullfinch": {
+    "audio": "audio/eurasian-bullfinch.mp3",
+    "audioAttribution": "iNaturalist (c) ver_maria, CC-BY-NC — observation 263670370",
+    "imageArtist": "Francis Franklin",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bullfinch_male.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-bullfinch.png"
+  },
+  "eurasian-collared-dove": {
+    "audio": "audio/eurasian-collared-dove.mp3",
+    "audioAttribution": "iNaturalist (c) humluck, CC-BY-NC — observation 335351307",
+    "imageArtist": "stevem4560",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto,_Plovdiv,_Bulgaria_1.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-collared-dove.png"
+  },
+  "eurasian-coot": {
+    "audio": "audio/eurasian-coot.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 249149199",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot_2023_11_25_03.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-coot.png"
+  },
+  "eurasian-curlew": {
+    "audio": "audio/eurasian-curlew.mp3",
+    "audioAttribution": "iNaturalist (c) christoph_moning, CC-BY — observation 74245668",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Curlew.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-curlew.png"
+  },
+  "eurasian-eagle-owl": {
+    "audio": "audio/eurasian-eagle-owl.mp3",
+    "audioAttribution": "iNaturalist (c) nestboxer, CC-BY-NC — observation 137728950",
+    "imageArtist": "Martin Mecnarowski (http://www.photomecan.eu/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_3_(Martin_Mecnarowski).jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-eagle-owl.png"
+  },
+  "eurasian-hobby": {
+    "audio": "audio/eurasian-hobby.mp3",
+    "audioAttribution": "iNaturalist (c) ueligrueninger, CC-BY-NC — observation 292573755",
+    "imageArtist": "Shantanu Kuveskar",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-hobby.png"
+  },
+  "eurasian-hoopoe": {
+    "audio": "audio/eurasian-hoopoe.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 101705252",
+    "imageArtist": "Greg Schechter from San Francisco, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Israel._Eurasian_Hoopoe_(6497645007).jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-hoopoe.png"
+  },
+  "eurasian-jay": {
+    "audio": "audio/eurasian-jay.mp3",
+    "audioAttribution": "iNaturalist (c) valeria54448, CC-BY-NC — observation 357937512",
+    "imageArtist": "Luc Viatour",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-jay.png"
+  },
+  "eurasian-magpie": {
+    "audio": "audio/eurasian-magpie.mp3",
+    "audioAttribution": "iNaturalist (c) romenka, CC-BY-NC — observation 147696380",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_(10860).jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-magpie.png"
+  },
+  "eurasian-nuthatch": {
+    "audio": "audio/eurasian-nuthatch.mp3",
+    "audioAttribution": "iNaturalist (c) kupferglucke, CC-BY — observation 142454484",
+    "imageArtist": "Isiwal",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kleiber_Sitta_europaea-0447.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-nuthatch.png"
+  },
+  "eurasian-oystercatcher": {
+    "audio": "audio/eurasian-oystercatcher.mp3",
+    "audioAttribution": "iNaturalist (c) richardlitt, CC-BY — observation 108098072",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_He.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-oystercatcher.png"
+  },
+  "eurasian-siskin": {
+    "audio": "audio/eurasian-siskin.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 21406949",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_male_Biebrzanski.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-siskin.png"
+  },
+  "eurasian-skylark": {
+    "audio": "audio/eurasian-skylark.mp3",
+    "audioAttribution": "iNaturalist (c) andreyradygin, CC-BY-NC — observation 344475023",
+    "imageArtist": "User:Diliff",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Skylark_2,_Lake_District,_England_-_June_2009.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-skylark.png"
+  },
+  "eurasian-sparrowhawk": {
+    "audio": "audio/eurasian-sparrowhawk.mp3",
+    "audioAttribution": "iNaturalist (c) birdingjulia, CC-BY — observation 97791334",
+    "imageArtist": "Dion Art",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_(Accipiter_nisus,_m),_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-sparrowhawk.png"
+  },
+  "eurasian-spoonbill": {
+    "audio": "audio/eurasian-spoonbill.mp3",
+    "audioAttribution": "iNaturalist (c) christoph_moning, CC-BY — observation 273111633",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Spoonbill-2.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-spoonbill.png"
+  },
+  "eurasian-tree-sparrow": {
+    "audio": "audio/eurasian-tree-sparrow.mp3",
+    "audioAttribution": "iNaturalist (c) sorschlet, CC-BY-NC — observation 201366781",
+    "imageArtist": "Laitche",
+    "imageLicense": "Public domain",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tree_Sparrow_August_2007_Osaka_Japan.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-tree-sparrow.png"
+  },
+  "eurasian-treecreeper": {
+    "audio": "audio/eurasian-treecreeper.mp3",
+    "audioAttribution": "iNaturalist (c) straybird726, CC-BY-NC — observation 299481658",
+    "imageArtist": "caroline legg",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Treecreeper_-_Certhia_familiaris_(54192274817).jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-treecreeper.png"
+  },
+  "eurasian-wigeon": {
+    "audio": "audio/eurasian-wigeon.mp3",
+    "audioAttribution": "iNaturalist (c) admss, CC-BY-NC — observation 328955254",
+    "imageArtist": "Laitche",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_wigeon_in_Sakai,_Osaka,_February_2016.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-wigeon.png"
+  },
+  "eurasian-woodcock": {
+    "audio": "audio/eurasian-woodcock.mp3",
+    "audioAttribution": "iNaturalist (c) christoph_moning, CC-BY — observation 116536023",
+    "imageArtist": "Ronald Slabke",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Woodcock_earthworm.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-woodcock.png"
+  },
+  "eurasian-wryneck": {
+    "audio": "audio/eurasian-wryneck.mp3",
+    "audioAttribution": "iNaturalist (c) jansson, CC-BY-NC — observation 113966440",
+    "imageArtist": "Бусел В.А.",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+    "silhouette": "svg/silhouettes/species/eurasian-wryneck.png"
+  },
+  "european-bee-eater": {
+    "audio": "audio/european-bee-eater.mp3",
+    "audioAttribution": "iNaturalist (c) arseniogonzalez-anapri, CC-BY-NC — observation 74371635",
+    "imageArtist": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bee-eater_(19270331108).jpg",
+    "silhouette": "svg/silhouettes/species/european-bee-eater.png"
+  },
+  "european-golden-plover": {
+    "audio": "audio/european-golden-plover.mp3",
+    "audioAttribution": "iNaturalist (c) shoeshampoo, CC-BY-NC — observation 251300725",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:European_golden_plover_(Pluvialis_apricaria)_female_breeding_Keflavik.jpg",
+    "silhouette": "svg/silhouettes/species/european-golden-plover.png"
+  },
+  "european-goldfinch": {
+    "audio": "audio/european-goldfinch.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 21406949",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/european-goldfinch.png"
+  },
+  "european-green-woodpecker": {
+    "audio": "audio/european-green-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) svetlotus, CC-BY-NC — observation 204976568",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:European_green_woodpecker_(Picus_viridis)_female_Barnes.jpg",
+    "silhouette": "svg/silhouettes/species/european-green-woodpecker.png"
+  },
+  "european-greenfinch": {
+    "audio": "audio/european-greenfinch.mp3",
+    "audioAttribution": "iNaturalist (c) wildpendulum, CC-BY-NC — observation 87158971",
+    "imageArtist": "Martin Kunz",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_(profile).jpg",
+    "silhouette": "svg/silhouettes/species/european-greenfinch.png"
+  },
+  "european-herring-gull": {
+    "audio": "audio/european-herring-gull.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 206720409",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:European_herring_gull_vocalizing_(00170).jpg",
+    "silhouette": "svg/silhouettes/species/european-herring-gull.png"
+  },
+  "european-pied-flycatcher": {
+    "audio": "audio/european-pied-flycatcher.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 363571838",
+    "imageArtist": "Mark Medcalf",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve,_Scotland_-male-8a.jpg",
+    "silhouette": "svg/silhouettes/species/european-pied-flycatcher.png"
+  },
+  "european-robin": {
+    "audio": "audio/european-robin.mp3",
+    "audioAttribution": "iNaturalist (c) gond, CC-BY-NC — observation 101339473",
+    "imageArtist": "Francis C. Franklin",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg",
+    "silhouette": "svg/silhouettes/species/european-robin.png"
+  },
+  "european-roller": {
+    "audio": "audio/european-roller.mp3",
+    "audioAttribution": "iNaturalist (c) mauro_fioretto, CC-BY-NC — observation 189046552",
+    "imageArtist": "Bernard DUPONT from FRANCE",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:European_Roller_(Coracias_garrulus)_(16475688389).jpg",
+    "silhouette": "svg/silhouettes/species/european-roller.png"
+  },
+  "european-stonechat": {
+    "audio": "audio/european-stonechat.mp3",
+    "audioAttribution": "iNaturalist (c) mauro_fioretto, CC-BY-NC — observation 249804933",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Stonechat_(Saxicola_rubicola)_male,_Beaulieu,_Hampshire.jpg",
+    "silhouette": "svg/silhouettes/species/european-stonechat.png"
+  },
+  "european-turtle-dove": {
+    "audio": "audio/european-turtle-dove.mp3",
+    "audioAttribution": "iNaturalist (c) duncan-brooks, CC-BY — observation 47642753",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Turtle_dove_(Streptopelia_turtur_turtur)_Hungary.jpg",
+    "silhouette": "svg/silhouettes/species/european-turtle-dove.png"
+  },
+  "fieldfare": {
+    "audio": "audio/fieldfare.mp3",
+    "audioAttribution": "iNaturalist (c) david-j-afc, CC-BY — observation 256158534",
+    "imageArtist": "Bengt Nyman from Vaxholm, Sweden",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Turdus_pilaris_EM1B9020_(34450664312).jpg",
+    "silhouette": "svg/silhouettes/species/fieldfare.png"
+  },
+  "fischers-lovebird": {
+    "audio": "audio/fischers-lovebird.mp3",
+    "audioAttribution": "iNaturalist (c) tristo, CC-BY-NC — observation 236711155",
+    "imageArtist": "Agapornis_fischeri_-Ueno_Zoo,_Japan_-three-8a.jpg: Takashi Hososhima from Tokyo, Japan\nderivative work: Snowmanradio (talk)",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Agapornis_fischeri_-Ueno_Zoo,_Japan_-three-8a-4c.jpg",
+    "silhouette": "svg/silhouettes/species/fischers-lovebird.png"
+  },
+  "gadwall": {
+    "audio": "audio/gadwall.mp3",
+    "audioAttribution": "iNaturalist (c) birdwhisperer, CC-BY-NC — observation 26230100",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gadwall-Anas-strepera.jpg",
+    "silhouette": "svg/silhouettes/species/gadwall.png"
+  },
+  "galah": {
+    "audio": "audio/galah.mp3",
+    "audioAttribution": "iNaturalist (c) charliekezza, CC-BY-NC — observation 347470949",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Galah_(Eolophus_roseicapilla_albiceps)_male_Adelaide.jpg",
+    "silhouette": "svg/silhouettes/species/galah.png"
+  },
+  "gang-gang-cockatoo": {
+    "audio": "audio/gang-gang-cockatoo.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 145830124",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Callocephalon_fimbriatum_male_-_Callum_Brae.jpg",
+    "silhouette": "svg/silhouettes/species/gang-gang-cockatoo.png"
+  },
+  "gentoo-penguin": {
+    "audio": "audio/gentoo-penguin.mp3",
+    "audioAttribution": "iNaturalist (c) stevestevens, CC0 — observation 199746957",
+    "imageArtist": "A loose noose",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gentoo_penguin_distribution.svg",
+    "silhouette": "svg/silhouettes/species/gentoo-penguin.png"
+  },
+  "golden-crowned-kinglet": {
+    "audio": "audio/golden-crowned-kinglet.mp3",
+    "audioAttribution": "iNaturalist (c) webchickbot, CC-BY-NC — observation 285960083",
+    "imageArtist": "Chuck Homler, Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Golden-Crowned_Kinglet_EBFNWR.jpg",
+    "silhouette": "svg/silhouettes/species/golden-crowned-kinglet.png"
+  },
+  "golden-eagle": {
+    "audio": "audio/golden-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) antonio_robles, CC-BY-NC-SA — observation 101840022",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/golden-eagle.png"
+  },
+  "golden-pheasant": {
+    "audio": "audio/golden-pheasant.mp3",
+    "audioAttribution": "iNaturalist (c) kirann, CC-BY — observation 111915235",
+    "imageArtist": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me  about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+    "imageLicense": "Public domain",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Fasanhona-1.jpg",
+    "silhouette": "svg/silhouettes/species/golden-pheasant.png"
+  },
+  "goliath-heron": {
+    "audio": "audio/goliath-heron.mp3",
+    "audioAttribution": "Xeno-canto (c) Jonathan Onongo, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1083152",
+    "imageArtist": "Steve Garvie from Dunfermline, Fife, Scotland",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ardea_goliath_-Lake_Baringo,_Kenya-8.jpg",
+    "silhouette": "svg/silhouettes/species/goliath-heron.png"
+  },
+  "goosander": {
+    "audio": "audio/goosander.mp3",
+    "audioAttribution": "iNaturalist (c) little_blue_heron, CC-BY-NC — observation 223132703",
+    "imageArtist": "Bengt Nyman from Vaxholm, Sweden",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_merganser_2078_(5561922560).jpg",
+    "silhouette": "svg/silhouettes/species/goosander.png"
+  },
+  "gray-catbird": {
+    "audio": "audio/gray-catbird.mp3",
+    "audioAttribution": "iNaturalist (c) rwp84, CC-BY-NC — observation 79850921",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gray_catbird_(85315).jpg",
+    "silhouette": "svg/silhouettes/species/gray-catbird.png"
+  },
+  "great-blue-heron": {
+    "audio": "audio/great-blue-heron.mp3",
+    "audioAttribution": "iNaturalist (c) drdougwelch, CC-BY-NC — observation 79831109",
+    "imageArtist": "DallasPenner",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:GreatBlueHeronInARiver.jpg",
+    "silhouette": "svg/silhouettes/species/great-blue-heron.png"
+  },
+  "great-cormorant": {
+    "audio": "audio/great-cormorant.mp3",
+    "audioAttribution": "iNaturalist (c) lava_chen, CC-BY-NC — observation 336962187",
+    "imageArtist": "MPF",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2021-05-05_Phalacrocorax_carbo_carbo,_Killingworth_Lake,_Northumberland_1-1.jpg",
+    "silhouette": "svg/silhouettes/species/great-cormorant.png"
+  },
+  "great-crested-flycatcher": {
+    "audio": "audio/great-crested-flycatcher.mp3",
+    "audioAttribution": "iNaturalist (c) cvharris, CC0 — observation 361325280",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:GreatCrestedFlycatcher.jpg",
+    "silhouette": "svg/silhouettes/species/great-crested-flycatcher.png"
+  },
+  "great-crested-grebe": {
+    "audio": "audio/great-crested-grebe.mp3",
+    "audioAttribution": "iNaturalist (c) ivansemenkov, CC-BY-NC — observation 235877401",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Podiceps_cristatus_2_-_Lake_Dulverton.jpg",
+    "silhouette": "svg/silhouettes/species/great-crested-grebe.png"
+  },
+  "great-egret": {
+    "audio": "audio/great-egret.mp3",
+    "audioAttribution": "iNaturalist (c) eleggua, CC-BY-NC — observation 297570137",
+    "imageArtist": "Chuck Homler (FocusOnWildlife.Me)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Great_Egret_(Ardea_alba)_in_Breeding_Plumage,_Cape_May_County,_New_Jersey,_USA_(cropped).png",
+    "silhouette": "svg/silhouettes/species/great-egret.png"
+  },
+  "great-frigatebird": {
+    "audio": "audio/great-frigatebird.m4a",
+    "audioAttribution": "iNaturalist (c) swildem, CC-BY-NC — observation 230845070",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Male_greater_frigate_bird_displaying.jpg",
+    "silhouette": "svg/silhouettes/species/great-frigatebird.png"
+  },
+  "great-grey-owl": {
+    "audio": "audio/great-grey-owl.mp3",
+    "audioAttribution": "iNaturalist (c) fionina_rzn, CC-BY-NC — observation 262875575",
+    "imageArtist": "Dion Art",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D0%B0%D1%8F_%D0%BD%D0%B5%D1%8F%D1%81%D1%8B%D1%82%D1%8C_(Strix_nebulosa,_m),_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4.jpg",
+    "silhouette": "svg/silhouettes/species/great-grey-owl.png"
+  },
+  "great-hornbill": {
+    "audio": "audio/great-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) rajesh45, CC-BY — observation 349949279",
+    "imageArtist": "Shantanu Kuveskar",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+    "silhouette": "svg/silhouettes/species/great-hornbill.png"
+  },
+  "great-horned-owl": {
+    "audio": "audio/great-horned-owl.mp3",
+    "audioAttribution": "iNaturalist (c) brennafarrell, CC-BY-NC — observation 220360023",
+    "imageArtist": "Greg Hume",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bubo_virginianus_06.jpg",
+    "silhouette": "svg/silhouettes/species/great-horned-owl.png"
+  },
+  "great-kiskadee": {
+    "audio": "audio/great-kiskadee.mp3",
+    "audioAttribution": "iNaturalist (c) helio-lourencini, CC-BY — observation 74886862",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Great_kiskadee_(70240).jpg",
+    "silhouette": "svg/silhouettes/species/great-kiskadee.png"
+  },
+  "great-spotted-woodpecker": {
+    "audio": "audio/great-spotted-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) jimarcor, CC-BY-NC — observation 67191837",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Great_spotted_woodpecker_(Dendrocopos_major)_male_Drenthe.jpg",
+    "silhouette": "svg/silhouettes/species/great-spotted-woodpecker.png"
+  },
+  "great-tit": {
+    "audio": "audio/great-tit.mp3",
+    "audioAttribution": "iNaturalist (c) irinaskorohodova, CC-BY-NC — observation 148702170",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major)_Heligan.jpg",
+    "silhouette": "svg/silhouettes/species/great-tit.png"
+  },
+  "greater-blue-eared-starling": {
+    "audio": "audio/greater-blue-eared-starling.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 27564190",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_blue-eared_starling_(Lamprotornis_chalybaeus_nordmanni)_Kruger.jpg",
+    "silhouette": "svg/silhouettes/species/greater-blue-eared-starling.png"
+  },
+  "greater-coucal": {
+    "audio": "audio/greater-coucal.mp3",
+    "audioAttribution": "iNaturalist (c) johnallcock, CC-BY-NC — observation 24244756",
+    "imageArtist": "Davidvraju",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_coucal_crop.jpg",
+    "silhouette": "svg/silhouettes/species/greater-coucal.png"
+  },
+  "greater-flamingo": {
+    "audio": "audio/greater-flamingo.mp3",
+    "audioAttribution": "iNaturalist (c) raf-pan, CC-BY-NC — observation 104482453",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/greater-flamingo.png"
+  },
+  "greater-racket-tailed-drongo": {
+    "audio": "audio/greater-racket-tailed-drongo.mp3",
+    "audioAttribution": "iNaturalist (c) twan3253, CC-BY — observation 133442748",
+    "imageArtist": "Swardeepak",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:GRTDrongo_Sandeep.jpg",
+    "silhouette": "svg/silhouettes/species/greater-racket-tailed-drongo.png"
+  },
+  "greater-rhea": {
+    "audio": "audio/greater-rhea.m4a",
+    "audioAttribution": "iNaturalist (c) ea_cristal_villatunari, CC-BY-NC — observation 276282179",
+    "imageArtist": "Rufus46",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Nandu_Rhea_americana_Tierpark_Hellabrunn-1.jpg",
+    "silhouette": "svg/silhouettes/species/greater-rhea.png"
+  },
+  "greater-roadrunner": {
+    "audio": "audio/greater-roadrunner.mp3",
+    "audioAttribution": "iNaturalist (c) iodiyus, CC-BY-NC — observation 355877779",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_Roadrunner_Tingley_Beach.jpg",
+    "silhouette": "svg/silhouettes/species/greater-roadrunner.png"
+  },
+  "greater-yellowlegs": {
+    "audio": "audio/greater-yellowlegs.mp3",
+    "audioAttribution": "iNaturalist (c) wildreturn, CC0 — observation 144637257",
+    "imageArtist": "Chuck Homler, Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_yellowlegs_(Tringa_melanoleuca)_foraging_at_Huntley_Meadows,_Alexandria,_Virginia,_USA.png",
+    "silhouette": "svg/silhouettes/species/greater-yellowlegs.png"
+  },
+  "green-headed-tanager": {
+    "audio": "audio/green-headed-tanager.mp3",
+    "audioAttribution": "iNaturalist (c) ivanfedericoebrecht, CC-BY-NC — observation 215825173",
+    "imageArtist": "Dario Sanches from São Paulo, Brasil",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Green-headed_tanager.jpg",
+    "silhouette": "svg/silhouettes/species/green-headed-tanager.png"
+  },
+  "green-heron": {
+    "audio": "audio/green-heron.mp3",
+    "audioAttribution": "iNaturalist (c) emyrii, CC-BY-NC — observation 322432782",
+    "imageArtist": "Chuck Homler d/b/a Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Green_heron_(Butorides_virescens),_South_Padre_Island,_Texas,_USA_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/green-heron.png"
+  },
+  "green-winged-teal": {
+    "audio": "audio/green-winged-teal.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 202718032",
+    "imageArtist": "Alan D. Wilson",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Green-winged_Teal,_Port_Aransas,_Texas.jpg",
+    "silhouette": "svg/silhouettes/species/green-winged-teal.png"
+  },
+  "grey-crowned-crane": {
+    "audio": "audio/grey-crowned-crane.mp3",
+    "audioAttribution": "iNaturalist (c) gabyrusu, CC-BY-NC — observation 150593458",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps).jpg",
+    "silhouette": "svg/silhouettes/species/grey-crowned-crane.png"
+  },
+  "grey-go-away-bird": {
+    "audio": "audio/grey-go-away-bird.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 28486916",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Grey_go-away-bird_(Corythaixoides_concolor_concolor)_Kruger.jpg",
+    "silhouette": "svg/silhouettes/species/grey-go-away-bird.png"
+  },
+  "grey-heron": {
+    "audio": "audio/grey-heron.mp3",
+    "audioAttribution": "iNaturalist (c) spiphany, CC-BY — observation 213138892",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Grey_heron_2022_03_18_01.jpg",
+    "silhouette": "svg/silhouettes/species/grey-heron.png"
+  },
+  "grey-partridge": {
+    "audio": "audio/grey-partridge.mp3",
+    "audioAttribution": "iNaturalist (c) vyacheslavluzanov, CC-BY-NC — observation 202702189",
+    "imageArtist": "david galavan",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_Turvey_3.jpg",
+    "silhouette": "svg/silhouettes/species/grey-partridge.png"
+  },
+  "grey-wagtail": {
+    "audio": "audio/grey-wagtail.mp3",
+    "audioAttribution": "iNaturalist (c) vika_b, CC-BY-NC — observation 81699421",
+    "imageArtist": "Herwig Winter",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+    "silhouette": "svg/silhouettes/species/grey-wagtail.png"
+  },
+  "greylag-goose": {
+    "audio": "audio/greylag-goose.mp3",
+    "audioAttribution": "iNaturalist (c) pirol03, CC-BY-NC — observation 200104213",
+    "imageArtist": "Diliff",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park,_London_-_Nov_2006.jpg",
+    "silhouette": "svg/silhouettes/species/greylag-goose.png"
+  },
+  "guianan-cock-of-the-rock": {
+    "audio": "audio/guianan-cock-of-the-rock.mp3",
+    "audioAttribution": "iNaturalist (c) luciano_bernardes, CC-BY-NC — observation 111916189",
+    "imageArtist": "Almir Cândido de Almeida",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Guianan_Cock-of-the-rock_(Rupicola_rupicola).jpg",
+    "silhouette": "svg/silhouettes/species/guianan-cock-of-the-rock.png"
+  },
+  "hadada-ibis": {
+    "audio": "audio/hadada-ibis.mp3",
+    "audioAttribution": "iNaturalist (c) vynbos, CC-BY-SA — observation 18694899",
+    "imageArtist": "Diego Delso",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ibis_hadada_(Bostrychia_hagedash),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-24,_DD_23.jpg",
+    "silhouette": "svg/silhouettes/species/hadada-ibis.png"
+  },
+  "hairy-woodpecker": {
+    "audio": "audio/hairy-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) little_blue_heron, CC-BY-NC — observation 191490178",
+    "imageArtist": "JerryFriedman",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Picoides_villosus_monticola_male1.jpg",
+    "silhouette": "svg/silhouettes/species/hairy-woodpecker.png"
+  },
+  "hamerkop": {
+    "audio": "audio/hamerkop.mp3",
+    "audioAttribution": "iNaturalist (c) protd, CC-BY-SA — observation 166666792",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hamerkop_(Scopus_umbretta_umbretta)_2.jpg",
+    "silhouette": "svg/silhouettes/species/hamerkop.png"
+  },
+  "harpy-eagle": {
+    "audio": "audio/harpy-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) gsbonfa, CC-BY-NC-ND — observation 227798253",
+    "imageArtist": "http://www.birdphotos.com",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_001_800.jpg",
+    "silhouette": "svg/silhouettes/species/harpy-eagle.png"
+  },
+  "hawfinch": {
+    "audio": "audio/hawfinch.mp3",
+    "audioAttribution": "iNaturalist (c) pholub, CC-BY-NC — observation 120641389",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_male_Drenthe.jpg",
+    "silhouette": "svg/silhouettes/species/hawfinch.png"
+  },
+  "helmeted-guineafowl": {
+    "audio": "audio/helmeted-guineafowl.mp3",
+    "audioAttribution": "iNaturalist (c) karoopixie, CC-BY-NC — observation 250456413",
+    "imageArtist": "New Jersey Birds",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Numida_meleagris_-Kruger_National_Park,_South_Africa-8a.jpg",
+    "silhouette": "svg/silhouettes/species/helmeted-guineafowl.png"
+  },
+  "hill-myna": {
+    "audio": "audio/hill-myna.mp3",
+    "audioAttribution": "iNaturalist (c) terolinjama, CC-BY-NC — observation 343649313",
+    "imageArtist": "L. Shyamal",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gracula.svg",
+    "silhouette": "svg/silhouettes/species/hill-myna.png"
+  },
+  "himalayan-monal": {
+    "audio": "audio/himalayan-monal.mp3",
+    "audioAttribution": "iNaturalist (c) natakite, CC-BY-NC — observation 330599449",
+    "imageArtist": "Pratap Gurung",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Himalayan_Monal_at_Sagarmatha_National_Park,_Nepal.jpg",
+    "silhouette": "svg/silhouettes/species/himalayan-monal.png"
+  },
+  "hoatzin": {
+    "audio": "audio/hoatzin.m4a",
+    "audioAttribution": "iNaturalist (c) liam_pentangelo, CC-BY-NC — observation 332942629",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hoatzin_(Opisthocomus_hoazin)_Rio_Napo.jpg",
+    "silhouette": "svg/silhouettes/species/hoatzin.png"
+  },
+  "hooded-merganser": {
+    "audio": "audio/hooded-merganser.mp3",
+    "audioAttribution": "iNaturalist (c) little_blue_heron, CC-BY-NC — observation 280280333",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hooded_merganser_male_in_Central_Park_(95790).jpg",
+    "silhouette": "svg/silhouettes/species/hooded-merganser.png"
+  },
+  "hoopoe": {
+    "audio": "audio/hoopoe.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 101705252",
+    "imageArtist": "Keta",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Upupa_epops_Madrid_01.jpg",
+    "silhouette": "svg/silhouettes/species/hoopoe.png"
+  },
+  "house-crow": {
+    "audio": "audio/house-crow.mp3",
+    "audioAttribution": "iNaturalist (c) billpranty, CC-BY-NC — observation 322542729",
+    "imageArtist": "Pkspks",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_splendens.jpg",
+    "silhouette": "svg/silhouettes/species/house-crow.png"
+  },
+  "house-finch": {
+    "audio": "audio/house-finch.mp3",
+    "audioAttribution": "iNaturalist (c) bucketofseaweed, CC-BY-NC — observation 256047815",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:House_finch_(33688)2.jpg",
+    "silhouette": "svg/silhouettes/species/house-finch.png"
+  },
+  "house-sparrow": {
+    "audio": "audio/house-sparrow.mp3",
+    "audioAttribution": "iNaturalist (c) a-balakhnin, CC-BY-NC — observation 337212168",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg",
+    "silhouette": "svg/silhouettes/species/house-sparrow.png"
+  },
+  "house-wren": {
+    "audio": "audio/house-wren.mp3",
+    "audioAttribution": "iNaturalist (c) djweyer, CC-BY-NC — observation 43333355",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:House_wren_in_Prospect_Park_(23218).jpg",
+    "silhouette": "svg/silhouettes/species/house-wren.png"
+  },
+  "humboldt-penguin": {
+    "audio": "audio/humboldt-penguin.mp3",
+    "audioAttribution": "Xeno-canto (c) Cristian Pinto, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC520292",
+    "imageArtist": "Christian Ursilva from København, Danmark",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Spheniscus_humboldti_(54905367722).jpg",
+    "silhouette": "svg/silhouettes/species/humboldt-penguin.png"
+  },
+  "hyacinth-macaw": {
+    "audio": "audio/hyacinth-macaw.mp3",
+    "audioAttribution": "iNaturalist (c) gio, CC-BY-SA — observation 173201935",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:008_Hyacinth_macaw_couple_kissing_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/hyacinth-macaw.png"
+  },
+  "inca-tern": {
+    "audio": "audio/inca-tern.mp3",
+    "audioAttribution": "iNaturalist (c) jocean, CC-BY-NC — observation 123288077",
+    "imageArtist": "Cristóbal Alvarado Minic from Cagua, Venezuela",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Larosterna_inca_-Lima,_Peru_-adult-8.jpg",
+    "silhouette": "svg/silhouettes/species/inca-tern.png"
+  },
+  "indian-grey-hornbill": {
+    "audio": "audio/indian-grey-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) shuchisharma, CC-BY-NC — observation 273493332",
+    "imageArtist": "J.M.Garg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_Grey_Hornbill_I_IMG_4051.jpg",
+    "silhouette": "svg/silhouettes/species/indian-grey-hornbill.png"
+  },
+  "indian-paradise-flycatcher": {
+    "audio": "audio/indian-paradise-flycatcher.mp3",
+    "audioAttribution": "iNaturalist (c) nandansreejith_snowshark182, CC-BY-NC — observation 260222827",
+    "imageArtist": "Drashokk",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_paradise_flycatcher_(2018).jpg",
+    "silhouette": "svg/silhouettes/species/indian-paradise-flycatcher.png"
+  },
+  "indian-peafowl": {
+    "audio": "audio/indian-peafowl.mp3",
+    "audioAttribution": "iNaturalist (c) pangeaa, CC-BY-NC — observation 261260814",
+    "imageArtist": "Kandukuru Nagarjun from Bangalore, India",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Peacock_on_tree_(52077240794).jpg",
+    "silhouette": "svg/silhouettes/species/indian-peafowl.png"
+  },
+  "indian-pond-heron": {
+    "audio": "audio/indian-pond-heron.wav",
+    "audioAttribution": "iNaturalist (c) michaelsen, CC-BY-NC — observation 330583377",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_pond_heron_(Ardeola_grayii)_non_breeding.jpg",
+    "silhouette": "svg/silhouettes/species/indian-pond-heron.png"
+  },
+  "indian-roller": {
+    "audio": "audio/indian-roller.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 166418829",
+    "imageArtist": "Mahmadanesh",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_roller_-_Timbi_Lake,_Vadodara_2023-12-03.jpg",
+    "silhouette": "svg/silhouettes/species/indian-roller.png"
+  },
+  "indian-white-eye": {
+    "audio": "audio/indian-white-eye.mp3",
+    "audioAttribution": "iNaturalist (c) bioexplorer_ash, CC-BY — observation 259614921",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_white-eye_(Zosterops_palpebrosus_egregius).jpg",
+    "silhouette": "svg/silhouettes/species/indian-white-eye.png"
+  },
+  "indigo-bunting": {
+    "audio": "audio/indigo-bunting.mp3",
+    "audioAttribution": "iNaturalist (c) frogspotter, CC-BY-SA — observation 235555994",
+    "imageArtist": "Dan Pancamo",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indigo_Bunting_by_Dan_Pancamo_4.jpg",
+    "silhouette": "svg/silhouettes/species/indigo-bunting.png"
+  },
+  "jabiru": {
+    "audio": "audio/jabiru.mp3",
+    "audioAttribution": "iNaturalist (c) marco-ferreira, CC-BY-NC — observation 124040744",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/jabiru.png"
+  },
+  "java-sparrow": {
+    "audio": "audio/java-sparrow.mp3",
+    "audioAttribution": "iNaturalist (c) neontetraploid, CC-BY-NC — observation 177946272",
+    "imageArtist": "Francesco Veronesi from Italy",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Java_Sparrow_-_Baluran_NP_-_East_Java_MG_8180_(29726690101).jpg",
+    "silhouette": "svg/silhouettes/species/java-sparrow.png"
+  },
+  "kalij-pheasant": {
+    "audio": "audio/kalij-pheasant.mp3",
+    "audioAttribution": "iNaturalist (c) damienxw, CC-BY — observation 341628107",
+    "imageArtist": "Mprasannak",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kalij_pheasant_Prasanna_Mamidala.jpg",
+    "silhouette": "svg/silhouettes/species/kalij-pheasant.png"
+  },
+  "kea": {
+    "audio": "audio/kea.mp3",
+    "audioAttribution": "iNaturalist (c) jennysaito, CC-BY-NC — observation 145736069",
+    "imageArtist": "Mark Whatmough",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Nestor_notabilis_-Fiordland,_New_Zealand-8b.jpg",
+    "silhouette": "svg/silhouettes/species/kea.png"
+  },
+  "keel-billed-toucan": {
+    "audio": "audio/keel-billed-toucan.mp3",
+    "audioAttribution": "iNaturalist (c) dawicho, CC-BY-NC — observation 131387787",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Keel-billed_toucan_(Ramphastos_sulfuratus_sulfuratus)_on_foxtail_palm_(Wodyetia_bifurcata)_Cayo.jpg",
+    "silhouette": "svg/silhouettes/species/keel-billed-toucan.png"
+  },
+  "killdeer": {
+    "audio": "audio/killdeer.mp3",
+    "audioAttribution": "iNaturalist (c) k2018lena, CC0 — observation 48913140",
+    "imageArtist": "Charles Homler d/b/a FocusOnWildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Killdeer_Heislerville.png",
+    "silhouette": "svg/silhouettes/species/killdeer.png"
+  },
+  "king-penguin": {
+    "audio": "audio/king-penguin.wav",
+    "audioAttribution": "iNaturalist (c) stevestevens, CC0 — observation 107786503",
+    "imageArtist": "Godot13",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Fortuna_Bay)%E2%80%93King_penguin_(Aptenodytes_patagonicus)_04.jpg",
+    "silhouette": "svg/silhouettes/species/king-penguin.png"
+  },
+  "king-vulture": {
+    "audio": "audio/king-vulture.mp3",
+    "audioAttribution": "Xeno-canto (c) Arthur Monteiro Gomes, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC488986",
+    "imageArtist": "Renato Augusto Martins",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Urubu_rei_-_Sarcoramphus_papa.jpg",
+    "silhouette": "svg/silhouettes/species/king-vulture.png"
+  },
+  "kori-bustard": {
+    "audio": "audio/kori-bustard.mp3",
+    "audioAttribution": "Xeno-canto (c) Andrew Spencer, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC209987",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kori_bustard_(Ardeotis_kori_kori)_male.jpg",
+    "silhouette": "svg/silhouettes/species/kori-bustard.png"
+  },
+  "lady-amhersts-pheasant": {
+    "audio": "audio/lady-amhersts-pheasant.mp3",
+    "audioAttribution": "Xeno-canto (c) Jelle Scharringa, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1017342",
+    "imageArtist": "Sylfred1977",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chrysolophus_amherstiae_18092009.jpg",
+    "silhouette": "svg/silhouettes/species/lady-amhersts-pheasant.png"
+  },
+  "large-billed-crow": {
+    "audio": "audio/large-billed-crow.mp3",
+    "audioAttribution": "iNaturalist (c) nandansreejith_snowshark182, CC-BY-NC — observation 174270054",
+    "imageArtist": "Laitche",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Jungle_crow_(Close-up_of_the_head_area),_Tenn%C5%8Dji_Park,_Osaka_II.jpg",
+    "silhouette": "svg/silhouettes/species/large-billed-crow.png"
+  },
+  "laughing-kookaburra": {
+    "audio": "audio/laughing-kookaburra.mp3",
+    "audioAttribution": "iNaturalist (c) jennysaito, CC-BY-NC — observation 145042209",
+    "imageArtist": "Photo by: Paulweberphoto - paulweberphoto.com",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Laughing_Kookaburra_1.jpg",
+    "silhouette": "svg/silhouettes/species/laughing-kookaburra.png"
+  },
+  "laysan-albatross": {
+    "audio": "audio/laysan-albatross.mp3",
+    "audioAttribution": "iNaturalist (c) damienxw, CC-BY — observation 258889796",
+    "imageArtist": "DickDaniels (http://theworldbirds.org/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Laysan_Albatross_RWD2.jpg",
+    "silhouette": "svg/silhouettes/species/laysan-albatross.png"
+  },
+  "lazuli-bunting": {
+    "audio": "audio/lazuli-bunting.mp3",
+    "audioAttribution": "iNaturalist (c) luck, CC-BY — observation 290575602",
+    "imageArtist": "www.naturespicsonline.com",
+    "imageLicense": "Copyrighted free use",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Lazuli_Bunting.jpg",
+    "silhouette": "svg/silhouettes/species/lazuli-bunting.png"
+  },
+  "lesser-flamingo": {
+    "audio": "audio/lesser-flamingo.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 31608754",
+    "imageArtist": "Sumita Roy Dutta",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Flock_of_Lesser_Flamingo_along_with_juvenile_near_Jamnagar_railway_stationDSCN1798_1.jpg",
+    "silhouette": "svg/silhouettes/species/lesser-flamingo.png"
+  },
+  "lilac-breasted-roller": {
+    "audio": "audio/lilac-breasted-roller.mp3",
+    "audioAttribution": "iNaturalist (c) saschaschumann, CC-BY-NC — observation 260360091",
+    "imageArtist": "Bernard DUPONT",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Lilac-breasted_Roller_(Coracias_caudatus).jpg",
+    "silhouette": "svg/silhouettes/species/lilac-breasted-roller.png"
+  },
+  "little-egret": {
+    "audio": "audio/little-egret.mp3",
+    "audioAttribution": "iNaturalist (c) vyacheslavluzanov, CC-BY-NC — observation 255102413",
+    "imageArtist": "Shantanu Kuveskar",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Little_egret_(Egretta_garzetta)_Photograph_by_Shantanu_Kuveskar.jpg",
+    "silhouette": "svg/silhouettes/species/little-egret.png"
+  },
+  "little-owl": {
+    "audio": "audio/little-owl.mp3",
+    "audioAttribution": "iNaturalist (c) magikarp99, CC-BY-NC — observation 258019868",
+    "imageArtist": "Максат79",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+    "silhouette": "svg/silhouettes/species/little-owl.png"
+  },
+  "little-penguin": {
+    "audio": "audio/little-penguin.mp3",
+    "audioAttribution": "iNaturalist (c) intyrely_eco, CC-BY — observation 40801166",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Eudyptula_minor_Bruny_1.jpg",
+    "silhouette": "svg/silhouettes/species/little-penguin.png"
+  },
+  "long-eared-owl": {
+    "audio": "audio/long-eared-owl.mp3",
+    "audioAttribution": "iNaturalist (c) ptich_senich, CC-BY-NC — observation 294021930",
+    "imageArtist": "Francesco Veronesi from Italy",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_(15671750198).jpg",
+    "silhouette": "svg/silhouettes/species/long-eared-owl.png"
+  },
+  "long-tailed-shrike": {
+    "audio": "audio/long-tailed-shrike.mp3",
+    "audioAttribution": "iNaturalist (c) abujudy, CC-BY-NC-ND — observation 180740873",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Long-tailed_Shrilke_0A2A3080.jpg",
+    "silhouette": "svg/silhouettes/species/long-tailed-shrike.png"
+  },
+  "long-tailed-tit": {
+    "audio": "audio/long-tailed-tit.mp3",
+    "audioAttribution": "iNaturalist (c) svetlotus, CC-BY-NC — observation 254608781",
+    "imageArtist": "Ігор Червоненко",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%B0_2.jpg",
+    "silhouette": "svg/silhouettes/species/long-tailed-tit.png"
+  },
+  "long-tailed-widowbird": {
+    "audio": "audio/long-tailed-widowbird.mp3",
+    "audioAttribution": "Xeno-canto (c) Dries Van de Loock, https://creativecommons.org/licenses/by-nc-nd/4.0/ — XC958781",
+    "imageArtist": "Bernard DUPONT from FRANCE",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Long-tailed_Widowbird_(Euplectes_progne)_male_...._(46718360972).jpg",
+    "silhouette": "svg/silhouettes/species/long-tailed-widowbird.png"
+  },
+  "magellanic-penguin": {
+    "audio": "audio/magellanic-penguin.mp3",
+    "audioAttribution": "iNaturalist (c) christoph_moning, CC-BY — observation 202168783",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:MagellanicPenguin.jpg",
+    "silhouette": "svg/silhouettes/species/magellanic-penguin.png"
+  },
+  "magnificent-frigatebird": {
+    "audio": "audio/magnificent-frigatebird.mp3",
+    "audioAttribution": "iNaturalist (c) stevestevens, CC0 — observation 258500345",
+    "imageArtist": "Andrew Turner from Washington, DC, United States",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Fregata_magnificens_-Galapagos,_Ecuador_-male-8_(1).jpg",
+    "silhouette": "svg/silhouettes/species/magnificent-frigatebird.png"
+  },
+  "magpie-lark": {
+    "audio": "audio/magpie-lark.mp3",
+    "audioAttribution": "iNaturalist (c) dirtandsol, CC-BY-NC — observation 155524347",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Magpie-lark_(Grallina_cyanoleuca_cyanoleuca)_male_Adelaide.jpg",
+    "silhouette": "svg/silhouettes/species/magpie-lark.png"
+  },
+  "major-mitchells-cockatoo": {
+    "audio": "audio/major-mitchells-cockatoo.m4a",
+    "audioAttribution": "iNaturalist (c) jvanweenen, CC-BY-NC — observation 257277438",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Major_Mitchell%27s_Cockatoo_1_-_Mt_Grenfell.jpg",
+    "silhouette": "svg/silhouettes/species/major-mitchells-cockatoo.png"
+  },
+  "malachite-kingfisher": {
+    "audio": "audio/malachite-kingfisher.mp3",
+    "audioAttribution": "iNaturalist (c) magdastlucia, CC-BY-NC — observation 132989613",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Malachite_kingfisher_(Corythornis_cristatus_cristatus).jpg",
+    "silhouette": "svg/silhouettes/species/malachite-kingfisher.png"
+  },
+  "mallard": {
+    "audio": "audio/mallard.mp3",
+    "audioAttribution": "iNaturalist (c) lacigerhart, CC-BY-NC — observation 115498951",
+    "imageArtist": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg",
+    "silhouette": "svg/silhouettes/species/mallard.png"
+  },
+  "mandarin-duck": {
+    "audio": "audio/mandarin-duck.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 129445222",
+    "imageArtist": "Francis C. Franklin",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pair_of_mandarin_ducks.jpg",
+    "silhouette": "svg/silhouettes/species/mandarin-duck.png"
+  },
+  "maned-duck": {
+    "audio": "audio/maned-duck.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 246745495",
+    "imageArtist": "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Canon 70-200mm f/2.8 L",
+    "imageLicense": "GFDL 1.2",
+    "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Australian_wood_duck_-_male.jpg",
+    "silhouette": "svg/silhouettes/species/maned-duck.png"
+  },
+  "marabou-stork": {
+    "audio": "audio/marabou-stork.m4a",
+    "audioAttribution": "iNaturalist (c) nastykake, CC-BY-NC — observation 264664772",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Marabou_stork_(Leptoptilos_crumenifer).jpg",
+    "silhouette": "svg/silhouettes/species/marabou-stork.png"
+  },
+  "martial-eagle": {
+    "audio": "audio/martial-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) ken156, CC-BY-NC — observation 23011862",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Martial_eagle_(Polemaetus_bellicosus).jpg",
+    "silhouette": "svg/silhouettes/species/martial-eagle.png"
+  },
+  "marvelous-spatuletail": {
+    "audio": "audio/marvelous-spatuletail.mp3",
+    "audioAttribution": "Xeno-canto (c) Andrew Spencer, https://creativecommons.org/licenses/by-nc-nd/2.5/ — XC41717",
+    "imageArtist": "thibaudaronson",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Loddigesia_mirabilis_114707728.jpg",
+    "silhouette": "svg/silhouettes/species/marvelous-spatuletail.png"
+  },
+  "masked-lapwing": {
+    "audio": "audio/masked-lapwing.mp3",
+    "audioAttribution": "iNaturalist (c) anthonyw2, CC-BY-NC — observation 197261075",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Masked_lapwing_(Vanellus_miles_miles)_Darwin.jpg",
+    "silhouette": "svg/silhouettes/species/masked-lapwing.png"
+  },
+  "meadow-pipit": {
+    "audio": "audio/meadow-pipit.mp3",
+    "audioAttribution": "iNaturalist (c) thorleyc2, CC-BY-NC — observation 25076365",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Wiesenpieper_Meadow_pipit.jpg",
+    "silhouette": "svg/silhouettes/species/meadow-pipit.png"
+  },
+  "merlin": {
+    "audio": "audio/merlin.mp3",
+    "audioAttribution": "iNaturalist (c) jfpetit, CC-BY-NC — observation 278527285",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Merlin_in_Prospect_Park_(63386).jpg",
+    "silhouette": "svg/silhouettes/species/merlin.png"
+  },
+  "mikado-pheasant": {
+    "audio": "audio/mikado-pheasant.mp3",
+    "audioAttribution": "Xeno-canto (c) Kuan-Chieh (Chuck) Hung, Taiwanbirdguide.com, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC629557",
+    "imageArtist": "Snowyowls (photographer) / Jako (uploader)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mikado_Pheasant_398.jpg",
+    "silhouette": "svg/silhouettes/species/mikado-pheasant.png"
+  },
+  "military-macaw": {
+    "audio": "audio/military-macaw.mp3",
+    "audioAttribution": "iNaturalist (c) nicolemx, CC-BY-NC — observation 192156958",
+    "imageArtist": "neiljs",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ara_militaris_-London_Zoo-8a.jpg",
+    "silhouette": "svg/silhouettes/species/military-macaw.png"
+  },
+  "mistle-thrush": {
+    "audio": "audio/mistle-thrush.mp3",
+    "audioAttribution": "iNaturalist (c) samleipzig, CC-BY-NC-SA — observation 341107252",
+    "imageArtist": "Fernando Losada Rodríguez",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus.001_-_Cardiff.jpg",
+    "silhouette": "svg/silhouettes/species/mistle-thrush.png"
+  },
+  "monk-parakeet": {
+    "audio": "audio/monk-parakeet.mp3",
+    "audioAttribution": "iNaturalist (c) salix-babylonica, CC-BY-NC-ND — observation 332307144",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Monk_parakeet_(Myiopsitta_monachus)_Santiago.jpg",
+    "silhouette": "svg/silhouettes/species/monk-parakeet.png"
+  },
+  "mountain-bluebird": {
+    "audio": "audio/mountain-bluebird.mp3",
+    "audioAttribution": "iNaturalist (c) vireosylva, CC-BY-NC — observation 193314040",
+    "imageArtist": "Elaine R. Wilson",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mountain_Bluebird.jpg",
+    "silhouette": "svg/silhouettes/species/mountain-bluebird.png"
+  },
+  "mountain-hawk-eagle": {
+    "audio": "audio/mountain-hawk-eagle.m4a",
+    "audioAttribution": "iNaturalist (c) pchi45, CC-BY — observation 149461461",
+    "imageArtist": "Dibyendu Ash",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mountain_Hawk_Eagle_Mahananda_WLS_West_Bengal_India_07.12.2015.jpg",
+    "silhouette": "svg/silhouettes/species/mountain-hawk-eagle.png"
+  },
+  "mourning-dove": {
+    "audio": "audio/mourning-dove.mp3",
+    "audioAttribution": "iNaturalist (c) bluewing, CC-BY-NC — observation 49368488",
+    "imageArtist": "JeffreyGammon",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Av_Mourning_Dove_JG.jpg",
+    "silhouette": "svg/silhouettes/species/mourning-dove.png"
+  },
+  "mute-swan": {
+    "audio": "audio/mute-swan.mp3",
+    "audioAttribution": "iNaturalist (c) ryanbrogan, CC-BY-NC — observation 326172243",
+    "imageArtist": "Geni",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mute_Swan_Emsworth2.JPG",
+    "silhouette": "svg/silhouettes/species/mute-swan.png"
+  },
+  "new-holland-honeyeater": {
+    "audio": "audio/new-holland-honeyeater.mp3",
+    "audioAttribution": "iNaturalist (c) nicklambert, CC-BY-NC-SA — observation 88535528",
+    "imageArtist": "Photo by: Paulweberphoto - paulweberphoto.com",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:New_Holland_honeyeater_().jpg",
+    "silhouette": "svg/silhouettes/species/new-holland-honeyeater.png"
+  },
+  "noisy-miner": {
+    "audio": "audio/noisy-miner.mp3",
+    "audioAttribution": "iNaturalist (c) urliup-wildlife-sanctuary, CC-BY-NC — observation 93563952",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Manorina_melanocephala_AF.jpg",
+    "silhouette": "svg/silhouettes/species/noisy-miner.png"
+  },
+  "north-island-brown-kiwi": {
+    "audio": "audio/north-island-brown-kiwi.mp3",
+    "audioAttribution": "iNaturalist (c) mad_wild, CC-BY-NC — observation 33343460",
+    "imageArtist": "Maungatautari Ecological Island Trust",
+    "imageLicense": "Public domain",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:TeTuatahianui.jpg",
+    "silhouette": "svg/silhouettes/species/north-island-brown-kiwi.png"
+  },
+  "northern-bobwhite": {
+    "audio": "audio/northern-bobwhite.mp3",
+    "audioAttribution": "iNaturalist (c) gwmn_ash, CC-BY-NC — observation 104686340",
+    "imageArtist": "BS nThurner HOf",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Virginiawachtel_2007-06-16_065.jpg",
+    "silhouette": "svg/silhouettes/species/northern-bobwhite.png"
+  },
+  "northern-cardinal": {
+    "audio": "audio/northern-cardinal.mp3",
+    "audioAttribution": "iNaturalist (c) joedziewa, CC-BY-NC — observation 124140418",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Male_northern_cardinal_in_Central_Park_(52612).jpg",
+    "silhouette": "svg/silhouettes/species/northern-cardinal.png"
+  },
+  "northern-flicker": {
+    "audio": "audio/northern-flicker.mp3",
+    "audioAttribution": "iNaturalist (c) k_a_m, CC-BY-NC — observation 304858589",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_yellow-shafted_flicker_male_(33737)_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/northern-flicker.png"
+  },
+  "northern-gannet": {
+    "audio": "audio/northern-gannet.mp3",
+    "audioAttribution": "iNaturalist (c) sknarberg, CC-BY-NC — observation 324360241",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Morus_bassanus_adu.jpg",
+    "silhouette": "svg/silhouettes/species/northern-gannet.png"
+  },
+  "northern-goshawk": {
+    "audio": "audio/northern-goshawk.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 198505022",
+    "imageArtist": "Norbert Kenntner, Berlin",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_Goshawk_ad_M2.jpg",
+    "silhouette": "svg/silhouettes/species/northern-goshawk.png"
+  },
+  "northern-harrier": {
+    "audio": "audio/northern-harrier.mp3",
+    "audioAttribution": "iNaturalist (c) rroutledge, CC-BY-NC — observation 168738655",
+    "imageArtist": "Becky Matsubara from El Sobrante, California",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Circus_hudsonius,_male_perched,_Berkeley,_California_(cropped).jpg",
+    "silhouette": "svg/silhouettes/species/northern-harrier.png"
+  },
+  "northern-lapwing": {
+    "audio": "audio/northern-lapwing.mp3",
+    "audioAttribution": "iNaturalist (c) anthonyw2, CC-BY-NC — observation 197261075",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
+    "silhouette": "svg/silhouettes/species/northern-lapwing.png"
+  },
+  "northern-mockingbird": {
+    "audio": "audio/northern-mockingbird.mp3",
+    "audioAttribution": "iNaturalist (c) eric555, CC-BY-NC — observation 353454263",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mockingbird_in_Bay_Ridge_(85082).jpg",
+    "silhouette": "svg/silhouettes/species/northern-mockingbird.png"
+  },
+  "northern-pintail": {
+    "audio": "audio/northern-pintail.mp3",
+    "audioAttribution": "iNaturalist (c) bottin, CC-BY-NC — observation 108676608",
+    "imageArtist": "J.M.Garg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_Pintails_(Male_%26_Female)_I_IMG_0911.jpg",
+    "silhouette": "svg/silhouettes/species/northern-pintail.png"
+  },
+  "northern-shoveler": {
+    "audio": "audio/northern-shoveler.mp3",
+    "audioAttribution": "iNaturalist (c) admss, CC-BY-NC — observation 314441550",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_(Spatula_clypeata)_male_Marken.jpg",
+    "silhouette": "svg/silhouettes/species/northern-shoveler.png"
+  },
+  "northern-wheatear": {
+    "audio": "audio/northern-wheatear.mp3",
+    "audioAttribution": "iNaturalist (c) eckerisch, CC-BY-NC — observation 207897556",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Steinschmaetzer_Northern_wheatear_male.jpg",
+    "silhouette": "svg/silhouettes/species/northern-wheatear.png"
+  },
+  "oriental-dollarbird": {
+    "audio": "audio/oriental-dollarbird.mp3",
+    "audioAttribution": "iNaturalist (c) redpandacat, CC-BY-NC-SA — observation 130198130",
+    "imageArtist": "Aviceda",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Dollarbird_Samcem_Dec02.JPG",
+    "silhouette": "svg/silhouettes/species/oriental-dollarbird.png"
+  },
+  "oriental-magpie-robin": {
+    "audio": "audio/oriental-magpie-robin.mp3",
+    "audioAttribution": "iNaturalist (c) joshuachowkengfatt, CC-BY-NC — observation 20898536",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Oriental_magpie-robin_(Copsychus_saularis_ceylonensis)_male.jpg",
+    "silhouette": "svg/silhouettes/species/oriental-magpie-robin.png"
+  },
+  "oriental-pied-hornbill": {
+    "audio": "audio/oriental-pied-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) dbeadle, CC-BY-NC — observation 195751558",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Oriental_pied_hornbill_(Anthracoceros_albirostris)_male_(l)_female_(r).jpg",
+    "silhouette": "svg/silhouettes/species/oriental-pied-hornbill.png"
+  },
+  "osprey": {
+    "audio": "audio/osprey.mp3",
+    "audioAttribution": "iNaturalist (c) danicardoza, CC-BY-NC — observation 63327508",
+    "imageArtist": "Chuck Homler / Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Osprey_Perched_Snag_Heislerville.jpg",
+    "silhouette": "svg/silhouettes/species/osprey.png"
+  },
+  "ostrich": {
+    "audio": "audio/ostrich.mp3",
+    "audioAttribution": "iNaturalist (c) richardlitt, CC-BY — observation 108098072",
+    "imageArtist": "PaleoNeolitic (montage creator)\n\nDiego Delso\nninara",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Struthio_Diversity.jpg",
+    "silhouette": "svg/silhouettes/species/ostrich.png"
+  },
+  "pacific-black-duck": {
+    "audio": "audio/pacific-black-duck.mp3",
+    "audioAttribution": "iNaturalist (c) richardlitt, CC-BY — observation 331652323",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pacific_black_duck_(Anas_superciliosa)_male_swimming_Sydney.jpg",
+    "silhouette": "svg/silhouettes/species/pacific-black-duck.png"
+  },
+  "painted-bunting": {
+    "audio": "audio/painted-bunting.mp3",
+    "audioAttribution": "iNaturalist (c) dan_johnson, CC-BY-NC — observation 13803375",
+    "imageArtist": "Dakota L.",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Male_Painted_Bunting_Singing.jpg",
+    "silhouette": "svg/silhouettes/species/painted-bunting.png"
+  },
+  "painted-stork": {
+    "audio": "audio/painted-stork.m4a",
+    "audioAttribution": "iNaturalist (c) anukritisharma, CC-BY-NC — observation 340295036",
+    "imageArtist": "Swardeepak",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:P-Stork-Sandeep.jpg",
+    "silhouette": "svg/silhouettes/species/painted-stork.png"
+  },
+  "paradise-tanager": {
+    "audio": "audio/paradise-tanager.mp3",
+    "audioAttribution": "iNaturalist (c) mapoflife_rapidassessments, CC-BY-NC — observation 237039272",
+    "imageArtist": "thibaudaronson",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tangara_chilensis_94893412.jpg",
+    "silhouette": "svg/silhouettes/species/paradise-tanager.png"
+  },
+  "pels-fishing-owl": {
+    "audio": "audio/pels-fishing-owl.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 92458434",
+    "imageArtist": "https://www.flickr.com/photos/dkeats",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pel%27s_fishing_owl,_Scotopelia_pel.jpg",
+    "silhouette": "svg/silhouettes/species/pels-fishing-owl.png"
+  },
+  "peregrine-falcon": {
+    "audio": "audio/peregrine-falcon.mp3",
+    "audioAttribution": "iNaturalist (c) daradesmond, CC-BY-NC — observation 230600546",
+    "imageArtist": "Mykola Swarnyk",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+    "silhouette": "svg/silhouettes/species/peregrine-falcon.png"
+  },
+  "phainopepla": {
+    "audio": "audio/phainopepla.mp3",
+    "audioAttribution": "iNaturalist (c) jim_carretta, CC-BY-NC — observation 41388465",
+    "imageArtist": "Lip Kee Yap from Singapore, Republic of Singapore",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Phainopepla_nitens_M_2.jpg",
+    "silhouette": "svg/silhouettes/species/phainopepla.png"
+  },
+  "pheasant-tailed-jacana": {
+    "audio": "audio/pheasant-tailed-jacana.mp3",
+    "audioAttribution": "iNaturalist (c) chenshu, CC-BY-NC — observation 161761566",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pheasant-tailed_jacanas_(Hydrophasianus_chirurgus)_pair_cr.jpg",
+    "silhouette": "svg/silhouettes/species/pheasant-tailed-jacana.png"
+  },
+  "pied-avocet": {
+    "audio": "audio/pied-avocet.mp3",
+    "audioAttribution": "iNaturalist (c) admss, CC-BY-NC — observation 314426395",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg",
+    "silhouette": "svg/silhouettes/species/pied-avocet.png"
+  },
+  "pied-billed-grebe": {
+    "audio": "audio/pied-billed-grebe.mp3",
+    "audioAttribution": "iNaturalist (c) jaysolanki1, CC-BY — observation 47922709",
+    "imageArtist": "Dori",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pied-billed_Grebe_0561.jpg",
+    "silhouette": "svg/silhouettes/species/pied-billed-grebe.png"
+  },
+  "pied-crow": {
+    "audio": "audio/pied-crow.mp3",
+    "audioAttribution": "iNaturalist (c) billpranty, CC-BY-NC — observation 326921511",
+    "imageArtist": "Frank Vassen from Brussels, Belgium",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_albus_-Etosha_National_Park,_Namibia-8.jpg",
+    "silhouette": "svg/silhouettes/species/pied-crow.png"
+  },
+  "pied-currawong": {
+    "audio": "audio/pied-currawong.m4a",
+    "audioAttribution": "iNaturalist (c) regnans, CC-BY-NC — observation 235463358",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pied_Currawong_-_Newington.jpg",
+    "silhouette": "svg/silhouettes/species/pied-currawong.png"
+  },
+  "pileated-woodpecker": {
+    "audio": "audio/pileated-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) brennafarrell, CC-BY-NC — observation 73362354",
+    "imageArtist": "Joshlaymon",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:PileatedWoodpeckerFeedingonTree,_crop.jpg",
+    "silhouette": "svg/silhouettes/species/pileated-woodpecker.png"
+  },
+  "pin-tailed-whydah": {
+    "audio": "audio/pin-tailed-whydah.mp3",
+    "audioAttribution": "iNaturalist (c) neontetraploid, CC-BY-NC — observation 69284619",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pin-tailed_whydah_(Vidua_macroura)_male_Sao_Tome.jpg",
+    "silhouette": "svg/silhouettes/species/pin-tailed-whydah.png"
+  },
+  "plum-headed-parakeet": {
+    "audio": "audio/plum-headed-parakeet.mp3",
+    "audioAttribution": "iNaturalist (c) shonali, CC0 — observation 274634752",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:104_Male_Plum-headed_parakeet_eating_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/plum-headed-parakeet.png"
+  },
+  "powerful-owl": {
+    "audio": "audio/powerful-owl.mp3",
+    "audioAttribution": "iNaturalist (c) bargosnows, CC-BY-NC — observation 82253109",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Powerful_Owl_0A2A8181.jpg",
+    "silhouette": "svg/silhouettes/species/powerful-owl.png"
+  },
+  "purple-finch": {
+    "audio": "audio/purple-finch.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 23093283",
+    "imageArtist": "Cephas",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Carpodacus_purpureus_CT3.jpg",
+    "silhouette": "svg/silhouettes/species/purple-finch.png"
+  },
+  "purple-martin": {
+    "audio": "audio/purple-martin.mp3",
+    "audioAttribution": "iNaturalist (c) amberenergy, CC-BY — observation 151642132",
+    "imageArtist": "JJ Cadiz, Cajay",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:PurpleMartin_cajay.jpg",
+    "silhouette": "svg/silhouettes/species/purple-martin.png"
+  },
+  "purple-sunbird": {
+    "audio": "audio/purple-sunbird.mp3",
+    "audioAttribution": "iNaturalist (c) spiderkhan, CC-BY — observation 167864905",
+    "imageArtist": "J.M.Garg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Purple_Sunbird_(Nectarinia_asiatica)-_Male_(Breeding)_on_Kapok_(Ceiba_pentandra)_in_Kolkata_I_IMG_1893.jpg",
+    "silhouette": "svg/silhouettes/species/purple-sunbird.png"
+  },
+  "rainbow-bee-eater": {
+    "audio": "audio/rainbow-bee-eater.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 193839987",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Merops_ornatus_-_Centenary_Lakes.jpg",
+    "silhouette": "svg/silhouettes/species/rainbow-bee-eater.png"
+  },
+  "rainbow-lorikeet": {
+    "audio": "audio/rainbow-lorikeet.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 163121331",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rainbow_lorikeet_(Trichoglossus_moluccanus_moluccanus)_Sydney.jpg",
+    "silhouette": "svg/silhouettes/species/rainbow-lorikeet.png"
+  },
+  "razorbill": {
+    "audio": "audio/razorbill.m4a",
+    "audioAttribution": "iNaturalist (c) libbyhepburn, CC-BY-NC — observation 366584946",
+    "imageArtist": "neekoh.fi",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Razorbill_with_a_nice_catch.jpg",
+    "silhouette": "svg/silhouettes/species/razorbill.png"
+  },
+  "red-avadavat": {
+    "audio": "audio/red-avadavat.mp3",
+    "audioAttribution": "iNaturalist (c) damienxw, CC-BY — observation 337499035",
+    "imageArtist": "Tisha Mukherjee",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_04.jpg",
+    "silhouette": "svg/silhouettes/species/red-avadavat.png"
+  },
+  "red-bellied-woodpecker": {
+    "audio": "audio/red-bellied-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) brennafarrell, CC-BY-NC — observation 247665928",
+    "imageArtist": "Ken Thomas",
+    "imageLicense": "Public domain",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-bellied_Woodpecker-27527.jpg",
+    "silhouette": "svg/silhouettes/species/red-bellied-woodpecker.png"
+  },
+  "red-billed-hornbill": {
+    "audio": "audio/red-billed-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) saschaschumann, CC-BY-NC — observation 233294429",
+    "imageArtist": "Raf24~commonswiki",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tockus_erythrorhynchus,_Tarangire,_crop.jpg",
+    "silhouette": "svg/silhouettes/species/red-billed-hornbill.png"
+  },
+  "red-billed-oxpecker": {
+    "audio": "audio/red-billed-oxpecker.mp3",
+    "audioAttribution": "iNaturalist (c) nwatinyoka, CC-BY-NC — observation 148834550",
+    "imageArtist": "Gerrie van Vuuren",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Buphagus_erythrorhynchus00.jpg",
+    "silhouette": "svg/silhouettes/species/red-billed-oxpecker.png"
+  },
+  "red-billed-quelea": {
+    "audio": "audio/red-billed-quelea.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 139879058",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-billed_quelea_(Quelea_quelea_aethiopica)_male_breeding_plumage_yellow.jpg",
+    "silhouette": "svg/silhouettes/species/red-billed-quelea.png"
+  },
+  "red-breasted-merganser": {
+    "audio": "audio/red-breasted-merganser.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257241838",
+    "imageArtist": "Needsmoreritalin",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-breasted_Merganser_male_(Mergus_serrator),_Barnegat_Inlet,_New_Jersey,_USA.jpg",
+    "silhouette": "svg/silhouettes/species/red-breasted-merganser.png"
+  },
+  "red-breasted-nuthatch": {
+    "audio": "audio/red-breasted-nuthatch.mp3",
+    "audioAttribution": "iNaturalist (c) opisska, CC-BY — observation 141780276",
+    "imageArtist": "Becky Matsubara from El Sobrante, California",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-breasted_Nuthatch_(48859254972).jpg",
+    "silhouette": "svg/silhouettes/species/red-breasted-nuthatch.png"
+  },
+  "red-crowned-crane": {
+    "audio": "audio/red-crowned-crane.mp3",
+    "audioAttribution": "iNaturalist (c) guanmushan, CC-BY-NC — observation 337216486",
+    "imageArtist": "Alastair Rae from London, United Kingdom",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Grus_japonensis_-Hokkaido,_Japan_-several-8_(1).jpg",
+    "silhouette": "svg/silhouettes/species/red-crowned-crane.png"
+  },
+  "red-footed-booby": {
+    "audio": "audio/red-footed-booby.mp3",
+    "audioAttribution": "iNaturalist (c) lauraelenawicochea, CC-BY-NC — observation 18847957",
+    "imageArtist": "Gregg Yan",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sula_sula_by_Gregg_Yan_01.jpg",
+    "silhouette": "svg/silhouettes/species/red-footed-booby.png"
+  },
+  "red-headed-woodpecker": {
+    "audio": "audio/red-headed-woodpecker.mp3",
+    "audioAttribution": "iNaturalist (c) linzyl, CC-BY-SA — observation 171158603",
+    "imageArtist": "Mdf",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Melanerpes-erythrocephalus-003.jpg",
+    "silhouette": "svg/silhouettes/species/red-headed-woodpecker.png"
+  },
+  "red-junglefowl": {
+    "audio": "audio/red-junglefowl.mp3",
+    "audioAttribution": "iNaturalist (c) eleggua, CC-BY-NC — observation 263268982",
+    "imageArtist": "Subramanya C K",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red_jungle_fowl.png",
+    "silhouette": "svg/silhouettes/species/red-junglefowl.png"
+  },
+  "red-kite": {
+    "audio": "audio/red-kite.mp3",
+    "audioAttribution": "iNaturalist (c) svetlotus, CC-BY-NC — observation 212649783",
+    "imageArtist": "Thomas Kraft (ThKraft)",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Milvus_milvus_R(ThKraft).jpg",
+    "silhouette": "svg/silhouettes/species/red-kite.png"
+  },
+  "red-legged-partridge": {
+    "audio": "audio/red-legged-partridge.mp3",
+    "audioAttribution": "iNaturalist (c) arseniogonzalez-anapri, CC-BY-NC — observation 119088452",
+    "imageArtist": "Pierre Dalous",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perdrix_rouge.jpg",
+    "silhouette": "svg/silhouettes/species/red-legged-partridge.png"
+  },
+  "red-tailed-hawk": {
+    "audio": "audio/red-tailed-hawk.mp3",
+    "audioAttribution": "iNaturalist (c) rentapia_boy, CC-BY-NC — observation 69621795",
+    "imageArtist": "Becky Matsubara from El Sobrante, California",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-tailed_Hawk_(45812546121).jpg",
+    "silhouette": "svg/silhouettes/species/red-tailed-hawk.png"
+  },
+  "red-vented-bulbul": {
+    "audio": "audio/red-vented-bulbul.mp3",
+    "audioAttribution": "iNaturalist (c) damienxw, CC-BY — observation 334664075",
+    "imageArtist": "Mahmadanesh",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+    "silhouette": "svg/silhouettes/species/red-vented-bulbul.png"
+  },
+  "red-whiskered-bulbul": {
+    "audio": "audio/red-whiskered-bulbul.mp3",
+    "audioAttribution": "iNaturalist (c) krishnainthewild, CC-BY-NC — observation 295276789",
+    "imageArtist": "Uploader1234567890",
+    "imageLicense": "CC0",
+    "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-whiskered_bulbul_-_Pycnonotous_jocosus.png",
+    "silhouette": "svg/silhouettes/species/red-whiskered-bulbul.png"
+  },
+  "red-winged-blackbird": {
+    "audio": "audio/red-winged-blackbird.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 20900553",
+    "imageArtist": "Chuck Homler, Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red-Winged_Blackbird.png",
+    "silhouette": "svg/silhouettes/species/red-winged-blackbird.png"
+  },
+  "redhead": {
+    "audio": "audio/redhead.mp3",
+    "audioAttribution": "iNaturalist (c) birdwhisperer, CC-BY-NC — observation 166736227",
+    "imageArtist": "Judy Gallagher",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Redhead_-_Aythya_americana,_Oakley_Street,_Cambridge,_Maryland.jpg",
+    "silhouette": "svg/silhouettes/species/redhead.png"
+  },
+  "redwing": {
+    "audio": "audio/redwing.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 20900553",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Redwing_Turdus_iliacus.jpg",
+    "silhouette": "svg/silhouettes/species/redwing.png"
+  },
+  "regent-bowerbird": {
+    "audio": "audio/regent-bowerbird.mp3",
+    "audioAttribution": "iNaturalist (c) lucaslennon, CC-BY-NC — observation 308675593",
+    "imageArtist": "Seabamirum from Ithaca",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sericulus_chrysocephalus_-Lamington_NP,_Queensland,_Australia_-male-8-4c.jpg",
+    "silhouette": "svg/silhouettes/species/regent-bowerbird.png"
+  },
+  "resplendent-quetzal": {
+    "audio": "audio/resplendent-quetzal.mp3",
+    "audioAttribution": "iNaturalist (c) govegan65, CC-BY-NC — observation 339451819",
+    "imageArtist": "lwolfartist",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+    "silhouette": "svg/silhouettes/species/resplendent-quetzal.png"
+  },
+  "rhinoceros-hornbill": {
+    "audio": "audio/rhinoceros-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) dawicho, CC-BY-NC — observation 323395578",
+    "imageArtist": "JP Bennett from Yamato, Japan",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg",
+    "silhouette": "svg/silhouettes/species/rhinoceros-hornbill.png"
+  },
+  "ring-necked-duck": {
+    "audio": "audio/ring-necked-duck.mp3",
+    "audioAttribution": "iNaturalist (c) tkoffel, CC-BY — observation 10628961",
+    "imageArtist": "Polinova",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ring-Necked_Duck.jpg",
+    "silhouette": "svg/silhouettes/species/ring-necked-duck.png"
+  },
+  "ring-necked-pheasant": {
+    "audio": "audio/ring-necked-pheasant.mp3",
+    "audioAttribution": "iNaturalist (c) emabus7, CC-BY-NC — observation 149809042",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Common_pheasant_(Phasianus_colchicus)_male_Heligan.jpg",
+    "silhouette": "svg/silhouettes/species/ring-necked-pheasant.png"
+  },
+  "rock-pigeon": {
+    "audio": "audio/rock-pigeon.mp3",
+    "audioAttribution": "iNaturalist (c) korshakov, CC-BY-NC — observation 166227418",
+    "imageArtist": "william_stephens",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Columba_livia_(Rock_Dove,_wild),_Duncansby_Head,_Caithness,_Scotland_1.jpg",
+    "silhouette": "svg/silhouettes/species/rock-pigeon.png"
+  },
+  "rockhopper-penguin": {
+    "audio": "audio/rockhopper-penguin.mp3",
+    "audioAttribution": "Xeno-canto (c) Meena Haribal, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1080523",
+    "imageArtist": "Godot13",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:FAL-2016-New_Island,_Falkland_Islands-Rockhopper_penguin_(Eudyptes_chrysocome)_05.jpg",
+    "silhouette": "svg/silhouettes/species/rockhopper-penguin.png"
+  },
+  "rook": {
+    "audio": "audio/rook.mp3",
+    "audioAttribution": "iNaturalist (c) antoinekita, CC-BY-NC — observation 150404811",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rook_(Corvus_frugilegus)_Heligan.jpg",
+    "silhouette": "svg/silhouettes/species/rook.png"
+  },
+  "rose-breasted-grosbeak": {
+    "audio": "audio/rose-breasted-grosbeak.mp3",
+    "audioAttribution": "iNaturalist (c) neontetraploid, CC-BY-NC — observation 222158090",
+    "imageArtist": "John Harrison at https://www.flickr.com/photos/15512543@N04/",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:RosebreastedGrosbeak08.jpg",
+    "silhouette": "svg/silhouettes/species/rose-breasted-grosbeak.png"
+  },
+  "rose-ringed-parakeet": {
+    "audio": "audio/rose-ringed-parakeet.mp3",
+    "audioAttribution": "iNaturalist (c) doruk912, CC-BY — observation 140955685",
+    "imageArtist": "danielskatz",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet,_Tendaba,_Gambia_1.jpg",
+    "silhouette": "svg/silhouettes/species/rose-ringed-parakeet.png"
+  },
+  "roseate-spoonbill": {
+    "audio": "audio/roseate-spoonbill.mp3",
+    "audioAttribution": "iNaturalist (c) abraham161, CC0 — observation 95612777",
+    "imageArtist": "User:Mwanner",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Roseate_Spoonbill_-_Myakka_River_State_Park.jpg",
+    "silhouette": "svg/silhouettes/species/roseate-spoonbill.png"
+  },
+  "rosy-faced-lovebird": {
+    "audio": "audio/rosy-faced-lovebird.mp3",
+    "audioAttribution": "iNaturalist (c) craigpeter, CC-BY-NC — observation 237853489",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rosy-faced_lovebird_(Agapornis_roseicollis_roseicollis)_2.jpg",
+    "silhouette": "svg/silhouettes/species/rosy-faced-lovebird.png"
+  },
+  "ruby-crowned-kinglet": {
+    "audio": "audio/ruby-crowned-kinglet.mp3",
+    "audioAttribution": "iNaturalist (c) agmcmll, CC-BY-NC — observation 12053360",
+    "imageArtist": "Cephas",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Regulus_calendula_MP_3.jpg",
+    "silhouette": "svg/silhouettes/species/ruby-crowned-kinglet.png"
+  },
+  "ruby-throated-hummingbird": {
+    "audio": "audio/ruby-throated-hummingbird.mp3",
+    "audioAttribution": "iNaturalist (c) eraskin, CC-BY — observation 15563406",
+    "imageArtist": "jeffreyw",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Archilochus_colubris_-flying_-male-8.jpg",
+    "silhouette": "svg/silhouettes/species/ruby-throated-hummingbird.png"
+  },
+  "ruddy-duck": {
+    "audio": "audio/ruddy-duck.mp3",
+    "audioAttribution": "iNaturalist (c) samzanita, CC-BY-NC — observation 126080286",
+    "imageArtist": "Dick Daniels  (http://carolinabirds.org/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ruddy_Duck_(Oxyura_jamaicensis)_RWD2.jpg",
+    "silhouette": "svg/silhouettes/species/ruddy-duck.png"
+  },
+  "ruddy-shelduck": {
+    "audio": "audio/ruddy-shelduck.mp3",
+    "audioAttribution": "iNaturalist (c) vyacheslavluzanov, CC-BY-NC — observation 202702219",
+    "imageArtist": "Original: Rohit Sharma, this edit: MPF",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2021-01-30_Ruddy_Shelduck_pair_at_Keoladeo,_Rajasthan,_India.jpg",
+    "silhouette": "svg/silhouettes/species/ruddy-shelduck.png"
+  },
+  "ruddy-turnstone": {
+    "audio": "audio/ruddy-turnstone.mp3",
+    "audioAttribution": "iNaturalist (c) brennafarrell, CC-BY-NC — observation 134769406",
+    "imageArtist": "Chuck Homler d/b/a Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ruddy_turnstone_(Arenaria_interpres)_Breeding_Plumage_Heislerville_WMA,_Cumberland_County,_New_Jersey,_USA.jpg",
+    "silhouette": "svg/silhouettes/species/ruddy-turnstone.png"
+  },
+  "ruffed-grouse": {
+    "audio": "audio/ruffed-grouse.mp3",
+    "audioAttribution": "iNaturalist (c) nlblock, CC-BY — observation 53326078",
+    "imageArtist": "USFWSmidwest",
+    "imageLicense": "Public domain",
+    "imageLicenseUrl": "",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ruffed_Grouse_(18645551408).jpg",
+    "silhouette": "svg/silhouettes/species/ruffed-grouse.png"
+  },
+  "rufous-bellied-thrush": {
+    "audio": "audio/rufous-bellied-thrush.mp3",
+    "audioAttribution": "iNaturalist (c) victorevaristodossantos, CC-BY-NC — observation 241409713",
+    "imageArtist": "Flávio Cruvinel Brandão",
+    "imageLicense": "CC BY-SA 2.0 br",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/br/deed.en",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Turdus-rufiventris.jpg",
+    "silhouette": "svg/silhouettes/species/rufous-bellied-thrush.png"
+  },
+  "rufous-treepie": {
+    "audio": "audio/rufous-treepie.mp3",
+    "audioAttribution": "iNaturalist (c) krishnainthewild, CC-BY-NC — observation 311462033",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rufous_treepie_(Dendrocitta_vagabunda_vagabunda)_Jahalana_pair.jpg",
+    "silhouette": "svg/silhouettes/species/rufous-treepie.png"
+  },
+  "sacred-ibis": {
+    "audio": "audio/sacred-ibis.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 37563922",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sacred_ibis_(Threskiornis_aethiopicus).jpg",
+    "silhouette": "svg/silhouettes/species/sacred-ibis.png"
+  },
+  "saffron-finch": {
+    "audio": "audio/saffron-finch.mp3",
+    "audioAttribution": "iNaturalist (c) juanmanuelatencio, CC-BY-NC — observation 67727514",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Saffron_finch_(Sicalis_flaveola)_male.JPG",
+    "silhouette": "svg/silhouettes/species/saffron-finch.png"
+  },
+  "sand-martin": {
+    "audio": "audio/sand-martin.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 197975190",
+    "imageArtist": "Frank Vassen from Brussels, Belgium",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sand_martin_(Riparia_riparia),_Guidel-Plage,_Brittany,_France_(19765483180).jpg",
+    "silhouette": "svg/silhouettes/species/sand-martin.png"
+  },
+  "sanderling": {
+    "audio": "audio/sanderling.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257263299",
+    "imageArtist": "Chuck Homler, Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sanderling_(Calidris_alba)_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg",
+    "silhouette": "svg/silhouettes/species/sanderling.png"
+  },
+  "sandhill-crane": {
+    "audio": "audio/sandhill-crane.mp3",
+    "audioAttribution": "iNaturalist (c) rroutledge, CC-BY-NC — observation 53544402",
+    "imageArtist": "JeffreyGammon",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sandhill_Crane_JG.jpg",
+    "silhouette": "svg/silhouettes/species/sandhill-crane.png"
+  },
+  "sarus-crane": {
+    "audio": "audio/sarus-crane.mp3",
+    "audioAttribution": "iNaturalist (c) rroutledge, CC-BY-NC — observation 53544402",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sarus_crane_(Grus_antigone).jpg",
+    "silhouette": "svg/silhouettes/species/sarus-crane.png"
+  },
+  "satin-bowerbird": {
+    "audio": "audio/satin-bowerbird.mp3",
+    "audioAttribution": "iNaturalist (c) bwjone432155, CC-BY-NC — observation 190299403",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Satin_Bowerbird_at_Bower_6533.jpg",
+    "silhouette": "svg/silhouettes/species/satin-bowerbird.png"
+  },
+  "satyr-tragopan": {
+    "audio": "audio/satyr-tragopan.m4a",
+    "audioAttribution": "iNaturalist (c) libbyhepburn, CC-BY-NC — observation 282014743",
+    "silhouette": "svg/silhouettes/species/satyr-tragopan.png"
+  },
+  "scaly-breasted-munia": {
+    "audio": "audio/scaly-breasted-munia.m4a",
+    "audioAttribution": "iNaturalist (c) doggy0406, CC-BY-NC — observation 95906370",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Scaly-breasted_munia_(Lonchura_punctulata_nisoria)_Ubud.jpg",
+    "silhouette": "svg/silhouettes/species/scaly-breasted-munia.png"
+  },
+  "scarlet-ibis": {
+    "audio": "audio/scarlet-ibis.mp3",
+    "audioAttribution": "Xeno-canto (c) David Darrell-Lambert, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1138246",
+    "imageArtist": "Rafa Esteve",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Oceanografic_Scarlet_Ibis_02.jpg",
+    "silhouette": "svg/silhouettes/species/scarlet-ibis.png"
+  },
+  "scarlet-macaw": {
+    "audio": "audio/scarlet-macaw.mp3",
+    "audioAttribution": "iNaturalist (c) dawicho, CC-BY-NC — observation 262721947",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan.jpg",
+    "silhouette": "svg/silhouettes/species/scarlet-macaw.png"
+  },
+  "scarlet-tanager": {
+    "audio": "audio/scarlet-tanager.mp3",
+    "audioAttribution": "iNaturalist (c) cerw8384, CC-BY-NC — observation 278483804",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Scarlet_tanager_in_GWC_(50867).jpg",
+    "silhouette": "svg/silhouettes/species/scarlet-tanager.png"
+  },
+  "secretary-bird": {
+    "audio": "audio/secretary-bird.mp3",
+    "audioAttribution": "Xeno-canto (c) Dawie de Swardt, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC518394",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg",
+    "silhouette": "svg/silhouettes/species/secretary-bird.png"
+  },
+  "secretarybird": {
+    "audio": "audio/secretarybird.mp3",
+    "audioAttribution": "Xeno-canto (c) Dawie de Swardt, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC518394",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg",
+    "silhouette": "svg/silhouettes/species/secretarybird.png"
+  },
+  "senegal-parrot": {
+    "audio": "audio/senegal-parrot.m4a",
+    "audioAttribution": "iNaturalist (c) ricardo_c_martins, CC-BY-NC — observation 77723447",
+    "imageArtist": "ThomHasi at English Wikipedia",
+    "imageLicense": "CC BY 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Senegal-parrot-montage-2.jpg",
+    "silhouette": "svg/silhouettes/species/senegal-parrot.png"
+  },
+  "seven-colored-tanager": {
+    "audio": "audio/seven-colored-tanager.mp3",
+    "audioAttribution": "Xeno-canto (c) Mateus Gonçalves Santos, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC844109",
+    "imageArtist": "Hector Bottai",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tangara_fastuosa_-_Seven_colored_Tanager;_Macei%C3%B3,_Alagoas,_Brazil.jpg",
+    "silhouette": "svg/silhouettes/species/seven-colored-tanager.png"
+  },
+  "sharp-shinned-hawk": {
+    "audio": "audio/sharp-shinned-hawk.mp3",
+    "audioAttribution": "iNaturalist (c) fmiudo, CC0 — observation 38281248",
+    "imageArtist": "ALAN SCHMIERER from near Patagonia, AZ, USA",
+    "imageLicense": "CC0",
+    "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Accipiter_striatus,_Canet_Road,_San_Luis_Obispo_1.jpg",
+    "silhouette": "svg/silhouettes/species/sharp-shinned-hawk.png"
+  },
+  "short-eared-owl": {
+    "audio": "audio/short-eared-owl.mp3",
+    "audioAttribution": "iNaturalist (c) nacho1998, CC-BY-NC — observation 187586386",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Short_Eared_Owl_on_the_Ground.jpg",
+    "silhouette": "svg/silhouettes/species/short-eared-owl.png"
+  },
+  "snow-goose": {
+    "audio": "audio/snow-goose.mp3",
+    "audioAttribution": "iNaturalist (c) meangreenfan, CC-BY-NC — observation 148567681",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Snow_goose_in_Central_Park_(33138).jpg",
+    "silhouette": "svg/silhouettes/species/snow-goose.png"
+  },
+  "snowy-egret": {
+    "audio": "audio/snowy-egret.mp3",
+    "audioAttribution": "iNaturalist (c) buggybuddy, CC0 — observation 14141308",
+    "imageArtist": "Chuck Homler d/b/a Focus On Wildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Snowy_Egret_(Egretta_thula)_Edwin_B_Forsythe_NWR,_Galloway,_NJ,_USA.jpg",
+    "silhouette": "svg/silhouettes/species/snowy-egret.png"
+  },
+  "snowy-owl": {
+    "audio": "audio/snowy-owl.mp3",
+    "audioAttribution": "iNaturalist (c) bukva14, CC-BY-NC — observation 257255742",
+    "imageArtist": "Chuck Homler d/b/a Focus On Wildlife",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:SnowyOwlAmericanBlackDuck.jpg",
+    "silhouette": "svg/silhouettes/species/snowy-owl.png"
+  },
+  "song-sparrow": {
+    "audio": "audio/song-sparrow.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 20339308",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Song_sparrow_in_Prospect_Park_(93031).jpg",
+    "silhouette": "svg/silhouettes/species/song-sparrow.png"
+  },
+  "song-thrush": {
+    "audio": "audio/song-thrush.mp3",
+    "audioAttribution": "iNaturalist (c) mikhail_fedoruk, CC-BY-NC — observation 74536042",
+    "imageArtist": "Dion Art",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_(Turdus_philomelos),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+    "silhouette": "svg/silhouettes/species/song-thrush.png"
+  },
+  "sooty-tern": {
+    "audio": "audio/sooty-tern.mp3",
+    "audioAttribution": "iNaturalist (c) damienxw, CC-BY — observation 321374305",
+    "imageArtist": "Marinha do Brasil",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:TRINTA-R%C3%89IS-DAS-ROCAS_na_Ilha_da_Trindade_-_2022_(52551310766).jpg",
+    "silhouette": "svg/silhouettes/species/sooty-tern.png"
+  },
+  "southern-carmine-bee-eater": {
+    "audio": "audio/southern-carmine-bee-eater.mp3",
+    "audioAttribution": "Xeno-canto (c) African Bioacoustics Community, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC1008874",
+    "imageArtist": "Bernard DUPONT from FRANCE",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Carmine_Bee-eater_(Merops_nubicoides)_(16732824032).jpg",
+    "silhouette": "svg/silhouettes/species/southern-carmine-bee-eater.png"
+  },
+  "southern-cassowary": {
+    "audio": "audio/southern-cassowary.m4a",
+    "audioAttribution": "iNaturalist (c) paddock1, CC-BY-NC — observation 145549096",
+    "imageArtist": "Summerdrought",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_7071.jpg",
+    "silhouette": "svg/silhouettes/species/southern-cassowary.png"
+  },
+  "southern-ground-hornbill": {
+    "audio": "audio/southern-ground-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) dejong, CC-BY-NC-SA — observation 66418412",
+    "imageArtist": "Bernard DUPONT from FRANCE",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Ground_Hornbill_(Bucorvus_leadbeateri)_male_(12714625605),_crop.jpg",
+    "silhouette": "svg/silhouettes/species/southern-ground-hornbill.png"
+  },
+  "southern-lapwing": {
+    "audio": "audio/southern-lapwing.mp3",
+    "audioAttribution": "iNaturalist (c) luizavinhosa, CC-BY-NC — observation 42480587",
+    "imageArtist": "Kingfisher-Sapphire",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Lapwing_-_Indaiatuba,_SP,_BR.jpg",
+    "silhouette": "svg/silhouettes/species/southern-lapwing.png"
+  },
+  "southern-masked-weaver": {
+    "audio": "audio/southern-masked-weaver.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 96902110",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_masked_weaver_(Ploceus_velatus)_male.jpg",
+    "silhouette": "svg/silhouettes/species/southern-masked-weaver.png"
+  },
+  "southern-yellow-billed-hornbill": {
+    "audio": "audio/southern-yellow-billed-hornbill.mp3",
+    "audioAttribution": "iNaturalist (c) dewald2, CC-BY-NC — observation 47097273",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:155_Southern_yellow-billed_hornbill_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/southern-yellow-billed-hornbill.png"
+  },
+  "speckled-mousebird": {
+    "audio": "audio/speckled-mousebird.mp3",
+    "audioAttribution": "iNaturalist (c) craigpeter, CC-BY-NC — observation 243113432",
+    "imageArtist": "spacebirdy(also known as geimfyglið (:> )=| made with Sternenlaus-spirit)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Colius_striatus_-_W%C3%BCstenhaus.jpg",
+    "silhouette": "svg/silhouettes/species/speckled-mousebird.png"
+  },
+  "splendid-fairywren": {
+    "audio": "audio/splendid-fairywren.m4a",
+    "audioAttribution": "iNaturalist (c) calvinarbon, CC-BY-NC — observation 371136751",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Splendid_Fairywren_8352.jpg",
+    "silhouette": "svg/silhouettes/species/splendid-fairywren.png"
+  },
+  "spot-billed-duck": {
+    "audio": "audio/spot-billed-duck.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 120392294",
+    "imageArtist": "Dr. Raju Kasambe",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_Spot-billed_Duck_Anas_poecilorhyncha_by_Dr._Raju_Kasambe_DSCN3821_(11).jpg",
+    "silhouette": "svg/silhouettes/species/spot-billed-duck.png"
+  },
+  "spotted-owlet": {
+    "audio": "audio/spotted-owlet.mp3",
+    "audioAttribution": "iNaturalist (c) chiefredearth, CC-BY-NC-ND — observation 146762668",
+    "imageArtist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Spotted_Owlet_Bokkapuram_Nilgiris_Sep22_A7C_02968.jpg",
+    "silhouette": "svg/silhouettes/species/spotted-owlet.png"
+  },
+  "spotted-sandpiper": {
+    "audio": "audio/spotted-sandpiper.mp3",
+    "audioAttribution": "iNaturalist (c) jakobdemmer, CC-BY-NC — observation 264740939",
+    "imageArtist": "No machine-readable author provided. Factumquintus assumed (based on copyright claims).",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Actitis-macularia-005.jpg",
+    "silhouette": "svg/silhouettes/species/spotted-sandpiper.png"
+  },
+  "spur-winged-goose": {
+    "audio": "audio/spur-winged-goose.mp3",
+    "audioAttribution": "iNaturalist (c) sallyslak, CC-BY-NC — observation 129649724",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Spur-winged_goose_(Plectropterus_gambensis).jpg",
+    "silhouette": "svg/silhouettes/species/spur-winged-goose.png"
+  },
+  "stellers-jay": {
+    "audio": "audio/stellers-jay.mp3",
+    "audioAttribution": "iNaturalist (c) katlmartin, CC-BY-NC — observation 41202617",
+    "imageArtist": "Noel Reynolds",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Steller%27s_Jay_flagstaff_arizona.jpg",
+    "silhouette": "svg/silhouettes/species/stellers-jay.png"
+  },
+  "steppe-eagle": {
+    "audio": "audio/steppe-eagle.m4a",
+    "audioAttribution": "iNaturalist (c) ram_k, CC-BY — observation 70193622",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Steppe_Eagle_Portrait.jpg",
+    "silhouette": "svg/silhouettes/species/steppe-eagle.png"
+  },
+  "stork-billed-kingfisher": {
+    "audio": "audio/stork-billed-kingfisher.mp3",
+    "audioAttribution": "iNaturalist (c) bioexplorer_ash, CC-BY — observation 260986734",
+    "imageArtist": "Dibyendu Ash",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Stork-billed_Kingfisher_Baranagar_Kolkata_West_Bengal_India_21.04.2014.jpg",
+    "silhouette": "svg/silhouettes/species/stork-billed-kingfisher.png"
+  },
+  "sulphur-crested-cockatoo": {
+    "audio": "audio/sulphur-crested-cockatoo.mp3",
+    "audioAttribution": "iNaturalist (c) birdcall, CC-BY — observation 204697440",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cacatua_galerita_Tas_2.jpg",
+    "silhouette": "svg/silhouettes/species/sulphur-crested-cockatoo.png"
+  },
+  "sun-conure": {
+    "audio": "audio/sun-conure.m4a",
+    "audioAttribution": "iNaturalist (c) genaofjesus, CC-BY-NC — observation 255904069",
+    "imageArtist": "Wayne Deeker",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Aratinga_solstitialis_-captive-two-8a.jpg",
+    "silhouette": "svg/silhouettes/species/sun-conure.png"
+  },
+  "superb-fairywren": {
+    "audio": "audio/superb-fairywren.mp3",
+    "audioAttribution": "iNaturalist (c) kalimata, CC-BY-NC — observation 64575490",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Malurus_cyaneus_cyanochlamys_.jpg",
+    "silhouette": "svg/silhouettes/species/superb-fairywren.png"
+  },
+  "superb-lyrebird": {
+    "audio": "audio/superb-lyrebird.mp3",
+    "audioAttribution": "iNaturalist (c) reiner, CC-BY-NC — observation 85077053",
+    "imageArtist": "Fir0002",
+    "imageLicense": "GFDL 1.2",
+    "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Superb_lyrbird_in_scrub.jpg",
+    "silhouette": "svg/silhouettes/species/superb-lyrebird.png"
+  },
+  "superb-starling": {
+    "audio": "audio/superb-starling.m4a",
+    "audioAttribution": "iNaturalist (c) rdodhia, CC-BY — observation 195048101",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Superb_Starling_Portrait.jpg",
+    "silhouette": "svg/silhouettes/species/superb-starling.png"
+  },
+  "sword-billed-hummingbird": {
+    "audio": "audio/sword-billed-hummingbird.mp3",
+    "audioAttribution": "iNaturalist (c) sylvain_naturaliste, CC-BY-NC — observation 332040540",
+    "imageArtist": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sword-billed_hummingbird_(male)_at_Guango_Lodge,_Ecuador_(21310837273).jpg",
+    "silhouette": "svg/silhouettes/species/sword-billed-hummingbird.png"
+  },
+  "tawny-frogmouth": {
+    "audio": "audio/tawny-frogmouth.mp3",
+    "audioAttribution": "iNaturalist (c) tiffanyoiler, CC-BY-NC — observation 321191319",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tawny_Frogmouth_-_Sydney_Olympic_Park.jpg",
+    "silhouette": "svg/silhouettes/species/tawny-frogmouth.png"
+  },
+  "tawny-owl": {
+    "audio": "audio/tawny-owl.mp3",
+    "audioAttribution": "iNaturalist (c) pastabaum, CC-BY — observation 118566351",
+    "imageArtist": "Martin Mecnarowski (http://www.photomecan.eu/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Strix_aluco_3_(Martin_Mecnarowski).jpg",
+    "silhouette": "svg/silhouettes/species/tawny-owl.png"
+  },
+  "toco-toucan": {
+    "audio": "audio/toco-toucan.mp3",
+    "audioAttribution": "iNaturalist (c) p_giannotti, CC-BY-NC — observation 336352461",
+    "imageArtist": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "silhouette": "svg/silhouettes/species/toco-toucan.png"
+  },
+  "tree-swallow": {
+    "audio": "audio/tree-swallow.mp3",
+    "audioAttribution": "iNaturalist (c) mattgideon, CC-BY-NC — observation 40710336",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tree_swallow_in_JBWR_(25579).jpg",
+    "silhouette": "svg/silhouettes/species/tree-swallow.png"
+  },
+  "trumpeter-swan": {
+    "audio": "audio/trumpeter-swan.mp3",
+    "audioAttribution": "iNaturalist (c) r2d2yoda1, CC-BY-NC — observation 143896200",
+    "imageArtist": "Jakub Fryš",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Trumpeter_swans_in_winter.jpg",
+    "silhouette": "svg/silhouettes/species/trumpeter-swan.png"
+  },
+  "tufted-duck": {
+    "audio": "audio/tufted-duck.mp3",
+    "audioAttribution": "iNaturalist (c) christoph_moning, CC-BY — observation 69154888",
+    "imageArtist": "Alexis Lours",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tufted_Duck_09_05_2025_02.jpg",
+    "silhouette": "svg/silhouettes/species/tufted-duck.png"
+  },
+  "tufted-titmouse": {
+    "audio": "audio/tufted-titmouse.mp3",
+    "audioAttribution": "iNaturalist (c) jfpetit, CC-BY-NC — observation 244335623",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tufted_titmouse_(84917).jpg",
+    "silhouette": "svg/silhouettes/species/tufted-titmouse.png"
+  },
+  "tui": {
+    "audio": "audio/tui.mp3",
+    "audioAttribution": "iNaturalist (c) jon_sullivan, CC-BY — observation 154663860",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tui_(Prosthemadera_novaeseelandiae)_Tiritiri_Matangi.jpg",
+    "silhouette": "svg/silhouettes/species/tui.png"
+  },
+  "tundra-swan": {
+    "audio": "audio/tundra-swan.mp3",
+    "audioAttribution": "iNaturalist (c) jonasrolighed, CC-BY-NC — observation 258676879",
+    "imageArtist": "Maga-chan",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cygnus_bewickii_01.jpg",
+    "silhouette": "svg/silhouettes/species/tundra-swan.png"
+  },
+  "turkey-vulture": {
+    "audio": "audio/turkey-vulture.m4a",
+    "audioAttribution": "iNaturalist (c) jamezflysdrones, CC-BY-NC — observation 305985471",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Turkey_vulture_(Cathartes_aura)_Orange_Walk.jpg",
+    "silhouette": "svg/silhouettes/species/turkey-vulture.png"
+  },
+  "turquoise-browed-motmot": {
+    "audio": "audio/turquoise-browed-motmot.m4a",
+    "audioAttribution": "iNaturalist (c) fam_marin_flores, CC-BY-NC-SA — observation 204644031",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Turquoise-browed_motmot_(Eumomota_superciliosa_apiaster)_Copan_2.jpg",
+    "silhouette": "svg/silhouettes/species/turquoise-browed-motmot.png"
+  },
+  "varied-thrush": {
+    "audio": "audio/varied-thrush.mp3",
+    "audioAttribution": "iNaturalist (c) kmosbruger, CC-BY-NC — observation 169433955",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Varied_thrush_(73976).jpg",
+    "silhouette": "svg/silhouettes/species/varied-thrush.png"
+  },
+  "verdin": {
+    "audio": "audio/verdin.mp3",
+    "audioAttribution": "iNaturalist (c) fmondacaf, CC-BY-NC — observation 225160761",
+    "imageArtist": "Patrick Coin (Patrick Coin)",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Auriparus_flavicepsPCCA20050310-5817B.jpg",
+    "silhouette": "svg/silhouettes/species/verdin.png"
+  },
+  "vermilion-flycatcher": {
+    "audio": "audio/vermilion-flycatcher.mp3",
+    "audioAttribution": "iNaturalist (c) sandboa, CC-BY-NC — observation 72960377",
+    "imageArtist": "Henry",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Karmintyrann_(Pyrocephalus_obscurus),_M%C3%A4nnchen_1.jpg",
+    "silhouette": "svg/silhouettes/species/vermilion-flycatcher.png"
+  },
+  "vernal-hanging-parrot": {
+    "audio": "audio/vernal-hanging-parrot.mp3",
+    "audioAttribution": "iNaturalist (c) binil3, CC-BY-NC — observation 301403235",
+    "imageArtist": "Loriculus_vernalis_-Ganeshgudi,_Karnataka,_India_-male-8.jpg: viwake\nderivative work: Snowmanradio",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Loriculus_vernalis_-Ganeshgudi,_Karnataka,_India_-male-8-1c.jpg",
+    "silhouette": "svg/silhouettes/species/vernal-hanging-parrot.png"
+  },
+  "verreauxs-eagle": {
+    "audio": "audio/verreauxs-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) saschaschumann, CC-BY-NC — observation 233017863",
+    "imageArtist": "Derek Keats from Johannesburg, South Africa",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Verreaux%27s_Eagle_(Black_Eagle),_Aquila_verreauxii,_at_Walter_Sisulu_National_Botanical_Garden,_Gauteng,_South_Africa_(28825027073).jpg",
+    "silhouette": "svg/silhouettes/species/verreauxs-eagle.png"
+  },
+  "village-weaver": {
+    "audio": "audio/village-weaver.mp3",
+    "audioAttribution": "iNaturalist (c) lam_wildlife, CC-BY-NC — observation 350759415",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Village_weaver_(Ploceus_cucullatus_cucullatus)_male_with_leaf.jpg",
+    "silhouette": "svg/silhouettes/species/village-weaver.png"
+  },
+  "vulturine-guineafowl": {
+    "audio": "audio/vulturine-guineafowl.m4a",
+    "audioAttribution": "iNaturalist (c) glosterbirder, CC-BY-NC — observation 321206674",
+    "imageArtist": "Sumeet Moghe",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Vulturine_Guineafowl_at_Samburu.jpg",
+    "silhouette": "svg/silhouettes/species/vulturine-guineafowl.png"
+  },
+  "wandering-albatross": {
+    "audio": "audio/wandering-albatross.mp3",
+    "audioAttribution": "iNaturalist (c) glebglub, CC-BY-NC — observation 157828595",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans_-_SE_Tasmania.jpg",
+    "silhouette": "svg/silhouettes/species/wandering-albatross.png"
+  },
+  "wedge-tailed-eagle": {
+    "audio": "audio/wedge-tailed-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 106008424",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Aquila_audax_-_Captain%27s_Flat.jpg",
+    "silhouette": "svg/silhouettes/species/wedge-tailed-eagle.png"
+  },
+  "western-capercaillie": {
+    "audio": "audio/western-capercaillie.mp3",
+    "audioAttribution": "iNaturalist (c) tatianakirova, CC-BY-NC — observation 335242936",
+    "imageArtist": "David Palmer",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:David_Palmer_Capercaillie.jpg",
+    "silhouette": "svg/silhouettes/species/western-capercaillie.png"
+  },
+  "western-jackdaw": {
+    "audio": "audio/western-jackdaw.mp3",
+    "audioAttribution": "iNaturalist (c) darya_moon, CC-BY-NC — observation 336557521",
+    "imageArtist": "hedera.baltica from Wrocław, Poland",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Nordic_jackdaw_(52563242448).jpg",
+    "silhouette": "svg/silhouettes/species/western-jackdaw.png"
+  },
+  "western-marsh-harrier": {
+    "audio": "audio/western-marsh-harrier.mp3",
+    "audioAttribution": "iNaturalist (c) christoph_moning, CC-BY — observation 96866705",
+    "imageArtist": "Subramanya CK",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
+    "silhouette": "svg/silhouettes/species/western-marsh-harrier.png"
+  },
+  "western-meadowlark": {
+    "audio": "audio/western-meadowlark.mp3",
+    "audioAttribution": "iNaturalist (c) tparadox22, CC-BY-NC — observation 103349516",
+    "imageArtist": "Cephas",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sturnella_neglecta_GNP_02.jpg",
+    "silhouette": "svg/silhouettes/species/western-meadowlark.png"
+  },
+  "western-scrub-jay": {
+    "audio": "audio/western-scrub-jay.m4a",
+    "audioAttribution": "iNaturalist (c) maxb73, CC-BY-NC — observation 98626976",
+    "imageArtist": "Becky Matsubara from El Sobrante, California",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:California_Scrub_Jay,_Richmond,_Contra_Costa,_California_(30644196597).jpg",
+    "silhouette": "svg/silhouettes/species/western-scrub-jay.png"
+  },
+  "western-tanager": {
+    "audio": "audio/western-tanager.m4a",
+    "audioAttribution": "iNaturalist (c) caladri, CC-BY-NC — observation 306629172",
+    "imageArtist": "http://www.naturespicsonline.com/",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Western_Tanager_(male).jpg",
+    "silhouette": "svg/silhouettes/species/western-tanager.png"
+  },
+  "white-backed-vulture": {
+    "audio": "audio/white-backed-vulture.mp3",
+    "audioAttribution": "Xeno-canto (c) Ehren Eksteen, https://creativecommons.org/licenses/by-nc-sa/4.0/ — XC978231",
+    "imageArtist": "Yathin sk",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2012-white-backed-vulture.jpg",
+    "silhouette": "svg/silhouettes/species/white-backed-vulture.png"
+  },
+  "white-bellied-sea-eagle": {
+    "audio": "audio/white-bellied-sea-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) chiefredearth, CC-BY-NC-ND — observation 100936700",
+    "imageArtist": "JJ Harrison",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:White-bellied_Sea-eagle_0A2A8670.jpg",
+    "silhouette": "svg/silhouettes/species/white-bellied-sea-eagle.png"
+  },
+  "white-breasted-nuthatch": {
+    "audio": "audio/white-breasted-nuthatch.mp3",
+    "audioAttribution": "iNaturalist (c) jmgconsult, CC-BY-NC — observation 334046508",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:White-breasted_nuthatch_(26471).jpg",
+    "silhouette": "svg/silhouettes/species/white-breasted-nuthatch.png"
+  },
+  "white-fronted-bee-eater": {
+    "audio": "audio/white-fronted-bee-eater.mp3",
+    "audioAttribution": "iNaturalist (c) craigpeter, CC-BY-NC — observation 323448773",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:White-fronted_bee-eater_(Merops_bullockoides)_Namibia.jpg",
+    "silhouette": "svg/silhouettes/species/white-fronted-bee-eater.png"
+  },
+  "white-ibis": {
+    "audio": "audio/white-ibis.mp3",
+    "audioAttribution": "iNaturalist (c) fmondacaf, CC-BY-NC — observation 224121801",
+    "imageArtist": "Terry Foote",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:American_White_IbisII.jpg",
+    "silhouette": "svg/silhouettes/species/white-ibis.png"
+  },
+  "white-stork": {
+    "audio": "audio/white-stork.mp3",
+    "audioAttribution": "iNaturalist (c) vyacheslavluzanov, CC-BY-NC — observation 204708303",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_Bia%C5%82owieza.jpg",
+    "silhouette": "svg/silhouettes/species/white-stork.png"
+  },
+  "white-tailed-eagle": {
+    "audio": "audio/white-tailed-eagle.mp3",
+    "audioAttribution": "iNaturalist (c) mobbini, CC-BY-NC — observation 329233348",
+    "imageArtist": "Bengt Nyman from Vaxholm, Sweden",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:NZ7_5265_(52812350718).jpg",
+    "silhouette": "svg/silhouettes/species/white-tailed-eagle.png"
+  },
+  "white-throated-kingfisher": {
+    "audio": "audio/white-throated-kingfisher.mp3",
+    "audioAttribution": "iNaturalist (c) vihaking277, CC-BY-SA — observation 86810478",
+    "imageArtist": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_(Halcyon_smyrnensis)_Galle.jpg",
+    "silhouette": "svg/silhouettes/species/white-throated-kingfisher.png"
+  },
+  "white-throated-sparrow": {
+    "audio": "audio/white-throated-sparrow.mp3",
+    "audioAttribution": "iNaturalist (c) chitown44, CC-BY-NC — observation 212798153",
+    "imageArtist": "Cephas",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Zonotrichia_albicollis_CT1.jpg",
+    "silhouette": "svg/silhouettes/species/white-throated-sparrow.png"
+  },
+  "white-wagtail": {
+    "audio": "audio/white-wagtail.mp3",
+    "audioAttribution": "iNaturalist (c) marina_gorbunova, CC-BY-NC — observation 87710855",
+    "imageArtist": "Jac. Janssen from BAARLO LB, NL",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_(40785272624).jpg",
+    "silhouette": "svg/silhouettes/species/white-wagtail.png"
+  },
+  "whooper-swan": {
+    "audio": "audio/whooper-swan.mp3",
+    "audioAttribution": "iNaturalist (c) r2d2yoda1, CC-BY-NC — observation 143896200",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_Singschwan.jpg",
+    "silhouette": "svg/silhouettes/species/whooper-swan.png"
+  },
+  "wild-turkey": {
+    "audio": "audio/wild-turkey.mp3",
+    "audioAttribution": "iNaturalist (c) hamiltonbioacoustics, CC-BY — observation 20244570",
+    "imageArtist": "Paul Danese",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08952.jpg",
+    "silhouette": "svg/silhouettes/species/wild-turkey.png"
+  },
+  "willie-wagtail": {
+    "audio": "audio/willie-wagtail.mp3",
+    "audioAttribution": "iNaturalist (c) deborod, CC-BY-NC — observation 148239391",
+    "imageArtist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rhipidura_leucophrys_-_Glen_Davis.jpg",
+    "silhouette": "svg/silhouettes/species/willie-wagtail.png"
+  },
+  "winter-wren": {
+    "audio": "audio/winter-wren.mp3",
+    "audioAttribution": "iNaturalist (c) bureaubenjamin, CC-BY-NC — observation 172480643",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Winter_wren_in_Prospect_Park_(32249).jpg",
+    "silhouette": "svg/silhouettes/species/winter-wren.png"
+  },
+  "wood-duck": {
+    "audio": "audio/wood-duck.mp3",
+    "audioAttribution": "iNaturalist (c) k_a_m, CC-BY-NC — observation 75601563",
+    "imageArtist": "Chuck Homler d/b/a FocusOnwWildlife",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Wood_Duck_Wissahickon_Creek.png",
+    "silhouette": "svg/silhouettes/species/wood-duck.png"
+  },
+  "wood-stork": {
+    "audio": "audio/wood-stork.mp3",
+    "audioAttribution": "iNaturalist (c) anhingas, CC-BY — observation 54671904",
+    "imageArtist": "Googie man (talk)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:WoodStorkWhole.JPG",
+    "silhouette": "svg/silhouettes/species/wood-stork.png"
+  },
+  "yellow-billed-cuckoo": {
+    "audio": "audio/yellow-billed-cuckoo.mp3",
+    "audioAttribution": "iNaturalist (c) tprario, CC-BY-NC — observation 171363026",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Yellow-billed_cuckoo_(42690).jpg",
+    "silhouette": "svg/silhouettes/species/yellow-billed-cuckoo.png"
+  },
+  "yellow-billed-stork": {
+    "audio": "audio/yellow-billed-stork.mp3",
+    "audioAttribution": "Xeno-canto (c) Fernand DEROUSSEN, https://creativecommons.org/licenses/by-nc-nd/3.0/ — XC131912",
+    "imageArtist": "Marcusajohn63",
+    "imageLicense": "CC BY 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Yellow-billed_Stork.jpg",
+    "silhouette": "svg/silhouettes/species/yellow-billed-stork.png"
+  },
+  "yellow-headed-blackbird": {
+    "audio": "audio/yellow-headed-blackbird.mp3",
+    "audioAttribution": "iNaturalist (c) csonafrank, CC-BY-NC — observation 12181736",
+    "imageArtist": "Blalonde",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Male_Yellow-headed_Blackbird.jpg",
+    "silhouette": "svg/silhouettes/species/yellow-headed-blackbird.png"
+  },
+  "yellow-wagtail": {
+    "audio": "audio/yellow-wagtail.mp3",
+    "audioAttribution": "iNaturalist (c) maximion, CC-BY-NC — observation 156431727",
+    "imageArtist": "Frebeck",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
+    "silhouette": "svg/silhouettes/species/yellow-wagtail.png"
+  },
+  "yellow-warbler": {
+    "audio": "audio/yellow-warbler.mp3",
+    "audioAttribution": "iNaturalist (c) kyle_eaton_photography, CC-BY — observation 104093105",
+    "imageArtist": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Yellow_warbler_(82905).jpg",
+    "silhouette": "svg/silhouettes/species/yellow-warbler.png"
+  },
+  "yellowhammer": {
+    "audio": "audio/yellowhammer.mp3",
+    "audioAttribution": "iNaturalist (c) jansson, CC-BY-NC — observation 151655141",
+    "imageArtist": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Goldammer_Emberiza_citrinella.jpg",
+    "silhouette": "svg/silhouettes/species/yellowhammer.png"
   }
 };

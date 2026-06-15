@@ -1,0 +1,302 @@
+{
+  "bullocks-oriole": {
+    "region": "Native to western North America, this species breeds across the western United States and winters in Mexico and Central America.",
+    "behavior": "It weaves a hanging pendulous nest from plant fibers and forages on insects, nectar, and fruit.",
+    "funFact": "Bullock's oriole was once lumped with the Baltimore oriole as a single species called the 'northern oriole,' until genetic studies split them apart."
+  },
+  "yellow-headed-blackbird": {
+    "region": "Breeds in freshwater marshes of western and central North America, wintering south into Mexico.",
+    "behavior": "This species forages on the ground for seeds and insects, often in large mixed flocks on agricultural land.",
+    "funFact": "The yellow-headed blackbird is the sole member of its genus — its scientific name repeats the Greek word for 'yellow head' twice: Xanthocephalus xanthocephalus."
+  },
+  "cactus-wren": {
+    "region": "Endemic to the deserts of the southwestern United States and northern Mexico, where it is the state bird of Arizona.",
+    "behavior": "A ground forager that picks through desert debris for insects, this species rarely needs to drink, meeting its water needs entirely from its diet; it builds globe-shaped nests among spiny desert plants for protection.",
+    "funFact": "The cactus wren's song has been compared to a car engine that refuses to start — a harsh, repetitive churring delivered loudly from atop a saguaro."
+  },
+  "verdin": {
+    "region": "Found in arid scrublands and desert washes of the southwestern United States and northern Mexico, this species is the only New World member of the penduline tit family.",
+    "behavior": "It gleans insects and spiders from foliage and cacti, and will also take nectar from flowers; it builds elaborate year-round roost nests in addition to its breeding nests.",
+    "funFact": "The verdin is the only North American representative of the Old World penduline tit family, Remizidae — a family otherwise confined to Europe, Asia, and Africa."
+  },
+  "phainopepla": {
+    "region": "Found in desert scrub and oak woodlands of the southwestern United States and Mexico, this species is the northernmost member of the silky-flycatcher family.",
+    "behavior": "Highly dependent on mistletoe berries, this species can consume more than a thousand a day, dispersing the seeds widely; it also sallies from perches to catch flying insects.",
+    "funFact": "The phainopepla's name comes from the Greek for 'shining robe,' a reference to the glossy jet-black plumage of the male."
+  },
+  "vermilion-flycatcher": {
+    "region": "Inhabits riparian areas, open savanna, and semi-arid scrub from the southwestern United States through South America.",
+    "behavior": "An aerial insectivore, it launches from exposed perches to snatch flying prey; despite being socially monogamous, it regularly engages in extra-pair mating and within-species brood parasitism.",
+    "funFact": "The male vermilion flycatcher is one of the most vivid birds in the Americas — his crown and underparts blaze a neon scarlet that stands out strikingly against his dark brown back and wings."
+  },
+  "common-chaffinch": {
+    "region": "Breeds widely across Europe and the Palearctic east to Siberia; northern populations migrate south in winter while birds in warmer areas are sedentary.",
+    "behavior": "Outside the breeding season it flocks in open fields to forage for seeds on the ground; during the breeding season it hunts caterpillars and invertebrates among tree foliage to feed its young.",
+    "funFact": "The common chaffinch is one of Europe's most abundant birds, and the male's bright blue-grey cap and rust-red breast make him unmistakeable singing from an exposed perch."
+  },
+  "european-greenfinch": {
+    "region": "Widespread across Europe, North Africa, and Southwest Asia, with introduced populations now established in Australia, New Zealand, and South America.",
+    "behavior": "A seed specialist, it uses its stout bill to crack open hard seed cases, and visits garden feeders readily; some northern populations make short-distance migrations south in winter.",
+    "funFact": "The European greenfinch's chunky bill gives it enough force to crack open the hardest seed cases, allowing it to exploit food sources inaccessible to smaller finches."
+  },
+  "eurasian-bullfinch": {
+    "region": "Resident across much of Europe and northern Asia, favouring woodland edges, hedgerows, and orchards.",
+    "behavior": "This species feeds predominantly on buds, seeds, and berries; in spring it can devastate orchards by stripping fruit-tree buds before they open, earning it a long history of persecution by growers.",
+    "funFact": "The Eurasian bullfinch was so notorious for raiding orchard buds that in 16th-century England a bounty was placed on every bird killed — a penny per head."
+  },
+  "common-linnet": {
+    "region": "Found across Europe, western Asia, and North Africa in open farmland, heathland, and scrubby hillsides; northern populations migrate south in winter.",
+    "behavior": "A gregarious seed-eater that forages in flocks on open ground, favouring the seeds of weeds and grasses; it derives its very name from its fondness for flax and hemp seeds.",
+    "funFact": "The common linnet takes both its English name and its genus name Linaria from flax — the plant from which linen is made — reflecting its historical fondness for flax seeds."
+  },
+  "eurasian-siskin": {
+    "region": "Very common throughout Europe and Eurasia, favouring forested areas of coniferous and mixed woodland; in some years populations make large irruptive southward migrations in winter.",
+    "behavior": "An acrobatic feeder, it hangs upside-down like a tit to pick seeds from alder catkins and conifer cones; it is a sociable bird that visits garden feeding stations readily.",
+    "funFact": "The Eurasian siskin periodically migrates in massive irruptive waves every few years — the triggers are poorly understood but are thought to relate to fluctuating food supply and climate."
+  },
+  "hawfinch": {
+    "region": "Breeds across Europe and temperate Asia, favouring deciduous and mixed woodland with large trees, especially hornbeam; many Asian birds migrate south in winter.",
+    "behavior": "A powerful seed-cracker, it uses its massive bill to split open cherry stones and other hard fruit kernels that would defeat smaller finches; it is usually seen in pairs or small groups and is notably unobtrusive.",
+    "funFact": "The hawfinch can exert a bite force of up to 50 kg — powerful enough to crack open olive stones and cherry pits with a bill that looks almost comically oversized for its body."
+  },
+  "yellowhammer": {
+    "region": "Native to open farmland, hedgerows, and scrubby hillsides across Eurasia; most European birds are year-round residents, though eastern populations migrate south in winter.",
+    "behavior": "Primarily a ground-feeding seed-eater, supplementing its diet with invertebrates during the breeding season; it forms small flocks in winter and sings persistently from exposed perches.",
+    "funFact": "The yellowhammer's song — traditionally rendered 'a little bit of bread and no cheese' — inspired Beethoven, who reportedly used its rhythm in his Fifth Symphony."
+  },
+  "common-reed-bunting": {
+    "region": "Breeds throughout Europe and much of the Palearctic in wetland margins and marsh vegetation, damp moorland, and rush pastures; while many birds migrate south in winter, those in milder western areas remain year-round.",
+    "behavior": "This species forages on seeds and invertebrates in wet vegetation; males sing persistently from prominent wetland perches during the breeding season.",
+    "funFact": "Though strongly associated with wetlands, the common reed bunting has increasingly colonised dry arable farmland, showing a surprising adaptability to changing agricultural landscapes."
+  },
+  "eurasian-tree-sparrow": {
+    "region": "Breeds across temperate Eurasia and Southeast Asia, inhabiting lightly wooded open countryside and farmland; in Europe it avoids urban centres, which are dominated by the house sparrow.",
+    "behavior": "Mainly a seed-eater but takes invertebrates during the breeding season; it nests in natural cavities, holes in buildings, and disused nests of other species.",
+    "funFact": "Unlike the house sparrow, where males and females look different, both sexes of the Eurasian tree sparrow wear the same rich chestnut cap and neat black cheek patch."
+  },
+  "coal-tit": {
+    "region": "A widespread and common resident of forests throughout the temperate to subtropical Palearctic, including North Africa, with a particular affinity for coniferous woodland.",
+    "behavior": "An energetic forager that gleans insects and seeds from foliage, it has the habit of caching food items to retrieve in leaner times, and readily visits garden feeders.",
+    "funFact": "Despite being one of Europe's smallest tits, the coal tit is a bold hoarder — it can cache thousands of seeds per winter, remembering the locations with remarkable precision."
+  },
+  "long-tailed-tit": {
+    "region": "Found throughout Eurasia in deciduous and mixed woodland, scrub, heathland, farmland, parks, and gardens; it is largely resident across its range.",
+    "behavior": "An insectivore that gleans tiny invertebrates from foliage, it travels in tight, noisy family flocks of six to seventeen individuals outside the breeding season and roosts huddled together for warmth.",
+    "funFact": "The long-tailed tit's nest is an engineering marvel — an oval ball of moss, lichen, and spiders' webs lined with up to 2,000 feathers, which stretches to accommodate the growing chicks."
+  },
+  "dunnock": {
+    "region": "Found throughout temperate Europe and into Asian Russia in hedgerows, woodland edges, gardens, and scrub; it has also been introduced to New Zealand.",
+    "behavior": "A quiet, unobtrusive bird that shuffles along the ground picking up small invertebrates and seeds with a characteristic creeping shuffle; it has one of the most complex mating systems of any European songbird.",
+    "funFact": "The dunnock has one of the most extraordinary sex lives in European birds — females routinely mate with multiple males simultaneously, and males will peck at the female's cloaca to remove a rival's sperm before mating."
+  },
+  "song-thrush": {
+    "region": "Breeds across the West Palearctic in forests, gardens, and parks; it is partially migratory, with many individuals wintering in southern Europe, North Africa, and the Middle East.",
+    "behavior": "An omnivore that famously uses a favourite stone as an 'anvil' to smash open snail shells; it also eats earthworms, insects, and berries.",
+    "funFact": "The song thrush's distinctive song repeats each musical phrase two or three times — a habit so characteristic that the poet Robert Browning wrote 'That's the wise thrush; he sings each song twice over.'"
+  },
+  "mistle-thrush": {
+    "region": "Common across much of Europe, temperate Asia, and North Africa in open woods, parks, hedges, and cultivated land; northern populations migrate south in winter.",
+    "behavior": "A bold, pugnacious feeder on a wide variety of invertebrates, seeds, and berries; in winter it will aggressively defend a single mistletoe clump or berry-bearing tree against all comers, chasing off rival birds.",
+    "funFact": "The mistle thrush earned the old name 'stormcock' for its habit of singing loudly from treetops even in driving rain and wind — behaviour most birds wisely avoid."
+  },
+  "redwing": {
+    "region": "A native of Europe and the Palearctic, this small member of the thrush family breeds in northern forests and migrates south across Europe in winter.",
+    "behavior": "It feeds on berries, fallen fruit, and earthworms, often forming mixed flocks with fieldfares during winter movements across open fields and hedgerows.",
+    "funFact": "The redwing is Britain's smallest true thrush and gets its name from the vivid rusty-orange patch on its flanks and underwings, visible in flight."
+  },
+  "fieldfare": {
+    "region": "Breeds in woodland and scrub across northern Europe and the Palearctic; strongly migratory, it winters in large numbers in southern Europe, North Africa, and the Middle East.",
+    "behavior": "Omnivorous across the seasons — eating molluscs, insects, and earthworms in summer and switching to berries, grain, and seeds in winter; migrating flocks often travel in the company of other winter thrushes.",
+    "funFact": "Fieldfares defend their nesting colonies with a unique weapon: they mob predators by dive-bombing them and defecating on them, the foul coating matting feathers and sometimes killing small hawks."
+  },
+  "european-pied-flycatcher": {
+    "region": "Breeds across most of Europe and the western Palearctic, nesting typically in oak woodland; it is fully migratory, wintering in tropical Africa.",
+    "behavior": "Mainly insectivorous, catching caterpillars, flies, spiders, and ants; males practice polygyny, travelling large distances to acquire a second mate while still assisting with chick-rearing at the first nest.",
+    "funFact": "Male European pied flycatchers are serial bigamists — they attract a second female at a distant nest site, often concealing their paired status by adopting a duller plumage near the second female."
+  },
+  "common-nightingale": {
+    "region": "Breeds in woodland, scrub, and dense thickets across Europe and western Asia; it migrates to sub-Saharan Africa for the winter.",
+    "behavior": "A mostly terrestrial species that forages on the ground for insects and invertebrates; it is best known for its song, which is delivered by the male both day and night during the breeding season.",
+    "funFact": "The common nightingale's song is considered one of the most beautiful in the bird world — so complex and powerful that it can be heard clearly above the ambient noise of a city at night."
+  },
+  "black-redstart": {
+    "region": "A widespread breeder in rocky habitats, cliffs, and urban areas across Eurasia and North Africa, from the British Isles east to central China; northern and eastern populations migrate south in winter.",
+    "behavior": "This small, terrestrial species forages on the ground and among rocks for insects and invertebrates, frequently quivering its rusty tail; it is strongly associated with built-up areas and rocky landscapes.",
+    "funFact": "During World War II, the black redstart colonised bombed-out rubble sites in British cities — the first records of breeding in England were on London's devastated bomb sites in the 1940s."
+  },
+  "common-redstart": {
+    "region": "Breeds across much of Europe and western Asia in open woodland, parks, and gardens; it is fully migratory, wintering in sub-Saharan Africa.",
+    "behavior": "An insectivorous species that flits between low perches and the ground to catch invertebrates; it is a hole-nester and readily takes to nest boxes.",
+    "funFact": "The common redstart's name comes from the Old English word 'steort' meaning tail — a reference to its constantly quivering, vivid orange-red tail that remains its most recognisable feature."
+  },
+  "european-stonechat": {
+    "region": "Found across Europe as far east as Ukraine and the South Caucasus, and in parts of North Africa, in open heathland, gorse scrub, and coastal grassland.",
+    "behavior": "This species perches conspicuously on the tops of bushes and fence posts, dropping to the ground to take insects and other small invertebrates; its alarm call sounds like two pebbles being knocked together.",
+    "funFact": "The European stonechat gets its name from its sharp, pebble-clacking alarm call — a distinctive 'wheet-chak-chak' that carries clearly across open heathland."
+  },
+  "northern-wheatear": {
+    "region": "Breeds in open stony country across Europe, Asia, and has footholds in northeastern Canada, Greenland, Alaska, and northwestern Canada; all populations winter in Africa.",
+    "behavior": "An insectivorous species that forages on the ground, darting after prey with quick runs and dips; it nests in rock crevices and rabbit burrows.",
+    "funFact": "The northern wheatear undertakes one of the most impressive migrations of any small bird — Alaskan-breeding birds fly more than 14,000 km across Siberia and the Middle East to reach Africa."
+  },
+  "common-house-martin": {
+    "region": "Breeds in Europe, North Africa, and west-central Asia; it is fully migratory, wintering in sub-Saharan Africa and southwestern Asia.",
+    "behavior": "An aerial insectivore that feeds entirely on flying insects caught in flight; it builds distinctive closed cup nests from mud pellets attached under eaves of buildings, usually in loose colonies.",
+    "funFact": "The common house martin builds its nest entirely from mud pellets — a single nest may require more than a thousand trips to a muddy puddle to collect enough material."
+  },
+  "sand-martin": {
+    "region": "Has one of the widest breeding ranges of any swallow-family bird, spanning the entire Holarctic — from Europe across Asia to the Pacific, and throughout North America; it winters in Africa and South America.",
+    "behavior": "An aerial insectivore, it hunts flying insects over water and open ground; unlike most swallow-family birds, it excavates long burrow tunnels in sandy river banks and cliffs to nest in colonies.",
+    "funFact": "The sand martin is one of the first summer migrants to arrive in Europe each spring — its appearance at river banks in February or March is a classic early sign that winter is ending."
+  },
+  "common-swift": {
+    "region": "Breeds across Europe and Asia, migrating to sub-Saharan Africa; it is found in open skies above towns, cities, and countryside wherever flying insects are abundant.",
+    "behavior": "Almost entirely aerial — it eats, sleeps, and even mates on the wing; its tiny, weak legs are used only to cling to vertical surfaces, and non-breeding individuals may remain airborne for up to ten months continuously.",
+    "funFact": "The common swift can stay airborne for up to ten months without landing — eating, sleeping, and even mating in the air, making it one of the most aerial vertebrates on Earth."
+  },
+  "white-wagtail": {
+    "region": "Breeds across the Palearctic from Europe through Asia, and into western Alaska; most populations migrate to Africa for the winter, though birds in milder areas are resident.",
+    "behavior": "An insectivorous bird of open, bare ground near water and human habitation; it forages actively on foot, bobbing its tail continuously as it pursues prey across car parks, riverbanks, and paved areas.",
+    "funFact": "The white wagtail is the national bird of Latvia and is one of Europe's most familiar birds — its constantly bobbing tail and bold black-and-white pattern make it instantly recognisable."
+  },
+  "grey-wagtail": {
+    "region": "Widely distributed across Eurasia, with several populations that breed in Europe and northern Asia migrating to tropical regions in Africa and Asia; it is always associated with running water when breeding.",
+    "behavior": "This species forages along fast-flowing streams and rivers for aquatic insects, frequently wagging its long tail and flying low with bounding undulations; outside the breeding season it may also be found at lakes and coasts.",
+    "funFact": "Despite its name, the grey wagtail is one of Europe's most colourful waterside birds — breeding males have a bold black throat and vivid sulphur-yellow underparts that outshine many species with 'yellow' in their name."
+  },
+  "yellow-wagtail": {
+    "region": "Breeds across much of temperate Europe and Asia in open wet meadows and grassland near water; most populations migrate to tropical Africa and southern Asia for the winter.",
+    "behavior": "An insectivorous ground forager, it walks through low vegetation picking up flies, beetles, and other invertebrates, often following livestock to catch insects disturbed by their hooves.",
+    "funFact": "The western yellow wagtail has an extraordinary number of subspecies — males across its range show at least eight distinct head-colour patterns, from yellow to blue-grey to black, leading to endless taxonomic debate."
+  },
+  "meadow-pipit": {
+    "region": "Breeds throughout much of the Palearctic, from Greenland and Iceland east to the Ural Mountains; it migrates to southern Europe, North Africa, and southwestern Asia in winter, though western populations are largely resident.",
+    "behavior": "A ground-nesting, ground-foraging species of open moorland and grassland, picking up small insects and seeds; it is a key host species for the common cuckoo across much of its range.",
+    "funFact": "The meadow pipit is the cuckoo's most important host across upland Britain — female cuckoos that parasitise meadow pipits lay eggs closely matching the pipit's own speckled pattern."
+  },
+  "eurasian-skylark": {
+    "region": "Widespread across Europe and the Palearctic, with introduced populations in Australia, New Zealand, Canada, and Hawaii; it is a bird of open farmland and heath.",
+    "behavior": "Males deliver their celebrated song in prolonged hovering flight at heights of 50–100 metres above ground; the species forages on the ground for seeds and insects, and the female nests in a shallow ground depression far from any tree.",
+    "funFact": "A male Eurasian skylark may sing continuously for more than an hour while hovering at 100 metres — the song contains a complex stream of trills and mimicry delivered without pause."
+  },
+  "common-starling": {
+    "region": "Native to temperate Europe and across the Palearctic to western Mongolia; it has been introduced as an invasive species to North America, Australia, New Zealand, and South Africa, among others.",
+    "behavior": "An omnivore taking a wide range of invertebrates, seeds, and fruit; it is famous for forming enormous roosting flocks — called murmurations — that perform sweeping, co-ordinated aerial displays before settling to roost.",
+    "funFact": "The common starling's gift for mimicry is so impressive that Pliny the Elder documented it, Shakespeare wrote about it, and Mozart famously kept one as a pet — it learned to sing a variation of his Piano Concerto No. 17."
+  },
+  "eurasian-magpie": {
+    "region": "A resident breeding bird throughout the northern Eurasian continent, found in farmland, woodland edges, parks, and gardens.",
+    "behavior": "An omnivorous and opportunistic corvid, it eats insects, small vertebrates, carrion, grain, and fruit; it builds large domed stick nests and is known for its inquisitive, bold behaviour around humans.",
+    "funFact": "The Eurasian magpie is one of the few non-mammal species to pass the mirror self-recognition test, placing it in the same cognitive category as great apes, elephants, and dolphins."
+  },
+  "western-jackdaw": {
+    "region": "Found across Europe, western Asia, and western North Africa in farmland, open woodland, coastal cliffs, and urban settings; mostly resident, though northern and eastern birds migrate south in winter.",
+    "behavior": "An omnivorous and opportunistic feeder consuming plant material, invertebrates, and urban food waste; it lives in small groups with a complex social structure and nests in cavities in trees, cliffs, or buildings.",
+    "funFact": "The western jackdaw has piercing pale eyes unlike any other crow, giving it an almost otherworldly stare — the pale iris is unique among European corvids and intensifies its reputation for intelligence."
+  },
+  "carrion-crow": {
+    "region": "Native to western Europe and the eastern Palearctic, occupying a wide range of open and semi-open habitats including farmland, woodland, coasts, and urban areas.",
+    "behavior": "A highly adaptable, all-black omnivore that eats almost anything — invertebrates, small vertebrates, eggs, grain, carrion, and food waste; it is a solitary nester but may gather in communal roosts outside the breeding season.",
+    "funFact": "Carrion crows have been filmed dropping hard-shelled walnuts onto pedestrian crossings, then waiting for cars to crack them open before flying down to collect the kernel on the red light."
+  },
+  "common-wood-pigeon": {
+    "region": "Native to the western Palearctic and the largest of the European pigeons, it is found in woodland, farmland, parks, and suburban gardens across Europe and into western Asia.",
+    "behavior": "A largely vegetarian species with a flexible diet centred on plant material including cereals, clover, and seeds; it feeds mainly on the ground or in trees and is considered an agricultural pest in many areas.",
+    "funFact": "The common wood pigeon is Europe's largest native pigeon and has boomed in numbers as an arable-farming specialist — in Britain alone the population now exceeds five million pairs."
+  },
+  "eurasian-collared-dove": {
+    "region": "Native to Europe, Asia, and northern Africa, this species has also been introduced to Japan, North and Central America, and the Caribbean; it is strongly associated with human settlement.",
+    "behavior": "A seed and grain feeder, it is highly adaptable to urban and suburban environments and nests year-round in trees and hedges near buildings; it is one of the most rapidly expanding birds of the 20th century.",
+    "funFact": "The Eurasian collared dove's expansion across Europe in the 20th century was one of ornithology's great spectacles — it spread from Turkey to Britain in just 20 years, reaching Ireland by 1959."
+  },
+  "european-turtle-dove": {
+    "region": "Breeds across the southwestern Palearctic including North Africa, migrating south to winter in northern sub-Saharan Africa.",
+    "behavior": "A seed-eater of open farmland and woodland edges, it is a long-distance migrant that has declined catastrophically across Europe due to habitat loss and hunting pressure on migration.",
+    "funFact": "The European turtle dove is now one of Europe's most threatened migratory birds — its population has fallen by more than 90% since the 1970s, and it has virtually disappeared from much of northern Europe."
+  },
+  "common-cuckoo": {
+    "region": "A widespread summer migrant to Europe and Asia, wintering in Africa; it occupies a wide range of habitats including woodland, moorland, and reedbeds wherever suitable host species nest.",
+    "behavior": "A brood parasite that lays its eggs in the nests of other species — particularly dunnocks, meadow pipits, and reed warblers — with each female specialising on a single host species and laying matching eggs; the adult female also mimics a sparrowhawk in flight to scare hosts away from their nests.",
+    "funFact": "A cuckoo chick, blind and naked just hours after hatching, instinctively heaves all other eggs and chicks out of the nest — ensuring it alone receives all the foster parents' food."
+  },
+  "great-spotted-woodpecker": {
+    "region": "Found across the Palearctic including parts of North Africa, inhabiting all types of woodland; largely resident across most of its range, though some northern birds make movements when conifer crops fail.",
+    "behavior": "A versatile forager that chisels into bark for insect larvae, extracts seeds from pine cones, and will raid the nest holes of other birds for eggs and chicks; it also drums loudly on resonant branches for territorial advertisement.",
+    "funFact": "The great spotted woodpecker can strike a tree at up to 20 times per second — its brain is protected by shock-absorbing bone structure and a thick, spongy skull that cushions each impact."
+  },
+  "european-green-woodpecker": {
+    "region": "Resident across much of Europe and the western Palearctic, absent from Spain and Portugal where it is replaced by the closely related Iberian green woodpecker.",
+    "behavior": "Unusually for its family, this species spends most of its time foraging on the ground for ants, using its long sticky tongue to probe anthills; it rarely drums on trees and is more often heard by its loud, laughing call than seen.",
+    "funFact": "The European green woodpecker's laugh-like call — the 'yaffle' — gave it one of its folk names, and it was loud enough to inspire a BBC animated character of the same name."
+  },
+  "eurasian-wryneck": {
+    "region": "Breeds in temperate Europe and Asia in open countryside, woodland, and orchards; most populations migrate to tropical Africa and southern Asia for the winter, though some are resident in northwest Africa.",
+    "behavior": "Its chief prey is ants and other insects, which it finds in decaying wood or on the ground using a long, sticky tongue; when threatened at the nest, it twists and cranes its head in a slow snake-like display while hissing.",
+    "funFact": "The Eurasian wryneck can rotate its head almost 180 degrees — a startling trick that earned it the name 'snake bird' in several languages and was once thought to be a sign of witchcraft."
+  },
+  "european-bee-eater": {
+    "region": "Breeds in southern and central Europe, northern and southern Africa, and western Asia; most populations are strongly migratory, wintering in tropical Africa.",
+    "behavior": "A specialist predator of flying insects — particularly bees, wasps, and hornets — which it catches in aerial sallies; before swallowing a stinging insect, it beats it against a perch and wipes off the venom.",
+    "funFact": "The European bee-eater is immune neither to bee venom nor to stings — instead it methodically rubs each captured bee against a branch to rupture the venom sac and expel the sting before eating it."
+  },
+  "european-roller": {
+    "region": "Breeds across Europe, the Maghreb, West Asia, and Central Asia; it is strongly migratory, wintering in the dry wooded savanna and bushy plains of southern Africa.",
+    "behavior": "A perch-hunting insectivore, it watches from exposed vantage points for large insects, lizards, and small vertebrates, then drops to seize them on the ground; it nests in tree holes and is not closely related to any other European bird.",
+    "funFact": "The European roller gets its name from its spectacular courtship display — the male performs wild rolling and tumbling dives, twisting and somersaulting through the air while calling loudly."
+  },
+  "eurasian-hoopoe": {
+    "region": "Native across Europe, Asia, and Africa; it is migratory in the northern part of its range, wintering south of the breeding areas in sub-Saharan Africa and tropical Asia.",
+    "behavior": "This species probes soil and leaf litter for insects, larvae, and small reptiles with its long, curved bill; it is most active in open ground including lawns, pastures, and vineyards, and nests in natural cavities.",
+    "funFact": "The Eurasian hoopoe was chosen as Israel's national bird in 2008, and its elaborate fan-shaped crest — which it raises in alarm — has made it one of the most visually iconic birds across three continents."
+  },
+  "common-pheasant": {
+    "region": "Native to Asia and the extreme southeast of Europe, but has been widely introduced across Europe, North America, and beyond as a game bird; it occupies woodland edges, farmland, and scrubby grassland.",
+    "behavior": "Largely ground-dwelling, it forages for seeds, berries, insects, and small vertebrates; males are polygynous, maintaining harems of several females and defending territories with loud, crowing calls.",
+    "funFact": "The common pheasant is probably the world's most widely introduced game bird — more than 50 million are released annually in Britain alone, where the species is not naturally native."
+  },
+  "grey-partridge": {
+    "region": "Found across Europe and into western Asia in open arable farmland, grassland, and heath; it is largely sedentary within its range.",
+    "behavior": "A ground-dwelling species that forages for seeds, leaves, and insects, often in family groups known as coveys; it nests in dense vegetation on the ground and is particularly dependent on invertebrate-rich field margins for chick survival.",
+    "funFact": "The grey partridge is one of Europe's most farmland-dependent birds and has declined by more than 85% in Britain since the 1970s — a direct consequence of herbicide use eliminating the insect-rich weedy margins chicks need."
+  },
+  "red-legged-partridge": {
+    "region": "Native to southwestern Europe — primarily France, Spain, and Portugal — where it inhabits open rocky hillsides, scrubland, and arable farmland; introduced populations exist in Britain and elsewhere.",
+    "behavior": "A ground-dweller that prefers to run rather than fly when disturbed; it is a seed-eater, though young birds depend heavily on insects for protein; its call is a distinctive three-syllable 'ka-chu-chu'.",
+    "funFact": "The red-legged partridge has an unusual family arrangement — females sometimes lay two separate clutches simultaneously, leaving one for the male to incubate while she incubates the other herself."
+  },
+  "common-quail": {
+    "region": "Breeds in the western Palearctic and across Europe and North Africa; it is mainly migratory, wintering in Africa and southern India.",
+    "behavior": "A secretive ground-nester that is far more often heard than seen; it forages on seeds and small invertebrates among crops and grassland, and its characteristic three-note call carries surprisingly far across open fields.",
+    "funFact": "The common quail is Europe's only fully migratory galliform — all other members of the grouse, partridge, and pheasant family in Europe are largely sedentary, making it a remarkable exception."
+  },
+  "western-capercaillie": {
+    "region": "Found across Europe and the Palearctic in dense boreal and montane forests; populations in central Europe are fragmented and declining, while the northern range remains more stable.",
+    "behavior": "Primarily a ground-dwelling forest bird, it feeds on pine needles, berries, and plant shoots; males perform spectacular competitive courtship displays at traditional gathering sites called leks, where they fan their tails, puff their chests, and produce extraordinary gurgling and popping calls.",
+    "funFact": "The western capercaillie is the world's largest grouse — a male can weigh up to 6 kg — and during its lek display it becomes so absorbed that it is temporarily deaf to approaching predators."
+  },
+  "eurasian-woodcock": {
+    "region": "Found in temperate and subarctic Eurasia in moist woodland with soft ground for probing; birds from northern and eastern areas migrate south and west in winter.",
+    "behavior": "A cryptically camouflaged species that probes moist soil with its long, sensitive bill for earthworms and invertebrates; its eyes are set so far back on its head that it has nearly 360-degree vision, allowing it to watch for predators while feeding.",
+    "funFact": "The Eurasian woodcock's eyes are positioned so far back on its skull that it has a blind spot directly in front of its bill — but can see almost fully behind and above itself without moving its head."
+  },
+  "northern-lapwing": {
+    "region": "Common through temperate Eurosiberia in open farmland, grassland, and wetland margins; it is partially migratory, with northern populations moving south in winter.",
+    "behavior": "This species nests on the ground in open fields, using a tumbling, acrobatic display flight and loud calls to distract and mob predators; it forages by sight for earthworms and insects on short grassland.",
+    "funFact": "The northern lapwing's broad, rounded wings create a distinctive 'floppy' wingbeat and a characteristic whistling sound in flight — the source of its common name 'peewit', which imitates both the wing noise and its call."
+  },
+  "european-golden-plover": {
+    "region": "Breeds on upland moorland and tundra across northern Europe and Iceland; it is migratory, wintering in lower-lying grassland and farmland across western and southern Europe and North Africa.",
+    "behavior": "A ground-nesting species that forages by sight for earthworms, beetles, and other invertebrates on short turf; it forms large winter flocks, often mixing with northern lapwings on lowland pasture.",
+    "funFact": "The European golden plover has the most northerly breeding range of any European plover, nesting on bleak upland bogs — and its bubbling, mournful call is one of the iconic sounds of a British moorland spring."
+  },
+  "common-redshank": {
+    "region": "A Eurasian wading bird breeding across a wide range from western Europe to eastern Asia in coastal marshes, damp meadows, and moorland; it is partially migratory, wintering on coasts and estuaries.",
+    "behavior": "This species forages by sight and touch in mud and shallow water for invertebrates, worms, and small fish; it is an extremely alert and noisy species, often the first to take alarm and call loudly when a predator approaches, earning it the name 'sentinel of the marshes'.",
+    "funFact": "The common redshank is known as the 'sentinel of the marshes' — its piercing alarm calls are so reliable that other wading birds use it as a watchman, taking flight whenever it calls."
+  },
+  "black-tailed-godwit": {
+    "region": "Breeds across a wide range from Iceland through Europe and central Asia in fens, damp meadows, moorland, and bogs; it winters on estuaries, swamps, and flooded fields across the Indian subcontinent, Australia, western Europe, and West Africa.",
+    "behavior": "A long-billed wader that probes deeply into mud and soft soil for invertebrates, worms, and plant material; it is more likely to feed inland and on freshwater than its close relative the bar-tailed godwit.",
+    "funFact": "The black-tailed godwit is classified as Near Threatened globally — its Icelandic population, which winters in the UK and Ireland, has declined sharply due to changes in the wet grassland farming it depends on for breeding."
+  }
+}

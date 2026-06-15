@@ -1,0 +1,32 @@
+{
+  "eurasian-treecreeper": {
+    "region": "Found across the Palearctic in woodlands of all kinds, from British Isles through Europe to Asia; where it overlaps with a close relative in western Europe, it favours coniferous forests and higher altitudes.",
+    "behavior": "It spirals up tree trunks like a mouse, probing bark crevices with a fine curved bill to extract insects, then drops to the base of the next tree in an erratic, undulating flight.",
+    "funFact": "The Eurasian Treecreeper sometimes roosts communally on cold nights, pressing several birds together into a huddle on a sheltered patch of bark to conserve warmth."
+  },
+  "winter-wren": {
+    "region": "This species breeds in coniferous forests stretching from British Columbia to the Atlantic coast, then migrates south to spend the colder season across the eastern United States and southeastern Canada.",
+    "behavior": "It forages almost exclusively by ground-gleaning in dense underbrush, picking through leaf litter and low tangles for small invertebrates; its genus name means 'cave-dweller', reflecting its habit of creeping into cavities and thick cover.",
+    "funFact": "Despite being one of the smallest birds on the continent, the Winter Wren produces a remarkably loud, complex song — its vocal output relative to body weight is among the highest of any bird."
+  },
+  "demoiselle-crane": {
+    "region": "This species ranges across central Eurosiberia from the Black Sea to Mongolia and northeast China, with a small population in Turkey; western birds migrate to Africa for the cold months, while Asian populations fly to the Indian subcontinent.",
+    "behavior": "A long-distance migrant, it travels in large flocks and must cross the Himalayas — one of the most gruelling migration routes of any bird; it feeds on seeds, grains, and small invertebrates on open grasslands and agricultural fields.",
+    "funFact": "The Demoiselle Crane is the smallest crane species in the world, yet its Himalayan crossing takes it above 5,000 metres, where it must contend with extreme cold and low oxygen."
+  },
+  "black-headed-ibis": {
+    "region": "This wading species breeds across South and Southeast Asia, from India westward to as far east as Japan, frequenting wetlands, rice paddies, and a variety of other natural and man-made habitats.",
+    "behavior": "It uses its long, down-curved black bill to probe shallow water and soft soil for fish, frogs, crustaceans, and insects; it nests colonially but only during the rainy season.",
+    "funFact": "The Black-headed Ibis is the only native wading species in its South Asian range with all-white plumage contrasted by a bare black head and neck — a combination that makes it unmistakable at a glance."
+  },
+  "indian-white-eye": {
+    "region": "A resident breeder of open woodland and gardens across the subcontinent and into South Asia, this small passerine is rarely found far from its core range following a recent taxonomic split that separated it from related Southeast Asian populations.",
+    "behavior": "It forages in small, active flocks, feeding on nectar — which it sips with a brush-tipped tongue — as well as small insects gleaned from foliage; the distinctive pale eye-ring is visible even at a distance.",
+    "funFact": "The Indian White-eye was only recently given its current name after genetic studies split the former 'Oriental white-eye' into multiple species, making this bird the sole recognised representative of its lineage on the subcontinent."
+  },
+  "pheasant-tailed-jacana": {
+    "region": "Found across tropical Asia from Yemen in the west to the Philippines in the east, this species inhabits shallow lakes and wetlands thick with floating vegetation; it undertakes long seasonal migrations — unique among its family.",
+    "behavior": "Extraordinarily elongated toes spread its weight so it can walk atop lily pads and other floating plants while foraging for invertebrates; females are larger than males and are polyandrous, leaving each clutch of eggs to be incubated and raised by a different male.",
+    "funFact": "The Pheasant-tailed Jacana undergoes a dramatic seasonal transformation: its striking long tail and bold chestnut-and-white breeding plumage are replaced by a much plainer non-breeding appearance after the nesting season ends."
+  }
+}

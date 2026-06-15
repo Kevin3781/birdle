@@ -1,0 +1,362 @@
+{
+  "black-necked-stilt": {
+    "size": "Medium shorebird, about 35–40 cm long with extremely long pink legs",
+    "habitat": "Wetlands, coastlines, marshes, and shallow ponds of North and South America",
+    "diet": "Aquatic invertebrates, insects, and small fish probed from shallow water",
+    "migration": "Northern inland populations migrate south in winter toward southern Mexico; coastal and southern populations are largely resident"
+  },
+  "great-blue-heron": {
+    "size": "Large wading bird, one of North America's tallest birds at roughly 100–130 cm",
+    "habitat": "Shores of open water and wetlands across most of North and Central America",
+    "diet": "Primarily fish, supplemented by frogs, small mammals, and other aquatic prey",
+    "migration": "Largely resident across most of range; northern populations move south in winter"
+  },
+  "great-egret": {
+    "size": "Large egret, roughly 80–104 cm long with a wingspan around 130–170 cm",
+    "habitat": "Wetlands, marshes, lakes, rivers, and coastal areas across tropical and warmer temperate regions worldwide",
+    "diet": "Fish, frogs, small mammals, and other aquatic prey stalked in shallow water",
+    "migration": "Partly migratory; northern populations move south in winter, southern populations largely resident"
+  },
+  "snowy-egret": {
+    "size": "Small white heron, noticeably smaller than the great egret; about 56–66 cm long",
+    "habitat": "Wetlands, marshes, tidal flats, ponds, and coastal areas of the Americas",
+    "diet": "Small fish, crustaceans, frogs, and aquatic invertebrates",
+    "migration": "Migratory in northern parts of range; winters along coasts and in southern regions"
+  },
+  "green-heron": {
+    "size": "Small heron of North and Central America, about 41–46 cm long",
+    "habitat": "Wooded streams, ponds, marshes, and vegetated shorelines of North and Central America",
+    "diet": "Fish, frogs, and aquatic invertebrates; notably uses bait to lure prey",
+    "migration": "Migratory; northern populations winter in Central America and the Caribbean"
+  },
+  "black-crowned-night-heron": {
+    "size": "Medium-sized heron, about 58–66 cm long with a stocky, compact build",
+    "habitat": "Wetlands, marshes, estuaries, and lakeshores across much of Europe, Asia, and the Americas",
+    "diet": "Fish, frogs, crustaceans, insects, and other small aquatic animals; primarily a nocturnal hunter",
+    "migration": "Partly migratory; northern populations move south in winter, many populations are resident year-round"
+  },
+  "american-white-pelican": {
+    "size": "Very large aquatic bird; among the largest in North America by wingspan",
+    "habitat": "Lakes, marshes, and rivers in interior North America; coastal areas in winter",
+    "diet": "Primarily fish, caught cooperatively by herding prey in shallow water",
+    "migration": "Strongly migratory; breeds in interior North America, winters south to the coasts and as far as Costa Rica"
+  },
+  "brown-pelican": {
+    "size": "Large coastal bird, about 100–137 cm long with a wingspan up to about 2.3 m",
+    "habitat": "Coastal ocean waters, bays, estuaries, and beaches from New Jersey to South America",
+    "diet": "Primarily fish, caught by dramatic plunge-diving; occasionally amphibians and crustaceans",
+    "migration": "Largely resident along coasts; some post-breeding dispersal northward along both coasts"
+  },
+  "double-crested-cormorant": {
+    "size": "70–90 cm long; entirely black with an orange-yellow facial patch",
+    "habitat": "Rivers, lakes, and coastal areas across North America from Alaska to Florida and Mexico",
+    "diet": "Mainly fish, hunted by swimming and diving underwater",
+    "migration": "Partly migratory; northern populations move south in winter, coastal populations often resident"
+  },
+  "sandhill-crane": {
+    "size": "Large crane of North America, standing roughly 80–120 cm tall with a broad wingspan",
+    "habitat": "Open wetlands, meadows, marshes, and the edges of bodies of water across North America",
+    "diet": "Omnivorous; grains, tubers, insects, small vertebrates, and other plant and animal matter",
+    "migration": "Strongly migratory; up to 450,000 birds stage along the Platte River in Nebraska each spring"
+  },
+  "american-coot": {
+    "size": "Medium-sized waterbird, roughly the size of a small duck; about 34–43 cm long",
+    "habitat": "Wetlands, ponds, lakes, and open water across North America",
+    "diet": "Primarily algae and aquatic plants; also invertebrates and small vertebrates when available",
+    "migration": "Migratory; breeds across North America, winters from the southern US south to Panama"
+  },
+  "common-gallinule": {
+    "size": "Medium-sized rail, similar in size to a small duck; about 30–38 cm long",
+    "habitat": "Well-vegetated marshes, ponds, canals, and other wetlands across the Americas",
+    "diet": "Seeds, aquatic plants, invertebrates, and small fish gleaned from the water's edge",
+    "migration": "Partly migratory; northern populations move south in winter, many populations resident year-round"
+  },
+  "pied-billed-grebe": {
+    "size": "Small, compact waterbird; about 30–38 cm long",
+    "habitat": "Ponds, lakes, and freshwater marshes throughout the Americas",
+    "diet": "Fish, crustaceans, aquatic insects, and other small aquatic animals caught by diving",
+    "migration": "Partly migratory; northern populations move south in winter to open water"
+  },
+  "wood-stork": {
+    "size": "Large wading bird, about 83–115 cm long; the only stork that breeds in North America",
+    "habitat": "Subtropical and tropical wetlands, swamps, and areas with fluctuating water levels in the Americas",
+    "diet": "Fish and other aquatic prey, caught by tactile bill-snapping in shallow water",
+    "migration": "Largely resident in tropical and subtropical range; US population disperses after breeding"
+  },
+  "roseate-spoonbill": {
+    "size": "Large wading bird, about 71–86 cm long with a distinctive spatula-shaped bill",
+    "habitat": "Coastal wetlands, mangroves, marshes, and shallow bays in South and North America",
+    "diet": "Small fish, crustaceans, aquatic insects, and other invertebrates sifted by sweeping the bill",
+    "migration": "Largely resident; some post-breeding dispersal northward along Gulf and Atlantic coasts"
+  },
+  "white-ibis": {
+    "size": "Medium-sized wading bird, about 53–70 cm long with a long downward-curving red-orange bill",
+    "habitat": "Coastal wetlands, mangroves, marshes, and shallow water along the US Gulf and Atlantic coasts south through Central America",
+    "diet": "Primarily crayfish and small aquatic prey, probed by feel in shallow water; also insects and small fish",
+    "migration": "Largely resident; range extends inland after the breeding season and into the Caribbean"
+  },
+  "trumpeter-swan": {
+    "size": "The largest extant waterfowl species; wingspan 185–305 cm; the heaviest bird native to North America",
+    "habitat": "Lakes, rivers, and wetlands with aquatic vegetation in North America",
+    "diet": "Aquatic plants, roots, and tubers; also some aquatic invertebrates",
+    "migration": "Partly migratory; many populations resident year-round, others move to ice-free waters in winter"
+  },
+  "tundra-swan": {
+    "size": "The smallest Holarctic swan; medium-large waterfowl with white plumage and mostly black bill",
+    "habitat": "Breeds on Arctic and subarctic tundra pools and lakes; winters in grasslands and marshes, often near coasts",
+    "diet": "Mainly aquatic vegetation in summer; leftover grain and crops in winter",
+    "migration": "Strongly migratory; breeds in Arctic tundra and winters on coasts of North America and northwestern Europe"
+  },
+  "snow-goose": {
+    "size": "Medium-sized goose; smaller than Canada goose, with both white and dark ('blue') color morphs",
+    "habitat": "Breeds on Arctic tundra; winters in agricultural fields, wetlands, and coastal marshes of North America",
+    "diet": "Grasses, sedges, agricultural grain, and other plant matter",
+    "migration": "Strongly migratory; breeds in Greenland, Canada, and Alaska; winters in warm parts of North America south to Mexico"
+  },
+  "northern-pintail": {
+    "size": "Large dabbling duck; males have elongated central tail feathers giving them a distinctively slender profile",
+    "habitat": "Open wetlands, lakes, marshes, and agricultural fields across northern Europe, Asia, and North America",
+    "diet": "Primarily plant matter dabbled from shallow water; adds small invertebrates during breeding season",
+    "migration": "Strongly migratory; breeds in northern areas, winters south to the equator"
+  },
+  "american-wigeon": {
+    "size": "Medium-sized dabbling duck, similar in size to a mallard",
+    "habitat": "Wetlands, ponds, lakes, and estuaries across North America",
+    "diet": "Primarily aquatic vegetation and grasses; often grazes on land near water",
+    "migration": "Migratory; breeds in northern North America, winters along coasts and in southern regions"
+  },
+  "northern-shoveler": {
+    "size": "Medium-sized dabbling duck with a distinctive large spatula-shaped bill",
+    "habitat": "Wetlands, shallow lakes, and marshes; breeds in northern Europe and North America",
+    "diet": "Aquatic invertebrates, seeds, and plant matter filtered through its large bill",
+    "migration": "Strongly migratory; winters in southern Europe, South Asia, Central America, and northern South America"
+  },
+  "green-winged-teal": {
+    "size": "One of the smallest North American dabbling ducks",
+    "habitat": "Ponds, marshes, and wetlands across northern North America",
+    "diet": "Seeds, aquatic plants, and small invertebrates dabbled in shallow water",
+    "migration": "Strongly migratory; winters far south of its breeding range, forming large gregarious flocks"
+  },
+  "blue-winged-teal": {
+    "size": "One of the smaller dabbling ducks of North America",
+    "habitat": "Freshwater ponds, marshes, and shallow lakes; breeds from southern Alaska to Nova Scotia",
+    "diet": "Seeds, aquatic plants, and invertebrates dabbled in shallow water",
+    "migration": "Long-distance migrant; winters along Pacific and Atlantic coasts, into the Caribbean and Central America"
+  },
+  "gadwall": {
+    "size": "Medium-sized dabbling duck, slightly smaller than a mallard",
+    "habitat": "Wetlands, lakes, ponds, and marshes across the Northern Hemisphere",
+    "diet": "Aquatic plants, seeds, and invertebrates",
+    "migration": "Migratory; breeds in northern regions, winters in southern and coastal areas"
+  },
+  "canvasback": {
+    "size": "The largest diving duck in North America",
+    "habitat": "Prairie potholes, lakes, and wetlands for breeding; large open lakes and coastal bays in winter",
+    "diet": "Primarily aquatic plant tubers (especially wild celery), supplemented by invertebrates",
+    "migration": "Migratory; breeds in prairie pothole region, winters on large coastal bays and inland lakes"
+  },
+  "redhead": {
+    "size": "40–56 cm long; wingspan 74–84 cm; weight around 1,030–1,080 g",
+    "habitat": "Prairie wetlands and marshes for breeding; large lakes and coastal bays in winter",
+    "diet": "Aquatic plants, seeds, and invertebrates, obtained by diving",
+    "migration": "Migratory; breeds in prairie pothole region, winters on coastal bays and large inland lakes"
+  },
+  "ring-necked-duck": {
+    "size": "Medium-sized diving duck of North America",
+    "habitat": "Freshwater ponds and wooded lakes; breeds in boreal forest wetlands, winters on ponds and reservoirs",
+    "diet": "Aquatic plants, seeds, and invertebrates obtained by diving",
+    "migration": "Migratory; breeds in northern North America, winters across the southern US and into Central America"
+  },
+  "bufflehead": {
+    "size": "Small sea duck; one of the smallest ducks in North America",
+    "habitat": "Wooded lakes and ponds for breeding in Alaska and Canada; coastal bays and open water in winter",
+    "diet": "Aquatic invertebrates, insects, and small crustaceans obtained by diving",
+    "migration": "Migratory; breeds in Alaska and Canada, winters across southern North America"
+  },
+  "common-goldeneye": {
+    "size": "Medium-sized sea duck with a distinctive bulbous head profile",
+    "habitat": "Forested lakes and rivers for breeding; coastal bays and large lakes in winter",
+    "diet": "Aquatic invertebrates, crustaceans, and small fish obtained by diving",
+    "migration": "Migratory; breeds in boreal forests of North America and Eurasia, winters on coasts and large inland waters"
+  },
+  "hooded-merganser": {
+    "size": "The second-smallest merganser species; a small fish-eating duck with a prominent erectile crest",
+    "habitat": "Wooded wetlands, ponds, and rivers in North America",
+    "diet": "Primarily fish, also crayfish and aquatic invertebrates, caught by diving",
+    "migration": "Migratory; breeds in forested areas of North America, winters on ponds, estuaries, and coastal waters"
+  },
+  "common-merganser": {
+    "size": "Large sea duck; the largest merganser in North America and Eurasia",
+    "habitat": "Rivers and lakes in forested areas of Europe, Asia, and North America",
+    "diet": "Mainly fish, caught by diving in clear freshwater rivers and lakes",
+    "migration": "Partly migratory; northern populations move south in winter to ice-free rivers and coastal waters"
+  },
+  "ruddy-duck": {
+    "size": "Small, compact stiff-tailed duck with a short, stout body",
+    "habitat": "Prairie potholes and marshes for breeding; coastal bays and large lakes in winter",
+    "diet": "Aquatic invertebrates and plant material obtained by diving",
+    "migration": "Migratory; breeds in prairie wetlands of North America, winters on coastal bays and open water"
+  },
+  "golden-eagle": {
+    "size": "Large raptor; dark brown with golden-buff nape; may maintain home ranges up to 200 km²",
+    "habitat": "Open and semi-open country, mountains, and cliffs across the Holarctic; avoids densely human-populated areas",
+    "diet": "Mainly hares, rabbits, marmots, and ground squirrels, taken with powerful talons",
+    "migration": "Largely resident; some northern populations move south in winter; juveniles wander widely until establishing a territory"
+  },
+  "coopers-hawk": {
+    "size": "Medium-sized hawk; females noticeably larger than males; crow-sized to pigeon-sized depending on sex",
+    "habitat": "Forests and woodlands across North America from southern Canada to Mexico; increasingly common in suburbs",
+    "diet": "Primarily small to medium-sized birds; also small mammals and occasionally reptiles",
+    "migration": "Partly migratory; northern populations move south in autumn, many populations resident year-round"
+  },
+  "sharp-shinned-hawk": {
+    "size": "Small hawk; males are the smallest hawks in the United States and Canada",
+    "habitat": "Dense forests and woodlands across North America; also found in thickets and forest edges",
+    "diet": "Primarily small birds caught in fast, agile pursuit through forest undergrowth",
+    "migration": "Strongly migratory; one of the most numerous hawks seen at migration watchsites in autumn"
+  },
+  "northern-harrier": {
+    "size": "Medium-sized, slender hawk with a long tail and long wings adapted for low soaring",
+    "habitat": "Prairies, open areas, and marshes across North America",
+    "diet": "Small mammals, birds, and frogs hunted by flying low over open ground",
+    "migration": "Migratory; breeds in northern Canada and US, winters south to the American south, Mexico, and Central America"
+  },
+  "american-kestrel": {
+    "size": "The smallest falcon in the Americas; ranges from about the weight of a blue jay to a mourning dove",
+    "habitat": "Open country, farmland, grasslands, and urban areas throughout North and South America",
+    "diet": "Grasshoppers and other insects, lizards, mice, and small birds",
+    "migration": "Partly migratory; Canadian and northern US breeders move south in winter; southern populations resident"
+  },
+  "peregrine-falcon": {
+    "size": "Large, crow-sized falcon with blue-grey back, barred white underparts, and a black head",
+    "habitat": "Nearly worldwide — cliff faces, urban buildings, tundra, and coastlines on every continent except Antarctica",
+    "diet": "Almost exclusively medium-sized birds caught in high-speed aerial dives; pigeons are a key urban prey",
+    "migration": "Many northern populations are migratory, with the scientific name meaning 'wandering falcon'; urban populations largely resident"
+  },
+  "merlin": {
+    "size": "Small, compact falcon; slightly larger than an American kestrel",
+    "habitat": "Open forests, prairies, and coastlines across the Northern Hemisphere",
+    "diet": "Primarily small birds caught in fast, low pursuit; also large insects",
+    "migration": "Migratory; breeds in boreal forests and tundra of Canada and northern US, winters across southern North America and into South America"
+  },
+  "turkey-vulture": {
+    "size": "Large soaring bird; wingspan roughly 160–183 cm; holds wings in a shallow V in flight",
+    "habitat": "Open and semi-open areas including subtropical forests, shrublands, pastures, and deserts from Canada to South America",
+    "diet": "Almost exclusively carrion, located by an exceptional sense of smell; uses thermals to soar in search of carcasses",
+    "migration": "Migratory in northern range; US birds legally protected under the Migratory Bird Treaty Act; winters in warmer regions"
+  },
+  "black-vulture": {
+    "size": "Wingspan about 1.5 m (4.9 ft); relatively small for a vulture with black plumage and a bare grayish-black head",
+    "habitat": "Open areas with scattered trees, chaparral, subtropical forests, and garbage dumps from southeastern US to South America",
+    "diet": "Primarily carrion; also eggs, small reptiles, and newborn animals; finds food mainly by sight, following other vultures",
+    "migration": "Largely resident throughout its range from the southeastern US to South America"
+  },
+  "eastern-screech-owl": {
+    "size": "Stocky, short-tailed owl; mid-sized for a screech owl",
+    "habitat": "Most types of woodland habitats in eastern North America, from Mexico to Canada; adapts to urban and suburban areas",
+    "diet": "Small mammals, birds, and large insects hunted nocturnally; adaptable opportunistic predator",
+    "migration": "Resident year-round; does not migrate"
+  },
+  "barred-owl": {
+    "size": "Large owl species of North America, brown to gray overall with dark striping on the underside",
+    "habitat": "Mature forests of eastern North America; has expanded west and is now found along the Pacific Coast",
+    "diet": "Small mammals primarily; opportunistically takes birds, reptiles, amphibians, and invertebrates",
+    "migration": "Resident year-round; does not migrate"
+  },
+  "burrowing-owl": {
+    "size": "Small, long-legged owl; distinctive among owls for its terrestrial lifestyle",
+    "habitat": "Grasslands, rangelands, agricultural areas, and deserts with low vegetation in North and South America",
+    "diet": "Insects, small mammals, and other small prey; often active during the day, hunting at dawn and dusk",
+    "migration": "Partly migratory; northern populations move south in winter, southern populations largely resident"
+  },
+  "ruffed-grouse": {
+    "size": "Medium-sized grouse; the most widely distributed game bird in North America",
+    "habitat": "Forests from the Appalachian Mountains across Canada to Alaska",
+    "diet": "Buds, leaves, berries, seeds, and insects; diet shifts seasonally with plant availability",
+    "migration": "Non-migratory; resident year-round in its forest habitat"
+  },
+  "northern-bobwhite": {
+    "size": "Small, compact ground-dwelling quail of eastern North America",
+    "habitat": "Open woodlands, grasslands, agricultural edges, and brushy areas of Canada, the US, Mexico, and Cuba",
+    "diet": "Seeds, insects, and plant matter foraged from the ground",
+    "migration": "Largely resident; does not typically migrate, though populations have declined sharply due to habitat loss"
+  },
+  "ring-necked-pheasant": {
+    "size": "Large, long-tailed gamebird native to Asia; introduced widely as a game bird",
+    "habitat": "Farmlands, grasslands, forest edges, and open countryside; highly adaptable to disturbed habitats",
+    "diet": "Seeds, grains, berries, insects, and plant matter; forages mostly on the ground",
+    "migration": "Largely resident; does not undertake regular migrations"
+  },
+  "greater-roadrunner": {
+    "size": "Long-legged, long-tailed bird of the Southwestern US and Mexico; one of the larger members of the cuckoo family",
+    "habitat": "Arid and semi-arid scrubland, chaparral, desert, and open woodland of the Southwestern US and Mexico",
+    "diet": "Snakes (including rattlesnakes), lizards, large insects, small mammals, and birds",
+    "migration": "Non-migratory; resident year-round in its arid range"
+  },
+  "yellow-billed-cuckoo": {
+    "size": "Medium-sized, slender songbird with a long tail; somewhat larger than a robin",
+    "habitat": "Riparian woodlands, forest edges, and thickets in eastern North America during summer",
+    "diet": "Large caterpillars (especially tent caterpillars and fall webworms), cicadas, and other large insects",
+    "migration": "Long-distance migrant; breeds in North America and winters in South America"
+  },
+  "common-nighthawk": {
+    "size": "22–25 cm long; wingspan 51–61 cm; weight 55–98 g",
+    "habitat": "Open areas, grasslands, urban rooftops, and woodland edges across the Americas",
+    "diet": "Aerial insectivore; catches flying insects in its enormous gaping mouth during crepuscular and nocturnal flights",
+    "migration": "Long-distance migrant; breeds across North America, winters in South America"
+  },
+  "acorn-woodpecker": {
+    "size": "About 20 cm (8 in) long; average weight about 85 g (3.0 oz)",
+    "habitat": "Oak woodlands and pine-oak forests of western North America and Central America, south into Colombia",
+    "diet": "Acorns are the staple, stored communally in 'granary trees'; also insects and fruit",
+    "migration": "Non-migratory; resident year-round in its oak woodland habitat"
+  },
+  "stellers-jay": {
+    "size": "Medium-sized jay; the only crested jay west of the Rocky Mountains",
+    "habitat": "Pine-oak and coniferous forests of western North America and mountains of Central America",
+    "diet": "Seeds, nuts, berries, insects, and occasionally eggs or nestlings of other birds",
+    "migration": "Largely resident; some elevational movement in winter"
+  },
+  "western-scrub-jay": {
+    "size": "Medium-sized, slender jay without a crest",
+    "habitat": "Scrub, chaparral, oak woodland, and urban/suburban areas in western North America from British Columbia to Nevada and California",
+    "diet": "Acorns, seeds, insects, berries, and small vertebrates; also caches food for winter",
+    "migration": "Non-migratory; resident year-round throughout its range"
+  },
+  "clarks-nutcracker": {
+    "size": "Medium-sized corvid; gray-bodied with black-and-white wings",
+    "habitat": "Mountain forests of western North America, primarily associated with high-elevation pine forests",
+    "diet": "Pine seeds (its primary food); stores thousands of seeds in the ground for winter and can relocate them by memory",
+    "migration": "Largely resident at high elevations; irrupts to lower elevations in years of pine seed failure"
+  },
+  "black-billed-magpie": {
+    "size": "Medium-large corvid; black and white with iridescent blue-green wing and tail sheen; long tail",
+    "habitat": "Open habitats with clumps of trees, farmlands, and suburban areas across the western half of North America",
+    "diet": "Omnivorous — beetles, grasshoppers, worms, rodents, carrion, ticks gleaned from livestock, and berries",
+    "migration": "Non-migratory; resident year-round throughout its range"
+  },
+  "american-dipper": {
+    "size": "Small, compact, wren-like waterbird; the only truly aquatic songbird in North America",
+    "habitat": "Fast-flowing, clear mountain streams and rivers of western North America",
+    "diet": "Aquatic invertebrates, fish eggs, and small fish found by walking underwater along stream bottoms",
+    "migration": "Largely resident; may move to lower elevations or less-frozen streams in severe winters"
+  },
+  "varied-thrush": {
+    "size": "Medium-sized thrush, roughly robin-sized",
+    "habitat": "Dense coniferous and mixed forests of the Pacific Coast and mountain ranges of western North America",
+    "diet": "Berries, acorns, and other fruit in winter; insects and earthworms in breeding season",
+    "migration": "Partly migratory; moves from higher-elevation breeding areas to lower coastal areas in winter"
+  },
+  "western-tanager": {
+    "size": "Medium-sized songbird; male is brilliantly colored with a red head and yellow body",
+    "habitat": "Coniferous and mixed forests of western North America during breeding; tropical forests and woodland edges in winter",
+    "diet": "Insects (especially wasps and bees) during breeding; berries and fruit supplement the diet",
+    "migration": "Long-distance migrant; breeds in western North America, winters from Mexico to Costa Rica"
+  },
+  "lazuli-bunting": {
+    "size": "Small songbird of western North America; named for the gemstone lapis lazuli",
+    "habitat": "Shrubby hillsides, streamside thickets, and chaparral of western North America",
+    "diet": "Seeds and insects; forages in low shrubs and on the ground",
+    "migration": "Migratory; breeds in western North America, winters in Mexico"
+  }
+}

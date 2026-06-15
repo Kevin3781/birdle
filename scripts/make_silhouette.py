@@ -20,7 +20,7 @@ Usage:
   python scripts/make_silhouette.py --all
   python scripts/make_silhouette.py --all --limit 10 --overwrite
 """
-import argparse, io, os, sys, urllib.request
+import argparse, io, os, sys, time, urllib.request, urllib.error
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import birdle_lib as lib
@@ -29,6 +29,7 @@ UA = "BirdleMediaBot/1.0 (educational bird-guessing game; contact: birdle.app)"
 OUT_DIR = os.path.join(lib.REPO_ROOT, "svg", "silhouettes", "species")
 ALPHA_THRESHOLD = 128   # alpha >= this becomes solid black
 PAD_FRAC = 0.06         # padding around the subject, as a fraction of the larger side
+THROTTLE_SEC = 1.5      # polite delay between Wikimedia photo downloads (avoid 429)
 
 
 def _load_deps():
@@ -41,10 +42,21 @@ def _load_deps():
         sys.exit(f"Missing dependency: {e}\n  Run: pip install rembg pillow")
 
 
-def _download(url, timeout=60):
+def _download(url, timeout=60, retries=5):
+    # Wikimedia enforces a "robot policy" and 429s bursty clients. Back off and retry.
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries - 1:
+                wait = 5.0 * (attempt + 1)   # 5s, 10s, 15s, 20s
+                print(f"      -> 429 from Wikimedia, backing off {wait:.0f}s "
+                      f"(attempt {attempt + 1}/{retries})")
+                time.sleep(wait)
+                continue
+            raise
 
 
 def make_one(bird, session, deps, overwrite=False):
@@ -122,6 +134,8 @@ def main():
     for b in targets:
         r = make_one(b, session, deps, overwrite=args.overwrite)
         counts[r] = counts.get(r, 0) + 1
+        if r != "skip":            # only throttle when we actually hit Wikimedia
+            time.sleep(THROTTLE_SEC)
     print(f"\nDone: {counts}")
 
 

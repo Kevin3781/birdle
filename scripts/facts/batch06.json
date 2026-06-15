@@ -1,0 +1,362 @@
+{
+  "baya-weaver": {
+    "size": "Small sparrow-sized weaverbird",
+    "habitat": "Grasslands, cultivated areas, scrub, and secondary growth across the Indian subcontinent and Southeast Asia",
+    "diet": "Seeds and grain; forages in flocks",
+    "migration": "Largely resident; prone to local, seasonal movements in response to rain and food availability"
+  },
+  "scaly-breasted-munia": {
+    "size": "Sparrow-sized; small estrildid finch",
+    "habitat": "Tropical plains and grasslands from India and Sri Lanka east to Indonesia and the Philippines",
+    "diet": "Mainly grass seeds, supplemented by berries and small insects",
+    "migration": "Largely resident; introduced feral populations established in several regions worldwide"
+  },
+  "red-avadavat": {
+    "size": "Sparrow-sized; small estrildid finch",
+    "habitat": "Open fields and grasslands of tropical Asia",
+    "diet": "Seeds and grain typical of estrildid finches",
+    "migration": "Largely resident within tropical Asia; breeds in the Indian subcontinent during the monsoon season"
+  },
+  "spot-billed-duck": {
+    "size": "Large dabbling duck",
+    "habitat": "Freshwater wetlands across the Indian subcontinent",
+    "diet": "Aquatic plants and invertebrates typical of dabbling ducks",
+    "migration": "Non-migratory resident breeding duck throughout its range"
+  },
+  "ruddy-shelduck": {
+    "size": "58–70 cm long; wingspan 110–135 cm",
+    "habitat": "Inland water-bodies such as lakes, reservoirs, and rivers; nests in cliffs and tree cavities away from water",
+    "diet": "Omnivorous; feeds on plant matter, invertebrates, and small aquatic animals",
+    "migration": "Migratory; breeds in southeastern Europe and central Asia, winters in the Indian subcontinent; small resident populations in North Africa"
+  },
+  "bar-headed-goose": {
+    "size": "Medium-sized goose",
+    "habitat": "Breeds near mountain lakes in Central Asia; winters in lowland wetlands and fields of South Asia",
+    "diet": "Grasses and aquatic vegetation",
+    "migration": "Strongly migratory; famous for crossing the Himalayas at extreme altitudes between breeding and wintering grounds"
+  },
+  "mountain-hawk-eagle": {
+    "size": "Large bird of prey",
+    "habitat": "Forest-dwelling; found in forests from the Himalayas through South and Southeast Asia to Japan and Taiwan",
+    "diet": "Opportunistic predator taking birds, mammals, and reptiles",
+    "migration": "Largely resident; a confirmed breeding species across its range with limited dispersal"
+  },
+  "crested-serpent-eagle": {
+    "size": "Medium-sized bird of prey",
+    "habitat": "Forested habitats across tropical Asia, from the Indian subcontinent through Southeast and East Asia",
+    "diet": "Specialises in snakes; also takes other reptiles and small vertebrates",
+    "migration": "Largely resident throughout its tropical forest range"
+  },
+  "brahminy-kite": {
+    "size": "Medium-sized bird of prey",
+    "habitat": "Mainly coastal and inland wetlands across the Indian subcontinent, Southeast Asia, and Australia",
+    "diet": "Dead fish and other carrion; also takes live prey opportunistically",
+    "migration": "Largely resident across its range"
+  },
+  "black-kite": {
+    "size": "Medium-sized bird of prey",
+    "habitat": "Wide range of open and semi-open habitats across temperate and tropical Eurasia, Australasia, and Oceania",
+    "diet": "Opportunistic scavenger; carrion, refuse, insects, and small vertebrates",
+    "migration": "Temperate populations migratory, moving south in winter; tropical populations largely resident"
+  },
+  "steppe-eagle": {
+    "size": "Large eagle",
+    "habitat": "Treeless steppe grasslands for breeding; more varied open habitats in winter including landfills and open country",
+    "diet": "Specialised predator of ground squirrels when breeding; in winter feeds on insects, carrion, and easy prey",
+    "migration": "Strongly migratory; entire breeding population migrates south via major flyways including the Middle East, Red Sea, and Himalayas"
+  },
+  "himalayan-monal": {
+    "size": "Medium to large landfowl",
+    "habitat": "Himalayan forests and shrublands at elevations of 2,100–4,500 m",
+    "diet": "Roots, tubers, insects, and other invertebrates dug from the ground",
+    "migration": "Largely resident; descends to lower elevations in winter"
+  },
+  "kalij-pheasant": {
+    "size": "Medium-sized pheasant",
+    "habitat": "Forests and thickets, especially in the Himalayan foothills from Nepal and Pakistan to western Thailand",
+    "diet": "Seeds, roots, insects, and other forest floor invertebrates",
+    "migration": "Largely resident; may make limited altitudinal movements seasonally"
+  },
+  "golden-pheasant": {
+    "size": "Medium-sized pheasant; males with very long ornamental tail",
+    "habitat": "Dense forests and mountainous terrain of central China",
+    "diet": "Berries, seeds, leaves, and insects",
+    "migration": "Largely resident"
+  },
+  "lady-amhersts-pheasant": {
+    "size": "Large pheasant; males with strikingly long ornamental tail",
+    "habitat": "Dense mountain forests and bamboo thickets of southwestern China and Myanmar",
+    "diet": "Berries, seeds, leaves, and insects",
+    "migration": "Largely resident"
+  },
+  "mikado-pheasant": {
+    "size": "Large pheasant with a long tail",
+    "habitat": "Dense mountain forests of Taiwan, including areas like Yushan National Park",
+    "diet": "Seeds, berries, insects, and plant matter",
+    "migration": "Largely resident; endemic to Taiwan"
+  },
+  "satyr-tragopan": {
+    "size": "Male about 70 cm long",
+    "habitat": "Moist oak and rhododendron forests with dense undergrowth and bamboo, at 1,800–4,200 m in the Himalayas",
+    "diet": "Plant matter including leaves, shoots, berries, and insects",
+    "migration": "Altitudinal migrant; descends to around 1,800 m in winter from summer ranges up to 4,200 m"
+  },
+  "blood-pheasant": {
+    "size": "Relatively small, short-tailed pheasant",
+    "habitat": "Lower Himalayas across North and East India, Nepal, Bhutan, South China, and northern Myanmar",
+    "diet": "Plant matter, seeds, insects, and other invertebrates",
+    "migration": "Largely resident; makes limited altitudinal movements with season"
+  },
+  "long-tailed-shrike": {
+    "size": "Medium-sized shrike with a notably long, narrow black tail",
+    "habitat": "Open country, farmland, scrub, and forest edges widely across Asia",
+    "diet": "Insects, lizards, small birds, and rodents; impales prey on thorns in typical shrike fashion",
+    "migration": "Largely resident across most of its range; some populations make partial migrations"
+  },
+  "black-winged-stilt": {
+    "size": "Medium-sized wader with very long legs",
+    "habitat": "Shallow wetlands, marshes, mudflats, and lagoons across Europe, Asia, and Africa",
+    "diet": "Aquatic invertebrates, insects, and small fish picked from shallow water",
+    "migration": "Partially migratory; northern populations move south in winter, tropical populations largely resident"
+  },
+  "spotted-owlet": {
+    "size": "Small owl",
+    "habitat": "Open habitats including farmland, urban areas, and human habitation from Pakistan to Southeast Asia; roosts in tree hollows and rock cavities",
+    "diet": "Insects, small rodents, lizards, and other small prey",
+    "migration": "Largely resident throughout its tropical and subtropical range"
+  },
+  "brown-fish-owl": {
+    "size": "Large owl",
+    "habitat": "Forests and wooded wetlands from Turkey to South and Southeast Asia",
+    "diet": "Primarily fish; also takes crustaceans, frogs, and other aquatic prey",
+    "migration": "Largely resident throughout its wide range"
+  },
+  "vernal-hanging-parrot": {
+    "size": "Small parrot, only 14 cm long",
+    "habitat": "Dry jungle and cultivation in the Indian subcontinent and parts of Southeast Asia",
+    "diet": "Fruit, seeds, buds, blossoms, and nectar",
+    "migration": "Largely resident; undergoes local movements driven by fruit and flower availability"
+  },
+  "king-vulture": {
+    "size": "Large vulture",
+    "habitat": "Tropical lowland forests from southern Mexico to northern Argentina",
+    "diet": "Scavenger; feeds on carrion and often makes the initial cut into fresh carcasses",
+    "migration": "Largely resident within its tropical forest range"
+  },
+  "greater-rhea": {
+    "size": "Weighs 20–27 kg; the largest native bird in the Americas",
+    "habitat": "Open areas such as grasslands, savanna, and grassy wetlands in eastern South America",
+    "diet": "Broad omnivore; plants, seeds, insects, and small vertebrates",
+    "migration": "Largely resident; flightless"
+  },
+  "southern-cassowary": {
+    "size": "Large, flightless bird; one of the heaviest birds in the world",
+    "habitat": "Tropical rainforests of Indonesia, Papua New Guinea, and northeastern Australia",
+    "diet": "Primarily fallen fruit; also fungi, insects, frogs, and small vertebrates",
+    "migration": "Largely resident; flightless"
+  },
+  "hoatzin": {
+    "size": "Medium-sized, pheasant-like bird",
+    "habitat": "Swamps, riparian forests, and mangroves of the Amazon and Orinoco Basins in South America",
+    "diet": "Leaves, flowers, and fruit; digested by foregut fermentation unique among birds",
+    "migration": "Largely resident within the Amazon and Orinoco Basins"
+  },
+  "blue-and-yellow-macaw": {
+    "size": "Large parrot; one of the bigger macaw species",
+    "habitat": "Forest (especially varzea), woodland, and savannah in tropical Central and South America, and Trinidad",
+    "diet": "Seeds, nuts, fruits, and vegetation",
+    "migration": "Largely resident within its tropical range"
+  },
+  "hyacinth-macaw": {
+    "size": "About 1 m from head to tail tip; the longest parrot species and largest flying parrot",
+    "habitat": "Open woodlands, palm stands, and seasonally flooded forests in central and eastern South America",
+    "diet": "Primarily hard palm nuts cracked with its powerful beak",
+    "migration": "Largely resident; may make seasonal movements following food availability"
+  },
+  "military-macaw": {
+    "size": "Medium to large macaw",
+    "habitat": "Forest and woodland from west-central Mexico south through northern Argentina and Bolivia",
+    "diet": "Seeds, nuts, fruits, and vegetation",
+    "migration": "Largely resident; some seasonal movements reported"
+  },
+  "sun-conure": {
+    "size": "Medium-sized parrot",
+    "habitat": "Tropical savanna, dry forest, and palm groves in northeastern South America",
+    "diet": "Fruits, flowers, berries, blossoms, seeds, nuts, and insects",
+    "migration": "Largely resident within its range in northeastern South America"
+  },
+  "scarlet-ibis": {
+    "size": "Medium-sized wading bird",
+    "habitat": "Coastal mudflats, mangroves, shallow lagoons, and estuaries in tropical South America and the Caribbean",
+    "diet": "Crustaceans, molluscs, small fish, and invertebrates probed from mud",
+    "migration": "Largely resident; some populations make local seasonal movements"
+  },
+  "jabiru": {
+    "size": "Large stork; one of the tallest flying birds in the Americas",
+    "habitat": "Wetlands, rivers, and open areas from Mexico to Argentina; most common in the Pantanal and Eastern Chaco",
+    "diet": "Fish, frogs, reptiles, and other aquatic animals",
+    "migration": "Largely resident; makes some seasonal movements following water levels"
+  },
+  "toco-toucan": {
+    "size": "Largest toucan species; bill alone is conspicuously huge",
+    "habitat": "Semi-open habitats including cerrado, gallery forests, and wetlands up to 1,750 m in South America",
+    "diet": "Primarily fleshy fruits; also insects, eggs, and nestlings of other birds",
+    "migration": "Largely resident; range has been expanding southward in recent decades"
+  },
+  "channel-billed-toucan": {
+    "size": "Large toucan",
+    "habitat": "Tropical forests of the Caribbean island of Trinidad and tropical South America south to Brazil and Bolivia",
+    "diet": "Fruit, insects, and small vertebrates typical of toucans",
+    "migration": "Largely resident within its tropical range"
+  },
+  "andean-cock-of-the-rock": {
+    "size": "Large passerine bird",
+    "habitat": "Andean cloud forests in South America across a range of around 260,000 km²",
+    "diet": "Fruit supplemented by insects, amphibians, reptiles, and small mice",
+    "migration": "Largely resident within Andean cloud forests"
+  },
+  "guianan-cock-of-the-rock": {
+    "size": "About 30 cm long; weighs 200–220 g",
+    "habitat": "Tropical rainforests, particularly near rocky outcrops in northeastern South America",
+    "diet": "Primarily fruit; occasionally small snakes and lizards",
+    "migration": "Largely resident in the forested region of northeastern South America"
+  },
+  "blue-crowned-motmot": {
+    "size": "38–43 cm long",
+    "habitat": "Forests and woodlands; found in Mexico and Central America",
+    "diet": "Small insects, lizards, and fruit",
+    "migration": "Largely resident; nests in tunnel burrows in earthen banks"
+  },
+  "turquoise-browed-motmot": {
+    "size": "34 cm long; weighs 65 g",
+    "habitat": "Forest edge, gallery forest, and scrubland in Central America from southeast Mexico to Costa Rica",
+    "diet": "Insects and small reptiles caught from perches; occasionally fruit",
+    "migration": "Largely resident throughout its Central American range"
+  },
+  "sword-billed-hummingbird": {
+    "size": "Among the largest hummingbirds; bill alone longer than the rest of its body",
+    "habitat": "Andean regions of South America, particularly cloud forests where long-corolla flowers grow",
+    "diet": "Nectar (especially from Passiflora mixta and passionflowers); also hawks insects",
+    "migration": "Largely resident in the Andes; may make limited altitudinal movements"
+  },
+  "marvelous-spatuletail": {
+    "size": "Small hummingbird with extraordinarily elongated outer tail feathers",
+    "habitat": "Forest edges and shrubby habitats in northern Peru",
+    "diet": "Nectar and insects typical of hummingbirds",
+    "migration": "Largely resident; endemic to a small area of northern Peru"
+  },
+  "crimson-topaz": {
+    "size": "Large hummingbird",
+    "habitat": "Tropical forests and forest edges in northern South America (Brazil, French Guiana, Guyana, Suriname, Venezuela)",
+    "diet": "Nectar and insects typical of hummingbirds",
+    "migration": "Largely resident within the Guiana Shield region"
+  },
+  "southern-lapwing": {
+    "size": "Medium-sized wader",
+    "habitat": "Open grasslands, wetland margins, and agricultural areas throughout South America, except dense Amazonian forest, high Andes, and arid western coast",
+    "diet": "Insects and other invertebrates picked from the ground",
+    "migration": "Largely resident and common throughout South America; expanding its range northward into Central America and the Caribbean"
+  },
+  "magellanic-penguin": {
+    "size": "Medium-sized penguin",
+    "habitat": "Breeds on coastal Patagonia (Argentina, Chile, Falkland Islands); non-breeding birds range north to Brazil and Uruguay",
+    "diet": "Fish, squid, and crustaceans",
+    "migration": "Migratory; breeds in coastal Patagonia and migrates north to Brazilian and Uruguayan waters after breeding"
+  },
+  "humboldt-penguin": {
+    "size": "Medium-sized penguin",
+    "habitat": "Rocky coasts and islands along the Pacific coast of Peru and Chile; nests in guano burrows, scrapes, and caves",
+    "diet": "Fish and squid caught by pursuit-diving",
+    "migration": "Migratory; moves along the South American Pacific coast following food availability"
+  },
+  "inca-tern": {
+    "size": "Medium-sized tern",
+    "habitat": "Pacific coast waters and rocky cliffs of Chile, Ecuador, and Peru",
+    "diet": "Small fish and marine invertebrates",
+    "migration": "Largely resident along the Humboldt Current coast; may make local seasonal movements"
+  },
+  "andean-flamingo": {
+    "size": "Large flamingo",
+    "habitat": "High-altitude salt lakes and lagoons in the Andes mountains of South America",
+    "diet": "Algae and aquatic invertebrates filtered from shallow saline water",
+    "migration": "Partially migratory; moves between Andean high-altitude lakes seasonally; often nests in shared colonies with other flamingo species"
+  },
+  "chilean-flamingo": {
+    "size": "110–130 cm tall; a large flamingo slightly smaller than the greater flamingo",
+    "habitat": "Salt lagoons and soda lakes in South America from Ecuador and Peru to Chile and Argentina",
+    "diet": "Algae and aquatic invertebrates filtered from shallow water",
+    "migration": "Partially migratory; moves seasonally between breeding and feeding sites; habitat vulnerable to pollution and mining"
+  },
+  "american-flamingo": {
+    "size": "Large flamingo",
+    "habitat": "Shallow coastal lagoons, salt pans, and mudflats in the West Indies, northern South America, Galápagos Islands, and Yucatán Peninsula",
+    "diet": "Algae, brine shrimp, and other aquatic invertebrates filtered from shallow water",
+    "migration": "Largely resident within the Caribbean and northern South America; makes some seasonal movements between feeding sites"
+  },
+  "rufous-bellied-thrush": {
+    "size": "Medium-sized thrush",
+    "habitat": "Forests, urban parks, gardens, and open woodland across eastern and southeastern Brazil, Bolivia, Paraguay, Uruguay, and central Argentina",
+    "diet": "Fruit, worms, and insects",
+    "migration": "Largely resident; one of the most common birds in southeastern Brazil"
+  },
+  "saffron-finch": {
+    "size": "Small tanager-finch",
+    "habitat": "Open and semi-open areas in lowlands outside the Amazon Basin across much of South America and the Caribbean",
+    "diet": "Seeds; primarily a ground-foraging seed-eater",
+    "migration": "Largely resident; introduced populations established in Hawaii, Panama, Puerto Rico, and Jamaica"
+  },
+  "green-headed-tanager": {
+    "size": "About 13.5 cm long; weighs about 18 g",
+    "habitat": "Atlantic forest in southeastern Brazil, far eastern Paraguay, and far northeastern Argentina; also common in orchards and parks",
+    "diet": "Fruit and insects foraged in the forest canopy",
+    "migration": "Largely resident within the Atlantic forest"
+  },
+  "paradise-tanager": {
+    "size": "13.5–15 cm long; medium-sized songbird",
+    "habitat": "Humid tropical and subtropical forests in the western and northern Amazon Basin (Venezuela, Peru, Colombia, Ecuador, Bolivia, Brazil)",
+    "diet": "Fruit and insects",
+    "migration": "Largely resident in Amazonian rainforest"
+  },
+  "seven-colored-tanager": {
+    "size": "Small colorful tanager",
+    "habitat": "Forests of northeastern Brazil; endemic to this region",
+    "diet": "Fruit and insects typical of tanagers",
+    "migration": "Largely resident; restricted to forests in northeastern Brazil"
+  },
+  "burrowing-parrot": {
+    "size": "Medium-sized parrot",
+    "habitat": "Dry, open country up to 2,000 m elevation in Argentina and Chile; nests in burrows excavated in cliff faces",
+    "diet": "Seeds, fruits, and plant matter",
+    "migration": "Partially migratory; makes seasonal movements within Argentina and Chile following food availability"
+  },
+  "monk-parakeet": {
+    "size": "Small to medium-sized parrot",
+    "habitat": "Temperate to subtropical open woodland and scrub in South America; introduced populations in North America and Europe in similar climates",
+    "diet": "Seeds, grain, fruit, and vegetation",
+    "migration": "Largely resident; only parrot to build stick nests rather than nest in cavities"
+  },
+  "great-kiskadee": {
+    "size": "Medium-sized passerine; one of the larger tyrant flycatchers",
+    "habitat": "Open woodland with tall trees, cultivation, and areas around human habitation from southern US to Argentina",
+    "diet": "Insects, small fish, frogs, and fruit; an opportunistic feeder",
+    "migration": "Largely resident throughout its range"
+  },
+  "blue-winged-kookaburra": {
+    "size": "About 40 cm long; large kingfisher, slightly smaller than the laughing kookaburra",
+    "habitat": "Open woodland and tropical savanna in northern Australia and southern New Guinea",
+    "diet": "Insects, reptiles, small mammals, and other small prey",
+    "migration": "Largely resident in northern Australia and southern New Guinea"
+  },
+  "galah": {
+    "size": "Medium-sized cockatoo",
+    "habitat": "Wide variety of modified and unmodified habitats across mainland Australia; one of Australia's most widespread birds",
+    "diet": "Seeds, grain, roots, and green plant material foraged on the ground",
+    "migration": "Largely resident; highly abundant and adaptable across Australia"
+  },
+  "major-mitchells-cockatoo": {
+    "size": "Medium-sized cockatoo",
+    "habitat": "Arid and semi-arid inland areas of Australia, except the northeast",
+    "diet": "Seeds, nuts, roots, and berries foraged on or near the ground",
+    "migration": "Largely resident in arid interior Australia"
+  }
+}

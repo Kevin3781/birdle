@@ -1,0 +1,362 @@
+{
+  "common-raven": {
+    "size": "About 63 cm (25 in) long; averages 1.47 kg (3.2 lb), up to 2 kg — the heaviest passerine",
+    "habitat": "Widespread across the Northern Hemisphere; forests, mountains, tundra, coasts, and areas near human habitation",
+    "diet": "Omnivore — carrion, insects, cereal grains, berries, fruit, small animals, nesting birds, and food waste",
+    "migration": "Mostly resident; mated pairs defend a territory year-round, though young birds may wander"
+  },
+  "house-finch": {
+    "size": "Small finch, similar in size to a sparrow",
+    "habitat": "Open woodlands, brushy desert edges, grasslands, and suburban/urban areas across North America",
+    "diet": "Primarily seeds, buds, and berries",
+    "migration": "Largely resident year-round across most of the United States and Mexico"
+  },
+  "purple-finch": {
+    "size": "Small finch, sparrow-sized",
+    "habitat": "Forests and woodland edges in northern United States, southern Canada, and the Pacific coast",
+    "diet": "Seeds, berries, and insects",
+    "migration": "Migratory; breeds in northern North America and the west coast, winters in the southern United States"
+  },
+  "house-sparrow": {
+    "size": "16 cm (6.3 in) long; 24–39.5 g (0.85–1.39 oz)",
+    "habitat": "Strongly associated with human habitation; urban and rural settings worldwide, avoids dense forests and extreme deserts",
+    "diet": "Primarily seeds of grains and flowering plants; also insects, caterpillars, and other invertebrates opportunistically",
+    "migration": "Largely resident; one of the most widely distributed birds in the world due to human-assisted introductions"
+  },
+  "song-sparrow": {
+    "size": "Medium-sized sparrow",
+    "habitat": "Highly adaptable; found in open woodlands, marshes, brushy fields, and suburban gardens across North America",
+    "diet": "Seeds and insects",
+    "migration": "Partially migratory; northern populations move south in winter, southern populations largely resident"
+  },
+  "white-throated-sparrow": {
+    "size": "Medium-sized sparrow",
+    "habitat": "Boreal forests and thickets in summer; woodland edges, parks, and brush in winter",
+    "diet": "Seeds, berries, and insects",
+    "migration": "Migratory; breeds in northern North America, winters in the southern United States"
+  },
+  "dark-eyed-junco": {
+    "size": "Small sparrow-sized bird",
+    "habitat": "Coniferous and mixed forests in summer; gardens, fields, and woodland edges in winter across temperate North America",
+    "diet": "Primarily seeds; also insects in summer",
+    "migration": "Migratory; breeds across Canada and into the Arctic, winters widely across the United States"
+  },
+  "eastern-bluebird": {
+    "size": "Small thrush",
+    "habitat": "Open woodlands, farmlands, and orchards in eastern North America",
+    "diet": "Insects and small invertebrates; also berries and fruit",
+    "migration": "Migratory; a migratory thrush, moving south in autumn, though some southern birds are resident"
+  },
+  "mountain-bluebird": {
+    "size": "Small thrush",
+    "habitat": "Open mountainous areas, meadows, and rangelands in western North America",
+    "diet": "Omnivore — spiders, grasshoppers, flies, and other insects, plus small fruits",
+    "migration": "Migratory; breeds in mountainous western North America, moves to lower elevations and southern areas in winter"
+  },
+  "gray-catbird": {
+    "size": "Medium-sized perching bird",
+    "habitat": "Dense shrubby cover, forest edges, thickets, and garden hedges in North and Central America",
+    "diet": "Insects, berries, and fruit",
+    "migration": "Migratory; breeds across North America, winters in Central America, the Caribbean, and Gulf Coast"
+  },
+  "northern-mockingbird": {
+    "size": "Medium-sized songbird",
+    "habitat": "Open areas, forest edges, open woodlands, and suburban/urban environments across North America and the Caribbean",
+    "diet": "Omnivore — fruit, invertebrates, and small vertebrates",
+    "migration": "Mostly resident; northern mockingbirds may move south during inclement weather or onset of winter"
+  },
+  "brown-thrasher": {
+    "size": "Relatively large thrasher",
+    "habitat": "Shrubby areas, dense thickets, and woodland edges in eastern and central North America",
+    "diet": "Omnivore — insects, fruit, nuts, and berries",
+    "migration": "Migratory in the north; breeds across eastern and central North America, winters in the southern United States"
+  },
+  "cedar-waxwing": {
+    "size": "Medium-sized songbird",
+    "habitat": "Open wooded areas, orchards, and berry-bearing shrubs across North and Central America",
+    "diet": "Cedar cones, fruit, holly berries, and insects",
+    "migration": "Migratory; breeds in open wooded areas of southern Canada, winters in the southern United States, Central America, and northwestern South America"
+  },
+  "tufted-titmouse": {
+    "size": "Small songbird",
+    "habitat": "Deciduous and mixed forests, woodland edges, and suburban gardens in eastern North America",
+    "diet": "Insects, seeds, nuts, and berries",
+    "migration": "Largely resident in eastern North America year-round"
+  },
+  "black-capped-chickadee": {
+    "size": "Small songbird",
+    "habitat": "Deciduous and mixed forests across northern North America, from Alaska and Canada to the northern United States",
+    "diet": "Primarily insects and seeds; caches food for winter use",
+    "migration": "Non-migratory; resident year-round across its range, with some local movements in winter"
+  },
+  "carolina-chickadee": {
+    "size": "Small passerine, slightly smaller than the black-capped chickadee",
+    "habitat": "Forests, woodland edges, and suburban parks in the southern United States",
+    "diet": "Insects, seeds, and berries",
+    "migration": "Largely resident in the southeastern United States year-round"
+  },
+  "white-breasted-nuthatch": {
+    "size": "About 15.5 cm (6.1 in) long — medium-sized nuthatch",
+    "habitat": "Deciduous forests and mixed woodlands at low elevations across much of North America",
+    "diet": "Insects and arthropods in summer; seeds in winter",
+    "migration": "Largely resident; breeds throughout much of North America and generally stays year-round"
+  },
+  "red-breasted-nuthatch": {
+    "size": "Small songbird",
+    "habitat": "Coniferous forests across Canada, Alaska, and the northeastern and western United States",
+    "diet": "Mainly insects and seeds, especially conifer seeds",
+    "migration": "Partially resident; regularly irrupts south when cone crops fail, with records as far south as the Gulf Coast"
+  },
+  "brown-creeper": {
+    "size": "Small songbird",
+    "habitat": "Mature forests, particularly with large trees, across North America",
+    "diet": "Insects and spiders gleaned from bark crevices",
+    "migration": "Partially migratory; northern populations move south in winter, southern populations largely resident"
+  },
+  "house-wren": {
+    "size": "Very small passerine",
+    "habitat": "Suburban areas, forest edges, gardens, and brushy thickets in southern Canada, the USA, and Mexico",
+    "diet": "Primarily insects found in crevices and dense cover",
+    "migration": "Migratory; breeds across North America, moves south to warmer regions in winter"
+  },
+  "carolina-wren": {
+    "size": "Small wren",
+    "habitat": "Dense forest cover, farm edges, and suburban thickets in the eastern United States and extreme southern Ontario",
+    "diet": "Insects and invertebrates",
+    "migration": "Largely resident; severe winters restrict northern range but birds generally remain year-round"
+  },
+  "ruby-crowned-kinglet": {
+    "size": "One of the smallest songbirds in North America",
+    "habitat": "Spruce-fir forests in northern and mountainous regions of the US and Canada in summer; varied habitats in winter",
+    "diet": "Mainly insects; also fruits and seeds",
+    "migration": "Mostly migratory; breeds in northern Canada and Alaska, winters south to Mexico"
+  },
+  "golden-crowned-kinglet": {
+    "size": "Very small songbird",
+    "habitat": "Coniferous and mixed forests throughout much of North America",
+    "diet": "Insects and their eggs, spiders",
+    "migration": "Partially migratory; northern populations move south in winter, many remain in coniferous forests year-round"
+  },
+  "yellow-warbler": {
+    "size": "Small warbler",
+    "habitat": "Woodland edges, thickets, willows, and open areas near water across most of North America",
+    "diet": "Primarily insects; also berries",
+    "migration": "Migratory; breeds across most of North America, winters in Central and South America"
+  },
+  "common-yellowthroat": {
+    "size": "Small New World warbler",
+    "habitat": "Marshes, wetland edges, brushy fields, and dense low vegetation across North and Central America",
+    "diet": "Insects and other small invertebrates",
+    "migration": "Migratory in the north; winters in southern parts of the breeding range, Central America, and the West Indies; southern forms largely resident"
+  },
+  "american-redstart": {
+    "size": "Small warbler",
+    "habitat": "Deciduous and mixed woodlands across North America",
+    "diet": "Insects gleaned from foliage and caught in flight",
+    "migration": "Migratory; breeds in North America, winters in Central America, the Caribbean, and northern South America"
+  },
+  "indigo-bunting": {
+    "size": "11.5–13 cm (4.5–5.1 in) long — small seed-eating bird",
+    "habitat": "Farmland, brush areas, and open woodland from southern Canada to northern Florida",
+    "diet": "Primarily insects in summer; seeds in winter",
+    "migration": "Migratory; breeds from southern Canada to northern Florida, winters from southern Florida to northern South America; migrates by night using stars"
+  },
+  "rose-breasted-grosbeak": {
+    "size": "Large grosbeak",
+    "habitat": "Cool-temperate open deciduous woods across much of eastern North America",
+    "diet": "Seeds (foliage gleaner); also insects and berries",
+    "migration": "Migratory; breeds in eastern North America, winters in tropical America"
+  },
+  "scarlet-tanager": {
+    "size": "Medium-sized American songbird",
+    "habitat": "Thick deciduous woodlands and suburbs across eastern North America",
+    "diet": "Insects and berries",
+    "migration": "Migratory; breeds in eastern North America, winters in South America"
+  },
+  "baltimore-oriole": {
+    "size": "Small icterid blackbird",
+    "habitat": "Open woodlands, forest edges, and suburban areas in eastern North America",
+    "diet": "Insects, nectar, and fruit",
+    "migration": "Migratory; breeds in eastern North America, winters in Central America and northern South America"
+  },
+  "red-winged-blackbird": {
+    "size": "Medium-sized passerine",
+    "habitat": "Marshes, wetlands, fields, and roadsides across most of North and Central America",
+    "diet": "Seeds and insects",
+    "migration": "Migratory in the north; northern populations move south to Mexico and the southern United States in winter, some may winter as far north as Pennsylvania and British Columbia"
+  },
+  "common-grackle": {
+    "size": "Medium-to-large icterid with a long tail",
+    "habitat": "Highly adaptable; open areas, agricultural fields, suburbs, and woodland edges east of the Rocky Mountains",
+    "diet": "Omnivore — grains, insects, small vertebrates, and refuse",
+    "migration": "Partially migratory; northern populations move south in winter, many are resident"
+  },
+  "brown-headed-cowbird": {
+    "size": "Small icterid",
+    "habitat": "Open woodlands, farmland, and suburban areas across temperate and subtropical North America",
+    "diet": "Seeds and insects; historically followed bison herds for disturbed-ground insects",
+    "migration": "Partially migratory; permanent resident in the south, northern birds migrate to the southern United States and Mexico in winter"
+  },
+  "eastern-meadowlark": {
+    "size": "Medium-sized icterid",
+    "habitat": "Open grasslands, meadows, and agricultural fields from eastern North America to northern South America",
+    "diet": "Insects and other invertebrates; also seeds and grain",
+    "migration": "Partially migratory; northern populations move south in winter, many southern birds are resident"
+  },
+  "bobolink": {
+    "size": "Small New World blackbird",
+    "habitat": "Open grasslands and hay fields in the northern United States and Canada during breeding",
+    "diet": "Seeds (cultivated grains during migration and winter) and insects in summer",
+    "migration": "Long-distance migrant; breeds in northern US and Canada, winters in southern South America (Paraguay, Argentina, Bolivia)"
+  },
+  "blue-grosbeak": {
+    "size": "Medium-sized passerine",
+    "habitat": "Brushy fields, woodland edges, roadsides, and open areas in the southern United States and northern Mexico",
+    "diet": "Insects and seeds",
+    "migration": "Migratory; breeds in the southern United States and northern Mexico, winters in Central America"
+  },
+  "eastern-towhee": {
+    "size": "Large New World sparrow",
+    "habitat": "Brushy areas, shrubby undergrowth, and woodland edges across eastern North America",
+    "diet": "Seeds, insects, and berries scratched from the leaf litter",
+    "migration": "Partially migratory; northern birds migrate to the southern United States in winter"
+  },
+  "chipping-sparrow": {
+    "size": "Small New World sparrow",
+    "habitat": "Open woodlands, forest edges, suburbs, and parks across North America",
+    "diet": "Primarily seeds; also insects",
+    "migration": "Partial migrant; northerly populations fly south to overwinter in Mexico and the southern United States"
+  },
+  "tree-swallow": {
+    "size": "Small swallow",
+    "habitat": "Open areas near water, woodland edges, and fields across the United States and Canada; nests in tree cavities",
+    "diet": "Primarily flying insects; also mollusks, spiders, and fruit",
+    "migration": "Migratory; breeds in the US and Canada, winters along southern US coasts south to Panama and the West Indies"
+  },
+  "purple-martin": {
+    "size": "Largest swallow in North America",
+    "habitat": "Open areas near water, suburbs, and areas with martin nest boxes across eastern North America and parts of the Pacific coast",
+    "diet": "Flying insects caught in aerial pursuit",
+    "migration": "Migratory; breeds in North America, winters in South America; makes a brief stopover in the Yucatán or Cuba"
+  },
+  "eastern-phoebe": {
+    "size": "Small passerine flycatcher",
+    "habitat": "Woodland edges, stream banks, farms, and areas near bridges or buildings in eastern North America",
+    "diet": "Mainly flying insects caught by sallying from a perch",
+    "migration": "Migratory; one of the earliest spring migrants in eastern North America, winters in the southeastern US and Central America"
+  },
+  "eastern-kingbird": {
+    "size": "Large tyrant flycatcher",
+    "habitat": "Open areas with scattered trees and bushes across North America",
+    "diet": "Primarily insects; also fruit during migration and winter",
+    "migration": "Migratory; breeds across North America, winters in Central and South America"
+  },
+  "great-crested-flycatcher": {
+    "size": "Large flycatcher",
+    "habitat": "Treetops in eastern and mid-western deciduous forests across North America",
+    "diet": "Insects caught in the canopy; also fruit and berries",
+    "migration": "Migratory; breeds in eastern and mid-western North America, winters in Central and South America"
+  },
+  "downy-woodpecker": {
+    "size": "14–18 cm (5.5–7.1 in) long — the smallest woodpecker in North America",
+    "habitat": "Forested areas throughout the United States and Canada, except deserts and northern tundra",
+    "diet": "Primarily insects; supplements diet with seeds and berries",
+    "migration": "Largely resident year-round across its North American range"
+  },
+  "hairy-woodpecker": {
+    "size": "About 250 mm (9.8 in) long; wingspan about 380 mm (15 in) — medium-sized woodpecker",
+    "habitat": "Forests across a large area of North America",
+    "diet": "Insects excavated from wood; also seeds and berries",
+    "migration": "Largely resident year-round across North America"
+  },
+  "northern-flicker": {
+    "size": "Medium-sized woodpecker",
+    "habitat": "Open forests, forest edges, and suburban areas across most of North America, parts of Central America, and Cuba",
+    "diet": "Ants and beetles from the ground; also berries and seeds",
+    "migration": "One of the few migratory woodpeckers; northern populations move south in winter"
+  },
+  "pileated-woodpecker": {
+    "size": "Large, crow-sized woodpecker — the largest extant woodpecker in North America",
+    "habitat": "Mature deciduous forests in eastern North America, the Great Lakes, boreal forests of Canada, and parts of the Pacific Coast",
+    "diet": "Primarily insects (especially carpenter ants and beetle larvae) extracted from dead wood",
+    "migration": "Largely resident; non-migratory in most of its range"
+  },
+  "red-bellied-woodpecker": {
+    "size": "Medium-sized woodpecker",
+    "habitat": "Deciduous woodlands and forest edges in the eastern United States, from Canada south to Florida",
+    "diet": "Insects, nuts, seeds, and fruit",
+    "migration": "Largely resident; breeds and remains year-round in the eastern United States"
+  },
+  "red-headed-woodpecker": {
+    "size": "Mid-sized woodpecker",
+    "habitat": "Open country, open forests, and woodland edges across southern Canada and the east-central United States",
+    "diet": "Insects, nuts, seeds, berries, and occasionally small rodents or bird eggs",
+    "migration": "Partially migratory; some populations move south in winter, others are resident"
+  },
+  "belted-kingfisher": {
+    "size": "Large water kingfisher",
+    "habitat": "Near water — rivers, lakes, ponds, estuaries, and coastlines across North America",
+    "diet": "Primarily fish, plus crustaceans, frogs, and small reptiles",
+    "migration": "Partially migratory; northern birds move south in winter; many are resident near open water year-round"
+  },
+  "chimney-swift": {
+    "size": "Medium-sized swift",
+    "habitat": "Aerial forager over towns, cities, and forests; roosts and nests in chimneys and hollow trees",
+    "diet": "Flying insects and airborne spiders",
+    "migration": "Long-distance migrant; spends winters in South America, returns to North America to breed"
+  },
+  "mourning-dove": {
+    "size": "Medium-sized dove — one of North America's most abundant birds",
+    "habitat": "Open fields, agricultural land, woodland edges, and suburban/urban areas across North America",
+    "diet": "Almost exclusively seeds; young fed crop milk by parents",
+    "migration": "Mostly resident; capable of speeds up to 88 km/h (55 mph), some northern birds move south in winter"
+  },
+  "rock-pigeon": {
+    "size": "Medium-sized pigeon",
+    "habitat": "Cliff faces, rock ledges, and urban/suburban environments worldwide; open and semi-open areas for foraging",
+    "diet": "Seeds, grain, and food scraps",
+    "migration": "Largely resident; urban and feral populations are non-migratory"
+  },
+  "killdeer": {
+    "size": "Large plover",
+    "habitat": "Open fields with short vegetation, rooftops, coastal wetlands, beaches, and agricultural areas across the Americas",
+    "diet": "Primarily insects; also other invertebrates and seeds, foraging almost exclusively in fields",
+    "migration": "Partially migratory; North American breeders winter from the resident range south to Central America and the West Indies; Caribbean and South American subspecies are resident"
+  },
+  "american-woodcock": {
+    "size": "Small shorebird",
+    "habitat": "Brushy, young-forest upland habitats in the eastern half of North America; spends time on the ground in dense cover",
+    "diet": "Earthworms and other soil invertebrates probed from moist ground",
+    "migration": "Migratory; breeds in the eastern half of North America, moves south in winter"
+  },
+  "spotted-sandpiper": {
+    "size": "Small shorebird",
+    "habitat": "Freshwater and brackish shorelines — streams, rivers, lakes, and ponds across North America",
+    "diet": "Insects, worms, small fish, and crustaceans",
+    "migration": "Migratory; breeds across North America, winters from the southern United States to South America"
+  },
+  "greater-yellowlegs": {
+    "size": "Large shorebird",
+    "habitat": "Boreal forest bogs and wetlands in summer; mudflats, marshes, and shallow wetlands during migration and winter",
+    "diet": "Small fish, invertebrates, and insects probed from shallow water",
+    "migration": "Migratory; breeds in central Canada and southern Alaska, winters in southern North America, Central America, and South America"
+  },
+  "sanderling": {
+    "size": "Small wading bird, similar in size to a dunlin but stouter",
+    "habitat": "Arctic tundra in summer; sandy beaches and coastal mudflats worldwide in winter",
+    "diet": "Small crabs, invertebrates, and insects; horseshoe crab eggs during spring migration stopover",
+    "migration": "Long-distance migrant; breeds in the High Arctic, winters south to South America, Africa, Europe, and Australia"
+  },
+  "ruddy-turnstone": {
+    "size": "Small wading bird",
+    "habitat": "Rocky and sandy coastlines, mudflats, and beaches worldwide in winter; Arctic tundra in summer",
+    "diet": "Invertebrates, mollusks, crustaceans, and carrion — flips stones and debris to uncover prey",
+    "migration": "Highly migratory; breeds in northern Eurasia and North America, winters on coastlines almost worldwide"
+  },
+  "american-avocet": {
+    "size": "Large wader",
+    "habitat": "Shallow wetlands, mudflats, alkaline lakes, and flooded fields in North America",
+    "diet": "Crustaceans and insects swept from shallow water by sweeping the bill side to side",
+    "migration": "Migratory; breeds in western North America, winters along the Gulf Coast and in Central America"
+  }
+}

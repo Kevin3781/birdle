@@ -1,0 +1,302 @@
+{
+  "common-raven": {
+    "region": "Widespread across the Northern Hemisphere, from the Arctic tundra and boreal forests to deserts and coastal cliffs, with the broadest range of any member of the crow family.",
+    "behavior": "An opportunistic omnivore that eats carrion, insects, berries, small animals, and food waste; it also caches food and demonstrates remarkable problem-solving abilities.",
+    "funFact": "The common raven is one of only a handful of wild animals known to use tools, play games, and plan for the future — feats that rival those of great apes."
+  },
+  "house-finch": {
+    "region": "Native to Mexico and the southwestern United States, this species was introduced to the eastern U.S. and Hawaii and is now found year-round across nearly all of North America, as far north as Alberta.",
+    "behavior": "Primarily a seed-eater, it forages at feeders and on the ground, consuming seeds, buds, and berries; males develop their rosy-red plumage intensity from carotenoids in the food they eat.",
+    "funFact": "The house finch's red coloration is entirely diet-derived — males fed poor-quality food during molt may end up yellow or orange instead of red."
+  },
+  "purple-finch": {
+    "region": "Breeds in the northern United States, southern Canada, and along the west coast of North America, wintering southward across much of the continent.",
+    "behavior": "Forages mainly on seeds, buds, berries, and nectar; it often visits feeders and may travel irruptively in winter when food supplies shift.",
+    "funFact": "Despite its name, the male purple finch looks less purple than raspberry-dipped — ornithologist Roger Tory Peterson famously described it as a \"sparrow dipped in raspberry juice.\""
+  },
+  "house-sparrow": {
+    "region": "Native to Europe, the Mediterranean, and much of Asia, this species has been introduced to every inhabited continent and is now the most widely distributed wild bird on Earth.",
+    "behavior": "Strongly associated with human settlements, it feeds on seeds of grains and weeds but is opportunistically omnivorous, also catching insects, caterpillars, and scavenging scraps.",
+    "funFact": "The house sparrow is so tightly bound to human civilization that it essentially disappears from areas without permanent human habitation — making it as much a part of our infrastructure as the buildings it nests in."
+  },
+  "song-sparrow": {
+    "region": "One of the most abundant and widespread native passerines in North America, this adaptable species is found from Alaska and Canada south through the United States and into Mexico.",
+    "behavior": "Males sing persistently from exposed perches to defend territory; the diet includes seeds, insects, and berries depending on season and habitat.",
+    "funFact": "The song sparrow is one of the most variable birds in North America, with over 50 described subspecies spanning a huge range of size and coloration from coast to coast."
+  },
+  "white-throated-sparrow": {
+    "region": "Breeds across northern Canada and winters throughout the southern United States, occupying forest edges, thickets, and shrubby habitats during migration.",
+    "behavior": "Scratches the ground with a double-foot kick to uncover seeds; it visits feeders readily and forages in dense underbrush for seeds, berries, and insects.",
+    "funFact": "White-throated sparrows come in two distinct color morphs — white-striped and tan-striped — and pairs nearly always consist of one individual of each type, a highly unusual mating pattern."
+  },
+  "dark-eyed-junco": {
+    "region": "Common across temperate North America and ranging into the Arctic in summer; northern and high-elevation populations migrate south in winter, visiting backyards across the lower United States.",
+    "behavior": "Forages on the ground by scratching for seeds and insects; flashes white outer tail feathers in flight as a social signal, and readily comes to platform feeders in winter.",
+    "funFact": "The dark-eyed junco is sometimes called the \"snowbird\" because its arrival at low-elevation feeders reliably signals the approach of winter weather."
+  },
+  "eastern-bluebird": {
+    "region": "Occupies open woodlands, farmlands, and orchards across eastern North America, from southern Canada to the Gulf states; a migratory thrush that returns early in spring.",
+    "behavior": "Hunts by perching on a wire or fence post and dropping to the ground to catch insects; it also takes berries and small fruits, and readily uses nest boxes.",
+    "funFact": "Eastern bluebird populations crashed in the mid-20th century as starlings and house sparrows monopolized their nest cavities — a massive nest-box campaign by volunteers has since helped reverse the decline."
+  },
+  "mountain-bluebird": {
+    "region": "Found in open, mountainous districts of western North America, from Alaska and western Canada through the Rocky Mountains to central Mexico, migrating to lower elevations in winter.",
+    "behavior": "An omnivore that hovers over open ground to spot grasshoppers, flies, and spiders before dropping to catch them; also eats small fruits, especially in winter.",
+    "funFact": "The male mountain bluebird is among the most intensely turquoise birds in North America — its vivid sky-blue plumage has made it the state bird of both Idaho and Nevada."
+  },
+  "gray-catbird": {
+    "region": "A migratory species breeding across much of North America — from southern Canada through the eastern and central United States — and wintering in Central America, the Caribbean, and Florida.",
+    "behavior": "A talented mimic that incorporates calls of other species into long, improvised songs; it forages in dense shrubs for insects and berries, and is famously skulky.",
+    "funFact": "The gray catbird gets its name from its distinctive mewing call — a nasal, cat-like whine that sounds remarkably like a complaining kitten."
+  },
+  "northern-mockingbird": {
+    "region": "A mostly permanent resident from southeastern Canada through the United States to Mexico and the Caribbean; it favors open areas, forest edges, and suburban neighborhoods.",
+    "behavior": "A vocal omnivore that memorizes and replays dozens of other species' songs in long, looping sequences; it also eats fruit, invertebrates, and small vertebrates, and aggressively defends territories.",
+    "funFact": "The northern mockingbird can learn over 200 distinct songs across its lifetime and has been documented recognizing individual humans — adjusting its alarm response based on whether it has encountered that person before."
+  },
+  "brown-thrasher": {
+    "region": "Abundant throughout the eastern and central United States and southern Canada, residing primarily east of the Rockies; it nests in shrubby habitats and forest edges.",
+    "behavior": "Uses its long, curved bill to thrash through leaf litter for insects, berries, and nuts; it is the bird with the largest known song repertoire — over 1,000 distinct song types.",
+    "funFact": "The brown thrasher holds the record for the largest song repertoire of any bird species, with over 1,000 song types — and it typically repeats each phrase exactly twice before moving on."
+  },
+  "cedar-waxwing": {
+    "region": "Native to North and Central America, breeding in open wooded areas of southern Canada and wintering across the southern United States, Central America, and the far northwest of South America.",
+    "behavior": "Highly nomadic flocks move in search of fruiting trees, subsisting mainly on berries and cedar cones; it also hawks insects during summer and may become intoxicated by fermenting fruit.",
+    "funFact": "Cedar waxwings sometimes pass berries beak-to-beak down a perched flock — an apparent act of social bonding — and can get drunk on overripe, fermenting fruit."
+  },
+  "tufted-titmouse": {
+    "region": "A permanent resident of eastern North America, found in deciduous and mixed forests from the Gulf Coast north through New England and into southern Ontario.",
+    "behavior": "An active forager that caches seeds and nuts for winter; it hammers open large seeds on branches and readily visits sunflower feeders, often carrying seeds away to store.",
+    "funFact": "Tufted titmice sometimes line their nest cups with living hair plucked directly from mammals — including humans — occasionally pulling strands from a sleeping dog or a sitting person."
+  },
+  "black-capped-chickadee": {
+    "region": "Widely distributed across northern North America, from Alaska and Yukon through Canada and the northern United States; a permanent resident of deciduous and mixed forests.",
+    "behavior": "Caches food items individually in hundreds of separate locations each fall and retrieves them in winter; its hippocampus actually grows larger during caching season to support this spatial memory feat.",
+    "funFact": "The black-capped chickadee can lower its body temperature by up to 10°C on cold nights to conserve energy — a controlled hypothermia that helps it survive harsh northern winters."
+  },
+  "carolina-chickadee": {
+    "region": "Found primarily in the southern United States, from Kansas and New Jersey south to Florida and the Gulf Coast; it favors deciduous and mixed forests, parks, and suburban areas.",
+    "behavior": "Forages actively through foliage and bark for insects, seeds, and berries; it caches food and will visit feeders, often taking one seed at a time to store elsewhere.",
+    "funFact": "The Carolina chickadee and the black-capped chickadee hybridize along a narrow contact zone, and their songs are so similar that the primary way to tell them apart is to count the notes in their \"fee-bee\" call."
+  },
+  "white-breasted-nuthatch": {
+    "region": "Breeds across most of North America in deciduous and mixed woodlands, except for the coolest and driest regions; a largely non-migratory permanent resident.",
+    "behavior": "Creeps headfirst down tree trunks — an unusual posture that lets it spot insects hidden in bark crevices that upward-moving birds miss; in summer it eats mainly arthropods, switching to seeds in winter.",
+    "funFact": "The white-breasted nuthatch is one of the few birds that regularly descends trees headfirst, a trick that reveals insects hidden on the underside of bark that other trunk-foragers miss."
+  },
+  "red-breasted-nuthatch": {
+    "region": "Breeds in coniferous forests across Canada, Alaska, and the northeastern and western United States; irrupts unpredictably southward in winters when conifer seed crops fail.",
+    "behavior": "Forages on tree trunks and large branches — often headfirst — probing bark for insects and conifer seeds; smears pitch around its nest entrance, possibly as a deterrent to predators or competing birds.",
+    "funFact": "The red-breasted nuthatch plasters sticky conifer pitch around its nest hole entrance — it carries the resin in its bill and applies it deliberately, creating a natural sticky trap that may deter predators."
+  },
+  "brown-creeper": {
+    "region": "The only North American member of the treecreeper family, found across forested regions of Canada and the United States, wintering south through much of the continent.",
+    "behavior": "Spirals upward around tree trunks probing bark crevices for insects and spiders, then flies to the base of the next tree to begin again; its streaked brown plumage makes it nearly invisible against bark.",
+    "funFact": "The brown creeper's camouflage is so effective that it is often \"found\" by listening for its thin, high-pitched call rather than by sight — when alarmed, it simply freezes flat against the bark and disappears."
+  },
+  "house-wren": {
+    "region": "Found across southern Canada, the United States, and Mexico, occurring in most suburban areas, gardens, and open woodlands within its range.",
+    "behavior": "Disappears readily into crevices and dense vegetation when foraging for insects; aggressively fills potential nest cavities with sticks — even those it does not intend to use — to block rival cavity nesters.",
+    "funFact": "Male house wrens are infamous for piercing the eggs of rival birds nesting nearby — a tactic that evicts competitors from the neighborhood and reduces pressure on limited cavity-nesting sites."
+  },
+  "carolina-wren": {
+    "region": "A common resident of the eastern United States, the extreme south of Ontario, and northeastern Mexico; it favors dense forest cover, farm edges, and suburban thickets.",
+    "behavior": "Energetically investigates its surroundings — rarely staying still in the open — and forages in dense cover for insects and spiders; mated pairs maintain year-round territories together.",
+    "funFact": "The Carolina wren is the loudest bird for its size in North America, belting out its \"teakettle-teakettle-teakettle\" song at a volume that seems impossible from such a small body."
+  },
+  "ruby-crowned-kinglet": {
+    "region": "A mostly migratory species ranging from northwestern Canada and Alaska south to Mexico; it breeds in spruce-fir forests of the northern and mountainous United States and Canada.",
+    "behavior": "Mainly insectivorous, foraging nervously through foliage for tiny insects and spiders; it also eats fruits and seeds, and flicks its wings constantly while moving through vegetation.",
+    "funFact": "For its tiny size, the ruby-crowned kinglet lays an astonishing clutch of up to 12 eggs — the largest of any North American songbird relative to body size, sometimes weighing as much as the female herself."
+  },
+  "golden-crowned-kinglet": {
+    "region": "Lives throughout much of North America, breeding in boreal and montane coniferous forests and wintering across a wide range of woodland habitats in the United States.",
+    "behavior": "One of the smallest North American songbirds, it forages restlessly through conifer foliage for tiny insects and their eggs, and can survive extreme cold by roosting in dense vegetation.",
+    "funFact": "The golden-crowned kinglet can survive temperatures below -40°C in boreal winters — an extraordinary feat for a bird weighing just 6 grams — by huddling and entering brief bouts of overnight torpor."
+  },
+  "yellow-warbler": {
+    "region": "A widespread migratory species breeding across most of North America, from Alaska and Canada south through the United States, wintering from Central America to the far northwest of South America.",
+    "behavior": "Forages actively through willow and alder thickets for caterpillars and insects; known for detecting and responding to brood parasites by burying parasitized eggs under a new nest floor.",
+    "funFact": "When a brown-headed cowbird lays an egg in its nest, the yellow warbler sometimes responds by simply building a new nest layer on top of the old eggs — and repeat offenses can result in multi-story nests up to six layers deep."
+  },
+  "common-yellowthroat": {
+    "region": "An abundant breeder from southern Canada to central Mexico, wintering in the southern United States, Central America, and the West Indies; it favors marshes, wet thickets, and shrubby edges.",
+    "behavior": "Males are skulky but vocally persistent, delivering a loud \"witchety-witchety-witchety\" song from dense cover; it forages low in vegetation for insects and spiders.",
+    "funFact": "The male common yellowthroat wears a bold black mask across its face — giving it a bandit-like appearance that earned it the old nickname \"yellow bandit\" in early American ornithology."
+  },
+  "american-redstart": {
+    "region": "A New World warbler breeding across much of eastern North America and wintering from Mexico through Central America and the Caribbean to northern South America.",
+    "behavior": "Fans its tail and droops its wings dramatically while foraging, flashing bright orange or yellow patches to startle insects into flight and then snatching them mid-air.",
+    "funFact": "The American redstart is sometimes called the \"candelita\" (little torch) in Latin America, where its habit of flashing its vivid tail patches at insects makes it look like a fluttering flame."
+  },
+  "indigo-bunting": {
+    "region": "Migratory, breeding from southern Canada to northern Florida in farmlands, brushy areas, and open woodland edges, and wintering from southern Florida to northern South America.",
+    "behavior": "Navigates migration by night using the stars as a compass — one of the few birds confirmed to use stellar navigation; it eats insects in summer and seeds in winter.",
+    "funFact": "The male indigo bunting's brilliant blue color is not from pigment at all — it comes entirely from microscopic structures in the feathers that scatter light, similar to how the sky gets its color."
+  },
+  "rose-breasted-grosbeak": {
+    "region": "Breeds in cool-temperate open deciduous woods throughout much of eastern North America and migrates to tropical America — from Mexico to South America — for winter.",
+    "behavior": "Primarily a foliage gleaner that uses its powerful conical bill to crack large seeds and consume insects, berries, and buds; males are notably attentive, sharing incubation duties equally with the female.",
+    "funFact": "The male rose-breasted grosbeak sometimes sings softly while sitting on the nest — a behavior so unusual in North American songbirds that early ornithologists initially thought they were hearing a female."
+  },
+  "scarlet-tanager": {
+    "region": "Breeds in thick deciduous woodlands and suburbs across eastern North America and winters in the forests of northwestern South America, making a long trans-Gulf migration each year.",
+    "behavior": "Forages deliberately through the forest canopy gleaning caterpillars, beetles, and other insects from leaves and branches; males molt from brilliant red to olive-green after the breeding season.",
+    "funFact": "After breeding, the male scarlet tanager replaces every bright red feather with dull olive-green plumage for winter — a complete transformation that makes it nearly unrecognizable until the following spring."
+  },
+  "baltimore-oriole": {
+    "region": "A migratory songbird common in eastern North America during the breeding season, wintering from Mexico through Central America to northern South America.",
+    "behavior": "Weaves a remarkable hanging basket nest suspended from the tip of a high branch; it forages in the forest canopy for insects and nectar, and is attracted to orange slices and grape jelly at feeders.",
+    "funFact": "The Baltimore oriole received its name because the male's bold orange-and-black colors matched the heraldic coat-of-arms of 17th-century Lord Baltimore, the colonial proprietor of Maryland."
+  },
+  "red-winged-blackbird": {
+    "region": "Breeds from Alaska and Newfoundland south through North and Central America; northern populations migrate, but some winter as far north as Pennsylvania and British Columbia.",
+    "behavior": "Males defend marsh territories vigorously, flaring their scarlet-and-yellow shoulder patches in display; both sexes eat seeds and insects, and winter flocks can number well over a million individuals.",
+    "funFact": "Red-winged blackbirds form some of the largest bird flocks ever recorded — winter roosts can contain over a million individuals — making it arguably the most abundant land bird in North America."
+  },
+  "common-grackle": {
+    "region": "Found in large numbers across North America east of the Rocky Mountains, occupying a wide range of open and semi-open habitats including parks, agricultural fields, and woodland edges.",
+    "behavior": "Highly adaptable and opportunistic, this species follows the plow for invertebrates, raids crops, forages along shorelines, and has even been observed washing food before eating it.",
+    "funFact": "Common grackles have a hard keel on the inside of their upper bill that acts like a can opener, allowing them to slice through the tough husks of acorns and large seeds that other birds cannot handle."
+  },
+  "brown-headed-cowbird": {
+    "region": "A permanent resident in the southern parts of its North American range; northern birds migrate to the southern United States and Mexico in winter, returning to breeding grounds around March or April.",
+    "behavior": "An obligate brood parasite — it never builds its own nest, instead laying eggs in the nests of over 200 host species and leaving the hosts to raise its young, often at the expense of the host's own chicks.",
+    "funFact": "The brown-headed cowbird is North America's most prolific brood parasite, having laid eggs in the nests of over 220 host species — more than any other parasite on the continent — and a single female may deposit 40 or more eggs in a single season."
+  },
+  "eastern-meadowlark": {
+    "region": "Ranges from eastern North America south through Central America to northern South America, most widespread in the east; it occupies open grasslands, pastures, and agricultural fields.",
+    "behavior": "Walks through grass probing the ground for insects, worms, and seeds with its long bill; males deliver a distinctive, fluty whistle from fence posts and utility wires to mark territory.",
+    "funFact": "Despite being classified in the blackbird family, the eastern meadowlark looks and lives more like a European lark — a striking example of convergent evolution driven by similar open-grassland lifestyles."
+  },
+  "bobolink": {
+    "region": "Breeds in the northern United States and southern Canada, wintering in southern South America — primarily Paraguay, Argentina, and Bolivia — on one of the longest migrations of any North American songbird.",
+    "behavior": "Feeds heavily on cultivated grains and rice during migration, earning its old name \"rice bird\"; males deliver a bubbling, electronic-sounding song in flight over breeding meadows.",
+    "funFact": "The bobolink migrates roughly 20,000 km round-trip each year between North America and South America — one of the longest journeys of any songbird — guided in part by the Earth's magnetic field."
+  },
+  "blue-grosbeak": {
+    "region": "Mainly migratory, breeding across the southern United States and northern Mexico and wintering in Central America; it favors farmland, brush, and open country with scattered shrubs.",
+    "behavior": "Forages on the ground and in low vegetation for seeds, insects, and grains; the male has a habit of twitching and spreading his tail slowly while perched, a distinctive behavioral tic.",
+    "funFact": "The blue grosbeak is one of the few North American birds that routinely eats grasshoppers large enough to require shaking and beating against a branch before swallowing them."
+  },
+  "eastern-towhee": {
+    "region": "Breeds across eastern North America in brushy habitats, with northern populations migrating to the southern United States for winter.",
+    "behavior": "Scratches vigorously with both feet simultaneously in leaf litter to uncover seeds, berries, and insects; it is most often detected by the loud rustling it makes hidden beneath dense shrubs.",
+    "funFact": "The eastern towhee's \"drink-your-teeeeea\" song is one of North America's most recognizable, and its name is itself onomatopoeic — a two-syllable rising call that early settlers rendered as \"to-whee.\""
+  },
+  "chipping-sparrow": {
+    "region": "Widespread and fairly tame across most of North America, with northerly populations migrating south to Mexico and the southern United States for winter.",
+    "behavior": "Forages close to the ground in short grass for seeds and insects; nests characteristically in low shrubs or ornamental conifers, often lining the cup with animal hair.",
+    "funFact": "Chipping sparrows have a strong preference for lining their nests with hair from horses, deer, or even humans — a habit so consistent that naturalists once called them \"hair birds.\""
+  },
+  "tree-swallow": {
+    "region": "Breeds across the United States and Canada and winters along southern US coasts, the Gulf Coast, and south through Central America to the northwestern coast of South America and the West Indies.",
+    "behavior": "An aerial insectivore that forages alone and in groups over open water and fields; it can supplement its diet with berries and mollusks, which allows it to winter farther north than most insect-eating migrants.",
+    "funFact": "Tree swallows are among the best-studied wild birds in the world and have revealed a puzzling social secret: about 70–80% of apparent broods contain at least one chick fathered by a male other than the nest's owner."
+  },
+  "purple-martin": {
+    "region": "Migratory, with breeding range spanning the eastern United States and southeastern Canada, coastal Pacific Northwest, and parts of the Southwest; winters in South America after stopovers in the Yucatán or Cuba.",
+    "behavior": "The largest North American swallow, known for high-speed aerial agility; it dives toward its nesting site with wings tucked like a peregrine, and feeds entirely on flying insects caught in the air.",
+    "funFact": "In the eastern United States, purple martins have become almost entirely dependent on human-provided nest structures — multi-unit martin houses or gourds — and rarely nest in natural cavities in this part of their range."
+  },
+  "eastern-phoebe": {
+    "region": "A small flycatcher found across much of eastern North America, breeding as far north as the Northwest Territories and wintering in the southeastern United States and Mexico.",
+    "behavior": "Perches on exposed branches and bobs its tail persistently; it sallies out to catch insects in the air or from the ground, and is one of the earliest returning migrants in spring.",
+    "funFact": "The eastern phoebe was the first wild bird in North America to be banded for tracking purposes — the naturalist John James Audubon tied silver wire to their legs in 1804 and confirmed the following year that the same individuals returned to the same nest site."
+  },
+  "eastern-kingbird": {
+    "region": "A migratory tyrant flycatcher with a breeding range spread across North America and a wintering range in Central and South America; it favors open areas with scattered trees.",
+    "behavior": "Perches conspicuously and sallies aggressively after flying insects; it is notorious for dive-bombing crows, hawks, and much larger birds that approach its territory, even landing on their backs.",
+    "funFact": "The eastern kingbird conceals a hidden red-orange crown patch that it raises only when extremely agitated — most observers never see it, earning it an element of surprise in territorial disputes."
+  },
+  "great-crested-flycatcher": {
+    "region": "Found across most of the eastern and mid-western United States and southern Canada during the breeding season; a canopy-dwelling species that winters in Central and South America.",
+    "behavior": "Dwells mainly in the treetops where it catches insects in flight or gleans them from foliage; it nests in tree cavities and is famous for incorporating shed snakeskins into its nest lining.",
+    "funFact": "The great crested flycatcher almost always weaves a shed snakeskin into its nest — a habit so consistent that ornithologists debate whether it serves to deter predators or is simply an attraction to the texture of the material."
+  },
+  "downy-woodpecker": {
+    "region": "The smallest North American member of its family, found in forested areas throughout the United States and Canada, except for the southwestern deserts and northern tundra.",
+    "behavior": "Forages on tree trunks and branches for insects hidden in bark, supplementing with seeds and berries; its small size lets it forage on slender weed stems and goldenrod galls that larger relatives cannot access.",
+    "funFact": "The downy woodpecker is the smallest woodpecker in North America, yet it is also one of the most frequent feeder visitors of any woodpecker — its willingness to come to suet has made it a backyard staple across the continent."
+  },
+  "hairy-woodpecker": {
+    "region": "Found over a large area of North America from Alaska and Canada through the United States, occupying mature forests and woodlands across most of the continent.",
+    "behavior": "Excavates deeply into wood to extract wood-boring beetle larvae; its longer, stronger bill lets it reach prey in larger trees that the smaller, lookalike species cannot reach.",
+    "funFact": "The hairy woodpecker often follows the pileated woodpecker to its freshly excavated tree holes, picking off insects and grubs that spill out — a commensal foraging strategy sometimes called kleptoparasitism."
+  },
+  "northern-flicker": {
+    "region": "Native to most of North America, parts of Central America, Cuba, and the Cayman Islands; one of the few members of its family that regularly migrates.",
+    "behavior": "Unlike most of its relatives, this species forages mainly on the ground, using its long tongue to extract ants and beetles from soil; it also excavates nest cavities in dead trees.",
+    "funFact": "The northern flicker has over 100 recorded common names — including \"yellowhammer,\" \"gaffer,\" and \"wake-up\" — more than almost any other North American bird, reflecting how distinctive and widespread it is."
+  },
+  "pileated-woodpecker": {
+    "region": "Native to North America, inhabiting deciduous forests in the east, the Great Lakes region, the boreal forests of Canada, and parts of the Pacific Coast.",
+    "behavior": "Chisels large, nearly rectangular holes into dead and living trees to extract carpenter ants, its primary prey; its excavations are so substantial that they create cavities later used by ducks, owls, and other wildlife.",
+    "funFact": "The pileated woodpecker's excavations are so large and deep that its tree holes routinely fill with water, creating small woodland pools — and the rectangular shape of its workings is so distinctive that it can be identified by sight alone."
+  },
+  "red-bellied-woodpecker": {
+    "region": "Breeds mainly in the eastern United States, ranging as far south as Florida and as far north as Canada; it occupies deciduous and mixed forests, suburban parks, and wooded neighborhoods.",
+    "behavior": "Forages on tree trunks and limbs for insects, acorns, and seeds, using its long, sticky tongue to probe bark crevices and wedge food into bark to cache it for later.",
+    "funFact": "Despite its name, the red-bellied woodpecker's belly shows only a faint pinkish blush — the eye-catching feature is actually its vivid orange-red cap and nape, making it one of ornithology's more confusing common names."
+  },
+  "red-headed-woodpecker": {
+    "region": "Found in open country across southern Canada and the east-central United States, occupying open forests, orchards, and areas with dead timber for nest cavities.",
+    "behavior": "One of only four North American pecking-bird species that regularly caches food; it stores insects, nuts, and seeds in bark crevices and is also one of the most adept aerial flycatchers among its relatives.",
+    "funFact": "The red-headed woodpecker is one of the few North American birds that actively stores living grasshoppers by wedging them into bark crevices so tightly that the insects cannot escape — a living larder."
+  },
+  "belted-kingfisher": {
+    "region": "A large, conspicuous species native to North America, found near rivers, lakes, ponds, and coastlines throughout the continent, from Alaska and Canada south through Central America.",
+    "behavior": "Perches on an exposed branch or wire over water, then plunges headfirst to catch fish; it regurgitates compact pellets of fish bones and scales, much like an owl regurgitates fur and bones.",
+    "funFact": "Unlike most birds where the male is more colorful, the female belted kingfisher is more ornate than the male — she has a chestnut belly band that he lacks, making this one of the rare species where females outshine males."
+  },
+  "chimney-swift": {
+    "region": "Breeds across the eastern United States and southeastern Canada, migrating to South America for winter; it is almost entirely aerial, spending the vast majority of its life in the air.",
+    "behavior": "Feeds exclusively on flying insects and airborne spiders caught in continuous flight; it cannot perch on flat surfaces and can only cling to vertical walls, spending nights clinging to the inside of hollow structures.",
+    "funFact": "The chimney swift spends so much of its life in continuous flight that it was once believed to sleep on the wing — and while it roosts at night, it is thought to remain airborne for months during its first years of life."
+  },
+  "mourning-dove": {
+    "region": "One of the most abundant and widespread North American birds, found year-round from southern Canada through the United States and Mexico into Central America.",
+    "behavior": "Eats almost exclusively seeds, picking them from the ground and storing them in a crop for later digestion; it feeds young on nutrient-rich \"crop milk\" secreted by both parents, unique among North American birds.",
+    "funFact": "The mourning dove is the most hunted migratory bird in North America — over 20 million are shot annually — yet it sustains this pressure through prolific breeding, raising up to six broods of two chicks per year."
+  },
+  "rock-pigeon": {
+    "region": "Originally from southern Europe, North Africa, and western Asia, this species and its feral descendants now inhabit every inhabited continent, making it one of the most cosmopolitan birds on Earth.",
+    "behavior": "Forages on the ground in open and semi-open environments for seeds and human food scraps; in the wild, it nests on cliff ledges, but domesticated and feral forms nest on building ledges worldwide.",
+    "funFact": "All domestic pigeon breeds — from fantails to tumblers to racing homers — descend from the wild rock dove, making it one of the first birds domesticated by humans, over 5,000 years ago."
+  },
+  "killdeer": {
+    "region": "Found across the Americas from southeastern Alaska and southern Canada south through Central America and parts of South America; it breeds on open fields and rooftops, not necessarily near water.",
+    "behavior": "Forages in short-grass fields and around standing water for insects and invertebrates, including night foraging under the full moon; performs a dramatic \"broken-wing\" distraction display to lure predators away from its nest.",
+    "funFact": "The killdeer performs one of the most convincing injury acts in the animal kingdom — flopping on the ground and dragging a wing as if broken to draw predators away from eggs, then sprinting off once the threat is at a safe distance."
+  },
+  "american-woodcock": {
+    "region": "Found primarily in the eastern half of North America, occupying brushy young-forest habitats and moist uplands; it is a shorebird that spends most of its life far from open water.",
+    "behavior": "Probes soft soil with its long, flexible-tipped bill to extract earthworms; its eyes are set far back on its skull, giving it nearly 360-degree vision — including behind its head — while feeding.",
+    "funFact": "The American woodcock performs a spectacular twilight sky dance each spring — the male climbs in a spiraling aerial display, his wings making a twittering sound, before plummeting back to the exact spot from which he launched."
+  },
+  "spotted-sandpiper": {
+    "region": "Breeds across North America from Alaska and Canada south into the northern United States and winters from the southern United States through Central and South America.",
+    "behavior": "Constantly teeters its rear end up and down while walking along shorelines — a distinctive \"teetering\" motion unique to this species; it catches insects, small fish, and invertebrates along the water's edge.",
+    "funFact": "The spotted sandpiper has reversed the typical avian sex roles: females establish and defend territories, compete for males, and may mate with several partners in a season while the males handle most of the incubation."
+  },
+  "greater-yellowlegs": {
+    "region": "Breeds in central Canada and southern Alaska and winters across southern North America, Central America, the West Indies, and South America, passing through much of the continent on migration.",
+    "behavior": "Wades in shallow water or mudflats, often running actively in pursuit of small fish, invertebrates, and insects; its loud, three-note call is one of the most recognizable sounds of the North American tidal flat.",
+    "funFact": "The greater yellowlegs is one of the most wary shorebirds in North America — early market hunters called it the \"telltale\" because it would alarm-call so loudly at approaching danger that it alerted every other bird in the area."
+  },
+  "sanderling": {
+    "region": "A circumpolar Arctic breeder that winters south to South America, western and southern Europe, Africa, and Australia; it favors sandy beaches and coastal mudflats on its wintering grounds.",
+    "behavior": "Runs in and out with the surf on sandy beaches in a characteristic \"bicycling\" motion, picking up small crabs and invertebrates at the waterline; highly gregarious in winter, often forming large flocks.",
+    "funFact": "The sanderling breeds on some of the coldest tundra on Earth — north of the 5°C July isotherm — making it one of the most extreme high-Arctic nesters among shorebirds."
+  },
+  "ruddy-turnstone": {
+    "region": "A highly migratory species breeding in northern Eurasia and North America and wintering on coastlines almost worldwide, from the Americas to Africa, Australia, and the Pacific Islands.",
+    "behavior": "Uses its short, sturdy bill to flip stones, shells, and seaweed to uncover small invertebrates hidden beneath; it is aggressive at feeding sites and will chase other shorebirds away from food.",
+    "funFact": "The ruddy turnstone has been observed opening sealed tin cans at picnic sites and raiding unattended fishing bait — making it one of the most opportunistic and resourceful shorebirds on the coast."
+  },
+  "american-avocet": {
+    "region": "A large wader found in North America, foraging on mudflats and in shallow water across the western United States and wintering along the Gulf Coast and in Central America.",
+    "behavior": "Sweeps its long, upturned bill from side to side through shallow water in a distinctive scything motion to sieve out crustaceans and insects; often forages in tight, coordinated groups that herd prey.",
+    "funFact": "The American avocet's bill is uniquely upturned — more so in females than males — a subtle sex difference in tool shape that may allow pairs foraging together to exploit slightly different depths of water."
+  }
+}

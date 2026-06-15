@@ -1,0 +1,20 @@
+{
+  "merlin": {
+    "size": "Small falcon; wingspan 53–58 cm (21–23 in), females slightly larger than males.",
+    "habitat": "Breeds in boreal forest, open moorland, and taiga; increasingly found in cities and suburbs.",
+    "diet": "Primarily small birds (sparrow- to dove-sized) and medium-sized shorebirds, caught in flight.",
+    "migration": "Migratory across most of its range, wintering in subtropical and northern tropical regions; some urban populations are now largely resident."
+  },
+  "tui": {
+    "size": "Medium-sized passerine; one of the largest honeyeaters, roughly 27–32 cm (11–13 in) long.",
+    "habitat": "Forest, scrubland, and gardens throughout New Zealand, from sea level to montane zones.",
+    "diet": "Nectar (primary), supplemented by fruit and insects.",
+    "migration": "Largely resident; some seasonal altitudinal movement between lowland and upland forest."
+  },
+  "kea": {
+    "size": "About 48 cm (19 in) long; a large, robust parrot with a distinctive long, curved upper beak.",
+    "habitat": "Forested valleys and alpine zones of the South Island of New Zealand, including subalpine scrub and rocky mountain terrain.",
+    "diet": "Omnivorous: roots, leaves, berries, nectar, insects, and carrion.",
+    "migration": "Largely resident; moves altitudinally with season and snow cover."
+  }
+}

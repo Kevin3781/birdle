@@ -1,0 +1,17 @@
+{
+  "merlin": {
+    "region": "This bird breeds across the northern Holarctic, from boreal forests and open moorlands of North America to Eurasia. In winter, many populations migrate south to subtropical and northern tropical regions, though some urban birds forgo migration entirely.",
+    "behavior": "A swift, agile hunter, this bird specialises in catching small birds — from sparrows up to doves and medium-sized shorebirds — in fast, low-level aerial pursuits. It has long been prized in falconry for its speed and tenacity.",
+    "funFact": "The merlin has adapted so well to city life in parts of North America that urban populations have stopped migrating altogether, nesting on building ledges and hunting house sparrows year-round."
+  },
+  "tui": {
+    "region": "This bird is endemic to New Zealand, found across the full length of the archipelago — from the subtropical Kermadec Islands in the north to the sub-Antarctic Auckland Islands in the south, as well as the main North and South Islands.",
+    "behavior": "This bird is a dominant, often aggressive honeyeater that feeds heavily on nectar, using its brush-tipped tongue to extract it from flowers; it also takes fruit and insects. It is a key pollinator of many native New Zealand plants.",
+    "funFact": "The tūī can produce two different sounds simultaneously thanks to its two-chambered syrinx, giving its song an extraordinary complexity of clicks, coughs, and bell-like notes."
+  },
+  "kea": {
+    "region": "This bird is endemic to the South Island of New Zealand, inhabiting forested valleys and alpine terrain above the treeline. It ranges widely through mountain environments, often venturing into ski fields and carparks.",
+    "behavior": "This bird is omnivorous, eating roots, leaves, berries, nectar, insects, and carrion. It is highly intelligent and solves logical puzzles, uses tools, and cooperates with others of its kind to access food.",
+    "funFact": "The kea is the world's only alpine parrot and has been filmed preparing and using tools — a cognitive ability shared with only a handful of species on Earth."
+  }
+}

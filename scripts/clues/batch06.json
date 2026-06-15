@@ -1,0 +1,302 @@
+{
+  "baya-weaver": {
+    "region": "Found across the Indian subcontinent and Southeast Asia, frequenting grasslands, cultivated fields, scrub, and secondary growth. Flocks undergo local seasonal movements in response to rain and food availability.",
+    "behavior": "This species constructs elaborate retort-shaped nests woven from long grass and palm leaves, typically suspended over water from thorny trees or palm fronds to deter predators. It feeds on seeds and forages in flocks.",
+    "funFact": "Male baya weavers build multiple unfinished nests to attract females — only once a female inspects and approves does he complete the nest, adding the distinctive entrance tube that gives it its retort shape."
+  },
+  "scaly-breasted-munia": {
+    "region": "Native to tropical Asia from India and Sri Lanka east through Indonesia and the Philippines; introduced populations have established in Puerto Rico, parts of Australia, and the United States. It inhabits tropical plains and grasslands.",
+    "behavior": "Highly social, this species forages in flocks, feeding mainly on grass seeds with occasional berries and small insects. Breeding pairs build dome-shaped nests from grass or bamboo leaves, and it sometimes roosts alongside other related species.",
+    "funFact": "The scaly-breasted munia's distinct fish-scale pattern on its breast and belly is so striking that it earned the nickname 'nutmeg mannikin' in the pet trade — each dark-edged feather creates the illusion of overlapping scales."
+  },
+  "red-avadavat": {
+    "region": "Found in open fields and grasslands across tropical Asia, with its stronghold in the Indian subcontinent, where it breeds during the monsoon season. It is widespread from India eastward through Southeast Asia.",
+    "behavior": "This small bird feeds on grass seeds and inhabits open grassy areas, often forming small flocks. Males develop their most vivid plumage during the breeding season, making them highly sought after in the cage-bird trade.",
+    "funFact": "The red avadavat's very name comes from Ahmedabad, the Indian city from which merchants once exported these birds in such quantities that the species became forever associated with it."
+  },
+  "spot-billed-duck": {
+    "region": "A non-migratory breeding resident of the Indian subcontinent, this large dabbling bird inhabits freshwater wetlands, marshes, and rivers across the region year-round.",
+    "behavior": "It dabbles in shallow water for plant matter and aquatic invertebrates. In flight, it is distinguished by a striking green speculum bordered by a broad white band; on the water, white tertials form a visible stripe along the side.",
+    "funFact": "The Indian spot-billed duck gets its name from the bright red patch at the base of its otherwise yellow-tipped bill — a flash of colour visible from a surprising distance on open water."
+  },
+  "ruddy-shelduck": {
+    "region": "A migratory species, it breeds in southeastern Europe and central Asia and winters in the Indian subcontinent; small resident populations also exist in North Africa. It favours inland water bodies such as lakes, reservoirs, and rivers.",
+    "behavior": "This species feeds on vegetation, small invertebrates, and grain near water. Pairs form lasting bonds and nest away from the water in crevices or holes in cliffs and trees, with the female incubating the clutch of roughly eight eggs alone.",
+    "funFact": "The ruddy shelduck is considered sacred by Buddhists across Central Asia and is believed to embody fidelity, because mated pairs maintain a famously strong and lifelong bond."
+  },
+  "bar-headed-goose": {
+    "region": "Breeds in Central Asia in large colonies near high-altitude mountain lakes and migrates to winter on the plains of South Asia, ranging as far south as peninsular India. It nests on the ground near water.",
+    "behavior": "This species grazes on vegetation in and around wetlands and agricultural fields. It is famous for undertaking one of the highest-altitude migrations of any bird, crossing the Himalayan range each year.",
+    "funFact": "Bar-headed geese have been recorded flying at altitudes above 7,000 metres — higher than the summit of most of the world's mountains — sustained by unusually efficient haemoglobin that binds oxygen at thin-air concentrations lethal to most birds."
+  },
+  "mountain-hawk-eagle": {
+    "region": "Native to forested regions of the northern Indian subcontinent — from India and Nepal through Bangladesh — and eastward to Thailand, Taiwan, Vietnam, and Japan. It inhabits dense montane forests.",
+    "behavior": "An opportunistic forest predator, this species readily switches between birds, mammals, and reptiles depending on availability. It hunts within the forest interior rather than soaring in the open, using speed and agility among the trees.",
+    "funFact": "The mountain hawk-eagle's feathered tarsus (leg) is a hallmark of the 'booted eagle' group — a trait that distinguishes it from many other large Asian raptors and historically led taxonomists to debate its classification."
+  },
+  "crested-serpent-eagle": {
+    "region": "Found across tropical Asia from the Indian subcontinent through Southeast Asia and into East Asia, inhabiting forested landscapes at a range of elevations. It soars over the forest canopy on broad, barred wings.",
+    "behavior": "This species specialises in hunting reptiles, particularly snakes, which it catches on the ground after spotting them from a perch or while soaring. It often announces its presence with a loud, piercing two- or three-note call.",
+    "funFact": "The crested serpent eagle's bare yellow facial skin is thought to be an adaptation for dealing with thrashing prey — feathers around the face would be vulnerable to bites and venom from the snakes it regularly targets."
+  },
+  "brahminy-kite": {
+    "region": "Found along the coasts and inland wetlands of the Indian subcontinent, Southeast Asia, and Australia. It frequents mangroves, estuaries, harbours, and rivers.",
+    "behavior": "This medium-sized raptor feeds mainly on dead fish, carrion, and refuse but will also take live prey opportunistically. It patrols over water and shorelines, dropping to snatch food from the surface.",
+    "funFact": "In Hindu mythology, the brahminy kite is considered the vahana (vehicle) of Lord Vishnu, and its chestnut-and-white plumage makes it one of the most visually distinctive and culturally significant raptors in South Asia."
+  },
+  "black-kite": {
+    "region": "Widely distributed across temperate and tropical parts of Eurasia, with populations extending into Australasia and Oceania. Temperate populations are migratory, while South Asian populations are among the world's largest concentrations of this species.",
+    "behavior": "A consummate scavenger and opportunist, this species spends much of its time gliding on thermals scanning for carrion, scraps, and refuse rather than pursuing live prey. Its angled wings and distinctive forked tail make it easy to identify in flight.",
+    "funFact": "The black kite is believed to be the most numerous raptor on Earth, with global population estimates reaching 6.7 million individuals — its success driven entirely by its willingness to eat almost anything, including rubbish and roadkill."
+  },
+  "steppe-eagle": {
+    "region": "Breeds across the treeless steppes of Central Asia — primarily Kazakhstan — and undertakes a massive migration each autumn through major flyways in the Middle East, Red Sea corridor, and Himalayas to winter across Africa and South Asia.",
+    "behavior": "On the breeding grounds it specialises in hunting ground squirrels; in winter it shifts to a passive diet of insect swarms, carrion, landfill refuse, and the young of other animals — an unusually sluggish feeding ecology for a large raptor. It is the only member of its group known to nest primarily on the ground.",
+    "funFact": "The steppe eagle appears on the flag of Kazakhstan and is the national bird of both Kazakhstan and Egypt — yet the species is now Endangered, its population having declined by more than 50% largely due to electrocution on uninsulated power lines across its breeding range."
+  },
+  "himalayan-monal": {
+    "region": "Native to Himalayan forests and shrublands at elevations of 2,100–4,500 metres, ranging across India, Nepal, and surrounding montane regions. It is the national bird of Nepal, where it is known as the danphe.",
+    "behavior": "This landfowl forages on the ground by digging with its strong bill for roots, tubers, insects, and plant matter. It roosts in trees and descends to lower elevations during harsh winters.",
+    "funFact": "The male Himalayan monal dazzles with an iridescent plumage spanning almost every colour of the spectrum — green, purple, copper, blue, and red — earning it a reputation as one of the most spectacular birds in all of Asia."
+  },
+  "kalij-pheasant": {
+    "region": "Found in forests and dense thickets of the Himalayan foothills, ranging from Pakistan and Nepal through India to western Thailand. It tends to favour dense undergrowth along hillside forest edges.",
+    "behavior": "This ground-dwelling bird forages in the leaf litter for seeds, berries, insects, and roots, often in small groups. Males are wary and secretive, retreating into thick cover when disturbed.",
+    "funFact": "Introduced to Hawaii in 1962 as a gamebird, the kalij pheasant has since thrived in native Hawaiian forests — where it has become controversial for rooting up rare native plants that evolved without any ground-foraging birds."
+  },
+  "golden-pheasant": {
+    "region": "Native to the mountainous forests of central and western China, this gamebird inhabits dense coniferous and deciduous woodland with thick undergrowth. Feral populations exist in several European countries including the United Kingdom.",
+    "behavior": "This ground-dwelling bird forages for seeds, berries, leaves, and invertebrates in dense cover. Males are polygamous and highly secretive despite their brilliant plumage, keeping to dense thickets where their colours are rarely seen in full.",
+    "funFact": "The golden pheasant is so spectacular in colouration that it inspired the genus name Chrysolophus — from Ancient Greek meaning 'with a golden crest' — yet in the wild its dazzling plumage is mostly hidden in dense Chinese mountain scrub."
+  },
+  "lady-amhersts-pheasant": {
+    "region": "Native to southwestern China and neighbouring Myanmar, inhabiting dense mountain forest and bamboo thickets. A small feral population became established in Bedfordshire, England, in the twentieth century.",
+    "behavior": "This ground-dwelling bird forages for seeds, berries, and invertebrates in dense forest undergrowth, relying on thick cover for concealment. The male's extraordinarily long, patterned tail can exceed the rest of its body in length.",
+    "funFact": "Lady Amherst's pheasant is named after Sarah Amherst, who dispatched the first specimen to London in 1828 — but the bird itself is native to China, where it was already known for centuries before European science catalogued it."
+  },
+  "mikado-pheasant": {
+    "region": "Endemic to the mountain forests of Taiwan, where it inhabits dense broadleaf and coniferous woodland at mid to high elevations. It is sometimes considered an unofficial national bird of the island.",
+    "behavior": "This ground-dwelling bird forages in dense forest undergrowth for seeds, berries, and invertebrates. It is shy and secretive, rarely venturing into the open, and is most active in the early morning.",
+    "funFact": "A pair of Mikado pheasants is depicted on the 1,000 New Taiwan Dollar banknote alongside Yushan National Park — cementing this secretive bird's status as a symbol of Taiwan's wild mountain landscapes."
+  },
+  "satyr-tragopan": {
+    "region": "Inhabits moist oak and rhododendron forests with dense undergrowth and bamboo clumps in the Himalayan reaches of India, Nepal, Bhutan, and Tibet. It ranges between 1,800 and 4,200 metres depending on the season.",
+    "behavior": "This forest-floor bird feeds on seeds, berries, leaves, and insects in dense montane undergrowth. During the breeding season, males grow vivid blue fleshy horns and a gular wattle and perform an elaborate display, inflating their ornaments and stretching to full height to impress females.",
+    "funFact": "The male satyr tragopan hides behind a rock and waits for a female to pass — then springs into a full theatrical display, unfurling an electric-blue and red wattle that is completely invisible until the crucial moment."
+  },
+  "blood-pheasant": {
+    "region": "Widespread across the lower Himalayas, ranging through North and East India, Nepal, Bhutan, South China, and northern Myanmar. It inhabits dense subalpine scrub and conifer forests at high elevations.",
+    "behavior": "This compact, short-tailed species forages on the ground for mosses, ferns, seeds, berries, and insects. It typically moves in small groups and retreats quickly into dense cover when alarmed.",
+    "funFact": "The blood pheasant is the state bird of Sikkim, India — and despite its dramatic name (inspired by the male's red-streaked plumage), it is among the least threatened members of its family, with a stable global population."
+  },
+  "long-tailed-shrike": {
+    "region": "Widely distributed across Asia, both on the mainland and the eastern archipelagos, from Afghanistan and India through to Southeast Asia. It inhabits open country, scrubland, and forest edges.",
+    "behavior": "Like other members of its family, this species impales prey — large insects, small lizards, rodents, and small birds — on thorns or barbed wire to create a 'larder.' All subspecies share a long narrow black tail, black mask, and rufous rump and flanks.",
+    "funFact": "Despite being one of the most widespread members of its family across Asia, the long-tailed shrike shows such dramatic plumage variation across its many subspecies that early naturalists initially described several of them as entirely separate species."
+  },
+  "black-winged-stilt": {
+    "region": "Widely distributed across Europe, Asia, and Africa, with related forms across the Americas, Australia, and New Zealand. It frequents shallow wetlands, coastal lagoons, salt pans, and flooded fields.",
+    "behavior": "This long-legged wading bird uses its slender bill to pick invertebrates — insects, small crustaceans, and molluscs — from the water's surface and mudflats. It wades confidently into deeper water than most shorebirds, using its extraordinarily long pink legs.",
+    "funFact": "Relative to body size, the black-winged stilt has the second-longest legs of any bird in the world — so long that they extend far beyond the tail in flight, giving it an almost comically elegant silhouette."
+  },
+  "spotted-owlet": {
+    "region": "Resident from North Pakistan across the Indian subcontinent to Southeast Asia, inhabiting open farmland, gardens, orchards, and human settlements. It has adapted readily to urban and suburban environments.",
+    "behavior": "This small, nocturnal predator hunts insects, small rodents, lizards, and frogs from low perches, often near human dwellings. It roosts communally in small groups in tree hollows, rock crevices, or cavities in buildings during the day.",
+    "funFact": "The spotted owlet is one of the few owl species worldwide to have actively colonised cities — it is a common sight on rooftops and window ledges across South Asian towns, scolding passers-by with a harsh, churring call."
+  },
+  "brown-fish-owl": {
+    "region": "The most widely distributed of the four living fish owl species, it ranges from Turkey across South and Southeast Asia, inhabiting forests and wooded wetlands near rivers, streams, and lakes.",
+    "behavior": "This large owl hunts fish by wading into shallow water or swooping from a low perch to snatch prey from the surface. It also takes frogs, crabs, and other aquatic animals. Unfeathered feet and rough toe pads help it grip slippery catches.",
+    "funFact": "Unlike most owls, the brown fish owl lacks the specialized silent-flight adaptations of forest owls — a noise-reducing fringe on flight feathers — because hunting fish doesn't require stealth in the way that hunting alert, hearing-sensitive mammals does."
+  },
+  "vernal-hanging-parrot": {
+    "region": "A resident breeder across the Indian subcontinent and parts of Southeast Asia, inhabiting dry jungle, forest edges, and areas under cultivation. It makes local movements in response to the availability of fruiting and flowering trees.",
+    "behavior": "This tiny green bird feeds on fruit, seeds, buds, nectar, and blossoms, particularly favouring banyan and plantain trees. It is named for its habit of roosting upside-down, hanging from branches like a bat, and usually moves in small groups outside the breeding season.",
+    "funFact": "The vernal hanging parrot sleeps suspended upside-down from a branch — gripping with its feet and folding its wings — a roosting posture so bat-like that early observers sometimes mistook it for a roosting bat in the dim forest light."
+  },
+  "king-vulture": {
+    "region": "Found in tropical lowland forests from southern Mexico through Central America to northern Argentina, ranging across much of South America east of the Andes. It avoids the open plains, preferring dense forest.",
+    "behavior": "This large scavenger feeds almost exclusively on carrion, often making the first cut into a fresh carcass with its powerful hooked bill. Its size and dominance allow it to displace smaller New World scavenging species from a carcass.",
+    "funFact": "The king vulture's bare head blazes with a surreal mosaic of yellow, orange, blue, purple, and red skin — a palette that intensifies with age and is thought to signal health and social dominance to competing scavengers at a carcass."
+  },
+  "greater-rhea": {
+    "region": "Native to eastern South America, inhabiting open grasslands, savanna, and grassy wetlands across Brazil, Bolivia, Paraguay, Argentina, and Uruguay. A feral population has also become established in northern Germany.",
+    "behavior": "The largest bird native to the Americas, this flightless species grazes on broad-leafed plants, seeds, fruits, and insects across open terrain. Males are notably responsible for incubating the eggs and raising the chicks — often tending a nest of eggs laid by multiple females.",
+    "funFact": "A male greater rhea builds a single nest and then courts multiple females to lay in it — he may incubate up to 50 eggs from a dozen different partners simultaneously, and he alone raises the resulting chicks entirely without female help."
+  },
+  "southern-cassowary": {
+    "region": "Found in Indonesia, Papua New Guinea, and northeastern Australia, inhabiting tropical rainforest and dense scrub. The Australian population is listed as Endangered under federal legislation.",
+    "behavior": "This large flightless bird feeds on fallen fruit on the forest floor, making it a vital seed disperser for large-seeded rainforest plants. It is solitary and territorial, and defends itself with powerful kicks from its dagger-like inner claw.",
+    "funFact": "The southern cassowary is considered the world's most dangerous bird — it can deliver a kick forceful enough to disembowel a human using the 10-centimetre dagger-shaped inner claw on each foot."
+  },
+  "hoatzin": {
+    "region": "Found in swamps, riparian forests, and mangroves of the Amazon and Orinoco Basins in South America. It is the national bird of Guyana, where it is known locally as the Canje pheasant.",
+    "behavior": "This species is unique among birds in having a crop that functions like a ruminant's stomach, fermenting leafy plant matter rather than digesting it quickly. Chicks hatch with tiny claws on their wing digits and use them to climb through branches if they fall from the nest.",
+    "funFact": "The hoatzin's fermentation-based digestion produces such a persistent odour that local communities across Amazonia call it the 'stinkbird' — a scent strong enough to be detectable at some distance from a roosting group."
+  },
+  "blue-and-yellow-macaw": {
+    "region": "Inhabits forest (especially varzea), woodland, and savannah across tropical Central and South America, as well as the island of Trinidad. Its range extends from Mexico south through much of South America.",
+    "behavior": "This large, social parrot feeds on seeds, nuts, fruits, and vegetation, using its powerful hooked bill to crack hard shells. It forms monogamous pair bonds and nests in tree cavities, often travelling in noisy flocks between feeding and roosting sites.",
+    "funFact": "The blue-and-yellow macaw is the most commonly kept large parrot in the world — with an estimated one million individuals in captivity globally — partly because it can bond closely to humans and learn an impressive vocabulary."
+  },
+  "hyacinth-macaw": {
+    "region": "Native to central and eastern South America, primarily the Pantanal wetlands and cerrado of Brazil, with smaller populations in Bolivia and northeastern Brazil. It inhabits open woodland and forest edge near palm groves.",
+    "behavior": "The largest flying parrot species, it feeds almost exclusively on the extremely hard nuts of specific palm species, cracking them with its immensely powerful bill — a feat very few animals can accomplish. It nests in tree cavities and is highly intelligent.",
+    "funFact": "At around one metre from bill to tail, the hyacinth macaw is the longest parrot in the world, and its cobalt-blue plumage is so intense and uniform that early European explorers described it as appearing almost luminous in forest light."
+  },
+  "military-macaw": {
+    "region": "Native to a broad range from west-central Mexico south through Central America to northern Argentina and Bolivia. It inhabits forest, woodland, and arid foothills, often in steep river canyons.",
+    "behavior": "This medium to large parrot feeds on seeds, fruits, nuts, and vegetation, using its powerful bill to access hard food sources. It is a long-lived species, requiring considerable space and environmental enrichment to remain healthy in captivity.",
+    "funFact": "The military macaw's name comes from its plumage — a mix of olive green and red that was compared to the dress uniforms worn by soldiers of the era when it was first described by European naturalists in the eighteenth century."
+  },
+  "sun-conure": {
+    "region": "Native to northeastern South America, inhabiting savannas, coastal forests, and palm groves in northern Brazil, Guyana, and Venezuela. It is now Endangered due to habitat loss and trapping for the pet trade.",
+    "behavior": "Highly social, this species lives in flocks, feeds on fruits, flowers, berries, seeds, nuts, and insects, and nests in palm cavities. It forms monogamous pairs during breeding and is notably vocal, producing loud, persistent calls.",
+    "funFact": "The sun conure transitions from mostly green juvenile plumage to its blaze of golden-yellow as it matures — a transformation so dramatic that young birds in captivity were historically sold as entirely different species by unscrupulous traders."
+  },
+  "scarlet-ibis": {
+    "region": "Inhabits tropical South America and parts of the Caribbean, frequenting coastal mudflats, mangroves, tidal lagoons, and freshwater swamps. It is one of the two national birds of Trinidad and Tobago.",
+    "behavior": "This wading bird probes soft mud and shallow water with its long, curved bill for crustaceans, molluscs, small fish, and insects. It typically forages in flocks and roosts communally in trees, often alongside herons and other wading species.",
+    "funFact": "The scarlet ibis owes its brilliant red colouration entirely to the carotenoid pigments in the crustaceans it eats — birds raised without access to these prey gradually turn white, revealing that the colour is dietary rather than genetic."
+  },
+  "jabiru": {
+    "region": "Found from Mexico to Argentina, ranging across most of South America east of the Andes — though its name in Tupi-Guaraní means 'swollen neck.' It is most abundant in the Pantanal of Brazil and the Eastern Chaco of Paraguay.",
+    "behavior": "This very large wading bird strides through shallow wetlands and marshes hunting fish, frogs, snakes, and carrion. It forages both alone and alongside other large wading species and nests at the top of tall trees.",
+    "funFact": "The jabiru is the tallest flying bird in the Americas, standing up to 1.5 metres — and its naked, inflatable red throat pouch turns a deep scarlet during the breeding season, functioning as a visual display for courtship."
+  },
+  "toco-toucan": {
+    "region": "Endemic to South America, with a wide distribution from the Guianas south to northern Argentina and Uruguay. Unlike other members of its family, it inhabits semi-open habitats — gallery forests, cerrado, and the Pantanal wetlands — rather than dense continuous forest.",
+    "behavior": "It feeds primarily on fleshy fruits but supplements its diet with insects, eggs, and nestlings of other birds. Both parents incubate eggs in tree-hollow nests, and foraging birds travel in small groups through the forest canopy.",
+    "funFact": "The toco toucan's enormous bill — up to a third of its total body length — is actually a thermal radiator: a dense network of blood vessels allows the bird to flush heat away from its body on hot days by routing blood flow through the bill."
+  },
+  "channel-billed-toucan": {
+    "region": "Found on the Caribbean island of Trinidad and across tropical South America, as far south as southern Brazil and central Bolivia. It inhabits forest and forest edge in lowland tropical regions.",
+    "behavior": "Like other members of its family, this species uses its large serrated bill to pluck fruit from branches too slender to support its body weight. It also feeds on insects, small reptiles, and eggs, and nests in tree cavities.",
+    "funFact": "The channel-billed toucan's bill has a distinctive keeled ridge running along the upper mandible — the 'channel' that gives it its name — a feature that sets it apart from its larger relative the toco toucan at a glance."
+  },
+  "andean-cock-of-the-rock": {
+    "region": "Distributed throughout cloud forests of the Andes in South America, with a range of around 260,000 km². It is the national bird of Peru. Four subspecies are recognised across its range.",
+    "behavior": "Frugivorous, this species eats a diet of fruit supplemented by insects, amphibians, and small reptiles. Males gather at communal display grounds (leks) where they compete for females by bobbing, fanning their disk-like crests, and calling. After mating, the female alone builds the nest, incubates the eggs, and rears the chicks.",
+    "funFact": "The male Andean cock-of-the-rock sports a disc-shaped crest so large it completely conceals his bill from a front view — a seemingly impractical ornament that is nonetheless the primary factor females use to choose a mate at the lek."
+  },
+  "guianan-cock-of-the-rock": {
+    "region": "Found in tropical rainforests of northeastern South America, particularly near its preferred habitat of rocky outcrops. Its range covers Guyana, Suriname, French Guiana, Venezuela, and northern Brazil.",
+    "behavior": "Males gather at leks on the forest floor near rocky sites, where they display their bright orange plumage and compete intensely — females choose a mate by flying down and physically pecking the male on the rump before mating. The diet consists mostly of fruit, supplemented by small snakes and lizards.",
+    "funFact": "At a Guianan cock-of-the-rock lek, females hold all the power — each one flies to the forest floor and literally pecks the male of her choice on the rump to initiate mating, after which males and females return to living entirely separate lives."
+  },
+  "blue-crowned-motmot": {
+    "region": "Found in forests and woodlands of eastern Mexico, inhabiting dense tropical and subtropical forest and forest edge at low to mid elevations.",
+    "behavior": "This near-passerine bird sits motionless for long periods in dense forest where it can be difficult to spot despite its size. It hunts small prey such as insects and lizards from a perch and also takes fruit. Like all members of its family, it nests in burrows dug into earthen banks.",
+    "funFact": "Blue-crowned motmots build nesting tunnels up to a metre long in earthen banks — excavating them entirely with their bills and feet — then lay unmarked white eggs deep inside where few predators can reach."
+  },
+  "turquoise-browed-motmot": {
+    "region": "Inhabits Central America from the Yucatán Peninsula of southeastern Mexico to Costa Rica, favouring fairly open habitats such as forest edge, gallery forest, and scrubland. It is the national bird of both El Salvador and Nicaragua.",
+    "behavior": "More conspicuous than most related species, this bird perches openly on wires and fences, scanning for insects and small reptiles below. It is known for a distinctive pendulum-like tail-wagging display used not for courtship but as a pursuit-deterrent signal to warn predators that it has been spotted.",
+    "funFact": "The turquoise-browed motmot's racketed tail — in which both male and female sport elongated feather shafts tipped with bare paddle-shapes — evolved to serve two entirely different purposes: males use it to signal reproductive quality, while both sexes wag it at predators as a 'don't bother chasing me' warning."
+  },
+  "sword-billed-hummingbird": {
+    "region": "Found in the Andean cloud forests of South America, ranging from Venezuela and Colombia south through Ecuador, Peru, and Bolivia. It inhabits high-altitude forest and forest edge at elevations where long-tubed flowers are abundant.",
+    "behavior": "This species is a trap-line feeder, visiting a regular circuit of flowers — especially passionflowers and other long-tubed species — to sip nectar. It also catches insects in flight. Because its bill is too long for conventional preening, it uses its feet to scratch and groom its head.",
+    "funFact": "The sword-billed hummingbird is the only bird in the world whose bill is longer than the rest of its body — an extreme co-evolutionary adaptation with Passiflora mixta, a passionflower whose tube is so deep that no other bird can reach the nectar."
+  },
+  "marvelous-spatuletail": {
+    "region": "Endemic to a small area of cloud forest in northern Peru, making it one of the most range-restricted hummingbirds in the world. It is listed as Endangered due to habitat loss within its tiny range.",
+    "behavior": "Males are known for their extraordinary tail, which consists of just four feathers — two of which end in large violet-blue spatules and can be crossed independently during display. The species feeds on nectar from flowering shrubs in the forest undergrowth.",
+    "funFact": "The male marvelous spatuletail has only four tail feathers, two of which are wiry shafts ending in enormous violet spatules that he can swing and cross independently — producing a visual spectacle unlike any other bird's display on Earth."
+  },
+  "crimson-topaz": {
+    "region": "Found in Brazil, French Guiana, Guyana, Suriname, and Venezuela, inhabiting humid tropical forest and forest edge near rivers in the Guiana Shield region of northern South America.",
+    "behavior": "This large, brilliantly coloured hummingbird feeds on nectar from tall flowering trees and is typically seen near rivers and forest openings. Males are among the most spectacular of all hummingbirds in appearance.",
+    "funFact": "The male crimson topaz is one of the largest hummingbirds in the world, blazing with crimson, gold, and violet plumage — yet it is so seldom seen in the dense Amazonian canopy that many ornithologists go entire careers without a close-up field sighting."
+  },
+  "southern-lapwing": {
+    "region": "A common and widespread resident throughout South America east of the Andes, from Colombia and Venezuela south to Patagonia, though absent from the densest Amazon forest and the arid Pacific coast. It has been spreading into Central America and the Caribbean in recent decades.",
+    "behavior": "This bold wading bird inhabits open grasslands, pastures, and wetland margins. It is famously aggressive in defence of its nest, dive-bombing and calling loudly at any intruder — including livestock and humans — that approaches too closely.",
+    "funFact": "The southern lapwing is such a fearless defender of its territory that it has earned the colloquial name 'tero' in Argentina and Uruguay — a word derived from its piercing alarm call, which it screams at perceived threats far larger than itself."
+  },
+  "magellanic-penguin": {
+    "region": "Breeds in coastal Patagonia across Argentina, Chile, and the Falkland Islands, with some individuals migrating as far north as Brazil and Uruguay in winter. Vagrants have occasionally reached the Falklands, Antarctica, Australia, and New Zealand.",
+    "behavior": "This medium-sized seabird nests in burrows excavated in soil or under dense vegetation, returning to the same burrow each year. It feeds on fish, squid, and krill, swimming powerfully underwater to pursue prey.",
+    "funFact": "Named after Portuguese explorer Ferdinand Magellan, who encountered these birds in 1520 during his circumnavigation — making them among the first penguins formally recorded by Europeans, over 100 years before the word 'penguin' entered the English language."
+  },
+  "humboldt-penguin": {
+    "region": "Resident along the Pacific coast of South America in Peru and Chile, where it swims in the cold, nutrient-rich Humboldt Current. It is vulnerable, with a wild population of roughly 23,800 mature individuals.",
+    "behavior": "This medium-sized seabird nests in burrows dug into guano deposits on rocky islands and coastal cliffs. It feeds on fish and squid, diving in pursuit of schooling prey in cold, upwelling coastal waters. It is a migrant species outside the breeding season.",
+    "funFact": "The Humboldt penguin and the cold Pacific current it depends on are both named after the same person — the Prussian explorer Alexander von Humboldt — making this one of the few animals to share its name with its own primary habitat."
+  },
+  "inca-tern": {
+    "region": "Found along the Pacific coasts of Peru, Chile, and Ecuador, inhabiting the cold, productive waters of the Humboldt Current system. It is a near-threatened species, occasionally appearing as a vagrant in Central America and Hawaii.",
+    "behavior": "This seabird snatches small fish from just below the ocean surface, often following sea lions and dolphins to exploit fish driven toward the surface by larger predators. It nests in crevices on rocky cliffs and coastal outcrops.",
+    "funFact": "The inca tern sports a remarkable white moustache — a pair of curved, drooping white feather plumes that extend from each corner of the bill — and the length of these plumes is thought to indicate individual health and fitness to potential mates."
+  },
+  "andean-flamingo": {
+    "region": "Native to the high-altitude salt lakes and wetlands of the Andes mountains in Peru, Bolivia, Chile, and Argentina. It is one of three related species that nest sympatrically at high-altitude Andean sites.",
+    "behavior": "Like other related species, this bird filter-feeds on algae and microorganisms by pumping water through specialised plates in its bill. It breeds colonially on mud mounds in remote high-altitude saline lakes that are largely free of ground predators.",
+    "funFact": "The Andean flamingo is the rarest of the world's six flamingo species and is the only one with yellow legs and feet — a characteristic that immediately distinguishes it from the two closely related species it shares nesting colonies with in the Andes."
+  },
+  "chilean-flamingo": {
+    "region": "Breeds in South America from Ecuador and Peru south to Chile and Argentina and east to Brazil, inhabiting salt lagoons and soda lakes that are vulnerable to habitat loss from mining and irrigation. An introduced population exists in Germany.",
+    "behavior": "Like all related species, this bird feeds by filter-feeding on algae and invertebrates through specialised lamellae in its bill. It is mainly restricted to highly saline or alkaline wetlands and lays a single egg on a mud mound nest in colonial groups.",
+    "funFact": "The Chilean flamingo can be distinguished from the greater flamingo by its distinctively pale grey legs with pink joints — giving its legs the appearance of wearing bright knee socks — an identification detail invisible unless you know to look for it."
+  },
+  "american-flamingo": {
+    "region": "Native to the West Indies, northern South America (including the Galápagos Islands), and the Yucatán Peninsula. It is the only flamingo species that naturally occurs in North America, and was historically abundant in southern Florida before being largely extirpated by 1900.",
+    "behavior": "This large wading bird feeds in shallow coastal lagoons and saltwater lakes, sweeping its oddly bent bill upside-down through the water to filter out algae, crustaceans, and microorganisms. It breeds in dense colonies, building conical mud nests on exposed flats.",
+    "funFact": "The American flamingo is the most intensely coloured of all flamingo species — its plumage ranges from pale pink to vivid coral red depending entirely on the carotenoid content of the brine shrimp and algae available in its feeding habitat."
+  },
+  "rufous-bellied-thrush": {
+    "region": "Distributed across most of eastern and southeastern Brazil, from Maranhão south to Rio Grande do Sul, and into Bolivia, Paraguay, Uruguay, and central Argentina. It is one of the most abundant birds in southeastern Brazil.",
+    "behavior": "This songbird forages on the ground and in low vegetation for fruits, earthworms, and invertebrates. It is especially renowned for its song, which is commonly heard on warm afternoons and throughout the night between August and November.",
+    "funFact": "The rufous-bellied thrush is the national bird of Brazil — its melodious, flute-like song is considered 'the spirit of the Brazilian commoner' and it was made famous in a nineteenth-century nationalist poem that every Brazilian schoolchild still learns."
+  },
+  "saffron-finch": {
+    "region": "A widespread resident of open and semi-open lowlands across much of South America outside the Amazon Basin, ranging from Colombia and Venezuela south to Argentina and Trinidad. Introduced populations exist in Hawaii, Panama, Puerto Rico, Jamaica, and elsewhere.",
+    "behavior": "This bright yellow bird of the tanager family feeds primarily on grass seeds and small insects on the ground or in low vegetation. It is a common bird of roadsides, gardens, and disturbed open country rather than closed forest.",
+    "funFact": "Despite being widely nicknamed 'canary' in Brazil (canário-da-terra) and Venezuela (canario de tejado), the saffron finch belongs to the tanager family and is not related to the true Atlantic canary — a case of convergent yellow colouration fooling generations of common folk."
+  },
+  "green-headed-tanager": {
+    "region": "Found in the Atlantic Forest of southeastern Brazil, far eastern Paraguay, and far northeastern Argentina (Misiones province only). It inhabits humid forest and is also common in orchards and parks within its range.",
+    "behavior": "This small, jewel-coloured bird moves through the forest canopy and mid-story in search of fruit and insects, often joining mixed-species foraging flocks. Despite its seemingly vivid colours, it is surprisingly cryptic in leafy forest canopy, where its blue-green tones blend with foliage.",
+    "funFact": "The green-headed tanager's apparently eye-catching plumage is actually superb camouflage — the blue-green hues match the dappled light of the Atlantic Forest canopy so well that the bird can perch in plain sight and be nearly invisible."
+  },
+  "paradise-tanager": {
+    "region": "Native to the Amazon rainforest, found in humid tropical and subtropical forests in the western and northern Amazon Basin, across Venezuela, Peru, Colombia, Ecuador, Bolivia, and Brazil. Despite its scientific name, it is not found in Chile.",
+    "behavior": "This medium-sized, brilliantly multicoloured songbird moves through the forest canopy feeding on fruit and insects, often in mixed-species flocks. It inhabits the upper and middle levels of undisturbed primary forest.",
+    "funFact": "The paradise tanager displays up to seven distinct colours simultaneously — light green, sky blue, black, yellow, red, violet, and turquoise — yet recent research shows that its vivid structural colours are made even more brilliant by underlying layers of black or white feather bases that act as colour amplifiers."
+  },
+  "seven-colored-tanager": {
+    "region": "Endemic to a small area of Atlantic Forest in northeastern Brazil, making it one of the most geographically restricted songbirds in the Americas. It is listed as Vulnerable due to ongoing forest loss within its limited range.",
+    "behavior": "This small, jewel-patterned bird inhabits humid forest, feeding on fruit and insects in the canopy and mid-story. Its restricted range and forest-dependent lifestyle make it particularly sensitive to deforestation.",
+    "funFact": "Despite its spectacular plumage, the seven-colored tanager is so poorly known that it was long confused with the common green-headed tanager — which is itself nicknamed 'seven-coloured' in Portuguese — leading to decades of identification errors in field reports."
+  },
+  "burrowing-parrot": {
+    "region": "Native to Argentina and Chile, inhabiting dry, open country including Patagonian steppe and scrubland up to 2,000 metres in elevation. It has declined across much of its former range due to exploitation and persecution.",
+    "behavior": "Named for its nesting habit, this species excavates elaborate burrows in cliff faces and ravines to raise its young — often in enormous colonial nesting sites with thousands of pairs. It forages in flocks on seeds, berries, and agricultural crops in open country.",
+    "funFact": "Burrowing parrots nest in some of the largest colonial seabird-style rookeries of any parrot in the world — the cliffs of Patagonia once held colonies of tens of thousands of nesting pairs, visible and audible from kilometres away."
+  },
+  "monk-parakeet": {
+    "region": "Originally from the temperate to subtropical areas of South America, it has established self-sustaining feral populations across many parts of North America and Europe in regions of similar climate. In its native range it inhabits open woodland and farmland.",
+    "behavior": "Unlike virtually any other parrot, this species builds large communal stick nests that may house dozens of pairs in a multi-chambered structure — often in trees, on buildings, or on electricity pylons. It feeds on seeds, fruits, berries, and agricultural crops and is highly adaptable.",
+    "funFact": "The monk parakeet is the only parrot in the world to build its own freestanding stick nest rather than using a tree cavity — colonies construct enormous multi-chambered structures that can weigh hundreds of kilograms and house dozens of breeding pairs simultaneously."
+  },
+  "great-kiskadee": {
+    "region": "Ranges from the extreme southern United States south through Central America to Argentina, inhabiting open woodland with tall trees, forest edges, roadsides, parks, and areas around human habitation. Introduced populations exist in Bermuda and Tobago.",
+    "behavior": "A bold and opportunistic tyrant flycatcher, this species dives into the water to catch fish and tadpoles — an unusual habit for a flycatcher — and also takes insects, berries, small lizards, and even small rodents. Its name imitates its loud, three-syllable call.",
+    "funFact": "The great kiskadee's own name is an onomatopoeic transcription of its call — rendered in English as 'kis-ka-dee' — and it delivers this shout so frequently and forcefully that it has become one of the most recognisable sounds in Latin American tropical towns."
+  },
+  "blue-winged-kookaburra": {
+    "region": "Native to northern Australia and southern New Guinea, inhabiting open woodland, savanna, and riverine forest. It is slightly smaller than its better-known relative, the laughing kookaburra.",
+    "behavior": "Like other large kingfisher relatives, this species hunts from a perch, dropping onto prey — snakes, lizards, large insects, and small rodents — on the ground. It is sexually dimorphic, with males sporting a blue tail and females a rufous, barred tail.",
+    "funFact": "The blue-winged kookaburra is one of the noisiest birds of the Australian tropics — its raucous, cackling call is often described as even louder and harsher than the famous laughing kookaburra, yet it remains far less celebrated in popular culture."
+  },
+  "galah": {
+    "region": "Endemic to mainland Australia and one of the country's most abundant and widespread birds, found across virtually all habitats from arid inland areas to coastal regions. It was introduced to Tasmania in the mid-twentieth century and has more recently appeared in New Zealand.",
+    "behavior": "Highly adaptable, this species forages on the ground for seeds, roots, and green shoots across a wide range of habitats including farmland and urban parks. It is gregarious, living and roosting in large, noisy flocks year-round.",
+    "funFact": "In Australian slang, calling someone a 'galah' is a mild insult meaning a foolish or silly person — a reputation earned by the bird's boisterous, clownish flocking behaviour, despite the fact that it is actually highly intelligent and one of Australia's most successful species."
+  },
+  "major-mitchells-cockatoo": {
+    "region": "Inhabits arid and semi-arid inland areas across Australia, with the exception of the northeast. It favours open woodland and mallee scrub near water sources in the dry interior.",
+    "behavior": "This medium-sized bird forages on the ground and in trees for seeds, bulbs, corms, and fruits. Pairs are strongly monogamous, maintaining exclusive territories and often spacing themselves well apart from other pairs — making high population densities rare.",
+    "funFact": "Major Mitchell's cockatoo has one of the most spectacular crests of any bird — a layered fan of white feathers banded in salmon pink and yellow that it erects instantly when startled, transforming from a demure white bird into an explosion of colour."
+  }
+}

@@ -1,0 +1,505 @@
+# Birdle candidate master list — popular & recognizable birds worldwide.
+# Format: Common Name [| region].  '#' starts a comment.  Blank lines ignored.
+# ingest_birds.py resolves scientific name + image + family from Wikipedia/iNat,
+# audio-gates (drops birds with no open recording), and skips any already in the pool.
+# Over-provisioned (~400) so attrition still lands us at >=365 total.
+
+# ── NORTH AMERICA ────────────────────────────────────────────────────────────
+Mute Swan | north-america
+Common Loon | north-america
+American Crow | north-america
+Common Raven | north-america
+American Goldfinch | north-america
+House Finch | north-america
+Purple Finch | north-america
+House Sparrow | north-america
+Song Sparrow | north-america
+White-throated Sparrow | north-america
+Dark-eyed Junco | north-america
+Eastern Bluebird | north-america
+Mountain Bluebird | north-america
+American Robin | north-america
+Gray Catbird | north-america
+Northern Mockingbird | north-america
+Brown Thrasher | north-america
+Cedar Waxwing | north-america
+Tufted Titmouse | north-america
+Black-capped Chickadee | north-america
+Carolina Chickadee | north-america
+White-breasted Nuthatch | north-america
+Red-breasted Nuthatch | north-america
+Brown Creeper | north-america
+House Wren | north-america
+Carolina Wren | north-america
+Ruby-crowned Kinglet | north-america
+Golden-crowned Kinglet | north-america
+Yellow Warbler | north-america
+Common Yellowthroat | north-america
+American Redstart | north-america
+Indigo Bunting | north-america
+Rose-breasted Grosbeak | north-america
+Scarlet Tanager | north-america
+Baltimore Oriole | north-america
+Red-winged Blackbird | north-america
+Common Grackle | north-america
+Brown-headed Cowbird | north-america
+Eastern Meadowlark | north-america
+Bobolink | north-america
+Blue Grosbeak | north-america
+Eastern Towhee | north-america
+Chipping Sparrow | north-america
+Barn Swallow | north-america
+Tree Swallow | north-america
+Purple Martin | north-america
+Eastern Phoebe | north-america
+Eastern Kingbird | north-america
+Great Crested Flycatcher | north-america
+Downy Woodpecker | north-america
+Hairy Woodpecker | north-america
+Northern Flicker | north-america
+Pileated Woodpecker | north-america
+Red-bellied Woodpecker | north-america
+Red-headed Woodpecker | north-america
+Belted Kingfisher | north-america
+Ruby-throated Hummingbird | north-america
+Chimney Swift | north-america
+Mourning Dove | north-america
+Rock Pigeon | north-america
+Killdeer | north-america
+American Woodcock | north-america
+Spotted Sandpiper | north-america
+Greater Yellowlegs | north-america
+Sanderling | north-america
+Ruddy Turnstone | north-america
+American Avocet | north-america
+Black-necked Stilt | north-america
+Great Blue Heron | north-america
+Great Egret | north-america
+Snowy Egret | north-america
+Green Heron | north-america
+Black-crowned Night Heron | north-america
+American White Pelican | north-america
+Brown Pelican | north-america
+Double-crested Cormorant | north-america
+Sandhill Crane | north-america
+American Coot | north-america
+Common Gallinule | north-america
+Pied-billed Grebe | north-america
+Wood Stork | north-america
+Roseate Spoonbill | north-america
+White Ibis | north-america
+Trumpeter Swan | north-america
+Tundra Swan | north-america
+Snow Goose | north-america
+Northern Pintail | north-america
+American Wigeon | north-america
+Northern Shoveler | north-america
+Green-winged Teal | north-america
+Blue-winged Teal | north-america
+Gadwall | north-america
+Canvasback | north-america
+Redhead | north-america
+Ring-necked Duck | north-america
+Bufflehead | north-america
+Common Goldeneye | north-america
+Hooded Merganser | north-america
+Common Merganser | north-america
+Ruddy Duck | north-america
+Bald Eagle | north-america
+Golden Eagle | north-america
+Cooper's Hawk | north-america
+Sharp-shinned Hawk | north-america
+Northern Harrier | north-america
+American Kestrel | north-america
+Peregrine Falcon | north-america
+Merlin | north-america
+Turkey Vulture | north-america
+Black Vulture | north-america
+Great Horned Owl | north-america
+Eastern Screech Owl | north-america
+Barred Owl | north-america
+Burrowing Owl | north-america
+Wild Turkey | north-america
+Ruffed Grouse | north-america
+Northern Bobwhite | north-america
+Ring-necked Pheasant | north-america
+Greater Roadrunner | north-america
+Yellow-billed Cuckoo | north-america
+Common Nighthawk | north-america
+Acorn Woodpecker | north-america
+Steller's Jay | north-america
+Western Scrub-Jay | north-america
+Clark's Nutcracker | north-america
+Black-billed Magpie | north-america
+American Dipper | north-america
+Varied Thrush | north-america
+Western Tanager | north-america
+Lazuli Bunting | north-america
+Bullock's Oriole | north-america
+Yellow-headed Blackbird | north-america
+Cactus Wren | north-america
+Verdin | north-america
+Phainopepla | north-america
+Vermilion Flycatcher | north-america
+
+# ── EUROPE ───────────────────────────────────────────────────────────────────
+European Robin | europe
+Common Chaffinch | europe
+European Greenfinch | europe
+Eurasian Bullfinch | europe
+Common Linnet | europe
+Eurasian Siskin | europe
+Hawfinch | europe
+Yellowhammer | europe
+Common Reed Bunting | europe
+House Sparrow | europe
+Eurasian Tree Sparrow | europe
+Great Tit | europe
+Eurasian Blue Tit | europe
+Coal Tit | europe
+Long-tailed Tit | europe
+Eurasian Nuthatch | europe
+Eurasian Treecreeper | europe
+Winter Wren | europe
+Dunnock | europe
+European Goldfinch | europe
+Common Blackbird | europe
+Song Thrush | europe
+Mistle Thrush | europe
+Redwing | europe
+Fieldfare | europe
+European Pied Flycatcher | europe
+European Robin | europe
+Common Nightingale | europe
+Black Redstart | europe
+Common Redstart | europe
+European Stonechat | europe
+Northern Wheatear | europe
+Barn Swallow | europe
+Common House Martin | europe
+Sand Martin | europe
+Common Swift | europe
+White Wagtail | europe
+Grey Wagtail | europe
+Yellow Wagtail | europe
+Meadow Pipit | europe
+Eurasian Skylark | europe
+Common Starling | europe
+Eurasian Jay | europe
+Eurasian Magpie | europe
+Western Jackdaw | europe
+Rook | europe
+Carrion Crow | europe
+Common Wood Pigeon | europe
+Eurasian Collared Dove | europe
+European Turtle Dove | europe
+Common Cuckoo | europe
+Great Spotted Woodpecker | europe
+European Green Woodpecker | europe
+Eurasian Wryneck | europe
+Common Kingfisher | europe
+European Bee-eater | europe
+European Roller | europe
+Eurasian Hoopoe | europe
+Common Pheasant | europe
+Grey Partridge | europe
+Red-legged Partridge | europe
+Common Quail | europe
+Western Capercaillie | europe
+Eurasian Woodcock | europe
+Northern Lapwing | europe
+European Golden Plover | europe
+Common Redshank | europe
+Black-tailed Godwit | europe
+Eurasian Curlew | europe
+Pied Avocet | europe
+Eurasian Oystercatcher | europe
+Grey Heron | europe
+Great Egret | europe
+Little Egret | europe
+Eurasian Bittern | europe
+White Stork | europe
+Eurasian Spoonbill | europe
+Common Crane | europe
+Eurasian Coot | europe
+Common Moorhen | europe
+Great Crested Grebe | europe
+Mute Swan | europe
+Whooper Swan | europe
+Greylag Goose | europe
+Barnacle Goose | europe
+Brent Goose | europe
+Common Shelduck | europe
+Eurasian Wigeon | europe
+Gadwall | europe
+Common Teal | europe
+Northern Pintail | europe
+Tufted Duck | europe
+Common Pochard | europe
+Common Eider | europe
+Red-breasted Merganser | europe
+Goosander | europe
+White-tailed Eagle | europe
+Western Marsh Harrier | europe
+Eurasian Sparrowhawk | europe
+Northern Goshawk | europe
+Common Buzzard | europe
+Red Kite | europe
+Common Kestrel | europe
+Eurasian Hobby | europe
+Eurasian Eagle-Owl | europe
+Tawny Owl | europe
+Little Owl | europe
+Short-eared Owl | europe
+Long-eared Owl | europe
+Atlantic Puffin | europe
+Razorbill | europe
+Common Guillemot | europe
+Black-legged Kittiwake | europe
+European Herring Gull | europe
+Great Cormorant | europe
+Northern Gannet | europe
+
+# ── AFRICA ───────────────────────────────────────────────────────────────────
+Common Ostrich | africa
+Secretarybird | africa
+Greater Flamingo | africa
+Lesser Flamingo | africa
+Hamerkop | africa
+Sacred Ibis | africa
+Marabou Stork | africa
+Saddle-billed Stork | africa
+Yellow-billed Stork | africa
+Grey Crowned Crane | africa
+African Fish Eagle | africa
+Martial Eagle | africa
+Bateleur | africa
+African Crowned Eagle | africa
+Lappet-faced Vulture | africa
+White-backed Vulture | africa
+Pied Crow | africa
+Superb Starling | africa
+Greater Blue-eared Starling | africa
+Red-billed Oxpecker | africa
+Lilac-breasted Roller | africa
+Southern Carmine Bee-eater | africa
+White-fronted Bee-eater | africa
+Malachite Kingfisher | africa
+Grey Go-away-bird | africa
+Hadada Ibis | africa
+Egyptian Goose | africa
+Spur-winged Goose | africa
+African Jacana | africa
+Red-billed Hornbill | africa
+Southern Ground Hornbill | africa
+Southern Yellow-billed Hornbill | africa
+Helmeted Guineafowl | africa
+Vulturine Guineafowl | africa
+Ostrich | africa
+Kori Bustard | africa
+Cape Weaver | africa
+Southern Masked Weaver | africa
+Red-billed Quelea | africa
+Village Weaver | africa
+Long-tailed Widowbird | africa
+Cape Sugarbird | africa
+Speckled Mousebird | africa
+African Grey Parrot | africa
+Senegal Parrot | africa
+Fischer's Lovebird | africa
+Rosy-faced Lovebird | africa
+Crowned Lapwing | africa
+Blacksmith Lapwing | africa
+African Penguin | africa
+Cape Gannet | africa
+Goliath Heron | africa
+Verreaux's Eagle | africa
+Pel's Fishing Owl | africa
+Pin-tailed Whydah | africa
+
+# ── ASIA ─────────────────────────────────────────────────────────────────────
+Indian Peafowl | asia
+Red Junglefowl | asia
+Indian Pond Heron | asia
+Painted Stork | asia
+Black-necked Stork | asia
+Sarus Crane | asia
+Red-crowned Crane | asia
+Demoiselle Crane | asia
+Black-headed Ibis | asia
+Asian Openbill | asia
+Greater Adjutant | asia
+Indian Roller | asia
+White-throated Kingfisher | asia
+Stork-billed Kingfisher | asia
+Common Kingfisher | asia
+Oriental Dollarbird | asia
+Asian Green Bee-eater | asia
+Great Hornbill | asia
+Oriental Pied Hornbill | asia
+Rhinoceros Hornbill | asia
+Indian Grey Hornbill | asia
+Coppersmith Barbet | asia
+Rose-ringed Parakeet | asia
+Alexandrine Parakeet | asia
+Plum-headed Parakeet | asia
+Red-whiskered Bulbul | asia
+Red-vented Bulbul | asia
+Oriental Magpie-Robin | asia
+Common Myna | asia
+Hill Myna | asia
+Asian Koel | asia
+Greater Coucal | asia
+House Crow | asia
+Large-billed Crow | asia
+Rufous Treepie | asia
+Black Drongo | asia
+Greater Racket-tailed Drongo | asia
+Indian Paradise Flycatcher | asia
+Purple Sunbird | asia
+Crimson Sunbird | asia
+Baya Weaver | asia
+Scaly-breasted Munia | asia
+Red Avadavat | asia
+Java Sparrow | asia
+Mandarin Duck | asia
+Spot-billed Duck | asia
+Ruddy Shelduck | asia
+Bar-headed Goose | asia
+Mountain Hawk-Eagle | asia
+Crested Serpent Eagle | asia
+Brahminy Kite | asia
+Black Kite | asia
+Steppe Eagle | asia
+Himalayan Monal | asia
+Kalij Pheasant | asia
+Golden Pheasant | asia
+Lady Amherst's Pheasant | asia
+Mikado Pheasant | asia
+Satyr Tragopan | asia
+Blood Pheasant | asia
+Mandarin Duck | asia
+Oriental White-eye | asia
+Long-tailed Shrike | asia
+White Wagtail | asia
+Black-winged Stilt | asia
+Pheasant-tailed Jacana | asia
+Eurasian Hoopoe | asia
+Spotted Owlet | asia
+Brown Fish Owl | asia
+Vernal Hanging Parrot | asia
+
+# ── SOUTH & CENTRAL AMERICA ──────────────────────────────────────────────────
+Andean Condor | south-america
+Harpy Eagle | south-america
+King Vulture | south-america
+Greater Rhea | south-america
+Southern Cassowary | australia
+Hoatzin | south-america
+Scarlet Macaw | south-america
+Blue-and-yellow Macaw | south-america
+Hyacinth Macaw | south-america
+Military Macaw | south-america
+Sun Conure | south-america
+Scarlet Ibis | south-america
+Roseate Spoonbill | south-america
+Jabiru | south-america
+Toco Toucan | south-america
+Keel-billed Toucan | south-america
+Channel-billed Toucan | south-america
+Resplendent Quetzal | south-america
+Andean Cock-of-the-rock | south-america
+Guianan Cock-of-the-rock | south-america
+Blue-crowned Motmot | south-america
+Turquoise-browed Motmot | south-america
+Sword-billed Hummingbird | south-america
+Marvelous Spatuletail | south-america
+Crimson Topaz | south-america
+Greater Roadrunner | north-america
+Southern Lapwing | south-america
+Magellanic Penguin | south-america
+Humboldt Penguin | south-america
+Inca Tern | south-america
+Andean Flamingo | south-america
+Chilean Flamingo | south-america
+American Flamingo | south-america
+Rufous-bellied Thrush | south-america
+Saffron Finch | south-america
+Green-headed Tanager | south-america
+Paradise Tanager | south-america
+Seven-colored Tanager | south-america
+Burrowing Parrot | south-america
+Monk Parakeet | south-america
+Great Kiskadee | south-america
+Southern Caracara | south-america
+
+# ── AUSTRALIA & OCEANIA ──────────────────────────────────────────────────────
+Emu | australia
+Southern Cassowary | australia
+Laughing Kookaburra | australia
+Blue-winged Kookaburra | australia
+Rainbow Lorikeet | australia
+Sulphur-crested Cockatoo | australia
+Galah | australia
+Major Mitchell's Cockatoo | australia
+Gang-gang Cockatoo | australia
+Cockatiel | australia
+Budgerigar | australia
+Australian King Parrot | australia
+Crimson Rosella | australia
+Eastern Rosella | australia
+Superb Fairywren | australia
+Splendid Fairywren | australia
+Australian Magpie | australia
+Pied Currawong | australia
+Australian Raven | australia
+Willie Wagtail | australia
+Magpie-lark | australia
+Noisy Miner | australia
+Rainbow Bee-eater | australia
+Tawny Frogmouth | australia
+Powerful Owl | australia
+Wedge-tailed Eagle | australia
+White-bellied Sea Eagle | australia
+Australian Pelican | australia
+Black Swan | australia
+Maned Duck | australia
+Australian Wood Duck | australia
+Pacific Black Duck | australia
+Masked Lapwing | australia
+Brolga | australia
+Australasian Gannet | australia
+Little Penguin | australia
+Superb Lyrebird | australia
+Satin Bowerbird | australia
+Regent Bowerbird | australia
+Australian King Parrot | australia
+Crimson Chat | australia
+New Holland Honeyeater | australia
+Kea | australia
+Kakapo | australia
+Tui | australia
+North Island Brown Kiwi | australia
+
+# ── SEABIRDS & WORLDWIDE ─────────────────────────────────────────────────────
+Wandering Albatross | worldwide
+Black-browed Albatross | worldwide
+Laysan Albatross | worldwide
+Arctic Tern | worldwide
+Common Tern | worldwide
+Sooty Tern | worldwide
+Great Frigatebird | worldwide
+Magnificent Frigatebird | worldwide
+Blue-footed Booby | worldwide
+Red-footed Booby | worldwide
+Brown Booby | worldwide
+King Penguin | worldwide
+Gentoo Penguin | worldwide
+Chinstrap Penguin | worldwide
+Adelie Penguin | worldwide
+Rockhopper Penguin | worldwide
+Osprey | worldwide
+Peregrine Falcon | worldwide
+Barn Owl | worldwide
+Snowy Owl | worldwide
+Great Grey Owl | worldwide

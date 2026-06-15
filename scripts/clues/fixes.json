@@ -1,0 +1,202 @@
+{
+  "mountain-bluebird": {
+    "region": "Found in open western North American landscapes — meadows, sagebrush flats, and alpine clearings from Alaska south through the Rockies. Many populations migrate to lower elevations in winter.",
+    "behavior": "An omnivore that hunts from perches or by hovering, dropping onto insects, spiders, and grasshoppers below; also eats small fruits, particularly in autumn and winter.",
+    "funFact": "The mountain bluebird is the state bird of both Idaho and Nevada, chosen in part for the intense turquoise-blue plumage of breeding males."
+  },
+  "cedar-waxwing": {
+    "region": "Breeds in open wooded areas across southern Canada and winters throughout the southern United States, Central America, and the far northwest of South America.",
+    "behavior": "Highly frugivorous, this species feeds on berries, holly, and cone fruits year-round, supplementing its diet with insects caught on the wing during summer.",
+    "funFact": "The cedar waxwing gets its name from the waxy red tips on its secondary wing feathers, which resemble old-fashioned sealing wax."
+  },
+  "black-crowned-night-heron": {
+    "region": "One of the most widespread wading birds on Earth, found across Europe, Asia, North America, and South America, with populations in Africa and parts of Australasia as well.",
+    "behavior": "Primarily nocturnal and crepuscular, this stocky wader stalks fish, frogs, aquatic invertebrates, and small rodents along the margins of wetlands and coastal shores.",
+    "funFact": "The black-crowned night heron is so widespread that it appears on every continent except Antarctica and Australia, making it one of the most globally distributed herons."
+  },
+  "tundra-swan": {
+    "region": "Breeds on Arctic and subarctic wetlands — shallow lakes, rivers, and pools — and winters in coastal grasslands, marshes, and agricultural fields in western Europe, East Asia, and along both coasts of North America.",
+    "behavior": "Feeds mainly on aquatic vegetation and submerged roots in summer, switching to leftover grain and crops on wintering grounds; highly vocal, producing loud resonant honking calls.",
+    "funFact": "The tundra swan is the smallest of the Holarctic swans and has two distinct subspecies: Bewick's swan in the Old World and the whistling swan in the New World."
+  },
+  "northern-shoveler": {
+    "region": "Breeds across northern Europe, through the Palearctic, and across most of North America; winters in southern Europe, South Asia, Southeast Asia, Central America, the Caribbean, and northern South America.",
+    "behavior": "A dabbling waterfowl that sweeps its broad, spoon-shaped bill through shallow water to filter out seeds, aquatic invertebrates, and crustaceans.",
+    "funFact": "The northern shoveler's oversized bill contains up to 110 lamellae — comb-like plates — which act like a sieve to strain tiny food particles from water."
+  },
+  "ring-necked-duck": {
+    "region": "Found on freshwater ponds and lakes across North America; breeds in forested lake districts of Canada and the northern United States and winters in the southern and coastal United States.",
+    "behavior": "A diving waterbird that submerges to reach aquatic plants, seeds, and invertebrates on the bottom of shallow lakes and ponds.",
+    "funFact": "Despite its name, the ring-necked duck's chestnut collar is nearly invisible in the field — birders often joke it should be called the ring-billed duck, after its much more visible white bill ring."
+  },
+  "sharp-shinned-hawk": {
+    "region": "Ranges across North America, from Alaska and Canada south through the United States and into Central and South America, typically inhabiting forested areas and woodland edges.",
+    "behavior": "An agile woodland predator, this small raptor hunts small birds almost exclusively, ambushing them at speed through dense vegetation using its short wings and long tail for manoeuvrability.",
+    "funFact": "The sharp-shinned hawk is the smallest bird of prey in the United States and Canada, and males — noticeably smaller than females — are barely larger than a robin."
+  },
+  "american-kestrel": {
+    "region": "Distributed almost throughout the Americas, from Alaska and Canada south to Tierra del Fuego, occupying a remarkable range of open and semi-open habitats including grasslands, deserts, and urban areas.",
+    "behavior": "Hunts grasshoppers, insects, lizards, mice, and small birds by perching and scanning from elevated vantage points or hovering in place with rapid wingbeats before dropping onto prey.",
+    "funFact": "The American kestrel is the most common and widespread falcon in the Americas, and has diversified into 17 subspecies adapted to environments as varied as Caribbean islands and high Andean valleys."
+  },
+  "black-vulture": {
+    "region": "Found from the southeastern United States south through Central America and much of South America as far as Peru, central Chile, and Uruguay, preferring open areas with scattered trees near subtropical forests.",
+    "behavior": "A scavenger that feeds primarily on carrion, locating carcasses with keen eyesight and by following other scavenging species; also takes eggs, small reptiles, and newborn animals opportunistically.",
+    "funFact": "The black vulture lacks a voice box, so it can only produce grunts and low hisses — making it one of the few birds incapable of producing a true song or call."
+  },
+  "eurasian-tree-sparrow": {
+    "region": "Breeds across much of temperate Eurasia and Southeast Asia, where it inhabits lightly wooded countryside and towns; introduced populations also exist in parts of North America and western Australia.",
+    "behavior": "Feeds mainly on seeds and grain, with invertebrates added to the diet during the breeding season; nests in natural cavities, building holes, or old magpie nests.",
+    "funFact": "Unlike most seed-eating birds where the sexes look different, male and female Eurasian tree sparrows are identical in plumage, both wearing the same rich chestnut crown and white cheek with a black spot."
+  },
+  "mistle-thrush": {
+    "region": "Resident across much of Europe, temperate Asia, and North Africa; northern and eastern populations migrate south in winter, often gathering in small flocks on open ground.",
+    "behavior": "Feeds on a wide variety of invertebrates, seeds, and berries — favouring mistletoe, holly, rowan, and yew — and defends berry-laden trees aggressively as winter food reserves.",
+    "funFact": "The mistle thrush earned the old name 'stormcock' because males sing loudly from exposed treetops even in fierce wind and rain, often being the only bird vocal during a winter storm."
+  },
+  "sand-martin": {
+    "region": "Breeds across virtually the entire Holarctic — from Europe and across Asia to the Pacific, and throughout North America — wintering in eastern and southern Africa, southern Asia, and South America.",
+    "behavior": "Catches insects entirely on the wing over water and open ground, and excavates nesting burrows in vertical earthen banks, riverbanks, and coastal cliffs.",
+    "funFact": "The sand martin is one of the earliest returning migrants in Europe, often appearing before any other swallow relative, and its burrow colonies can contain hundreds of pairs in a single riverbank."
+  },
+  "carrion-crow": {
+    "region": "Native to western Europe and the eastern Palearctic, this species occupies a broad range of habitats including farmland, woodland edges, coasts, and urban areas.",
+    "behavior": "An opportunistic omnivore that eats carcasses and offal, invertebrates, eggs, small mammals, grain, and discarded food; highly intelligent, it uses tools and problem-solving to access hard-to-reach food.",
+    "funFact": "Carrion crows are among the few non-primate species known to pass down learned behaviours across generations, including techniques for cracking nuts by dropping them in front of traffic."
+  },
+  "common-wood-pigeon": {
+    "region": "Native to the western Palearctic, widely distributed across Europe and into Central Asia, occupying farmland, broadleaved forests, parks, and increasingly urban gardens.",
+    "behavior": "Feeds mainly on plant material — cereals, clover, acorns, and buds — and is considered an agricultural pest in many areas; breeds throughout the year in mild climates.",
+    "funFact": "The common wood pigeon is the largest columbid in Europe, and its population has grown substantially in recent decades as it has colonised towns and cities, where it breeds almost year-round."
+  },
+  "european-green-woodpecker": {
+    "region": "Resident across much of Europe and the western Palearctic, inhabiting open woodland, parkland, orchards, and large gardens with mature trees and nearby grassland.",
+    "behavior": "Spends much of its time foraging on the ground for ants and their larvae, using its long sticky tongue to probe anthills; rarely drums on trees compared to other species in its family.",
+    "funFact": "The European green woodpecker earned the nickname 'yaffle' from its laughing call — a loud, carrying series of notes that rings out across parks and woodland clearings."
+  },
+  "black-tailed-godwit": {
+    "region": "Breeds from Iceland across Europe and into central Asia, wintering in habitats as diverse as the Indian subcontinent, Australia, New Zealand, western Europe, and West Africa.",
+    "behavior": "A long-billed shorebird that probes deeply into mud and wet soil for worms, molluscs, and invertebrates; uses estuaries, swamps, and flooded fields on its wintering grounds.",
+    "funFact": "The black-tailed godwit's migration routes cover thousands of kilometres, and some island-breeding populations make non-stop transoceanic flights rivalling those of any shorebird."
+  },
+  "eurasian-hobby": {
+    "region": "Breeds across a broad band of the Palearctic from Britain and western Europe through Central Asia; a long-distance migrant that winters in sub-Saharan Africa and South Asia.",
+    "behavior": "A swift and agile aerial predator that pursues large insects — dragonflies, beetles — and small birds on the wing with scythe-like wings; often catches prey and feeds in flight.",
+    "funFact": "The Eurasian hobby is fast enough to catch swallows and swifts in the air, and its silhouette so resembles a swift that prey sometimes continues flying in a tight flock rather than scattering."
+  },
+  "red-billed-oxpecker": {
+    "region": "Native to the eastern savannahs of sub-Saharan Africa, ranging from the Central African Republic and South Sudan south through East Africa to northern and eastern South Africa.",
+    "behavior": "Clings to large mammals — buffalo, rhino, giraffe, antelope — and picks off ticks, flies, and parasites from their skin; also feeds on blood and earwax from wounds.",
+    "funFact": "The red-billed oxpecker's relationship with its mammal hosts is more complex than simple mutualism — it keeps wounds open to feed on blood, leading scientists to classify it as a partial parasite."
+  },
+  "spur-winged-goose": {
+    "region": "Found across sub-Saharan Africa in wetland habitats — rivers, lakes, floodplains, and estuaries — from West Africa through the Congo basin to southern and East Africa.",
+    "behavior": "Feeds on aquatic plants, seeds, and small invertebrates in and around shallow wetlands; the largest waterfowl in Africa, it often perches on trees and termite mounds near water.",
+    "funFact": "The spur-winged goose is the world's largest waterfowl by body mass, and males bear a prominent bony spur on the wrist of each wing that can inflict serious wounds on rivals or predators."
+  },
+  "southern-ground-hornbill": {
+    "region": "Found across sub-Saharan Africa from Kenya south to South Africa, inhabiting open savannahs and woodlands; listed as Vulnerable globally and Endangered in parts of its southern range.",
+    "behavior": "A terrestrial carnivore that walks across open savannah in family groups hunting insects, small vertebrates, lizards, and snakes; rarely flies except to roost in tall trees.",
+    "funFact": "The southern ground hornbill is one of Africa's longest-lived birds, with a lifespan of 50–70 years, and young birds remain in their natal group for years before breeding — making it one of the slowest-reproducing birds on the continent."
+  },
+  "long-tailed-widowbird": {
+    "region": "Found in grasslands of Angola, Botswana, the Democratic Republic of the Congo, Kenya, Lesotho, South Africa, Eswatini, and Zambia.",
+    "behavior": "Males display over territories with slow, low wingbeats that show off their half-metre streaming tail feathers; the diet consists of seeds and insects gleaned from grass and low vegetation.",
+    "funFact": "In a landmark experiment, scientists experimentally lengthened and shortened the tail feathers of male long-tailed widowbirds, proving that females strongly prefer males with the longest tails."
+  },
+  "cape-sugarbird": {
+    "region": "Endemic to the Fynbos biome of the Western and Eastern provinces of South Africa, strongly tied to Proteaceae shrubland in the southwestern corner of the continent.",
+    "behavior": "Feeds almost exclusively on nectar from protea flowers, supplementing its diet with insects; plays a key role as a pollinator within the Fynbos ecosystem.",
+    "funFact": "The cape sugarbird is one of only eight bird species endemic to the Fynbos biome — one of the world's most biodiverse and threatened plant kingdoms — and its survival is tightly linked to protea conservation."
+  },
+  "senegal-parrot": {
+    "region": "A resident breeder across a wide range of West Africa, undertaking local seasonal movements within the region to follow the availability of fruit, seeds, and blossoms.",
+    "behavior": "Feeds on fruit, seeds, and blossoms in wooded savannah; considered a crop pest in some areas for raiding maize and millet fields.",
+    "funFact": "The Senegal parrot is one of the most popular pet birds in the world, prized for its calm temperament, playful nature, and ability to mimic speech."
+  },
+  "african-penguin": {
+    "region": "Confined to the southwestern coast of southern Africa — along the shores of South Africa and Namibia — the only flightless, flipper-winged seabird breeding in the Old World.",
+    "behavior": "A pursuit diver that feeds primarily on fish and squid, chasing prey underwater with great speed and agility; breeds in burrows or scrapes on rocky offshore islands and coastal beaches.",
+    "funFact": "The African penguin produces a braying call so similar to a donkey that it earned the nickname 'jackass penguin' — and its loud vocalisation can carry far across the colony at night."
+  },
+  "indian-pond-heron": {
+    "region": "Breeds in southern Iran and east through South Asia — including the subcontinent, Burma, and Sri Lanka — frequenting small water bodies, rice paddies, wetlands, and even urban drainage near human settlements.",
+    "behavior": "Stalks prey slowly at the margins of ponds and paddies, feeding on fish, frogs, and aquatic invertebrates; its cryptic streaked brown plumage makes it nearly invisible when hunched motionless.",
+    "funFact": "The Indian pond heron is so perfectly camouflaged on the ground that people can approach within arm's reach before it flushes — earning it folk names implying the bird is blind or short-sighted."
+  },
+  "indian-roller": {
+    "region": "Widely distributed from West Asia across South Asia — the subcontinent and Sri Lanka — inhabiting open grassland, scrub forest, and roadside habitats; has adapted readily to cultivated and human-modified landscapes.",
+    "behavior": "Perches prominently on wires and treetops scanning for prey, dropping onto insects — especially beetles — and occasionally lizards or small vertebrates; males perform spectacular aerial rolls and dives during courtship.",
+    "funFact": "The Indian roller is the state bird of three states on the subcontinent, and its dazzling blue wing flash visible in flight has made it one of the most celebrated birds in South Asian culture."
+  },
+  "indian-grey-hornbill": {
+    "region": "Found across the subcontinent, from the foothills of the Himalayas south through peninsular South Asia; one of the few species in its family regularly seen in urban avenues and city parks.",
+    "behavior": "Largely arboreal and usually seen in pairs, feeding on figs, berries, and other fruits supplemented with insects and small lizards; nests in tree cavities sealed with a mud-and-droppings wall.",
+    "funFact": "The Indian grey hornbill is unusual in its family for thriving in cities — it has learned to exploit large avenue trees in urban centres, making it a familiar sight in South Asian metropolises."
+  },
+  "hill-myna": {
+    "region": "Native to southern Asia — from the foothills of the Himalayas through Southeast Asia — inhabiting tropical forests and forest edges; introduced populations exist in Florida.",
+    "behavior": "An omnivorous species that eats fruit, insects, and nectar in forest canopy; renowned as one of the most gifted vocal mimics among all birds.",
+    "funFact": "The hill myna is considered the finest vocal mimic in the bird world — captive individuals can reproduce human speech with a clarity and tonal accuracy that exceeds even parrots."
+  },
+  "indian-paradise-flycatcher": {
+    "region": "Native to the subcontinent, resident and breeding in most of Bangladesh, India, and Sri Lanka, as well as parts of Afghanistan, Bhutan, China, Myanmar, Nepal, Pakistan, Tajikistan, and Turkmenistan.",
+    "behavior": "Catches insects — grasshoppers, butterflies, mantises, and flies — in aerial sallies below the forest canopy, often killing prey by striking it against a branch before consuming it.",
+    "funFact": "Male Indian paradise flycatchers develop streaming central tail feathers up to 30 cm longer than their body, and populations vary dramatically — some males are brilliant white, others a rich rufous."
+  },
+  "steppe-eagle": {
+    "region": "Breeds across the open steppes of Central Asia, from Eastern Europe through Kazakhstan to China, wintering in sub-Saharan Africa, South Asia, and the Middle East.",
+    "behavior": "On breeding grounds a specialist predator of ground squirrels; in winter turns sluggish and opportunistic, feeding on insect swarms, carrion, landfill waste, and nestlings of other species.",
+    "funFact": "The steppe eagle is the only eagle that regularly nests on bare flat ground rather than in trees or on cliffs, and it is the national bird of both Kazakhstan and Egypt."
+  },
+  "himalayan-monal": {
+    "region": "Native to montane forests and shrublands at elevations of 2,100–4,500 m across the high ranges of South and Central Asia — from Afghanistan through northern Pakistan, Nepal, and into southwestern China.",
+    "behavior": "Forages on steep slopes, using its strong curved bill to dig for tubers, roots, insects, and berries beneath snow; males display their iridescent plumage on open ridgelines during the breeding season.",
+    "funFact": "The Himalayan monal is the national bird of Nepal, known locally as the danphe, and the male's plumage is considered among the most brilliantly iridescent of any pheasant family member — shimmering green, blue, copper, and purple."
+  },
+  "long-tailed-shrike": {
+    "region": "Widely distributed across Asia from the subcontinent to the eastern archipelagos, inhabiting open scrub, grassland edges, gardens, and cultivation at a range of elevations.",
+    "behavior": "An aggressive predator that impales prey — large insects, lizards, small birds, and rodents — on thorns or barbed wire as a larder; hunts from prominent exposed perches.",
+    "funFact": "The long-tailed shrike was the inspiration for the table-tennis brand Stiga's logo, and the game of tabletop football ('subbuteo') takes its name from the species' scientific name."
+  },
+  "brown-fish-owl": {
+    "region": "Ranges from Turkey across South Asia and into Southeast Asia, inhabiting forests and wooded wetlands along rivers, streams, and coastal mangroves; the most widespread of the four living species in this nocturnal waterside-hunting owl group.",
+    "behavior": "Hunts along water margins at night, snatching aquatic prey — frogs, crayfish, and small vertebrates — from the surface with its taloned feet; also takes crabs, large insects, and small mammals near waterways.",
+    "funFact": "Unlike most owls, the brown fish owl lacks the facial disc structure used for directional hearing, relying instead on sight and tactile sensation from bare, scale-protected legs to detect fish beneath the water surface."
+  },
+  "vernal-hanging-parrot": {
+    "region": "A resident breeder across the subcontinent and parts of Southeast Asia, favouring dry jungle, forest edges, and cultivation; undergoes local movements driven by fruit and blossom availability.",
+    "behavior": "Feeds on fruit, seeds, buds, and nectar — frequenting banyan and plantain trees — and roosts suspended upside-down from branches, a posture that gives this group of small parrots their descriptive name.",
+    "funFact": "The vernal hanging parrot roosts by hanging upside down like a bat, holding on with its feet while it sleeps — a behaviour so distinctive that it defines the entire genus of hanging parrots."
+  },
+  "guianan-cock-of-the-rock": {
+    "region": "Found in tropical rainforests across northeastern South America — Venezuela, the Guianas, and northern Brazil — always near the rocky outcrops it uses for nesting.",
+    "behavior": "Feeds mainly on fruit supplemented occasionally with small snakes and lizards; males gather at communal leks where they perform elaborate competitive displays to attract females.",
+    "funFact": "The male Guianan cock-of-the-rock is one of South America's most striking birds — blazing orange with a remarkable semicircular crest that nearly hides the bill — and it was painted by Audubon from a live specimen."
+  },
+  "humboldt-penguin": {
+    "region": "Resident along the Pacific coast of Peru and Chile in South America, nesting on rocky islands and coastal cliffs; the species' range overlaps with Magellanic penguins on the central Chilean coast.",
+    "behavior": "A pursuit diver that feeds on fish and squid along the cold upwelling current off the west coast of South America; nests by burrowing into guano deposits or using natural rock caves.",
+    "funFact": "Both the Humboldt penguin and the cold-water current it depends on are named after the explorer Alexander von Humboldt, who surveyed the South American coast in the early 19th century."
+  },
+  "andean-flamingo": {
+    "region": "Native to the high Andes of South America, breeding and living at high-altitude salt lakes and brackish lagoons in Chile, Argentina, Bolivia, and Peru, often above 3,500 m elevation.",
+    "behavior": "Filter-feeds by sweeping its bent bill upside-down through shallow, saline water to strain algae, diatoms, and brine shrimp; nests in dense colonies on remote, high-altitude salt flats.",
+    "funFact": "The Andean flamingo is one of the rarest flamingo species in the world, and its legs are a distinctive bright yellow — unique among flamingos — making adults unmistakable even at distance."
+  },
+  "american-flamingo": {
+    "region": "Native to the West Indies, the Yucatán Peninsula, and northern South America including the Galápagos Islands; the only species in this group that naturally occurs in North America.",
+    "behavior": "Filter-feeds in shallow, warm lagoons and coastal mudflats, using its downward-bent bill to sift brine shrimp, algae, and molluscs; nests in large colonies on low mud mounds.",
+    "funFact": "The American flamingo gets its vivid pink and red colouration entirely from carotenoid pigments in its diet — captive birds fed uncoloured food gradually turn white."
+  },
+  "blue-winged-kookaburra": {
+    "region": "Native to northern Australia and southern New Guinea, inhabiting open woodland, savannah, and areas near water across the tropical north of the continent.",
+    "behavior": "A large kingfisher that hunts reptiles, insects, small mammals, and other birds from a prominent perch, diving to seize prey on the ground rather than in water.",
+    "funFact": "Unlike its famous relative the laughing kookaburra, the blue-winged kookaburra produces a cackling, barking call that sounds almost like maniacal laughter without the classic whoop — locals sometimes call it the 'barking jackass'."
+  },
+  "australian-wood-duck": {
+    "region": "Found throughout most of the continent of Australia, preferring grassland and lightly wooded areas near lakes, flooded paddocks, and rivers; avoids dense forest and arid desert.",
+    "behavior": "A dabbling species that grazes on grasses, clover, and other vegetation on land more often than it swims; nests in tree hollows, sometimes far from water.",
+    "funFact": "The Australian wood duck is unusual among waterfowl for spending much of its time grazing on dry land like a goose — it walks confidently across paddocks and parks, rarely needing to swim to feed."
+  }
+}

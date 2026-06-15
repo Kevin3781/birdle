@@ -8,6 +8,12 @@ local media. Since the redesign there is **one merged pool** (no regional bucket
 no `globalPool` flag) and media (audio + silhouette) is produced by Python pipelines
 into `js/media.js`.
 
+> **Adding many birds (dozens+)?** Use `birdle-ingest-birds` instead — it resolves
+> scientific name + image + family + clue-source text from APIs (no hand-typed URLs),
+> audio-gates, and drives clue/facts generation at scale. This skill is for adding one
+> or a few birds by hand into the curated `birds.js`. (All Python runs in the repo
+> `.venv` — never global.)
+
 ## 1. Bird data schema
 
 Add entries to the `GLOBAL_POOL` array (the only pool now). Match existing entries:

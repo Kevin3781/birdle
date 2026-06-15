@@ -879,27 +879,6 @@ const Birds = (() => {
     // ── AFRICA ───────────────────────────────────────────────────────────────
     'africa': [
       {
-        id: 'shoebill', commonName: 'Shoebill', scientificName: 'Balaeniceps rex',
-        regions: ['africa'], globalPool: false,
-        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Balaeniceps_rex_-Ueno_Zoo%2C_Tokyo%2C_Japan-8a.jpg/960px-Balaeniceps_rex_-Ueno_Zoo%2C_Tokyo%2C_Japan-8a.jpg',
-        audioUrl: '', xenoCantoQuery: 'Balaeniceps rex',
-        focalPoint: { x: 0.5, y: 0.35 },
-        facts: {
-          size: 'Large, standing 115–152 cm tall with a wingspan of 230–260 cm',
-          habitat: 'Freshwater swamps in central tropical Africa, especially papyrus marshes',
-          diet: 'Primarily lungfish, also catfish, frogs, water snakes, and baby crocodiles',
-          migration: 'Sedentary; does not migrate',
-        },
-        hints: {
-          region: 'Found in the papyrus swamps and marshes of central Africa, from Sudan to Zambia',
-          size: 'About the size of a Great Blue Heron — stands 4 feet tall with a 7-foot wingspan',
-          behavior: 'Highly patient ambush hunter; can stand motionless for hours waiting for prey',
-        },
-        funFact: "The Shoebill's enormous bill — shaped like a Dutch clog — can produce a loud machine-gun-like rattling clatter used as a greeting display.",
-        ebirdUrl: 'https://ebird.org/species/shoebil',
-        audubonUrl: '',
-      },
-      {
         id: 'lilac-breasted-roller', commonName: 'Lilac-breasted Roller', scientificName: 'Coracias caudatus',
         regions: ['africa'], globalPool: false,
         imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lilac-breasted_Roller_%28Coracias_caudatus%29.jpg/960px-Lilac-breasted_Roller_%28Coracias_caudatus%29.jpg',
@@ -1353,7 +1332,7 @@ const Birds = (() => {
     'oriental-dollarbird': 'kingfisher', 'lilac-breasted-roller': 'kingfisher',
     // large-terrestrial — large ground bird, upright or running
     'emu': 'large-terrestrial', 'indian-peafowl': 'large-terrestrial', 'california-quail': 'large-terrestrial',
-    'keel-billed-toucan': 'large-terrestrial', 'shoebill': 'large-terrestrial', 'secretary-bird': 'large-terrestrial',
+    'keel-billed-toucan': 'large-terrestrial', 'secretary-bird': 'large-terrestrial',
   };
 
   // ── Merge into one flat pool ─────────────────────────────────────────────────
@@ -1364,13 +1343,18 @@ const Birds = (() => {
   const ALL_BIRDS_MAP = new Map();
   function addBird(b) {
     if (ALL_BIRDS_MAP.has(b.id)) return; // dedupe by id
-    b.silhouetteType = SILHOUETTE_BY_ID[b.id] || 'passerine';
+    // Explicit map wins; ingested birds carry their own silhouetteType; else fallback.
+    b.silhouetteType = SILHOUETTE_BY_ID[b.id] || b.silhouetteType || 'passerine';
     delete b.globalPool; // no longer meaningful with a single pool
     ALL_BIRDS.push(b);
     ALL_BIRDS_MAP.set(b.id, b);
   }
   GLOBAL_POOL.forEach(addBird);
   Object.values(REGIONAL_BIRDS).forEach(arr => arr.forEach(addBird));
+  // Generated mass pool (scripts/ingest_birds.py) — appended after curated birds.
+  if (typeof BIRDS_INGESTED !== 'undefined' && Array.isArray(BIRDS_INGESTED)) {
+    BIRDS_INGESTED.forEach(addBird);
+  }
 
   function dailyIndexForOffset(daysAgo) {
     const EPOCH = Date.UTC(2025, 0, 1); // 2025-01-01 UTC

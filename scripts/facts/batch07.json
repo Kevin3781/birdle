@@ -1,0 +1,296 @@
+{
+  "gang-gang-cockatoo": {
+    "size": "Medium parrot; smaller than most cockatoos, compact build",
+    "habitat": "Cool, wet forests and woodlands, particularly alpine bushland in south-eastern Australia",
+    "diet": "Seeds and berries gathered from trees and shrubs",
+    "migration": "Largely resident; may make local seasonal movements between altitudes"
+  },
+  "cockatiel": {
+    "size": "Small to medium parrot with a long tail",
+    "habitat": "Australian wetlands, scrublands, and bushlands",
+    "diet": "Seeds and plant matter; a seed-eating parrot",
+    "migration": "Nomadic across inland Australia, moving in response to food and water availability"
+  },
+  "budgerigar": {
+    "size": "Small, long-tailed parrot; one of the world's smallest parrots",
+    "habitat": "Drier parts of inland Australia — arid and semi-arid scrublands and grasslands",
+    "diet": "Seeds; a dedicated seed-eater",
+    "migration": "Nomadic, moving opportunistically across Australia in response to rainfall and food"
+  },
+  "australian-king-parrot": {
+    "size": "Large parrot endemic to eastern Australia",
+    "habitat": "Humid, heavily forested upland regions of eastern Australia, including eucalyptus and rainforest edges",
+    "diet": "Fruits and seeds gathered from trees or on the ground",
+    "migration": "Largely resident within its eastern Australian range"
+  },
+  "crimson-rosella": {
+    "size": "Medium-sized parrot, typical rosella build",
+    "habitat": "Mountain forests and gardens in eastern and south-eastern Australia; also introduced to New Zealand and Norfolk Island",
+    "diet": "Seeds, fruits, and plant matter",
+    "migration": "Largely resident"
+  },
+  "eastern-rosella": {
+    "size": "Medium-sized, colourful parrot",
+    "habitat": "Open woodlands, gardens, and farmland in south-eastern Australia; established in New Zealand",
+    "diet": "Seeds, fruits, and plant matter",
+    "migration": "Largely resident"
+  },
+  "splendid-fairywren": {
+    "size": "Small, long-tailed songbird",
+    "habitat": "Arid and semi-arid scrublands and dry forests across inland and western Australia",
+    "diet": "Mainly insects, supplemented by seeds",
+    "migration": "Resident; does not migrate"
+  },
+  "pied-currawong": {
+    "size": "Robust crow-like bird, averaging around 48 cm (19 in) long",
+    "habitat": "Forested areas of eastern Australia, from mature forest to urban parks and gardens",
+    "diet": "Omnivorous — berries, seeds, invertebrates, bird eggs, juvenile birds, and young marsupials",
+    "migration": "Generally sedentary; highland populations move to lower elevations in cooler months"
+  },
+  "australian-raven": {
+    "size": "46–53 cm (18–21 in) long",
+    "habitat": "Open woodlands, transitional zones, and urban areas including major Australian cities",
+    "diet": "Omnivorous — fruits, seeds, lizards, chicks, small mammals, carrion, and human food waste",
+    "migration": "Territorial and resident; does not migrate"
+  },
+  "willie-wagtail": {
+    "size": "19–21.5 cm (7.5–8.5 in) long",
+    "habitat": "Most open habitats across Australia, New Guinea, and nearby islands; common in lawns, parks, and gardens",
+    "diet": "Insects; an insectivorous bird that hunts in open habitat",
+    "migration": "Largely resident"
+  },
+  "magpie-lark": {
+    "size": "Medium-sized passerine, similar in build to a small crow",
+    "habitat": "Widespread across Australia, Timor, and southern New Guinea; open country near water",
+    "diet": "Invertebrates and other small prey foraged on the ground",
+    "migration": "Largely resident"
+  },
+  "noisy-miner": {
+    "size": "Medium-sized honeyeater",
+    "habitat": "Dry, open eucalypt forests without dense understory in eastern and south-eastern Australia; also suburban parks and gardens",
+    "diet": "Mainly nectar, fruit, and insects gleaned from eucalypt foliage",
+    "migration": "Resident; non-migratory"
+  },
+  "rainbow-bee-eater": {
+    "size": "Small, slender bee-eater with elongated central tail feathers",
+    "habitat": "Open country, woodland edges, and coastal areas across Australia",
+    "diet": "Bees, wasps, and other flying insects caught in the air",
+    "migration": "Migratory in southern Australia, moving north in winter; resident in the tropics"
+  },
+  "tawny-frogmouth": {
+    "size": "Large-headed, stocky bird; one of Australia's largest frogmouths",
+    "habitat": "Forests, woodlands, and gardens across mainland Australia and Tasmania",
+    "diet": "Insects, worms, and small vertebrates caught at night",
+    "migration": "Resident; does not migrate"
+  },
+  "powerful-owl": {
+    "size": "Largest owl in Australia",
+    "habitat": "Primary forests with tall native trees in coastal and Great Dividing Range areas of south-eastern and eastern Australia",
+    "diet": "Primarily arboreal mammals, especially small to medium-sized marsupials; these make up about three-quarters of the diet",
+    "migration": "Resident; territorial with a large home range"
+  },
+  "white-bellied-sea-eagle": {
+    "size": "Up to 90 cm (35 in) long; wingspan up to 2.2 m (7.2 ft); weight up to 4.5 kg (9.9 lb)",
+    "habitat": "Coasts and major waterways from India and Sri Lanka through South-East Asia to Australia",
+    "diet": "Primarily fish (about half the diet), plus waterbirds, reptiles, carrion, and other animals",
+    "migration": "Resident throughout its range"
+  },
+  "australian-pelican": {
+    "size": "Large waterbird; has the longest bill of any living bird",
+    "habitat": "Inland and coastal waters of Australia and New Guinea; also Fiji and parts of Indonesia",
+    "diet": "Mainly fish; also consumes birds and scavenges for scraps",
+    "migration": "Largely nomadic across Australia, moving in response to water availability"
+  },
+  "black-swan": {
+    "size": "Large waterbird with black plumage and a red bill",
+    "habitat": "Lakes, rivers, wetlands, and estuaries, mainly in south-east and south-west Australia",
+    "diet": "Aquatic and waterside vegetation",
+    "migration": "Nomadic within Australia, with erratic movements dependent on climatic conditions"
+  },
+  "maned-duck": {
+    "size": "Medium-sized dabbling duck",
+    "habitat": "Widespread across Australia in wetlands, grasslands, and open woodland near water",
+    "diet": "Grasses, clover, and other plant matter; a grazing dabbling duck",
+    "migration": "Largely resident; nomadic in response to drought and flooding"
+  },
+  "australian-wood-duck": {
+    "size": "Medium-sized dabbling duck",
+    "habitat": "Widespread across Australia in wetlands, grasslands, and open woodland near water",
+    "diet": "Grasses, clover, and other plant matter; a grazing dabbling duck",
+    "migration": "Largely resident; nomadic in response to drought and flooding"
+  },
+  "pacific-black-duck": {
+    "size": "Medium-sized dabbling duck",
+    "habitat": "Wetlands, lakes, rivers, and estuaries across Australia, New Zealand, New Guinea, and Pacific islands",
+    "diet": "Aquatic plants, seeds, insects, and small invertebrates",
+    "migration": "Largely resident; some local movements"
+  },
+  "masked-lapwing": {
+    "size": "Large plover; conspicuous and robust",
+    "habitat": "Open fields, grasslands, wetland margins, and urban parks across Australia, New Zealand, and New Guinea",
+    "diet": "Insects, worms, and other invertebrates found on the ground",
+    "migration": "Largely resident"
+  },
+  "brolga": {
+    "size": "Tall crane with long legs, slender neck, and long beak",
+    "habitat": "Wetlands, floodplains, grasslands, and open country in tropical and south-eastern Australia and New Guinea",
+    "diet": "Omnivorous — plant matter, invertebrates, and small vertebrates",
+    "migration": "Resident in the tropics; some seasonal movements in the south"
+  },
+  "australasian-gannet": {
+    "size": "Large seabird",
+    "habitat": "Open waters above the continental shelf along southern and eastern Australia and around New Zealand; nests on coastal islands",
+    "diet": "Mainly squid and forage fish caught by high-speed plunge diving",
+    "migration": "Disperses widely at sea after breeding; young birds range broadly before returning to breed"
+  },
+  "little-penguin": {
+    "size": "Smallest penguin species in the world",
+    "habitat": "Coastal waters and burrows on shorelines of southern Australia and New Zealand",
+    "diet": "Small fish, squid, and krill caught by diving during the day",
+    "migration": "Marine; returns to shore burrows each night; does not undertake long migrations"
+  },
+  "superb-lyrebird": {
+    "size": "One of the world's largest songbirds, with an elaborate tail",
+    "habitat": "Temperate forests of south-eastern Australia",
+    "diet": "Insects, worms, and other invertebrates scratched from the forest floor",
+    "migration": "Resident; does not migrate"
+  },
+  "satin-bowerbird": {
+    "size": "Medium-sized passerine bird",
+    "habitat": "Forests and woodland edges of eastern Australia",
+    "diet": "Fruits, berries, insects, and other invertebrates",
+    "migration": "Largely resident; some altitudinal movement in winter"
+  },
+  "regent-bowerbird": {
+    "size": "Medium-sized, up to 25 cm long",
+    "habitat": "Rainforest and adjacent dense scrub in eastern Australia",
+    "diet": "Fruits, berries, and insects",
+    "migration": "Largely resident"
+  },
+  "crimson-chat": {
+    "size": "Small bird",
+    "habitat": "Arid and semi-arid shrublands and saltbush plains of inland Australia",
+    "diet": "Insects and nectar",
+    "migration": "Nomadic, moving in response to rainfall and food availability"
+  },
+  "new-holland-honeyeater": {
+    "size": "Small to medium honeyeater",
+    "habitat": "Heathlands, banksia scrub, and gardens across southern Australia",
+    "diet": "Nectar supplemented by insects and spiders",
+    "migration": "Largely resident"
+  },
+  "kea": {
+    "size": "Large parrot",
+    "habitat": "Native forests across the three main islands of New Zealand",
+    "diet": "Omnivorous — fruit, seeds, nectar, insects, and occasionally carrion",
+    "migration": "Largely resident"
+  },
+  "tui": {
+    "size": "Medium-sized bird",
+    "habitat": "Various open and semi-open environments; cliffs and rock ledges used for roosting and breeding",
+    "diet": "Seeds and plant material; also scavenges opportunistically",
+    "migration": "Largely resident with some dispersal by feral populations"
+  },
+  "north-island-brown-kiwi": {
+    "size": "Medium-sized flightless bird; lays eggs among the largest relative to body size of any bird species",
+    "habitat": "Forests and scrublands across the northern two-thirds of New Zealand's North Island",
+    "diet": "Worms, insects, berries, and other invertebrates probed from the soil at night",
+    "migration": "Resident; does not migrate"
+  },
+  "black-browed-albatross": {
+    "size": "Large seabird; the most widespread and common albatross",
+    "habitat": "Open oceans of the Southern Hemisphere; breeds on subantarctic islands",
+    "diet": "Fish, squid, and crustaceans",
+    "migration": "Wide-ranging at sea; circumnavigates the Southern Ocean outside the breeding season"
+  },
+  "laysan-albatross": {
+    "size": "Large seabird; smaller than most albatrosses, with a gull-like appearance",
+    "habitat": "North Pacific Ocean; breeds almost entirely on the Northwestern Hawaiian Islands",
+    "diet": "Squid, fish, and fish eggs taken from the ocean surface",
+    "migration": "Ranges widely across the North Pacific between breeding seasons"
+  },
+  "common-tern": {
+    "size": "Medium-sized seabird",
+    "habitat": "Breeds on beaches, islands, and flat poorly vegetated ground near water across Europe, Asia, and North America; winters in coastal tropical regions",
+    "diet": "Mainly fish caught by plunge-diving; also molluscs, crustaceans, and invertebrates",
+    "migration": "Strongly migratory; breeds in temperate and subarctic regions, winters in coastal tropical and subtropical areas"
+  },
+  "sooty-tern": {
+    "size": "Medium-sized seabird",
+    "habitat": "Tropical oceans worldwide; breeds on islands throughout the equatorial zone",
+    "diet": "Fish and other prey skimmed from the ocean surface",
+    "migration": "Largely pelagic; can fly for years without landing, only returning to land to breed"
+  },
+  "great-frigatebird": {
+    "size": "Large, lightly built seabird up to 105 cm long",
+    "habitat": "Tropical Pacific and Indian Oceans; breeds on remote islands such as Hawaii, Galápagos, and Seychelles",
+    "diet": "Primarily fish (especially flying fish) taken in flight from the ocean surface; occasionally kleptoparasitic",
+    "migration": "Largely sedentary near breeding colonies; ranges within 80 km of colony or roost"
+  },
+  "magnificent-frigatebird": {
+    "size": "89–114 cm (35–45 in) long; wingspan 2.17–2.44 m (7–8 ft); largest frigatebird species",
+    "habitat": "Tropical and subtropical waters off the Americas; also Galápagos and Cape Verde Islands",
+    "diet": "Fish (often flying fish) taken in flight from the ocean surface; also practices kleptoparasitism",
+    "migration": "Largely resident near tropical coasts; wide-ranging at sea but tied to breeding islands"
+  },
+  "red-footed-booby": {
+    "size": "Large seabird",
+    "habitat": "Tropical oceans worldwide; breeds colonially on isolated coastal islands",
+    "diet": "Flying fish and other fish caught by diving from above the ocean surface",
+    "migration": "Resident near tropical breeding islands; ranges widely at sea"
+  },
+  "brown-booby": {
+    "size": "Large seabird",
+    "habitat": "Inshore tropical and subtropical waters worldwide; nests on the ground on islands",
+    "diet": "Small fish caught by plunge-diving, especially when prey is driven to the surface by predators",
+    "migration": "Largely resident in tropical range; some post-breeding dispersal"
+  },
+  "king-penguin": {
+    "size": "Second largest penguin species, smaller than the Emperor Penguin",
+    "habitat": "Subantarctic islands including South Georgia, southern Argentina, Macquarie Island, and the Falkland Islands",
+    "diet": "Mainly lanternfish, squid, and krill; dives repeatedly to over 100 m, sometimes exceeding 300 m",
+    "migration": "Resident on subantarctic breeding islands; forages at sea between colonies"
+  },
+  "gentoo-penguin": {
+    "size": "Medium-to-large penguin",
+    "habitat": "Subantarctic islands and the Antarctic Peninsula",
+    "diet": "Fish, squid, and krill",
+    "migration": "Largely resident on breeding islands; forages in surrounding seas"
+  },
+  "chinstrap-penguin": {
+    "size": "Medium-sized penguin",
+    "habitat": "Islands and shores in the Southern Pacific and Antarctic Oceans",
+    "diet": "Krill, fish, and squid",
+    "migration": "Largely resident near Antarctic and subantarctic breeding sites; disperses at sea in winter"
+  },
+  "adelie-penguin": {
+    "size": "Medium-sized penguin",
+    "habitat": "Entire coast of Antarctica; one of the most southerly distributed penguins",
+    "diet": "Mainly krill and fish",
+    "migration": "Breeds on the Antarctic coast; disperses northward onto sea ice in winter"
+  },
+  "rockhopper-penguin": {
+    "size": "Small to medium crested penguin",
+    "habitat": "Subantarctic and southern temperate islands in the Atlantic, Pacific, and Indian Oceans",
+    "diet": "Krill, squid, fish, and other small marine prey",
+    "migration": "Leaves breeding islands after the season; ranges widely at sea in winter"
+  },
+  "great-grey-owl": {
+    "size": "World's largest owl by length",
+    "habitat": "Boreal and montane forests across the Northern Hemisphere, in both Eastern and Western Hemispheres",
+    "diet": "Small mammals, especially voles, caught by hunting over open areas",
+    "migration": "Largely resident; some irruptive movements southward in years of low prey abundance"
+  },
+  "wild-turkey": {
+    "size": "Heaviest member of the order Galliformes; the heaviest wild game bird native to North America",
+    "habitat": "Forests, open woodlands, and forest edges across North America",
+    "diet": "Omnivorous — acorns, seeds, berries, insects, and small vertebrates",
+    "migration": "Resident; does not migrate"
+  },
+  "rook": {
+    "size": "Large, gregarious corvid",
+    "habitat": "Farmland, pasture, and open country across the Palearctic from Scandinavia and western Europe to eastern Siberia; nests in tall trees near farms or villages",
+    "diet": "Mainly grubs and soil-based invertebrates; also cereals and other plant material",
+    "migration": "Mainly resident; northernmost populations migrate south to avoid harsh winters"
+  }
+}

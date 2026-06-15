@@ -1,0 +1,74 @@
+{
+  "mute-swan": {
+    "size": "140–160 cm body length; one of the largest waterfowl",
+    "habitat": "Lakes, rivers, and coastal waters across Europe and parts of Asia; introduced widely in North America and Australasia",
+    "diet": "Primarily aquatic plants; also small invertebrates",
+    "migration": "Largely resident; some northerly birds move south in winter"
+  },
+  "common-loon": {
+    "size": "Large diving bird; males significantly heavier than females",
+    "habitat": "Breeds on lakes and waterways in Canada, northern USA, Greenland, and Iceland; winters on both coasts of North America and the Atlantic coast of Europe",
+    "diet": "Fish, crustaceans, insect larvae, molluscs, and occasionally aquatic plants",
+    "migration": "Migratory; moves from inland breeding lakes to coastal wintering areas before ice forms in autumn"
+  },
+  "american-crow": {
+    "size": "Large passerine; smaller than a common raven, larger than a fish crow",
+    "habitat": "Widespread across North America in almost all habitats except tundra",
+    "diet": "Omnivorous — insects, seeds, nuts, small animals, and occasionally carrion",
+    "migration": "Largely resident, though northern populations may shift south in winter"
+  },
+  "eurasian-nuthatch": {
+    "size": "Small passerine; short-tailed with a long bill",
+    "habitat": "Mature deciduous or mixed woodland with large old trees, preferring oak",
+    "diet": "Mainly insects (especially caterpillars and beetles); supplements with nuts and seeds in autumn and winter",
+    "migration": "Resident; pairs hold permanent territories year-round"
+  },
+  "eurasian-treecreeper": {
+    "size": "Small passerine; mouse-sized, with a long curved bill and stiff tail",
+    "habitat": "Woodlands of all kinds; favours coniferous forests or higher altitudes where it overlaps with the short-toed treecreeper",
+    "diet": "Insectivorous; picks insects from crevices in bark while climbing tree trunks",
+    "migration": "Largely resident; solitary in winter, occasionally forms communal roosts in cold weather"
+  },
+  "winter-wren": {
+    "size": "Very small songbird",
+    "habitat": "Coniferous forests for breeding; winters in dense underbrush across southeastern Canada and the eastern United States",
+    "diet": "Insects and other invertebrates gleaned from the ground in thick underbrush",
+    "migration": "Migratory; breeds in coniferous forests from British Columbia to the Atlantic, winters across southeastern Canada and the eastern USA"
+  },
+  "sarus-crane": {
+    "size": "Up to 1.8 m tall; the tallest flying bird in the world",
+    "habitat": "Open wetlands, seasonally flooded forests in Southeast Asia, and Eucalyptus woodlands and grasslands in Australia",
+    "diet": "Roots, tubers, insects, crustaceans, and small vertebrates foraged from marshes and shallow wetlands",
+    "migration": "Nonmigratory; largely resident throughout its range in the Indian subcontinent, Southeast Asia, and northern Australia"
+  },
+  "demoiselle-crane": {
+    "size": "Medium-sized crane; the smallest crane species",
+    "habitat": "Central Eurosiberian steppes and grasslands, ranging from the Black Sea to Mongolia and Northeast China",
+    "diet": "Grains, seeds, insects, and small invertebrates (typical crane omnivore diet)",
+    "migration": "Strongly migratory; western birds winter in Africa, eastern birds winter in the Indian subcontinent"
+  },
+  "black-headed-ibis": {
+    "size": "Medium wading bird with a long down-curved black bill",
+    "habitat": "Wetlands, paddy fields, and a range of natural and man-made habitats across South and Southeast Asia",
+    "diet": "Invertebrates, small fish, and other wetland prey foraged by probing with its curved bill",
+    "migration": "Partially migratory; breeds seasonally during the rainy season, with some populations dispersing after breeding"
+  },
+  "indian-white-eye": {
+    "size": "Small passerine; sparrow-sized",
+    "habitat": "Open woodland on the Indian subcontinent",
+    "diet": "Nectar and small insects, foraging in small groups",
+    "migration": "Resident breeder; does not migrate"
+  },
+  "pheasant-tailed-jacana": {
+    "size": "Medium-sized wading bird with extremely elongated toes and nails",
+    "habitat": "Shallow tropical lakes and wetlands with floating vegetation, from Yemen east to the Philippines",
+    "diet": "Mainly invertebrates, foraged by walking on aquatic vegetation, swimming, or wading",
+    "migration": "Partially migratory; the only jacana that migrates long distances, with seasonal movements across parts of tropical Asia"
+  },
+  "crested-caracara": {
+    "size": "Medium-large raptor in the falcon family",
+    "habitat": "Highly adaptable; found in semi-arid and desert climates, coastal areas, tropical forests, plains, swamps, and urban areas across the Americas",
+    "diet": "Opportunistic omnivore; carrion, insects, small vertebrates, and other prey",
+    "migration": "Largely resident throughout its range from the southern USA through Latin America to Tierra del Fuego"
+  }
+}

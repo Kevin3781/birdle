@@ -1,0 +1,302 @@
+{
+  "eurasian-curlew": {
+    "region": "Breeds across temperate Europe and Asia, from the British Isles eastward through the Palearctic, favouring moorlands, wet grasslands, and upland bogs; winters on estuaries and coastal mudflats.",
+    "behavior": "It probes soft mud and soil with its exceptionally long, downcurved bill to extract worms, molluscs, and crustaceans; also takes berries and insects on its breeding grounds.",
+    "funFact": "The Eurasian curlew's bill can curve as much as 10 cm downward — perfectly shaped to reach invertebrates deep inside estuary mud that other shorebirds simply cannot reach."
+  },
+  "pied-avocet": {
+    "region": "Spans a wide range from western Europe through central Asia to the Indian subcontinent and Africa, breeding on coastal lagoons, saline pools, and tidal mudflats; northern populations migrate south for winter.",
+    "behavior": "It sweeps its long, upturned bill from side to side through shallow water and mud to filter out tiny invertebrates; highly territorial when chicks are present, mobbing even large predators.",
+    "funFact": "The pied avocet's distinctively upturned bill is unique among European waders, and the species was chosen as the emblem of the RSPB — the UK's largest bird conservation charity."
+  },
+  "eurasian-oystercatcher": {
+    "region": "The most widespread of its family, breeding from western Europe across Eurosiberia to Kamchatka, China, and Korea; found along rocky coasts, sandy shores, and increasingly on inland farmland.",
+    "behavior": "Specialises in prying open mussels and other shellfish with its powerful, blade-like orange bill; pairs bond for life and defend feeding territories aggressively.",
+    "funFact": "Despite its name, the Eurasian oystercatcher rarely eats oysters — mussels, cockles, and limpets are its true staple, hammered open or stabbed through a gap in the shell."
+  },
+  "grey-heron": {
+    "region": "Resident across temperate Europe and Asia and much of Africa, favouring lakes, rivers, ponds, estuaries, and coastal shores wherever fish are accessible.",
+    "behavior": "A patient stand-and-wait predator, it stands motionless at the water's edge or in the shallows before striking with lightning speed to seize fish, frogs, and small mammals.",
+    "funFact": "When the grey heron was served roasted at a feast held for George Neville's installation as Archbishop of York in 1465, an astonishing 400 birds appeared on the menu."
+  },
+  "little-egret": {
+    "region": "Breeds across warm-temperate to tropical parts of Asia, Africa, Australia, and Europe; its range has expanded northward, with self-sustaining populations now established in the United Kingdom.",
+    "behavior": "It hunts in shallow water and on land, feeding on small fish, frogs, and invertebrates; often seen shuffling its bright yellow feet to disturb prey before striking.",
+    "funFact": "In the 19th century, the little egret was hunted almost to extinction in Western Europe because its delicate breeding plumes were fashionable hat decorations — a trade that ultimately helped spark the modern conservation movement."
+  },
+  "eurasian-bittern": {
+    "region": "The nominate subspecies breeds across parts of Europe and the Palearctic, as well as along the northern coast of Africa; a second race is endemic to parts of southern Africa.",
+    "behavior": "A secretive reed-bed dweller that rarely ventures into the open, it feeds on fish, amphibians, small mammals, and insects; in spring the male produces a deep, resonant booming call audible over a kilometre away.",
+    "funFact": "When alarmed, the Eurasian bittern stretches its streaked neck vertically and sways like a reed, making it almost impossible to spot even in open marsh edges — a camouflage trick so convincing it can fool observers standing just metres away."
+  },
+  "eurasian-spoonbill": {
+    "region": "Native to Europe, Africa, and Asia, breeding in wetlands from the Netherlands and Spain east to the Indian subcontinent; more northerly populations migrate south to Africa and South Asia for winter.",
+    "behavior": "It wades through shallow water sweeping its uniquely spatula-shaped bill from side to side to detect and snap up fish, crustaceans, and aquatic invertebrates by touch.",
+    "funFact": "The Eurasian spoonbill's bill is not just an unusual shape — it contains sensitive nerve endings that let the bird hunt by feel in murky water, snapping shut in milliseconds the instant it detects prey."
+  },
+  "common-crane": {
+    "region": "Breeds across temperate Eurasia from Scandinavia and Spain eastward to Siberia; winters in southern Europe, North Africa, the Middle East, and South Asia, travelling in large, noisy flocks.",
+    "behavior": "An omnivore, it feeds on plant roots, grain, insects, small vertebrates, and invertebrates; pairs perform elaborate dancing displays involving leaping, bowing, and wing-spreading that reinforce long-term pair bonds.",
+    "funFact": "The common crane is one of only four crane species in the world not currently classified as threatened or conservation-dependent — a rare conservation success among this ancient, stately family of birds."
+  },
+  "eurasian-coot": {
+    "region": "Found across Europe, Asia, Australia, New Zealand, and parts of North Africa, occupying open freshwater lakes, reservoirs, ponds, and slow-moving rivers where aquatic vegetation is abundant.",
+    "behavior": "An aggressive, quarrelsome waterbird, it dives for aquatic plants and invertebrates but also grazes on grass at the water's edge; it vigorously defends territory against rivals of its own species.",
+    "funFact": "The Eurasian coot's white bill and frontal shield stand out so distinctly against its sooty-black plumage that the English phrase 'bald as a coot' has been in use since at least the 15th century."
+  },
+  "common-moorhen": {
+    "region": "Distributed across much of the Old World, including Africa, Europe, and Asia, it inhabits well-vegetated marshes, ponds, canals, and slow-moving waterways; largely absent from polar regions and dense tropical rainforest.",
+    "behavior": "An omnivore, it picks seeds, berries, insects, worms, and small fish from vegetation and water surfaces while walking on floating plants or swimming with a characteristic jerky, head-bobbing motion.",
+    "funFact": "The common moorhen is one of the world's most widely distributed waterbirds — yet despite its bold red-and-yellow bill it is rarely noticed, slipping between reed stems with remarkable stealth for a bird so common."
+  },
+  "great-crested-grebe": {
+    "region": "Widespread across Europe and extending into Asia, Africa, and Australia, it breeds on open freshwater lakes, reservoirs, and gravel pits with emergent vegetation along the margins.",
+    "behavior": "A skilled underwater diver, it pursues fish by propelling itself with its lobed feet; famous for its elaborate mutual courtship dance in which pairs rise breast-to-breast from the water offering weeds to each other.",
+    "funFact": "The great crested grebe's 'weed ceremony' — in which male and female rise face to face from the water, each holding a bill-full of waterweeds — is one of the most photographed courtship displays in the bird world."
+  },
+  "whooper-swan": {
+    "region": "A large northern-hemisphere waterbird, it breeds across Iceland, Scotland, and the Palearctic from Scandinavia to eastern Siberia; winters on lakes, estuaries, and flooded fields in western and central Europe, China, and Japan.",
+    "behavior": "It feeds by upending or grazing on aquatic plants, roots, and grasses; vocal and sociable, it travels in family groups and calls loudly in flight with a bugling note quite unlike the silent gliding of other large white waterbirds.",
+    "funFact": "The whooper swan is the national bird of Finland, and its bugling calls inspired ancient Norse legends — medieval Europeans sometimes believed the birds sang only once, magnificently, just before they died, giving rise to the phrase 'swan song.'"
+  },
+  "greylag-goose": {
+    "region": "Widespread across Europe and Asia, breeding on moorlands, marshes, lake edges, and coastal islands; northern populations migrate south in autumn to winter on estuaries, flooded fields, and farmland.",
+    "behavior": "Primarily a grazer, it feeds on grasses, roots, and agricultural crops; mates for life and stays in tight family groups through the winter, with both parents defending the young.",
+    "funFact": "The greylag goose is the ancestor of nearly all breeds of domestic goose — it was first domesticated at least as far back as 1360 BCE, making it one of the earliest birds brought under human control."
+  },
+  "barnacle-goose": {
+    "region": "Breeds in the high Arctic on Greenland, Svalbard, and Novaya Zemlya; winters on salt marshes, coastal grasslands, and tidal flats mainly in Britain and Ireland, and in the Netherlands and Germany.",
+    "behavior": "A grazer that feeds almost exclusively on short grasses and salt-marsh plants; flocks are highly gregarious and roost communally at night, often on exposed coastal mudflats for protection from land predators.",
+    "funFact": "Medieval Europeans believed the barnacle goose hatched from barnacles attached to driftwood — a myth so persuasive that some clerics classed it as a fish, allowing it to be eaten on meatless Fridays during Lent."
+  },
+  "brent-goose": {
+    "region": "Breeds on high-Arctic tundra across three subspecies ranges; all winter along temperate sea-coasts, congregating on estuaries, coastal lagoons, and sheltered bays in Europe, North America, and East Asia.",
+    "behavior": "Feeds mainly on eelgrass and intertidal algae in winter; as eelgrass declined in the 20th century it adapted to grazing on coastal grassland and winter crops immediately inland of the shore.",
+    "funFact": "The Brent oilfield in the North Sea was named after this small, dark-bellied goose — one of the few species in the world to have a major industrial infrastructure named in its honour."
+  },
+  "common-shelduck": {
+    "region": "Widespread across the Palearctic, breeding mainly on temperate coasts, saline pools, and estuaries in Europe and northwest Africa, and on inland salt lakes in Asia; winters in temperate to subtropical regions.",
+    "behavior": "A dabbling and upending waterbird that feeds on molluscs, crustaceans, small fish, and algae in shallow intertidal zones; nests in burrows, old rabbit holes, or crevices close to the shore.",
+    "funFact": "After the breeding season, most north-European shelducks undertake a remarkable moult migration — tens of thousands gather on a single sandbank in the Helgoland Bight to shed and regrow their flight feathers simultaneously."
+  },
+  "eurasian-wigeon": {
+    "region": "Common across the Palearctic from Iceland and the British Isles east through Siberia; winters on coastal estuaries, flood meadows, and sheltered bays in western Europe, southern Asia, and East Africa.",
+    "behavior": "A surface-feeding dabbling duck that grazes heavily on grasses, aquatic plants, and algae; often follows swans and other waterbirds to feed on plant material they stir up from the bottom.",
+    "funFact": "The male Eurasian wigeon's whistling 'whee-oo' call is one of the most recognisable sounds of British estuaries in winter, carrying clearly over the noise of wind and surf."
+  },
+  "common-teal": {
+    "region": "Breeds across temperate Eurosiberia, favouring sheltered wetlands, bogs, and river floodplains; migrates south in winter to coastal estuaries, marshes, and sheltered lakes across Europe, Africa, and South Asia.",
+    "behavior": "A highly gregarious dabbling species that feeds on seeds and aquatic invertebrates in shallow water; one of the fastest flying waterbirds, capable of swift, twisting flight in tight flocks.",
+    "funFact": "The common teal gives its name to the blue-green colour 'teal' — the vivid iridescent green-and-black wing patch of the male is so distinctive that its hue entered the English language as a colour word."
+  },
+  "tufted-duck": {
+    "region": "Breeds across northern Eurasia from Iceland to Siberia, favouring freshwater lakes and reservoirs; partially migratory, wintering on open freshwater and occasionally sheltered coastal bays across Europe and South Asia.",
+    "behavior": "A diving species that plunges below the surface to feed on molluscs, aquatic insects, and plant material on the lake bed; forms large resting flocks on open water during the day.",
+    "funFact": "The tufted duck's population has grown substantially since the 19th century, partly because it benefited from the spread of the zebra mussel — an invasive mollusc that now forms a major part of its diet on many European lakes."
+  },
+  "common-pochard": {
+    "region": "Widespread across the Palearctic, breeding primarily in Scandinavia and the steppe regions of Siberia; winters farther south and west on large freshwater lakes, reservoirs, and sheltered coastal waters across Europe.",
+    "behavior": "A diving species that submerges to feed on aquatic plants, seeds, and invertebrates near the bottom of lakes; often dives in synchrony with neighbours and tends to be more active at dawn and dusk.",
+    "funFact": "The common pochard has experienced one of the most dramatic population declines of any European waterbird since the 1980s — numbers fell by over 50% in a few decades, likely driven by changes to its wintering wetlands and food supply."
+  },
+  "common-eider": {
+    "region": "Distributed along the northern coasts of Europe, North America, and eastern Siberia, breeding in Arctic and subarctic regions; winters somewhat farther south on coastal waters, where it can form enormous offshore flocks.",
+    "behavior": "A sea-diving specialist, it dives to the seabed to prize open mussels, urchins, and crustaceans using its strong bill; it is one of the fastest flying ducks, capable of reaching 113 km/h.",
+    "funFact": "Female common eiders line their nests with down plucked from their own breast — the original source of 'eiderdown', the legendary insulating material prized for centuries in pillows and luxury quilts."
+  },
+  "red-breasted-merganser": {
+    "region": "Native to the temperate to subarctic Northern Hemisphere, breeding on lakes and rivers and migrating to mostly coastal, saltwater wintering areas; the most salt-water-tolerant member of its genus.",
+    "behavior": "A pursuit diver that chases fish underwater using serrated, saw-edged bill edges to grip slippery prey; it dives from the surface and is capable of sustained underwater pursuit.",
+    "funFact": "The red breast of the male is only displayed in breeding plumage — and despite the species being named for this feature, the females and eclipse-plumaged males look entirely different, causing frequent identification puzzles for birdwatchers."
+  },
+  "goosander": {
+    "region": "Found in forested river and lake systems across Europe, Asia, and North America; a bird of clear, fast-flowing rivers in the breeding season, wintering on larger lakes and coastal bays in milder regions.",
+    "behavior": "A specialist fish hunter, it dives and chases prey underwater using a serrated bill with a hooked tip; nests in hollow trees along river banks, one of the few large waterbirds to use tree-cavities.",
+    "funFact": "The goosander is called the 'common merganser' in North America — the same species carries two entirely different common names on either side of the Atlantic, causing persistent confusion in field guides and birding lists."
+  },
+  "white-tailed-eagle": {
+    "region": "Widely distributed across temperate Eurasia, from Greenland and Iceland east to Hokkaido, Japan; usually found near large bodies of open water — coastal bays, freshwater lakes, bogs, wetlands, and major rivers.",
+    "behavior": "Both a powerful apex predator and an opportunistic scavenger, it takes fish, waterbirds, and mammals, often snatching fish directly from the surface; it also steals prey from other raptors and feeds on carrion.",
+    "funFact": "With a wingspan that can reach 2.5 metres, the white-tailed eagle is Europe's largest bird of prey — successfully reintroduced to Britain after being exterminated by persecution, it now breeds in Scotland, Ireland, and England."
+  },
+  "western-marsh-harrier": {
+    "region": "Breeds across temperate and subtropical western Eurasia and adjacent parts of Africa; the migratory subspecies winters in sub-Saharan Africa and South Asia, while a resident race stays year-round in northwest Africa.",
+    "behavior": "Quarters low over reed beds and wetland vegetation with slow, buoyant wingbeats, dropping suddenly onto prey that includes small mammals, frogs, nestling birds, and large insects.",
+    "funFact": "The western marsh harrier is one of Europe's most dramatic comeback stories — heavily persecuted and almost wiped out across northern Europe by the mid-20th century, strict protection allowed it to recover and recolonise much of its former range."
+  },
+  "eurasian-sparrowhawk": {
+    "region": "Occupies temperate and subtropical parts of the Old World from the British Isles east to Japan; northern birds migrate south for winter, while southern populations are resident or make only short dispersive movements.",
+    "behavior": "A woodland ambush predator that hunts small birds with explosive bursts of speed through dense cover; males take tits, finches, and sparrows while the larger female can overpower thrushes and birds weighing 500 g or more.",
+    "funFact": "The female Eurasian sparrowhawk is up to 25% larger than the male — one of the most extreme size differences between sexes in any bird species in the world, thought to allow the pair to exploit different prey sizes simultaneously."
+  },
+  "northern-goshawk": {
+    "region": "Inhabits temperate forests across much of Eurasia, from western Europe east through Russia and into Asia; mainly resident but birds from colder northern regions move south in winter.",
+    "behavior": "A powerful forest raptor that hunts birds and mammals up to the size of pheasants and rabbits, using sudden high-speed pursuit through dense woodland; largely sedentary and fiercely territorial.",
+    "funFact": "The northern goshawk was a prized falconry bird across medieval Europe and Asia — valued for its combination of raw power and willingness to hunt dense woodland, it was the hawk of choice for those who could not afford falcons."
+  },
+  "common-buzzard": {
+    "region": "Breeds across most of Europe and extends through the Palearctic as far as northwestern China and Siberia; largely resident across much of its range but northern and eastern birds migrate south, some reaching South Africa.",
+    "behavior": "An opportunistic predator that feeds mainly on small mammals, especially voles, typically hunting by waiting on a perch before dropping onto prey; it also takes carrion, earthworms, and large insects.",
+    "funFact": "The common buzzard appears to be Europe's most numerous diurnal raptor, with a global population estimated well into the millions — yet for decades after World War II its numbers crashed due to organochlorine pesticide contamination before recovering strongly."
+  },
+  "red-kite": {
+    "region": "Currently breeds only in Europe, though it formerly also bred in West Asia and Northwest Africa; resident in the milder parts of its range and migratory in northern mainland Europe, wintering south and west.",
+    "behavior": "An opportunistic feeder that soars on its long, angled wings searching for carrion, earthworms, small mammals, and scraps; its distinctive forked tail makes it one of the most graceful soaring birds in Europe.",
+    "funFact": "The red kite was once so abundant in medieval London that it served as an unofficial street-cleaner, boldly snatching scraps from people's hands — Shakespeare mentions them stealing handkerchiefs in The Winter's Tale."
+  },
+  "common-kestrel": {
+    "region": "Widespread across Europe, Asia, and Africa, with occasional records from North America's east coast; found in a huge variety of open habitats including farmland, moorland, roadsides, and city centres.",
+    "behavior": "Famous for hovering into the wind with rapidly beating wings while scanning the ground below for small mammals; once prey is spotted, it drops in stages before a final plunge onto voles, mice, and large insects.",
+    "funFact": "The common kestrel can see ultraviolet light, allowing it to track the urine trails of voles — rodents that scent-mark their runways with urine that glows brightly in UV, effectively painting a targeting map visible only to the hunting bird."
+  },
+  "eurasian-hobby": {
+    "region": "A small, slim falcon that breeds across Europe and central Asia, wintering in sub-Saharan Africa; favours open woodland edges, heathland, and farmland near wetlands where aerial insect prey is abundant.",
+    "behavior": "A supremely agile aerial hunter, it pursues swallows, swifts, and large dragonflies at high speed, often catching and eating prey on the wing; fast enough to catch swifts — among the swiftest birds in level flight.",
+    "funFact": "The Eurasian hobby is so swift and agile that falconers once used it to hunt skylarks — and the miniature football game 'subbuteo' takes its Latin species name, a tribute to the falcon's legendary speed and nimbleness."
+  },
+  "eurasian-eagle-owl": {
+    "region": "One of the most widely distributed owl species, ranging across Europe, Russia, central Asia, and into East Asia, with smaller populations in the Middle East and South Asia; favours rocky mountainous areas, cliffs, and mixed woodland.",
+    "behavior": "A nocturnal apex predator, it hunts mainly small to medium mammals such as rodents and rabbits but also takes birds and larger prey; it typically breeds on cliff ledges, in rocky gullies, or among boulders.",
+    "funFact": "The Eurasian eagle-owl is one of the largest owls on Earth — females can reach a wingspan of 188 cm, and the species is powerful enough to prey on other raptors, including buzzards and smaller owls."
+  },
+  "tawny-owl": {
+    "region": "Commonly found in woodlands across Europe and into western Siberia; non-migratory and highly territorial, it occupies the same woodland patch year-round, with young birds that cannot find a vacant territory often starving.",
+    "behavior": "A nocturnal hunter, it drops silently from a perch onto rodents, earthworms, and occasionally smaller birds, using asymmetrically positioned ears to pinpoint prey by sound in complete darkness.",
+    "funFact": "The iconic 'tu-whit tu-whoo' associated with this woodland bird is actually a duet — the female calls 'ke-wick' and the male responds with a wavering 'hoo-hoo', a call-and-response that has been mistaken for a single bird's voice for centuries."
+  },
+  "little-owl": {
+    "region": "Inhabits much of temperate and warmer Europe, the Palearctic east to Korea, and North Africa; introduced to Britain in the late 19th century and to New Zealand's South Island in the early 20th century.",
+    "behavior": "Mainly nocturnal but often active at dawn and dusk, it hunts insects, earthworms, small vertebrates, and invertebrates in farmland, woodland fringes, steppes, and semi-deserts.",
+    "funFact": "The little owl was the sacred companion of Athena, Greek goddess of wisdom, and appeared on Athenian silver coins for centuries — its image became so iconic that it gave rise to the expression 'taking owls to Athens', meaning a pointless endeavour."
+  },
+  "short-eared-owl": {
+    "region": "A widespread grassland species found across open country from the Arctic tundra south through temperate zones on every continent except Australia and Antarctica; typically inhabits moorland, coastal marshes, and rough grassland.",
+    "behavior": "Unlike most of its family, it hunts actively by day and at dusk, quartering low over open ground with slow, buoyant wingbeats in search of voles and other small mammals.",
+    "funFact": "The ear tufts that give this species its common name are actually display features, not ears at all — they are barely visible and usually kept flat, shown only when the bird adopts a defensive posture."
+  },
+  "long-eared-owl": {
+    "region": "Breeds across Europe, the Palearctic, and North America; partially migratory and sometimes characterised as nomadic, it follows prey availability rather than fixed routes, wintering in open woodland edges and farmland.",
+    "behavior": "A specialist vole predator in most of its range, it hunts nocturnally over open ground and uses nests built by other species — especially corvids — rather than constructing its own; roosts communally in winter.",
+    "funFact": "The long-eared owl's prominent facial tufts are not ears — its actual hearing organs are asymmetrically placed on its skull to provide three-dimensional sound location, making it one of the most acoustically precise hunters in the animal kingdom."
+  },
+  "razorbill": {
+    "region": "A North Atlantic colonial seabird, it breeds on rocky cliff faces from eastern Canada and the United States north to Iceland and across to Britain, Ireland, Scandinavia, and the Baltic; winters at sea offshore.",
+    "behavior": "Almost entirely aquatic outside the breeding season, it dives and 'flies' underwater using its wings to pursue fish; monogamous, choosing one partner for life and incubating a single egg on bare rock ledges.",
+    "funFact": "The razorbill is the closest living relative of the great auk — the giant, flightless seabird hunted to extinction by the mid-19th century — making it a poignant living reminder of what was lost."
+  },
+  "common-guillemot": {
+    "region": "Circumpolar in distribution, breeding on rocky cliff shores and islands in low-Arctic and boreal waters of the North Atlantic and North Pacific; spends most of the year at sea, returning to land only to breed.",
+    "behavior": "A pursuit diver that 'flies' underwater with its wings, typically diving to 30–60 m to catch fish; nests at extremely high densities on open cliff ledges with no nest material, incubating its single egg between its feet.",
+    "funFact": "The common guillemot's egg is famously pyriform — pear-shaped — so that if nudged on the bare cliff ledge it rolls in a tight circle rather than falling off, one of nature's most elegant engineering solutions to a potentially fatal problem."
+  },
+  "black-legged-kittiwake": {
+    "region": "Breeds on coastal cliffs around the North Atlantic and North Pacific from the Arctic south to temperate zones; pelagic outside the breeding season, spending winter far out at sea.",
+    "behavior": "Unlike many of its relatives, it is a true oceanic seabird that feeds almost entirely at sea, surface-dipping or plunge-diving for small fish and zooplankton rather than scavenging at ports and landfills.",
+    "funFact": "The black-legged kittiwake gets its English name directly from its call — its sharp, repeated 'kittee-wa-aaake' screamed from crowded cliff colonies is one of the most evocative sounds of wild Atlantic coastlines."
+  },
+  "european-herring-gull": {
+    "region": "Breeds throughout the northern and western coasts of Europe, from Iceland and Norway south to Iberia; many populations are resident year-round, while some northern birds move south to the Mediterranean or Atlantic coasts in winter.",
+    "behavior": "A highly adaptable omnivore and scavenger, it takes fish, crustaceans, invertebrates, carrion, and food stolen from humans; bold and intelligent, it is equally at home on remote clifftops and busy city rooftops.",
+    "funFact": "The European herring gull has become so successful at exploiting human food waste that urban roof-nesting populations are now common across Britain — and the species has been documented dropping shellfish onto hard surfaces from altitude to crack them open."
+  },
+  "great-cormorant": {
+    "region": "One of the most widely distributed seabirds, breeding across much of the Old World, Australasia, and the Atlantic coast of North America; found on coasts, large lakes, and major rivers wherever fish are plentiful.",
+    "behavior": "A skilled pursuit diver that swims underwater with powerful webbed feet to chase and catch fish; after diving, it stands with wings spread wide to dry its plumage, a distinctive posture seen on rocks and posts near water.",
+    "funFact": "Unlike most waterbirds, the great cormorant's feathers are not fully waterproof — this actually reduces its buoyancy and helps it dive more efficiently, but forces it to spend long periods wing-drying after every fishing session."
+  },
+  "northern-gannet": {
+    "region": "Native to the North Atlantic, breeding on steep cliffs and offshore islands in Western Europe and northeastern North America; the largest seabird of the northern Atlantic, wintering offshore south to tropical West Africa.",
+    "behavior": "Catches fish by making spectacular high-speed plunge-dives from heights of up to 30 m, folding its wings back at the last moment to enter the water like an arrow at up to 100 km/h; colonial, nesting in vast, densely packed cliff colonies.",
+    "funFact": "The northern gannet reinforces its skull with air-sac cushioning and a specially thickened bone structure to withstand the impact of hitting water at diving speeds — one of the most dramatic feeding techniques of any seabird."
+  },
+  "common-ostrich": {
+    "region": "Native to Africa's open savannas, grasslands, and semi-arid bushland south of the Sahara, as well as historically in parts of Arabia; lives in nomadic groups and requires vast areas of open terrain.",
+    "behavior": "A grazer and browser, it feeds mainly on plant matter but also takes invertebrates and small reptiles; when threatened, it either lies flat to hide or sprints away — capable of sustained running at 55 km/h and short bursts of 70 km/h.",
+    "funFact": "The common ostrich lays the largest eggs of any living bird and is the fastest bipedal animal on Earth — yet despite being flightless, it can outrun a horse over a sustained distance, reaching 70 km/h in short bursts."
+  },
+  "secretarybird": {
+    "region": "Endemic to Africa, found across the open grasslands and savannas of sub-Saharan Africa; it is terrestrial, spending most of its time on the ground and rarely using flight except to reach roost trees or travel between areas.",
+    "behavior": "Hunts on foot by stalking through grass and stomping rapidly on prey — including snakes, insects, lizards, and small mammals — to stun or kill it before swallowing; the stomping kick can deliver force several times its own body weight.",
+    "funFact": "The secretarybird appears on the national coats of arms of both South Africa and Sudan, and despite being classified as a bird of prey it does nearly all its hunting on foot, striding up to 20 km a day across the savanna."
+  },
+  "lesser-flamingo": {
+    "region": "Occurs across sub-Saharan Africa and western India, with the vast majority of the world population concentrated at a handful of highly saline lakes in the East African Rift Valley.",
+    "behavior": "A filter-feeder that specialises almost entirely on microscopic cyanobacteria (blue-green algae) pumped through its uniquely inverted, keratinous bill; forms enormous flocks numbering hundreds of thousands on alkaline lake shores.",
+    "funFact": "The lesser flamingo is the most numerous flamingo species in the world, yet nearly the entire global population can be found at just three or four soda lakes in East Africa — making it simultaneously abundant and extraordinarily vulnerable."
+  },
+  "hamerkop": {
+    "region": "Found throughout mainland Africa, Madagascar, and Arabia, living along a wide variety of wetland edges including estuaries, lakesides, fish ponds, riverbanks, and rocky coasts; largely sedentary with local seasonal movements.",
+    "behavior": "Hunts prey — mainly fish and amphibians, plus shrimps, insects, and rodents — in shallow water by sight or touch; renowned for constructing enormous roofed nests of sticks, reeds, and mud that can weigh over 50 kg.",
+    "funFact": "The hamerkop builds the largest domed nest of any bird in the world — a roofed, chambered structure so sturdy that Egyptian geese, owls, and monitor lizards regularly move into abandoned ones."
+  },
+  "sacred-ibis": {
+    "region": "Native to much of Africa and small parts of Iraq, Iran, and Kuwait; typically found in wetlands, floodplains, coastal lagoons, and the margins of rivers and lakes, though it has been extirpated from its historic Egyptian range.",
+    "behavior": "An opportunistic feeder, it probes mud and shallow water with its long, curved bill for fish, frogs, insects, molluscs, and carrion; highly gregarious, nesting colonially in trees above water.",
+    "funFact": "The ancient Egyptians so revered this wading bird as the embodiment of the god Thoth that millions of them were mummified and offered at temples — yet today the species has completely disappeared from Egypt."
+  },
+  "marabou-stork": {
+    "region": "Native to sub-Saharan Africa, breeding in both wet and arid habitats from West to East Africa; frequently found near human habitation, particularly at landfill sites and slaughterhouses where food is abundant.",
+    "behavior": "A highly opportunistic scavenger and predator, it feeds on carrion alongside vultures but also takes fish, frogs, and small animals; its bald head and neck, like those of vultures, stay clean when probing inside carcasses.",
+    "funFact": "The marabou has been credited with the largest wingspan of any land bird, with some individuals recorded at over 3.2 metres — and its distinctive silhouette, hunched and cloak-like from behind, earned it the nickname 'the undertaker bird.'"
+  },
+  "yellow-billed-stork": {
+    "region": "Widespread south of the Sahara across sub-Saharan Africa and also occurring in Madagascar; associated with lakes, rivers, floodplains, and wetland margins where shallow water allows active foraging.",
+    "behavior": "Feeds by wading through shallow water with its yellow bill held slightly open, snapping shut by reflex when it touches fish or frogs — a tactile hunting method that works effectively in turbid water where visibility is poor.",
+    "funFact": "The yellow-billed bird's bill snaps shut in about 25 milliseconds when it detects prey by touch — one of the fastest reflex actions recorded in any bird, allowing it to catch fish even in murky, near-zero-visibility floodwater."
+  },
+  "grey-crowned-crane": {
+    "region": "Native to Sub-Saharan Africa, occurring mainly in dry savannas while nesting in wetter habitats such as marshes, cultivated lands, and grassy floodplains near rivers and lakes; listed as Endangered.",
+    "behavior": "An omnivore, it feeds on a wide variety of plant material, seeds, insects, frogs, worms, snakes, small fish, and aquatic eggs; pairs perform elaborate dancing displays involving leaping, bowing, and wing-spreading.",
+    "funFact": "Unlike most large wading birds, the grey crowned crane can perch in trees and even roost in them overnight — a unique ability among its family, made possible by a long, flexible hind toe that grips branches."
+  },
+  "martial-eagle": {
+    "region": "Found across sub-Saharan Africa in wooded savannas and open habitats; it is a bird of large, undisturbed wilderness areas and has declined sharply across its range due to persecution and habitat loss.",
+    "behavior": "One of very few raptors known to hunt primarily from a high soar, stooping on prey from altitude; diet varies between mammals, birds, and reptiles, with monitor lizards and small antelopes among the larger items taken.",
+    "funFact": "The martial eagle is powerful enough to knock a grown man off his feet, according to documented accounts — and it has been observed killing prey as large as young impala, making it one of the most formidable avian predators on Earth."
+  },
+  "bateleur": {
+    "region": "Native to broad areas of sub-Saharan Africa, ranging scarcely north into Arabia; characteristically a bird of open savanna with scattered trees and open dry woodland, now largely confined to protected areas.",
+    "behavior": "Highly aerial, spending much of the day soaring and frequently flying with exaggerated embellishments when excited; diet is a free-wheeling mix of carrion, small to medium mammals, reptiles, and occasionally relatively small birds.",
+    "funFact": "The bateleur has such a short tail that it must rock and tilt its long wings continuously to maintain balance in flight — the constant banking motion gave it its French name meaning 'street performer' or 'tightrope walker.'"
+  },
+  "african-crowned-eagle": {
+    "region": "Found in sub-Saharan Africa, with a preference for riparian woodlands and various forest types; in southern Africa it is restricted to more easterly areas, and its range is shrinking as native tropical forests are destroyed.",
+    "behavior": "Mammal prey dominates its diet, including monkeys, antelopes, rodents, hyraxes, and viverrids; it uses its unusually large talons and powerful legs to crush prey's skull, and is bold enough to attempt prey many times its own body weight.",
+    "funFact": "The African crowned eagle is considered the most powerful of all Africa's raptors relative to its prey size — it has been documented attacking prey as large as a 30 kg bushbuck, and there is at least one credible record of an attack on a human child."
+  },
+  "white-backed-vulture": {
+    "region": "The most common scavenging bird of prey in Africa, found across sub-Saharan savannas and open woodlands; usually seen soaring in large numbers above carcasses or roosting in trees near game concentrations.",
+    "behavior": "A highly social scavenger that locates carrion by watching the movements of other scavenging birds from high altitude; descends in large groups to feed at carcasses, using its long neck to probe deep inside.",
+    "funFact": "The white-backed vulture is so important to ecosystem health that its dramatic decline — driven by poisoning from poisoned carcasses set for other predators — has been linked to increased disease transmission from rotting, un-consumed animal remains."
+  },
+  "pied-crow": {
+    "region": "Widely distributed across Africa, from the Sahara south through sub-Saharan regions to South Africa; highly adaptable, it thrives in open woodland, savanna, coastal areas, farmland, and urban environments.",
+    "behavior": "An omnivore and opportunistic scavenger, it feeds on carrion, insects, small vertebrates, eggs, refuse, and any edible scraps it can find; intelligent and bold, it often forages in close proximity to humans.",
+    "funFact": "Structurally, the pied crow is better described as a small crow-sized raven than a typical crow — and where its range meets that of the Somali crow in the Horn of Africa, the two can hybridise, blurring the boundary between species."
+  },
+  "greater-blue-eared-starling": {
+    "region": "Breeds from Senegal east to Ethiopia and south through eastern Africa to northeastern South Africa and Angola; a common bird of open woodland that undertakes some seasonal movement following fruiting and insect emergence.",
+    "behavior": "Feeds on insects, fruit, and nectar in open woodland canopy and at the woodland edge; highly social, moving in flocks and producing a variety of loud, churring calls from prominent perches.",
+    "funFact": "The greater blue-eared starling's plumage is not coloured by pigment at all — its intense blue-green iridescence is produced entirely by microscopic feather structure that diffracts light, meaning the colour changes dramatically with the viewing angle."
+  },
+  "red-billed-oxpecker": {
+    "region": "Native to the eastern savannas of sub-Saharan Africa, from the Central African Republic east to South Sudan and south to northern and eastern South Africa; more widespread than its yellow-billed relative in southern Africa.",
+    "behavior": "Spends most of its time clinging to large mammals such as buffalo, rhino, giraffe, and cattle, feeding on ticks, parasites, and wound tissue; it alerts host animals to danger with sharp alarm calls.",
+    "funFact": "The relationship between this species and large mammals has been debated for decades — while it clearly removes some ticks, research has shown it also keeps wounds open to feed on blood and tissue, making it a partial parasite as well as a cleaner."
+  },
+  "southern-carmine-bee-eater": {
+    "region": "Found across sub-equatorial Africa, from Gabon and the Democratic Republic of Congo south through Zambia, Zimbabwe, and Botswana to northeastern South Africa; absent from true rainforest and arid desert.",
+    "behavior": "An aerial insect hunter that sallies from perches or the backs of large animals to catch bees, wasps, hornets, locusts, and other large flying insects; removes venom from bees by repeatedly striking them against a branch before swallowing.",
+    "funFact": "The southern carmine bee-eater famously rides on the backs of large animals including ostriches, kori bustards, and even farm machinery — using them as mobile hunting perches to snap up insects flushed from the grass below."
+  },
+  "white-fronted-bee-eater": {
+    "region": "Widely distributed in sub-equatorial Africa, from West and Central Africa south through East Africa to northern South Africa; associated with river valleys, eroded cliff faces, and open savanna with earthen banks suitable for nesting.",
+    "behavior": "Hunts passing insects by launching quick hawking flights from low tree perches, sometimes hovering briefly before catching prey; nests in small colonies by excavating burrows in cliffs or earthen banks.",
+    "funFact": "The white-fronted bee-eater lives in highly organised clan groups where 'helpers' — often the offspring of previous years — assist breeding pairs in raising chicks, one of the most complex cooperative breeding systems known among African birds."
+  },
+  "malachite-kingfisher": {
+    "region": "Widely distributed in Africa south of the Sahara, closely associated with rivers, streams, lakes, and wetland edges; largely resident with only limited seasonal climate-related movements.",
+    "behavior": "A sit-and-plunge hunter, it perches motionless on a low overhanging branch scanning the water surface, then dives steeply to catch small fish and aquatic invertebrates with pinpoint accuracy.",
+    "funFact": "Despite being one of Africa's most brilliantly coloured birds — vivid turquoise, cobalt, and chestnut — the malachite kingfisher is so small it can perch on a single reed stem, making it easy to overlook against bright water."
+  }
+}

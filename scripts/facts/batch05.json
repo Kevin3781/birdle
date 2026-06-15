@@ -1,0 +1,362 @@
+{
+  "grey-go-away-bird": {
+    "size": "Medium-sized turaco; similar to a large pigeon",
+    "habitat": "Arid to moist open woodlands and thorn savanna, especially near surface water",
+    "diet": "Forages in treetops; feeds on fruits, berries, and plant matter",
+    "migration": "Largely resident within the southern Afrotropics"
+  },
+  "hadada-ibis": {
+    "size": "Medium-sized ibis with stout legs and a down-curved bill",
+    "habitat": "Wetlands, cultivated land, and gardens; often near human habitation",
+    "diet": "Probes soil and shallow water for invertebrates, insects, and worms",
+    "migration": "Non-migratory; makes nomadic movements in response to rainfall during droughts"
+  },
+  "egyptian-goose": {
+    "size": "Large waterfowl, typical of medium-large geese",
+    "habitat": "Wetlands, rivers, lakes, and open grassland across Africa; also ornamental parks worldwide",
+    "diet": "Grazes on grasses, seeds, leaves, and grain",
+    "migration": "Largely resident; introduced populations also non-migratory"
+  },
+  "spur-winged-goose": {
+    "size": "Large Sub-Saharan African waterbird; one of the largest waterfowl",
+    "habitat": "Wetlands, rivers, floodplains, and lakes in sub-Saharan Africa",
+    "diet": "Grazes on aquatic vegetation, seeds, and small invertebrates",
+    "migration": "Largely resident; may make local movements following water availability"
+  },
+  "african-jacana": {
+    "size": "Small-to-medium wader with exceptionally long toes and claws",
+    "habitat": "Shallow lakes and wetlands with floating vegetation across sub-Saharan Africa",
+    "diet": "Picks insects, small invertebrates, and seeds from floating vegetation",
+    "migration": "Largely resident and sedentary within sub-Saharan Africa"
+  },
+  "red-billed-hornbill": {
+    "size": "Small-to-medium hornbill of savanna woodlands",
+    "habitat": "Savannas and woodlands of sub-Saharan Africa",
+    "diet": "Omnivorous; feeds on insects, small vertebrates, seeds, and fruit",
+    "migration": "Largely resident within its savanna range"
+  },
+  "southern-ground-hornbill": {
+    "size": "Largest hornbill species in the world; crow-to-turkey sized ground bird",
+    "habitat": "Woodlands and savannas from Kenya to South Africa",
+    "diet": "Carnivorous; hunts insects, small vertebrates including snakes and lizards on the ground",
+    "migration": "Largely resident; does not migrate"
+  },
+  "southern-yellow-billed-hornbill": {
+    "size": "Small-to-medium hornbill; similar in size to other Tockus hornbills",
+    "habitat": "Dry thornveld and broad-leafed woodlands; often seen along roads and watercourses",
+    "diet": "Forages on the ground for seeds, small insects, spiders, and scorpions",
+    "migration": "Resident and widespread throughout southern Africa"
+  },
+  "helmeted-guineafowl": {
+    "size": "Large, rounded gamebird; comparable to a small turkey",
+    "habitat": "Open savanna, grassland, and woodland across sub-Saharan Africa",
+    "diet": "Omnivorous; seeds, tubers, insects, and small invertebrates",
+    "migration": "Largely resident; non-migratory"
+  },
+  "vulturine-guineafowl": {
+    "size": "Largest extant guinea fowl species; distinctly large and long-necked",
+    "habitat": "Arid and semi-arid bush and savanna in northeast Africa",
+    "diet": "Seeds, berries, insects, and plant matter foraged from the ground",
+    "migration": "Resident breeder in northeast Africa; non-migratory"
+  },
+  "ostrich": {
+    "size": "Largest and heaviest living bird; adults weigh 63.5–145 kg",
+    "habitat": "Open savanna, grassland, and semi-arid plains of sub-Saharan Africa",
+    "diet": "Omnivorous; mainly plants, seeds, roots, and occasionally insects and small vertebrates",
+    "migration": "Largely resident; some nomadic movements following food and water"
+  },
+  "kori-bustard": {
+    "size": "Largest flying bird native to Africa; males may be the heaviest flying animal",
+    "habitat": "Open grasslands, savanna, and lightly wooded areas across Africa",
+    "diet": "Opportunistic omnivore; insects, lizards, small mammals, seeds, and carrion",
+    "migration": "Largely resident; may make local seasonal movements"
+  },
+  "cape-weaver": {
+    "size": "Small weaver bird; sparrow-to-starling sized",
+    "habitat": "Fynbos, open woodland, gardens, and wetland margins in southern Africa",
+    "diet": "Seeds, nectar, and insects",
+    "migration": "Largely resident in southern Africa"
+  },
+  "southern-masked-weaver": {
+    "size": "Small weaver bird; sparrow-sized",
+    "habitat": "Very wide range including shrubland, savanna, grassland, wetlands, semi-desert, and suburban gardens",
+    "diet": "Seeds, insects, and nectar",
+    "migration": "Resident and non-migratory throughout southern Africa"
+  },
+  "red-billed-quelea": {
+    "size": "Approximately 12 cm long; weighs 15–26 g; sparrow-sized",
+    "habitat": "Open savanna, grassland, and agricultural land across sub-Saharan Africa; avoids forests, deserts, and high altitudes",
+    "diet": "Primarily seeds of annual grasses; also causes major damage to cereal crops",
+    "migration": "Seasonally nomadic; moves to areas of recent rainfall and plentiful grass seed"
+  },
+  "village-weaver": {
+    "size": "Small weaver; sparrow-to-starling sized",
+    "habitat": "Open and semi-open habitats including woodlands, towns, villages, and hotel grounds across sub-Saharan Africa",
+    "diet": "Principally seeds and grain; also insects, especially when feeding young",
+    "migration": "Largely resident; non-migratory"
+  },
+  "long-tailed-widowbird": {
+    "size": "Medium-sized bird; breeding males have tail feathers approximately half a metre (20 inches) long",
+    "habitat": "Grasslands and open habitats in southern and central Africa",
+    "diet": "Seeds, insects, and other invertebrates",
+    "migration": "Largely resident within its range in southern and central Africa"
+  },
+  "cape-sugarbird": {
+    "size": "Slender bird with a long tail; one of the larger sugarbirds",
+    "habitat": "Fynbos biome of the Western Cape and Eastern Cape, South Africa",
+    "diet": "Primarily nectar from Protea flowers; also insects",
+    "migration": "Largely resident; endemic to the Fynbos biome"
+  },
+  "speckled-mousebird": {
+    "size": "Largest mousebird species; small but with a long tail, sparrow-sized body",
+    "habitat": "Forests, woodlands, gardens, and scrub across Central, Eastern, and Southern Africa",
+    "diet": "Fruit, berries, buds, and plant matter; occasionally insects",
+    "migration": "Largely resident and non-migratory"
+  },
+  "african-grey-parrot": {
+    "size": "Medium-sized parrot; one of the largest African parrots",
+    "habitat": "Dense forests and forest edges of west and central Africa",
+    "diet": "Seeds, nuts, fruits, and berries; occasional leafy vegetation",
+    "migration": "Largely resident; may make local movements for food"
+  },
+  "senegal-parrot": {
+    "size": "Small-to-medium parrot typical of the Poicephalus genus",
+    "habitat": "Open woodland, savanna, and farms across west Africa",
+    "diet": "Fruit, seeds, blossoms, and grain; considered a crop pest on maize and millet",
+    "migration": "Makes seasonal migrations within west Africa following fruit availability"
+  },
+  "fischers-lovebird": {
+    "size": "Small parrot; typical lovebird size, roughly 15 cm long",
+    "habitat": "Savanna and open woodland in East Africa, particularly Tanzania",
+    "diet": "Seeds, berries, grasses, and fruit",
+    "migration": "Largely resident in East Africa"
+  },
+  "rosy-faced-lovebird": {
+    "size": "Small parrot; typical lovebird size",
+    "habitat": "Arid savanna woodlands of Namibia and adjacent areas",
+    "diet": "Seeds, berries, and plant matter; eats throughout the day",
+    "migration": "Largely resident; non-migratory within Namibian savanna range"
+  },
+  "crowned-lapwing": {
+    "size": "Medium-sized plover; typical lapwing proportions",
+    "habitat": "Open grassland, dry savanna, and lightly grazed areas from Somalia to southern Africa",
+    "diet": "Insects, worms, and other small invertebrates foraged from the ground",
+    "migration": "Largely resident; non-migratory within its range"
+  },
+  "blacksmith-lapwing": {
+    "size": "Medium-sized lapwing; typical plover build",
+    "habitat": "Wetland margins, flooded grasslands, and open areas near water from Kenya to southern Africa",
+    "diet": "Insects, worms, and small invertebrates",
+    "migration": "Largely resident; non-migratory within its range"
+  },
+  "african-penguin": {
+    "size": "Adults 60–70 cm tall; weighing 2.2–3.5 kg",
+    "habitat": "Coastal waters, rocky shores, and islands of southern Africa (South Africa and Namibia)",
+    "diet": "Primarily fish and squid; a pursuit diver",
+    "migration": "Largely resident along southern African coasts; non-migratory"
+  },
+  "cape-gannet": {
+    "size": "Large seabird; typical gannet proportions with a pointed bill",
+    "habitat": "Open ocean and coastal waters off southern Africa; breeds in large colonies on islands",
+    "diet": "Fish; plunge-dives at speeds of 40–86 km/h to catch prey",
+    "migration": "Disperses along southern African coasts after breeding; partially migratory"
+  },
+  "goliath-heron": {
+    "size": "Very large heron; the world's largest heron species",
+    "habitat": "Large rivers, lakes, and coastal wetlands in sub-Saharan Africa and parts of South Asia",
+    "diet": "Primarily large fish; also frogs and other aquatic prey",
+    "migration": "Largely resident; non-migratory within its range"
+  },
+  "verreauxs-eagle": {
+    "size": "Large eagle; one of the largest African raptors with a broad wingspan",
+    "habitat": "Hilly and mountainous regions with rocky outcrops in southern and eastern Africa",
+    "diet": "Highly specialized on rock hyraxes; also takes small antelopes, hares, gamebirds, and monkeys when hyrax numbers are low",
+    "migration": "Largely resident; non-migratory within its mountain range"
+  },
+  "pels-fishing-owl": {
+    "size": "Large owl species; one of the largest African owls",
+    "habitat": "Dense riparian forest along slow-moving rivers and lake shores in sub-Saharan Africa",
+    "diet": "Fish and frogs snatched nocturnally from the surface of rivers and lakes",
+    "migration": "Largely resident along suitable river systems"
+  },
+  "pin-tailed-whydah": {
+    "size": "Small songbird; breeding males have a conspicuous pennant-like tail",
+    "habitat": "Open grassland, savanna, and gardens across sub-Saharan Africa",
+    "diet": "Seeds and small insects",
+    "migration": "Largely resident throughout sub-Saharan Africa"
+  },
+  "red-junglefowl": {
+    "size": "Medium-sized gamebird; ancestor of the domestic chicken",
+    "habitat": "Tropical forests, forest edges, and scrub across Southeast Asia and parts of South Asia",
+    "diet": "Omnivorous; seeds, grain, insects, and small invertebrates",
+    "migration": "Largely resident; non-migratory"
+  },
+  "indian-pond-heron": {
+    "size": "Small heron; compact and stocky build",
+    "habitat": "Edges of small water-bodies, paddyfields, wetlands, and areas near human habitation in South and Southeast Asia",
+    "diet": "Fish, frogs, insects, and other small prey stalked at water's edge",
+    "migration": "Largely resident; some populations make short seasonal movements"
+  },
+  "painted-stork": {
+    "size": "Large wading stork; typical of the Mycteria genus",
+    "habitat": "Wetlands, shallow rivers, and lakes of tropical Asia south of the Himalayas",
+    "diet": "Primarily small fish sensed by touch; sweeps half-open bill through shallow water",
+    "migration": "Not migratory; makes short-distance movements in response to weather, food, or breeding"
+  },
+  "asian-openbill": {
+    "size": "Large wading bird; typical stork proportions",
+    "habitat": "Wetlands, floodplains, and rice paddies across the Indian subcontinent and Southeast Asia",
+    "diet": "Primarily snails; the gap in the bill is an adaptation for handling them",
+    "migration": "Resident within range; makes long-distance movements in response to weather and food availability"
+  },
+  "indian-roller": {
+    "size": "30–34 cm long; wingspan 65–74 cm; weight 166–176 g",
+    "habitat": "Open grassland, scrub forest, and agricultural areas from West Asia to the Indian subcontinent",
+    "diet": "Mainly insects, especially beetles; caught from a perch on roadside trees or wires",
+    "migration": "Largely resident throughout its range"
+  },
+  "white-throated-kingfisher": {
+    "size": "Medium-sized tree kingfisher; larger than common kingfisher",
+    "habitat": "Widespread across Asia from the Sinai to Indonesia; found well away from water in forests, farmland, and urban areas",
+    "diet": "Wide range of prey including small reptiles, amphibians, crabs, small rodents, and birds",
+    "migration": "Mostly resident; some populations make short-distance movements"
+  },
+  "asian-green-bee-eater": {
+    "size": "Small bee-eater; slender with elongated tail feathers",
+    "habitat": "Grassland, thin scrub, and open forest from southern Iran to Vietnam; often far from water",
+    "diet": "Mainly insects, especially bees and other flying insects caught in aerial sallies",
+    "migration": "Resident or makes short-distance seasonal movements within its Asian range"
+  },
+  "oriental-pied-hornbill": {
+    "size": "Among the smallest Asian hornbills; medium-large canopy bird",
+    "habitat": "Subtropical and tropical moist lowland forests across the Indian subcontinent and Southeast Asia",
+    "diet": "Fruit, insects, shellfish, small reptiles, small mammals, and birds' eggs",
+    "migration": "Largely resident within its forest range"
+  },
+  "rhinoceros-hornbill": {
+    "size": "Large forest hornbill; one of the biggest hornbill species",
+    "habitat": "Lowland and montane tropical and subtropical rainforest up to 1,400 m in Borneo, Sumatra, Java, and the Malay Peninsula",
+    "diet": "Fruit, insects, and small animals typical of large hornbills",
+    "migration": "Largely resident within its forest range"
+  },
+  "indian-grey-hornbill": {
+    "size": "Medium-sized hornbill; one of the few urban hornbill species",
+    "habitat": "Indian subcontinent; urban areas with large avenue trees as well as forests",
+    "diet": "Fruit, berries, insects, and small vertebrates",
+    "migration": "Largely resident and non-migratory on the Indian subcontinent"
+  },
+  "coppersmith-barbet": {
+    "size": "Small barbet; compact and stocky, sparrow-sized",
+    "habitat": "Gardens, orchards, and open woodland in the Indian subcontinent and Southeast Asia",
+    "diet": "Predominantly frugivorous; also eats insects, especially winged termites",
+    "migration": "Resident and non-migratory throughout its range"
+  },
+  "rose-ringed-parakeet": {
+    "size": "Medium-sized parrot; slender with a long tail",
+    "habitat": "Tropical woodland and urban environments; native to Africa and the Indian subcontinent, now established in cities worldwide",
+    "diet": "Seeds, fruits, berries, nuts, and grain; considered a crop pest",
+    "migration": "Largely resident; established urban populations are non-migratory"
+  },
+  "alexandrine-parakeet": {
+    "size": "Medium-sized parrot; one of the largest Psittacula parakeets",
+    "habitat": "Forests, woodland, and mangroves across South Asia and Southeast Asia",
+    "diet": "Seeds, fruits, berries, blossoms, and grain",
+    "migration": "Largely resident; some populations make local seasonal movements"
+  },
+  "plum-headed-parakeet": {
+    "size": "Medium-sized parakeet; slender with a long tail",
+    "habitat": "Forest, woodland, and foothills across the Indian subcontinent",
+    "diet": "Seeds, grain, fruits, and berries; may raid crops",
+    "migration": "Largely resident; endemic to the Indian subcontinent"
+  },
+  "red-whiskered-bulbul": {
+    "size": "Small passerine; sparrow-sized with a distinctive pointed crest",
+    "habitat": "Hill forests, urban gardens, and wooded areas across tropical Asia",
+    "diet": "Fruits and small insects; primarily frugivorous",
+    "migration": "Largely resident throughout its tropical Asian range"
+  },
+  "red-vented-bulbul": {
+    "size": "Small passerine; sparrow-to-myna sized",
+    "habitat": "Open woodland, scrub, gardens, and agricultural areas across South Asia",
+    "diet": "Fruit, berries, insects, and nectar",
+    "migration": "Largely resident; non-migratory across South Asia"
+  },
+  "oriental-magpie-robin": {
+    "size": "Small passerine; robin-sized with a long upright tail",
+    "habitat": "Urban gardens, open forests, and woodland across the Indian subcontinent and Southeast Asia",
+    "diet": "Insects and other small invertebrates; forages on the ground",
+    "migration": "Largely resident; non-migratory throughout its range"
+  },
+  "common-myna": {
+    "size": "Medium-sized starling; roughly 23–26 cm long",
+    "habitat": "Open woodland, urban environments, and agricultural areas; highly adaptable across Asia and introduced regions worldwide",
+    "diet": "Omnivorous; insects, fruit, grain, scraps, and small vertebrates",
+    "migration": "Largely resident; non-migratory but highly expansive in range"
+  },
+  "hill-myna": {
+    "size": "Medium-to-large myna; larger than common myna",
+    "habitat": "Tropical forests and forest edges across southern Asia",
+    "diet": "Fruit, insects, and nectar",
+    "migration": "Largely resident in southern Asian forests"
+  },
+  "asian-koel": {
+    "size": "Medium-sized cuckoo; similar in size to a large dove",
+    "habitat": "Forests, urban gardens, and cultivated areas across the Indian subcontinent, China, and Southeast Asia",
+    "diet": "Largely frugivorous as adults; also insects",
+    "migration": "Partially migratory; some populations move seasonally within the region"
+  },
+  "greater-coucal": {
+    "size": "Large non-parasitic cuckoo; crow-sized with a long tail",
+    "habitat": "Jungle, cultivation, and urban gardens across the Indian subcontinent and Southeast Asia",
+    "diet": "Insects, eggs, and nestlings of other birds; forages on the ground and in vegetation",
+    "migration": "Largely resident; non-migratory throughout its widespread range"
+  },
+  "house-crow": {
+    "size": "Approximately 40 cm long; slimmer than a carrion crow",
+    "habitat": "Urban and suburban areas, ports, and coastal towns across Asia; spread globally via shipping routes",
+    "diet": "Omnivorous scavenger; food scraps, insects, small vertebrates, and carrion",
+    "migration": "Largely resident; spread through assisted dispersal rather than migration"
+  },
+  "large-billed-crow": {
+    "size": "Large crow; similar in size to a common raven",
+    "habitat": "Forests, urban areas, and a wide range of habitats across Asia",
+    "diet": "Highly adaptable omnivore; eats almost anything including carrion, fruit, insects, and scraps",
+    "migration": "Largely resident; non-migratory but highly adaptable and expansive"
+  },
+  "rufous-treepie": {
+    "size": "Large corvid with a long tail; magpie-sized",
+    "habitat": "Open scrub, agricultural areas, forests, and urban gardens across the Indian subcontinent and Southeast Asia",
+    "diet": "Omnivorous; insects, small vertebrates, eggs, fruit, and scraps",
+    "migration": "Largely resident and non-migratory"
+  },
+  "black-drongo": {
+    "size": "28 cm long; small passerine with a distinctive forked tail",
+    "habitat": "Open agricultural areas and light forest across tropical southern Asia from Iran to Indonesia",
+    "diet": "Primarily insects caught in aerial sallies from an exposed perch",
+    "migration": "Largely resident; some populations make short seasonal movements"
+  },
+  "greater-racket-tailed-drongo": {
+    "size": "Medium-sized drongo with elongated outer tail feathers tipped with webbing",
+    "habitat": "Forest habitats across South and Southeast Asia",
+    "diet": "Insects caught by aerial sallying; also steals prey from other foragers in mixed flocks",
+    "migration": "Largely resident within its forest range"
+  },
+  "indian-paradise-flycatcher": {
+    "size": "20–50 cm total length including elongated tail; males considerably longer due to central tail feathers",
+    "habitat": "Dense forest and wooded areas across the Indian subcontinent, Central Asia, and Southeast Asia",
+    "diet": "Insects including grasshoppers, butterflies, mantises, and flies; caught in the air",
+    "migration": "Partially migratory; resident populations in Sri Lanka and India, migratory in northern parts of range"
+  },
+  "purple-sunbird": {
+    "size": "Small sunbird; compact with a curved bill",
+    "habitat": "Open woodland, gardens, and scrub across parts of the Arabian Peninsula and South to Southeast Asia",
+    "diet": "Mainly nectar; also insects, especially when feeding young",
+    "migration": "Largely resident; non-migratory within its range"
+  },
+  "crimson-sunbird": {
+    "size": "Small sunbird; typical compact sunbird proportions",
+    "habitat": "Forest, forest edges, and gardens across South and Southeast Asia",
+    "diet": "Largely nectar; also insects, especially when feeding young",
+    "migration": "Largely resident; non-migratory"
+  }
+}

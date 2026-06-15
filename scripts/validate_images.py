@@ -64,7 +64,7 @@ def main():
 
     print(f"Validating {len(birds)} image URLs...\n")
     bad = []
-    with ThreadPoolExecutor(max_workers=8) as ex:
+    with ThreadPoolExecutor(max_workers=4) as ex:
         for bid, status, detail in ex.map(check, birds):
             if status != "OK":
                 bad.append((bid, status, detail))

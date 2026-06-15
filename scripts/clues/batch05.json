@@ -1,0 +1,302 @@
+{
+  "grey-go-away-bird": {
+    "region": "Found in arid to moist open woodlands and thorn savanna of the southern Afrotropics, especially near surface water.",
+    "behavior": "This species forages in treetops in groups and dust-bathes on the ground; when disturbed it erupts into loud, nasal 'kweh' or 'go-way' calls.",
+    "funFact": "The grey go-away-bird's alarm call sounds so much like 'go away' that it earned its common name — and it genuinely does warn other animals of approaching predators."
+  },
+  "hadada-ibis": {
+    "region": "Native to sub-Saharan Africa, it frequents wetland margins, cultivated land, and gardens, and its range in southern Africa has expanded alongside human land modification.",
+    "behavior": "It probes soil with its long curved bill for invertebrates and forages in gardens and irrigated fields; it is best known for its thunderous three-to-four-note calls at dawn and dusk.",
+    "funFact": "The hadada ibis's raucous cry has earned it a reputation as the unofficial alarm clock of African suburbs — neighbours either love or loathe it."
+  },
+  "egyptian-goose": {
+    "region": "Native to Africa south of the Sahara and the Nile Valley, this waterbird has been introduced to Europe, the United States, and other regions as an ornamental species.",
+    "behavior": "Highly territorial, it aggressively defends nest sites and water margins; it grazes on grasses, seeds, and leaves, and pairs often mate for life.",
+    "funFact": "The Egyptian goose was so revered in ancient Egypt that it appeared regularly in pharaonic art and was considered sacred to the god Geb."
+  },
+  "spur-winged-goose": {
+    "region": "Confined to sub-Saharan Africa, this large waterbird inhabits wetlands, floodplains, and the margins of rivers and lakes.",
+    "behavior": "It grazes on aquatic vegetation and seeds; a bony spur on the bend of each wing is used in territorial combat and defence.",
+    "funFact": "The spur-winged goose is the world's largest waterfowl by weight, and its flesh can be toxic to predators because it sequesters poison from the blister beetles it sometimes eats."
+  },
+  "african-jacana": {
+    "region": "Widely distributed across sub-Saharan Africa, this species favours shallow lakes and slow-moving waterways covered in floating vegetation.",
+    "behavior": "Extraordinarily long toes spread its weight so it can walk across lily pads and other floating plants; it feeds on insects and small invertebrates picked from the water surface.",
+    "funFact": "In the African jacana's polyandrous breeding system, it is the male who incubates the eggs and broods the chicks — tucking them under his wings so that only their legs dangle visibly."
+  },
+  "red-billed-hornbill": {
+    "region": "Found across the savannas and woodlands of sub-Saharan Africa, ranging from the Sahel south through eastern and southern Africa.",
+    "behavior": "This species forages mainly on the ground, picking up seeds, small insects, spiders, and scorpions; it often follows grazing mammals to catch prey flushed by their movement.",
+    "funFact": "Red-billed hornbills were the real-life inspiration for Zazu in Disney's The Lion King — and like Zazu, they are known for being bold and vocal companions around larger animals."
+  },
+  "southern-ground-hornbill": {
+    "region": "Restricted to sub-Saharan Africa, ranging from Kenya south to South Africa, inhabiting woodlands and open savannas.",
+    "behavior": "Carnivorous and largely terrestrial, it stalks prey on the ground in cooperative family groups, hunting everything from insects to tortoises and small snakes.",
+    "funFact": "The southern ground hornbill can live 50–70 years and takes a decade to start breeding — making it one of the slowest-reproducing land birds on Earth, and critically endangered in South Africa."
+  },
+  "southern-yellow-billed-hornbill": {
+    "region": "A common resident of dry thornveld and broad-leafed woodlands across southern Africa, often seen along roadsides and watercourses.",
+    "behavior": "It forages mainly on the ground, turning over leaf litter to find seeds, insects, spiders, and scorpions; pairs are frequently seen together throughout the year.",
+    "funFact": "Like its relative Zazu, the southern yellow-billed hornbill inspired a beloved animated character — and in reality it seals the female inside a tree cavity to incubate eggs, with the male passing food through a narrow slit."
+  },
+  "helmeted-guineafowl": {
+    "region": "Native to Africa south of the Sahara, this species has been widely domesticated and introduced to the West Indies, North America, Brazil, Australia, and Europe.",
+    "behavior": "A highly gregarious ground feeder, it scratches for seeds, tubers, and insects in flocks; it is a vocal species with a persistent, rattling call used to keep the group together.",
+    "funFact": "The helmeted guineafowl is one of the oldest domesticated birds, kept by ancient Egyptians and Romans, and its spotted plumage gave rise to the word 'guinea' as a descriptor for speckled patterns."
+  },
+  "vulturine-guineafowl": {
+    "region": "A resident breeder of northeast Africa — from southern Ethiopia and Somalia through Kenya into northern Tanzania — favouring dry savanna and scrub.",
+    "behavior": "The largest living member of its family, it moves in large social groups foraging on seeds, berries, and insects on the ground, and can go for long periods without drinking.",
+    "funFact": "Vulturine guineafowl live in multi-level societies where separate groups maintain stable social networks with each other — a level of social complexity previously thought unique to humans and other primates."
+  },
+  "ostrich": {
+    "region": "The common species is native to large parts of sub-Saharan Africa; the Somali species is restricted to the Horn of Africa. Historically the species also ranged across the Arabian Peninsula and into Asia.",
+    "behavior": "Flightless but capable of running at 70 km/h, it is the fastest land bird on Earth; it is omnivorous, feeding on plants, seeds, and occasionally insects or small vertebrates.",
+    "funFact": "An ostrich egg weighs about 1.4 kg — equivalent to roughly 24 chicken eggs — and its shell is strong enough to support the weight of a human adult."
+  },
+  "kori-bustard": {
+    "region": "Found across open grasslands and savannas of eastern and southern Africa, from Ethiopia south to South Africa; also present in parts of West Africa.",
+    "behavior": "A ground-dwelling opportunistic omnivore, it walks slowly while foraging for insects, lizards, seeds, and carrion; males display with an extraordinary neck-inflating, feather-puffing courtship strut.",
+    "funFact": "The male kori bustard may be the world's heaviest flying bird, capable of flight yet tipping the scales at over 18 kg — and it relies entirely on this ability to escape predators rather than running."
+  },
+  "cape-weaver": {
+    "region": "Endemic to southern Africa, occurring mainly in South Africa and Lesotho in a range of habitats including fynbos, riparian vegetation, and suburban gardens.",
+    "behavior": "Males construct elaborately woven oval nests suspended from reeds or tree branches, building multiple nests to attract females; the diet consists mainly of seeds, nectar, and insects.",
+    "funFact": "Male cape weavers build several nests each season and then anxiously await female inspection — she tears apart any nest she deems substandard, forcing him to rebuild from scratch."
+  },
+  "southern-masked-weaver": {
+    "region": "Widespread throughout southern Africa, occurring in a broad range of habitats from shrubland and savanna to semi-desert, wetland margins, and suburban parks.",
+    "behavior": "Males weave kidney-shaped nests of grass strips, suspending them over water to deter predators; it feeds on seeds, insects, and nectar and frequently visits gardens.",
+    "funFact": "The male southern masked weaver often builds and rebuilds nests repeatedly in a single season — a female may reject dozens of nests before accepting one, driving her mate to ever-more-meticulous construction."
+  },
+  "red-billed-quelea": {
+    "region": "Native to sub-Saharan Africa, avoiding only forests, deserts, and high-altitude zones; it moves nomadically to follow seasonal rainfall and the grass seeds it depends on.",
+    "behavior": "It feeds almost exclusively on grass seeds and small grains, descending on cereal crops in enormous flocks of millions that can devastate harvests across an entire region.",
+    "funFact": "The red-billed quelea is considered the world's most numerous wild bird, with post-breeding populations estimated at up to 1.5 billion individuals — earning it the nickname 'Africa's feathered locust.'"
+  },
+  "village-weaver": {
+    "region": "Found across much of sub-Saharan Africa in open and semi-open habitats including woodlands, farmland, and urban areas; introduced populations exist in Portugal, Venezuela, and several Caribbean and Indian Ocean islands.",
+    "behavior": "Colonial and noisy, it breeds in large nesting aggregations, constructing coarsely woven grass nests with a downward-facing entrance; it feeds on seeds and grain but readily switches to insects when raising young.",
+    "funFact": "A single tree can hold hundreds of the village weaver's bulging grass nests at once, creating a cacophonous apartment block that remains occupied year after year."
+  },
+  "long-tailed-widowbird": {
+    "region": "Found in Angola, Botswana, the Democratic Republic of the Congo, Kenya, Lesotho, South Africa, Eswatini, and Zambia, favouring open grasslands and moist highlands.",
+    "behavior": "Breeding males perform slow, low display flights above their territories, dragging their extraordinarily elongated tail feathers — up to half a metre long — as a visual signal to attract females.",
+    "funFact": "Scientists experimentally lengthened and shortened male long-tailed widowbird tails and found that females strongly preferred males with artificially extended tails, providing one of the clearest real-world demonstrations of sexual selection."
+  },
+  "cape-sugarbird": {
+    "region": "Endemic to the Fynbos biome of the Western Cape and Eastern Cape provinces of South Africa, one of only eight bird species found nowhere else on Earth.",
+    "behavior": "It feeds predominantly on nectar from protea flowers, acting as a key pollinator of the fynbos ecosystem, and supplements its diet with insects gleaned from flowering heads.",
+    "funFact": "The cape sugarbird's exceptionally long tail — which can be longer than the rest of its body in males — makes it an unmistakable emblem of the Cape Floristic Region."
+  },
+  "speckled-mousebird": {
+    "region": "Widespread across central, eastern, and southern Africa in a variety of habitats including forest edges, scrubland, and gardens.",
+    "behavior": "This species is highly social, roosting in tight clusters and moving through vegetation in small chattering groups; it eats a wide variety of fruits, berries, and plant matter.",
+    "funFact": "Mousebirds are the only bird order entirely restricted to Africa, and the speckled mousebird gets its name from its habit of scurrying mouse-like through dense foliage with its long stiff tail pointing upward."
+  },
+  "african-grey-parrot": {
+    "region": "Native to equatorial West and Central Africa, primarily in lowland tropical rainforests from Côte d'Ivoire east to western Kenya.",
+    "behavior": "Highly intelligent and social, it feeds on seeds, nuts, fruits, and leafy matter in forest canopies; it is renowned for its exceptional ability to mimic human speech and other sounds.",
+    "funFact": "The African grey parrot has demonstrated a vocabulary of over 1,000 words and the ability to use them in context — research subject Alex famously asked for a nut and apologised when he made mistakes."
+  },
+  "senegal-parrot": {
+    "region": "A resident of West Africa from Senegal east to western Sudan and south to the Congo basin, inhabiting open woodland, savanna, and forest edge.",
+    "behavior": "It makes seasonal movements within West Africa to track fruiting trees, feeding on fruit, seeds, and blossoms; flocks regularly raid cultivated maize and millet, making them crop pests.",
+    "funFact": "Despite its reputation as a farm pest in West Africa, the Senegal parrot has become one of the most popular companion birds worldwide, prized for its calm temperament and ability to learn tricks."
+  },
+  "fischers-lovebird": {
+    "region": "Native to a small area of east-central Africa around northern Tanzania, south and southeast of Lake Victoria, in savanna and open woodland.",
+    "behavior": "This species lives in small flocks, feeding on grass seeds, millet, and berries; pairs preen each other intensively and are rarely found far apart.",
+    "funFact": "Fischer's lovebird was first described by European scientists only in the 1880s, named after the German explorer Gustav Fischer who collected specimens during his expeditions into the East African interior."
+  },
+  "rosy-faced-lovebird": {
+    "region": "Native to the arid savanna woodlands of Namibia and adjacent southwestern Angola; feral populations have established themselves in cities including Phoenix, Arizona.",
+    "behavior": "Loud and social, it congregates in small groups, eats seeds and plant matter throughout the day, and takes frequent baths; females uniquely tuck nesting material into their back feathers to carry it to the nest.",
+    "funFact": "Rosy-faced lovebirds sleep side by side and turn their faces toward each other — a behaviour so distinctive it gave lovebirds their name and their enduring reputation as symbols of affection."
+  },
+  "crowned-lapwing": {
+    "region": "Occurs contiguously from the Red Sea coast of Somalia south and west through eastern and southern Africa to southwestern Africa; prefers open, dry grasslands and bare ground.",
+    "behavior": "Bold and conspicuous, it nests on open ground and responds aggressively to intruders near the nest, diving at them with harsh, screaming alarm calls; it feeds on insects and invertebrates.",
+    "funFact": "The crowned lapwing's white crown is bisected by a black ring — forming a distinctive halo pattern that, combined with its fiery red legs and bill, makes it one of Africa's most recognisable shorebirds."
+  },
+  "blacksmith-lapwing": {
+    "region": "Occurs commonly from Kenya and Tanzania south through Zimbabwe to South Africa and southwestern Africa, typically near wetlands, rivers, and open, moist grassland.",
+    "behavior": "Highly territorial and vigilant, it aggressively mobs potential threats — including large mammals — near its ground nest; it picks invertebrates from the soil and shallow water margins.",
+    "funFact": "The blacksmith lapwing's alarm call — a repeated metallic 'tink-tink-tink' — so closely resembles a hammer striking an anvil that it gave the species its common name."
+  },
+  "african-penguin": {
+    "region": "Confined to the cold Benguela Current waters off the southern African coast, breeding on offshore islands and a few mainland sites in South Africa and Namibia.",
+    "behavior": "A pursuit diver, it chases fish and squid underwater using its flipper-like wings for propulsion; it nests in burrows or under boulders and produces a loud, donkey-like braying call.",
+    "funFact": "The African penguin is the only penguin species found in the Old World, and its population has plummeted by over 70% since the 1980s, pushing it to critically endangered status."
+  },
+  "cape-gannet": {
+    "region": "Breeds on a handful of offshore islands off South Africa and Namibia, foraging in the cold, fish-rich Benguela and Agulhas Current systems of the southern Atlantic and Indian Oceans.",
+    "behavior": "It plunge-dives from height at speeds up to 86 km/h, folding its wings just before impact to spear fish underwater; it breeds in dense, noisy colonies and pairs perform elaborate mutual preening displays.",
+    "funFact": "The cape gannet lacks external nostrils — its beak is sealed shut — because the force of its high-speed dives into the sea would otherwise drive water directly into its nasal passages."
+  },
+  "goliath-heron": {
+    "region": "Found across sub-Saharan Africa with smaller, declining populations in Southwest and South Asia; it favours large lakes, rivers, swamps, and coastal mangroves.",
+    "behavior": "The world's largest living wading bird, it stands motionless in shallow water waiting to strike large fish with a lightning-fast lunge of its massive bill; it is largely solitary and defends feeding territories.",
+    "funFact": "The goliath heron is so large it can tackle fish weighing over a kilogram — and it sometimes steals prey from other waterbirds, earning it a reputation as the waterway's dominant predator."
+  },
+  "verreauxs-eagle": {
+    "region": "Found in hilly and mountainous regions of eastern and southern Africa, extending marginally into West Africa (Chad, Mali, Niger) and very locally into the Middle East.",
+    "behavior": "One of the world's most specialised raptors, it preys almost exclusively on rock hyraxes, hunting them in rocky terrain; pairs soar together over their territories on broad, white-patched wings.",
+    "funFact": "Verreaux's eagle is so dependent on rock hyraxes that its breeding success rises and falls almost perfectly in sync with hyrax population cycles — a degree of dietary specialisation rare among large birds of prey."
+  },
+  "pels-fishing-owl": {
+    "region": "Resident in riverine and lakeside forests across sub-Saharan Africa, from Senegal east to Kenya and south to Botswana, preferring slow-moving rivers with large overhanging trees.",
+    "behavior": "Strictly nocturnal, it perches over water and drops to snatch fish and frogs from the surface with its bare, spiculed feet; it requires large old trees for nesting and roosting.",
+    "funFact": "Pel's fishing owl has no facial disc — the sound-focusing ruff typical of most owls — because it hunts by sight and touch over water rather than by hearing prey under snow or leaf litter."
+  },
+  "pin-tailed-whydah": {
+    "region": "A resident breeding species across most of sub-Saharan Africa south of the Sahara Desert, found in open grasslands, scrub, and the edges of cultivated areas.",
+    "behavior": "A brood parasite, it lays its eggs in the nests of estrildid finches — particularly waxbills — whose young it exploits for care; breeding males perform aerial displays, hovering above females with their dramatic streamer feathers erect.",
+    "funFact": "The breeding male pin-tailed whydah sports four elongated central tail feathers that can reach 20 cm — roughly twice its body length — making it one of Africa's most extravagant-looking small birds."
+  },
+  "red-junglefowl": {
+    "region": "Native across much of Southeast Asia and parts of South Asia, inhabiting tropical forests, forest edges, and scrubland; it has been introduced to many parts of the world through domestication.",
+    "behavior": "An opportunistic omnivore, it scratches the forest floor for seeds, insects, small invertebrates, and fruit; males crow loudly to establish territory and engage in vigorous combat with rival males.",
+    "funFact": "The red junglefowl is the wild ancestor of all domestic chickens — genome studies confirm it was first domesticated around 8,000 years ago, making it arguably the most consequential bird in human history."
+  },
+  "indian-pond-heron": {
+    "region": "Breeds from southern Iran east through the Indian subcontinent to Burma and Sri Lanka, frequenting the edges of small ponds, paddyfields, and marshes close to human habitation.",
+    "behavior": "This species relies on superb camouflage — streaked olive-brown plumage — to stalk prey undetected at the water's edge; it feeds on frogs, fish, and invertebrates, striking with a rapid lunge.",
+    "funFact": "The Indian pond heron's disguise is so effective that it can be approached to within arm's reach before flushing — a behaviour so striking that folk legends claim the bird is blind."
+  },
+  "painted-stork": {
+    "region": "Found in the wetlands of tropical Asia south of the Himalayas, from the Indian subcontinent through Southeast Asia; it favours shallow rivers, flooded rice fields, and lakes on the plains.",
+    "behavior": "It forages in flocks by wading through shallow water with its bill held half-open and sweeping it side to side to sense fish by touch; feet stir the substrate to flush concealed prey.",
+    "funFact": "The painted stork gets its name from the vivid pink tertial feathers that wash over its wingtips like brushstrokes — a colouration that intensifies with age, making older birds more visually striking than juveniles."
+  },
+  "asian-openbill": {
+    "region": "Found mainly in the Indian subcontinent and Southeast Asia, frequenting inland wetlands, rice paddies, and the margins of rivers and reservoirs; it makes long-distance movements tracking food and weather.",
+    "behavior": "It specialises almost entirely in freshwater snails, which it extracts using its uniquely gapped bill — the curved upper and lower mandibles only meet at the tip, forming a tool shaped precisely for gripping and twisting snail shells.",
+    "funFact": "The gap in the Asian openbill's bill is not a deformity but a highly evolved feeding adaptation — young birds are born with a normal-shaped bill, and the distinctive gap only develops as they mature."
+  },
+  "indian-roller": {
+    "region": "Widespread from West Asia east through the Indian subcontinent to Vietnam and Indochina, favouring open grasslands, scrub forest, and agricultural land along roadsides.",
+    "behavior": "It perches prominently on wires and bare branches, dropping to the ground to catch beetles, grasshoppers, and other insects; males perform spectacular tumbling aerial rolls during the breeding season.",
+    "funFact": "The Indian roller is the state bird of three Indian states and is famously released during the Hindu festival of Dussehra, when its brilliant flash of turquoise and cobalt blue wings is considered an auspicious omen."
+  },
+  "white-throated-kingfisher": {
+    "region": "Widely distributed across Asia from the Sinai Peninsula east through the Indian subcontinent to China and Indonesia, a common resident in both wooded and open landscapes.",
+    "behavior": "Unlike many of its relatives, this species often hunts well away from water, taking a broad diet of small reptiles, amphibians, crabs, rodents, and large insects from open ground or branches.",
+    "funFact": "The white-throated kingfisher is one of the few kingfisher species that does not rely on fish — its generalist appetite allows it to thrive in city parks, farmland, and dry scrub far from any stream."
+  },
+  "asian-green-bee-eater": {
+    "region": "Found widely from coastal southern Iran east through the Indian subcontinent to Vietnam, inhabiting open grassland, thin scrub, and light forest, often far from water.",
+    "behavior": "It catches bees, wasps, and other flying insects in aerial pursuit; before swallowing a bee it repeatedly strikes the prey against a perch to remove the sting and squeeze out the venom.",
+    "funFact": "The Asian green bee-eater is a favourite subject of Indian wildlife photographers because it habitually returns to the same perch after each aerial strike, making it unusually easy to observe and photograph."
+  },
+  "oriental-pied-hornbill": {
+    "region": "Found across the Indian subcontinent and throughout Southeast Asia in subtropical and tropical moist lowland forests; it has the widest distribution of any species in its genus.",
+    "behavior": "An omnivore of the forest canopy, it takes fruit, insects, shellfish, small reptiles, and even the eggs and chicks of smaller birds; the female seals herself inside a tree hollow during nesting, fed through a narrow slit by the male.",
+    "funFact": "Considered among the smallest of the Asian forest-dwelling large-billed species, the oriental pied is also among the most urban-tolerant, regularly breeding in city parks across Singapore and Peninsular Malaysia."
+  },
+  "rhinoceros-hornbill": {
+    "region": "Restricted to lowland and montane rainforests of Borneo, Sumatra, Java, the Malay Peninsula, Singapore, and southern Thailand, at elevations up to 1,400 metres.",
+    "behavior": "A fruit specialist of the forest canopy, it plays a critical role as a seed disperser for large-seeded trees; pairs are long-term bonds and use sealed tree cavities for nesting.",
+    "funFact": "The rhinoceros hornbill's dramatic upward-curving casque — the horn-like structure atop its bill — acts as a sound amplifier, projecting its calls through the dense rainforest understory."
+  },
+  "indian-grey-hornbill": {
+    "region": "Largely restricted to the Indian subcontinent, where it is one of the few large-billed tree-nesting species to thrive in urban environments, often seen in city avenues and parks.",
+    "behavior": "Mostly arboreal and usually seen in pairs, it feeds on fruits, figs, and insects taken from tree canopies; like other species with casqued bills, the female seals herself into a tree cavity during nesting.",
+    "funFact": "The Indian grey hornbill is one of the very few members of its family comfortable in large cities, nesting in the tall trees lining Indian urban avenues and adapting to the noise and activity of city life."
+  },
+  "coppersmith-barbet": {
+    "region": "A resident of the Indian subcontinent and parts of Southeast Asia, found in open woodland, gardens, and urban parks wherever fruiting trees are present.",
+    "behavior": "Predominantly frugivorous, it also eats winged termites and other insects; it is best recognised by its metronomic 'tuk-tuk-tuk' call, produced hour after hour from a treetop — giving it its common name.",
+    "funFact": "The coppersmith barbet excavates its own nest hole inside a tree trunk, chiselling out a cavity with its stout bill — a laborious feat for a bird barely larger than a sparrow."
+  },
+  "rose-ringed-parakeet": {
+    "region": "Native to tropical northern Africa and the Indian subcontinent; feral populations have established themselves across northern and western Europe, the Middle East, and many other regions through escaped pet birds.",
+    "behavior": "One of the few tropical species to successfully colonise cold-temperate climates, it feeds on seeds, grain, fruit, and blossoms, often raiding orchards and crops; it roosts communally in large, noisy flocks.",
+    "funFact": "London's rose-ringed parakeet population — now numbering tens of thousands — is sometimes traced to a pair released by Jimi Hendrix in Carnaby Street in 1968, though ornithologists debate the story."
+  },
+  "alexandrine-parakeet": {
+    "region": "Native to South Asia and Southeast Asia from Pakistan east to Vietnam; feral populations have established themselves across the Middle East, Germany, the Netherlands, Belgium, and other parts of Europe.",
+    "behavior": "It inhabits forests, mangroves, and agricultural land, feeding on seeds, grain, flowers, and fruit; it nests in tree holes and can cause significant damage to orchards and cereal crops.",
+    "funFact": "The Alexandrine parakeet is named after Alexander the Great, who had large numbers transported from Punjab to Europe and the Mediterranean, where they were prized by royalty — making it one of the first exotic birds traded across continents."
+  },
+  "plum-headed-parakeet": {
+    "region": "Endemic to the Indian subcontinent, occurring from Pakistan south through India and Sri Lanka in deciduous and evergreen forests, as well as forest edges and cultivated areas.",
+    "behavior": "Gregarious and swift in flight, it moves in flocks with rapid twists and turns accompanied by loud distinctive calls; it feeds on seeds, grain, nectar, and fruit.",
+    "funFact": "Male and female plum-headed parakeets look so different — the male has a vivid pinkish-purple head while the female's is grey — that early European naturalists classified them as separate species."
+  },
+  "red-whiskered-bulbul": {
+    "region": "Native to tropical Asia from India east to China and Southeast Asia, favouring hill forests, forest edges, and gardens; introduced populations have established in Australia, Florida, Mauritius, and elsewhere.",
+    "behavior": "Primarily frugivorous, it perches conspicuously in trees to call loudly and feeds on a range of fruits and small insects; it is a common visitor to suburban gardens with flowering and fruiting vegetation.",
+    "funFact": "The red-whiskered bulbul's three- or four-note call is described by Indian birdwatchers as sounding like 'petticoat tight' — a mnemonic that once heard is almost impossible to forget."
+  },
+  "red-vented-bulbul": {
+    "region": "Native to South Asia from Pakistan east to Burma; introduced populations have become established across Fiji, Tonga, Argentina, parts of the USA, and several Pacific island groups.",
+    "behavior": "A resident omnivore of open woodland, gardens, and scrub, it feeds on fruits, berries, flower nectar, and insects; it is among the most adaptable and abundant garden birds on the Indian subcontinent.",
+    "funFact": "The red-vented bulbul is listed among the world's 100 worst invasive alien species — its bold adaptability makes it a formidable competitor that disrupts native bird communities wherever it is introduced."
+  },
+  "oriental-magpie-robin": {
+    "region": "Distributed across most of the Indian subcontinent and parts of Southeast Asia, common in urban gardens, parks, and forest edges from sea level to moderate elevations.",
+    "behavior": "Males hold prominent song perches and deliver a rich, varied melody considered one of the finest in Asia; it forages on the ground for insects and invertebrates, cocking its long tail upright as it hops.",
+    "funFact": "The oriental magpie-robin is the national bird of Bangladesh, celebrated for its bold black-and-white plumage and melodious song that rings out before dawn in gardens across the subcontinent."
+  },
+  "common-myna": {
+    "region": "Native to open woodland and agricultural areas across South and Southeast Asia; one of the world's most successful invasive birds, now established across Australia, the Middle East, Africa, and Pacific island groups.",
+    "behavior": "An omnivore with a strong territorial instinct, it eats insects, fruit, seeds, and kitchen scraps; it adapts readily to urban life, foraging on pavements and nesting in building cavities and roof spaces.",
+    "funFact": "The IUCN declared the common myna one of the world's 100 worst invasive species — in Australia it was voted the nation's most important pest bird, outcompeting native wildlife for nesting sites."
+  },
+  "hill-myna": {
+    "region": "Native to the hills and forests of South and Southeast Asia, from the Indian subcontinent east to Indonesia; introduced populations occur in Florida, USA.",
+    "behavior": "This species inhabits tropical forest canopies where it feeds on fruit and insects; it is highly social and produces a remarkable repertoire of calls, whistles, and vocal imitations.",
+    "funFact": "The hill myna is widely regarded as the best avian mimic of the human voice — unlike many talking birds that approximate speech, it can reproduce individual voice timbres with uncanny accuracy."
+  },
+  "asian-koel": {
+    "region": "Found across the Indian subcontinent, China, and Southeast Asia in a range of habitats including forest, gardens, and urban areas wherever its crow hosts are present.",
+    "behavior": "A brood parasite, it lays its eggs in the nests of crows and other species without raising its own young; adults are largely frugivorous, feeding on a wide range of figs and other fruits.",
+    "funFact": "The Asian koel's ascending, repetitive call — rising in pitch until it becomes almost frantic — is one of the most evocative sounds of the South Asian monsoon and has been celebrated in poetry for centuries."
+  },
+  "greater-coucal": {
+    "region": "Widespread across the Indian subcontinent and Southeast Asia in a broad range of habitats from jungle and thick scrub to cultivation and urban gardens.",
+    "behavior": "A large, weak-flying member of the cuckoo order, it clumbers through dense vegetation and walks on the ground hunting insects, eggs, nestlings, and small vertebrates; it is non-parasitic and raises its own young.",
+    "funFact": "The greater coucal's deep, resonant 'coop-coop-coop' call is steeped in folklore across its range — in many cultures it is considered a powerful omen, signalling good or bad fortune depending on the direction from which it calls."
+  },
+  "house-crow": {
+    "region": "Originally native to South Asia, it has spread — largely via shipping — to coastal cities across East Africa, the Middle East, Southeast Asia, and beyond, now established on multiple continents.",
+    "behavior": "An opportunistic omnivore and highly social species, it scavenges in markets, harbours, and refuse sites; it is aggressively territorial and has displaced native species in many of the port cities it has colonised.",
+    "funFact": "The house crow is believed to have spread across the Indian Ocean almost entirely by hitching rides on sailing ships and cargo vessels — making it one of the most globe-trotting stowaways in the bird world."
+  },
+  "large-billed-crow": {
+    "region": "Widespread across South, East, and Southeast Asia from Pakistan east to Japan and south to Indonesia, inhabiting forests, forest edges, agricultural land, and urban areas.",
+    "behavior": "Highly adaptable and omnivorous, it consumes carrion, insects, small vertebrates, grain, and refuse; it is intelligent and bold, often considered a pest species on islands where it threatens native wildlife.",
+    "funFact": "The large-billed crow's scientific name, macrorhynchos, means 'long-billed' in Greek — a reference to its notably massive, arched beak that distinguishes it from similar-looking species and gives it considerable crushing force."
+  },
+  "rufous-treepie": {
+    "region": "Native to the Indian subcontinent and adjoining parts of Southeast Asia, found in open scrub, agricultural land, forests, and urban gardens from the Himalayas south to Sri Lanka.",
+    "behavior": "Like other members of the family Corvidae, this long-tailed species is adaptable and omnivorous, eating insects, small vertebrates, grain, fruit, and carrion; it is loud and conspicuous, drawing attention with a variety of melodious calls.",
+    "funFact": "The rufous treepie has become a fixture in Indian wildlife tourism, famously visiting tiger hides in national parks to scavenge scraps — boldly joining tourists and guides at close quarters."
+  },
+  "black-drongo": {
+    "region": "A common resident across tropical southern Asia from southwest Iran through Pakistan, India, Bangladesh, and Sri Lanka east to southern China and Indonesia, favouring open agricultural land and light forest.",
+    "behavior": "It perches conspicuously on wires and bare branches, launching aerial sorties to catch insects on the wing; it is renowned for aggressively dive-bombing much larger birds — including raptors — that venture near its territory.",
+    "funFact": "The black drongo is known as 'king crow' in South Asia for its fearless habit of mobbing eagles, crows, and even monitor lizards — and other smaller birds deliberately nest nearby to benefit from its aggressive protection."
+  },
+  "greater-racket-tailed-drongo": {
+    "region": "Found across South and Southeast Asia in forest habitats from the Indian subcontinent east to Indonesia and the Philippines, typically in lowland and foothill forests.",
+    "behavior": "An accomplished vocal mimic, it imitates a wide range of other species to help attract mixed-species foraging flocks, then steals insects disturbed by the other birds; it forages actively in the forest mid-story.",
+    "funFact": "The greater racket-tailed drongo's outer tail feathers end in bare wire-like shafts tipped with a twisted oval 'racket' of feather web — a structure so bizarre it puzzled early ornithologists who thought the feathers were damaged."
+  },
+  "indian-paradise-flycatcher": {
+    "region": "Native to the Indian subcontinent and parts of Central and Southeast Asia, found in shaded forest and dense woodland; migratory populations move south for winter.",
+    "behavior": "It catches insects in aerial sallies beneath the forest canopy, often killing prey by striking it against a branch; males have spectacular elongated central tail feathers that stream behind them in flight.",
+    "funFact": "The male Indian paradise flycatcher exists in two distinct colour morphs — one with vivid rufous plumage and one with ghostly white — and can transition between them during its lifetime."
+  },
+  "purple-sunbird": {
+    "region": "Occurs across parts of the Arabian Peninsula and South and Southeast Asia from Iran east through India to Vietnam, favouring open woodland, scrub, and gardens.",
+    "behavior": "It feeds mainly on nectar, hovering briefly to reach flowers or more often clinging at the base of the bloom; it also takes insects, especially to feed nestlings, and has a fast, direct flight.",
+    "funFact": "In harsh overhead light the male purple sunbird can appear entirely jet-black — only in shade or at the right angle does its stunning metallic purple iridescence become visible."
+  },
+  "crimson-sunbird": {
+    "region": "Found from the eastern Himalayas through Southeast Asia to Indonesia and the Philippines, inhabiting forest edges, gardens, and open woodland where flowering plants are abundant.",
+    "behavior": "It feeds primarily on nectar, hovering or clinging to access flowers, and supplements its diet with insects especially when rearing young; flight is fast and direct on its short, rounded wings.",
+    "funFact": "The crimson sunbird is the unofficial national bird of Singapore, declared so by the Nature Society of Singapore — its brilliant scarlet plumage makes it a fitting symbol for the city-state's tropical biodiversity."
+  }
+}

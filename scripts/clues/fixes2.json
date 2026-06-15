@@ -1,0 +1,37 @@
+{
+  "mistle-thrush": {
+    "region": "Resident across much of Europe, temperate Asia, and North Africa; northern and eastern populations migrate south in winter, often gathering in small flocks on open ground.",
+    "behavior": "Feeds on a wide variety of invertebrates, seeds, and berries — especially holly, rowan, yew, and the sticky berries of a parasitic plant it helps spread — and aggressively defends berry-laden trees as winter food reserves.",
+    "funFact": "The mistle thrush earned the old name 'stormcock' because males sing loudly from exposed treetops even in fierce wind and rain, often being the only bird vocal during a winter storm."
+  },
+  "indian-pond-heron": {
+    "region": "Breeds in southern Iran and east through South Asia — including the subcontinent, Burma, and Sri Lanka — frequenting small water bodies, rice paddies, wetlands, and even urban drainage near human settlements.",
+    "behavior": "Stalks prey slowly at the shallow margins of paddies and marshes, feeding on fish, frogs, and aquatic invertebrates; its cryptic streaked brown plumage makes it nearly invisible when hunched motionless.",
+    "funFact": "The Indian pond heron is so perfectly camouflaged on the ground that people can approach within arm's reach before it flushes — earning it folk names implying the bird is blind or short-sighted."
+  },
+  "steppe-eagle": {
+    "region": "Breeds across the open grassland plains of Central Asia, from Eastern Europe through Kazakhstan to China, wintering in sub-Saharan Africa, South Asia, and the Middle East.",
+    "behavior": "On breeding grounds a specialist predator of ground squirrels; in winter turns sluggish and opportunistic, feeding on insect swarms, carrion, landfill waste, and nestlings of other species.",
+    "funFact": "The steppe eagle is the only eagle that regularly nests on bare flat ground rather than in trees or on cliffs, and it is the national bird of both Kazakhstan and Egypt."
+  },
+  "vernal-hanging-parrot": {
+    "region": "A resident breeder across the subcontinent and parts of Southeast Asia, favouring dry jungle, forest edges, and cultivation; undergoes local movements driven by fruit and blossom availability.",
+    "behavior": "Feeds on fruit, seeds, buds, and nectar — frequenting banyan and plantain trees — and roosts suspended upside-down from branches like a tiny sleeping bat.",
+    "funFact": "The vernal hanging parrot roosts by hanging upside down like a bat, holding on with its feet while it sleeps — a behaviour so distinctive that it defines the entire genus of hanging parrots."
+  },
+  "guianan-cock-of-the-rock": {
+    "region": "Found in tropical rainforests across northeastern South America — Venezuela, the Guianas, and northern Brazil — always near the steep stone outcrops it uses for nesting.",
+    "behavior": "Feeds mainly on fruit supplemented occasionally with small snakes and lizards; males gather at communal leks where they perform elaborate competitive displays to attract females.",
+    "funFact": "The male Guianan cock-of-the-rock is one of South America's most striking birds — blazing orange with a remarkable semicircular crest that nearly hides the bill — and it was painted by Audubon from a live specimen."
+  },
+  "humboldt-penguin": {
+    "region": "Resident along the Pacific coast of Peru and Chile in South America, nesting on rocky islands and coastal cliffs near cold, food-rich waters.",
+    "behavior": "A pursuit diver that feeds on fish and squid along the cold upwelling current off the west coast of South America; nests by burrowing into guano deposits or using natural rock caves.",
+    "funFact": "Both the Humboldt penguin and the cold-water current it depends on are named after the explorer Alexander von Humboldt, who surveyed the South American coast in the early 19th century."
+  },
+  "australian-wood-duck": {
+    "region": "Found throughout most of the continent of Australia, preferring grassland and lightly timbered areas near lakes, flooded paddocks, and rivers; avoids dense forest and arid desert.",
+    "behavior": "A dabbling species that grazes on grasses, clover, and other vegetation on land more often than it swims; nests in tree hollows, sometimes far from water.",
+    "funFact": "The Australian wood duck is unusual among waterfowl for spending much of its time grazing on dry land like a goose — it walks confidently across paddocks and parks, rarely needing to swim to feed."
+  }
+}

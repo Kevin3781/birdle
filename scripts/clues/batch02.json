@@ -1,0 +1,302 @@
+{
+  "black-necked-stilt": {
+    "region": "Found in wetlands, coastal mudflats, and shallow ponds from California and the Gulf Coast south through Central America, the Caribbean, and into South America as far as Peru and Brazil.",
+    "behavior": "This species wades through shallow water probing for aquatic invertebrates, small fish, and insects; northernmost inland populations migrate south to Mexico in winter.",
+    "funFact": "The black-necked stilt has the second-longest legs relative to its body of any bird in the world, after only the flamingo."
+  },
+  "great-blue-heron": {
+    "region": "Widespread across North and Central America, the Caribbean, and the Galápagos Islands, almost always near open water — shores, wetlands, marshes, and rivers.",
+    "behavior": "A slow, deliberate stalker that stands motionless in shallows before striking fish with a lightning-fast thrust of its long bill; it also takes frogs, rodents, and small birds.",
+    "funFact": "An all-white color morph of the great blue heron, known as the 'great white heron,' lives only in South Florida and the Florida Keys and was once thought to be a separate species."
+  },
+  "great-egret": {
+    "region": "Broadly distributed across tropical and warmer temperate regions worldwide — Africa, Asia, the Americas, and southern Europe — almost always nesting in colonies close to water.",
+    "behavior": "This species hunts by wading slowly and stabbing at fish, frogs, and small invertebrates; it builds large stick nests high in trees, often sharing colonies with other wading birds.",
+    "funFact": "The great egret is the symbol of the National Audubon Society, chosen because hunters once nearly wiped it out for the long, lacy plumes it grows in breeding season."
+  },
+  "snowy-egret": {
+    "region": "Native to the Americas, breeding across much of the United States and wintering south through Central and South America; it favors marshes, mangroves, and shallow coastal waters.",
+    "behavior": "A notably active forager compared to its relatives — it often shuffles its bright yellow feet along the bottom to stir up prey, then snatches fish and crustaceans with its black bill.",
+    "funFact": "During the late 19th century, snowy egrets were hunted nearly to extinction because their delicate breeding plumes fetched twice the price of gold by weight for the millinery trade."
+  },
+  "green-heron": {
+    "region": "Found across most of North and Central America in densely vegetated edges of streams, ponds, and marshes; northern populations migrate south in winter.",
+    "behavior": "One of the few birds known to use tools: this species drops feathers, insects, or bread crusts onto the water surface as lures to attract fish before striking.",
+    "funFact": "The green heron is one of the world's rare tool-using birds, deliberately placing bait on the water to draw fish within striking range."
+  },
+  "black-crowned-night-heron": {
+    "region": "One of the world's most widespread wading birds, found across Europe, Asia, and North and South America in wetlands, marshes, and shores of lakes and rivers.",
+    "behavior": "As its name suggests, this species is most active at dusk and through the night, roosting in trees during the day and feeding on fish, frogs, invertebrates, and occasional carrion after dark.",
+    "funFact": "Young black-crowned night herons can projectile-vomit their stomach contents as a defense mechanism when grabbed by a predator."
+  },
+  "american-white-pelican": {
+    "region": "Breeds in interior North America on lakes and wetlands, migrating south and to the coasts as far as Costa Rica for the winter.",
+    "behavior": "Unlike its coastal relative, this species does not dive for fish — instead it feeds cooperatively, with groups herding fish into the shallows and scooping them up in unison with massive pouched bills.",
+    "funFact": "The American white pelican grows a curious fibrous plate on the top of its bill only during breeding season, then sheds it entirely after eggs are laid — its function is still debated."
+  },
+  "brown-pelican": {
+    "region": "Resident along the Atlantic Coast from New Jersey to the Amazon and along the Pacific Coast from British Columbia to Peru, including the Galápagos; it favors warm coastal waters.",
+    "behavior": "One of only two species in its family that feeds by plunge-diving — it spots fish from the air, then folds its wings and plummets beak-first into the water from heights of up to 60 feet.",
+    "funFact": "The brown pelican is the official state bird of Louisiana and appears on the state flag, seal, and coat of arms — a symbol of the Gulf Coast long before it was nearly lost to DDT."
+  },
+  "double-crested-cormorant": {
+    "region": "Widely distributed across North America from the Aleutian Islands to Florida and Mexico, found along rivers, lakes, and coastlines.",
+    "behavior": "This species pursues fish underwater, propelled by its large webbed feet; because its feathers lack waterproofing oils, it must perch with wings spread wide to dry them after each diving session.",
+    "funFact": "Unlike most waterbirds, the double-crested cormorant has wettable feathers, which reduces buoyancy and helps it dive more efficiently — but means it must dry its wings after every swim."
+  },
+  "sandhill-crane": {
+    "region": "Found across North America and extreme northeastern Siberia, from Arctic tundra to Florida; the central Platte River valley in Nebraska hosts the world's most spectacular migration stopover, with up to 450,000 birds at once.",
+    "behavior": "An omnivore that forages in open fields and wetland edges for seeds, grain, insects, and small vertebrates; famous for its elaborate dancing displays performed year-round, not only during courtship.",
+    "funFact": "Sandhill cranes are among the oldest living bird species — fossils of essentially the same bird have been found dating back roughly 2.5 million years."
+  },
+  "american-coot": {
+    "region": "Found across most of North America, from the Pacific and southwestern United States year-round to the northeastern states in summer and as far south as Panama in winter, always near open water and wetlands.",
+    "behavior": "Despite being commonly mistaken for a duck, this species walks on lobed (not webbed) toes and eats primarily aquatic plants and algae, supplementing its diet with invertebrates and small vertebrates.",
+    "funFact": "American coot mothers can recognize their own chicks among brood parasites and will preferentially feed the offspring with the brightest, most ornamented head plumes."
+  },
+  "common-gallinule": {
+    "region": "Lives year-round in well-vegetated marshes, ponds, and canals throughout the Americas, from the United States south through most of South America.",
+    "behavior": "This species walks along floating vegetation and swims with a distinctive nodding head motion, probing emergent plants and water surface for seeds, insects, and small aquatic invertebrates.",
+    "funFact": "The common gallinule was split from the Eurasian common moorhen as recently as 2011 — until then, the two were considered a single species despite living on opposite sides of the Atlantic."
+  },
+  "pied-billed-grebe": {
+    "region": "Found in ponds, lakes, and marshes throughout the Americas, from Canada to southern South America, year-round in warmer areas and migratory in northern regions.",
+    "behavior": "This species can control its buoyancy by trapping air in its dense plumage and expelling it, allowing it to slowly sink below the surface without diving — a vanishing act that earns it the nickname 'diving-weevil.'",
+    "funFact": "Rather than fleeing by flying, the pied-billed grebe prefers to slowly submerge and disappear like a submarine, reappearing with only its bill above the surface."
+  },
+  "wood-stork": {
+    "region": "Native to the subtropics and tropics of the Americas, from the southeastern United States (particularly Florida) south through Central and South America; it persists in habitats with fluctuating water levels.",
+    "behavior": "This species is a tactile feeder, sweeping its open bill through shallow water and snapping it shut in as little as 25 milliseconds — one of the fastest reflexes of any vertebrate — the moment it touches prey.",
+    "funFact": "The wood stork is the only species of its family that breeds in North America, and its successful recovery from Endangered to Threatened status in the US is considered a conservation success story."
+  },
+  "roseate-spoonbill": {
+    "region": "A resident breeder in both South and North America, found along the Gulf and Atlantic coasts of the southern United States south through Central America and across much of South America.",
+    "behavior": "This wading bird sweeps its flat, spatula-shaped bill back and forth through shallow water, snapping it shut on fish, shrimp, and crustaceans by touch rather than sight.",
+    "funFact": "The roseate spoonbill's vivid pink plumage is entirely diet-derived — it comes from the carotenoid pigment canthaxanthin found in the crustaceans it eats, just like a flamingo."
+  },
+  "white-ibis": {
+    "region": "Found from the southern US East Coast and Gulf states south through the Caribbean, coastal Central America, and into northwestern South America; outside breeding season it ranges further inland.",
+    "behavior": "This species forages by probing the bottoms of shallow water and mud with its long, curved orange bill, locating prey entirely by touch; crayfish are its preferred food in most regions.",
+    "funFact": "Male American white ibises have been observed pirating food from unmated females and juveniles during breeding season, a rare example of resource theft within the same species."
+  },
+  "trumpeter-swan": {
+    "region": "Native to North America, breeding from Alaska and western Canada south into the northern United States, wintering along the Pacific Coast and in ice-free inland waters.",
+    "behavior": "This large, long-necked waterfowl grazes on aquatic vegetation by tipping up or submerging its head; pairs mate for life and defend territories year-round with loud, resonant bugling calls.",
+    "funFact": "By 1933, fewer than 70 wild individuals could be found and extinction seemed imminent — but aerial surveys discovered a hidden Alaskan population, leading to a recovery now exceeding 46,000 birds."
+  },
+  "tundra-swan": {
+    "region": "Breeds on the tundra of the Arctic and subarctic, then migrates to winter along the Pacific and Atlantic coasts of North America (whistling swan) or in northwestern Europe and East Asia (Bewick's swan).",
+    "behavior": "Highly vocal in flocks, this species feeds on aquatic vegetation in summer and shifts to leftover grain and crops in winter fields near coasts; it is monogamous and nests at elevated sites near open water.",
+    "funFact": "Bewick's swan — the Eurasian subspecies of the tundra swan — has a unique yellow-and-black bill pattern that varies between individuals, allowing researchers to identify and track specific birds across decades."
+  },
+  "snow-goose": {
+    "region": "Breeds north of the timberline in Greenland, Canada, Alaska, and northeastern Siberia, wintering across a broad swath of North America from British Columbia south to Mexico.",
+    "behavior": "This species forages in large, noisy flocks on tundra, agricultural fields, and marshes, grazing on grasses, sedges, and waste grain; it migrates in enormous, dense flocks numbering in the tens of thousands.",
+    "funFact": "The snow goose exists in two color morphs — the familiar white bird and a darker 'blue goose' form — which were once classified as entirely separate species before interbreeding proved otherwise."
+  },
+  "northern-pintail": {
+    "region": "One of the most widely distributed waterfowl in the world, breeding across northern Europe, Asia, and North America and wintering south to the equator in a vast, nearly global range.",
+    "behavior": "A dabbling species that tips forward to feed on aquatic plant seeds and invertebrates in shallow water; highly gregarious outside of breeding season, it forms large mixed flocks with other diving waterfowl.",
+    "funFact": "The male northern pintail's central tail feathers can extend up to 10 cm beyond the rest of the tail, the elegant spike that gives the species its name and makes the drake unmistakable in flight."
+  },
+  "american-wigeon": {
+    "region": "Breeds across northern and western North America and winters across the southern United States, Mexico, the Caribbean, and south into Central America; favors open wetlands, ponds, and flooded fields.",
+    "behavior": "A dabbling species that often steals food from diving ducks, loitering near flocks of canvasbacks or scaup and snatching aquatic vegetation the divers bring to the surface.",
+    "funFact": "The American wigeon is also known as the 'baldpate' — a nickname earned by the male's cream-white forehead patch, which resembles a bald head among its otherwise chestnut-brown face."
+  },
+  "northern-shoveler": {
+    "region": "Breeds across northern Europe, the Palearctic, and most of North America; winters in southern Europe, South Asia, Southeast Asia, Central America, the Caribbean, and northern South America.",
+    "behavior": "This species filters food — aquatic invertebrates, seeds, and crustaceans — by swinging its spatula-like bill from side to side through the water and using comb-like lamellae along its edges to strain out prey.",
+    "funFact": "The northern shoveler's bill is proportionally the widest and most spatula-shaped of any dabbling waterfowl, perfectly evolved for filter-feeding in a way no closely related species can replicate."
+  },
+  "green-winged-teal": {
+    "region": "Breeds across northern North America and is strongly migratory, wintering far south of its breeding range across the southern United States, Mexico, and Central America.",
+    "behavior": "One of the smallest and fastest dabbling waterfowl in North America; this species forages in shallow water on seeds and invertebrates and flies in tight, twisting flocks that resemble shorebirds in the air.",
+    "funFact": "In flight, a flock of green-winged teals twists and banks so rapidly and in such tight synchrony that they are often mistaken for sandpipers or other shorebirds by casual observers."
+  },
+  "blue-winged-teal": {
+    "region": "Breeds from southern Alaska and Canada east to Nova Scotia and south to northern Texas, wintering along the Pacific and Atlantic coasts and south into the Caribbean and Central America.",
+    "behavior": "One of the earliest waterfowl to depart on southward migration each autumn, this small dabbling species forages on seeds, aquatic plants, and invertebrates in shallow wetlands and flooded fields.",
+    "funFact": "The blue-winged teal is one of North America's longest-distance migrants among dabbling waterfowl, with some individuals traveling from Canada all the way to South America each winter."
+  },
+  "gadwall": {
+    "region": "A common and widespread dabbling species found across Europe, Asia, and North America; it breeds in northern grassland wetlands and winters across temperate and subtropical regions worldwide.",
+    "behavior": "This species often steals aquatic vegetation brought to the surface by diving ducks and coots, and forages by dabbling in shallow water on plant material, seeds, and occasional invertebrates.",
+    "funFact": "The gadwall is perhaps the most subtly plumaged of all common dabbling waterfowl — the male's intricate gray and brown vermiculation looks plain at a distance but reveals extraordinary detail up close."
+  },
+  "canvasback": {
+    "region": "Breeds in prairie wetlands of north-central North America and migrates to winter along the Pacific and Atlantic coasts and on large inland lakes of the United States.",
+    "behavior": "The largest diving waterfowl in North America; this species dives to the bottom of lakes and bays to uproot and consume the roots of aquatic plants, particularly wild celery, which gives its flesh a distinctive flavor.",
+    "funFact": "The canvasback was once considered the finest table bird in North America — its flesh, flavored by a diet heavy in wild celery, was so prized that flocks were commercially hunted nearly to collapse in the 19th century."
+  },
+  "redhead": {
+    "region": "Breeds across the prairie wetlands and marshes of central North America and winters on coastal bays, large lakes, and reservoirs from the southern United States south to Mexico and the Caribbean.",
+    "behavior": "A diving species that submerges to feed on aquatic vegetation, seeds, and invertebrates; it frequently uses a parasitic nesting strategy, laying eggs in the nests of other waterfowl including its own species.",
+    "funFact": "Female redheads are unusually prolific brood parasites — a single female may lay eggs in more than a dozen other nests in a season while also raising a brood of her own."
+  },
+  "ring-necked-duck": {
+    "region": "Breeds across boreal forest lakes and bogs of Canada and the northern United States; winters on freshwater ponds, lakes, and rivers across the southern half of the United States and into Central America.",
+    "behavior": "Despite the misleading name (the neck ring is almost invisible in the field), this diving species is easily identified by the white vertical stripe on its bill; it feeds by diving for aquatic plants, seeds, and invertebrates.",
+    "funFact": "The ring-necked duck is named for an almost invisible chestnut collar on the male's neck — a feature so obscure in the field that most birders consider 'ring-billed duck' a more accurate description."
+  },
+  "bufflehead": {
+    "region": "Breeds in boreal forests of Alaska and Canada, nesting in tree cavities, and winters across southern North America in coastal bays, rivers, and lakes as far south as Mexico.",
+    "behavior": "This small sea species dives frequently in rapid succession to capture aquatic invertebrates, crustaceans, and small fish; males perform energetic head-bobbing and wing-spreading courtship displays.",
+    "funFact": "The bufflehead almost exclusively nests in old woodpecker holes — specifically those of the northern flicker — and its small body size is thought to have co-evolved with the available cavity dimensions."
+  },
+  "common-goldeneye": {
+    "region": "Breeds in forested lakes and rivers across the boreal zones of North America and Eurasia, wintering on coastal bays, large lakes, and estuaries further south.",
+    "behavior": "An aggressive and territorial diving species that feeds on crustaceans, molluscs, and aquatic insects; males perform elaborate, head-throwing courtship displays to attract females during winter.",
+    "funFact": "The common goldeneye's wings produce a loud, distinctive whistling sound in flight — loud enough that the species is sometimes called the 'whistler' by hunters and field observers."
+  },
+  "hooded-merganser": {
+    "region": "Native exclusively to North America, breeding in wooded lakes and swamps from British Columbia and the Great Lakes east to Nova Scotia and wintering along both coasts and inland waterways further south.",
+    "behavior": "This small, sawbilled fish-eating species dives with remarkable speed and agility, using excellent underwater vision aided by a transparent nictitating membrane to catch fish and aquatic invertebrates.",
+    "funFact": "The hooded merganser can rapidly expand and collapse its fan-shaped crest in a fraction of a second — the male flips it open like a switch during courtship displays to nearly double the apparent size of his head."
+  },
+  "common-merganser": {
+    "region": "Found in forested rivers and lakes across Europe, Asia, and North America; it winters further south, moving to coasts and ice-free waterways when northern habitats freeze.",
+    "behavior": "A powerful, fish-eating diver that pursues prey underwater with its serrated, hooked bill; it nests in holes in trees near rivers, making it one of the few large waterfowl species to use tree cavities.",
+    "funFact": "The common merganser is known as the 'goosander' throughout Eurasia — an entirely different common name for the same species, which led to widespread confusion before the two populations were confirmed as one."
+  },
+  "ruddy-duck": {
+    "region": "Breeds on prairie potholes and marshes of western Canada and the United States; winters on coastal bays, estuaries, and large lakes across the southern United States, Mexico, and the Caribbean.",
+    "behavior": "This small, stiff-tailed species dives to feed on aquatic plants and invertebrates; males perform a comical courtship display, slapping their bright blue bills rapidly against their inflated chests to produce bubbles.",
+    "funFact": "Introduced to the United Kingdom in the 1940s, the ruddy duck became so invasive in Europe that Spain and the UK launched extensive culling programs to protect the closely related, endangered white-headed duck from hybridization."
+  },
+  "golden-eagle": {
+    "region": "Widely distributed across the Northern Hemisphere — Eurasia, North America, and parts of North Africa — inhabiting open and semi-open mountainous terrain, cliffs, and moorlands.",
+    "behavior": "A formidable aerial predator that uses its agility and speed to hunt rabbits, hares, marmots, and other ground squirrels, maintaining territories as large as 200 km²; pairs may mate for life.",
+    "funFact": "Golden eagles have been prized as falconry birds for centuries across many cultures, and were so revered by some Indigenous peoples of North America that their feathers were used in sacred ceremonies."
+  },
+  "coopers-hawk": {
+    "region": "Native to the North American continent, found year-round from southern Canada to Mexico in forests and woodland edges; populations breeding in the north may migrate further south in winter.",
+    "behavior": "A fast and agile forest predator that specializes in pursuing birds through dense trees, sometimes following prey on foot through undergrowth; it also takes small mammals and occasional reptiles.",
+    "funFact": "Cooper's hawk was once called the 'chicken hawk' by farmers — and while it does occasionally raid poultry, its diet consists overwhelmingly of wild songbirds and small mammals caught mid-flight."
+  },
+  "sharp-shinned-hawk": {
+    "region": "The smallest hawk in the United States and Canada, found across most of North America in forested areas; northern populations migrate south to Central America and the Caribbean in winter.",
+    "behavior": "A nimble, short-winged forest predator that pursues small songbirds through dense woodland at high speed, often catching prey in mid-air after a surprise ambush from cover.",
+    "funFact": "Male sharp-shinned hawks are the smallest diurnal birds of prey in the United States and Canada — so much smaller than females that the two sexes were initially described as different species."
+  },
+  "northern-harrier": {
+    "region": "Breeds across Canada and the northernmost United States in open areas, migrating south in winter to prairies, marshes, and open farmland across the American south, Mexico, and Central America.",
+    "behavior": "This low-flying raptor quarters open ground with wings held in a shallow V-shape, using its owl-like facial disc to funnel sound and locate small mammals and birds concealed in tall grass.",
+    "funFact": "The northern harrier is the only hawk in North America known to practice polygyny regularly — one male may maintain bonds with up to five females simultaneously, each nesting in the same territory."
+  },
+  "american-kestrel": {
+    "region": "The smallest and most widespread falcon in the Americas, found from central Alaska and Canada south throughout North and South America, with 17 subspecies adapted to diverse environments.",
+    "behavior": "This species often hovers in place on rapidly beating wings while scanning the ground below for grasshoppers, lizards, mice, and small birds, before folding its wings and dropping onto prey.",
+    "funFact": "American kestrels can see ultraviolet light, which allows them to detect the UV-reflective urine trails left by voles and mice — effectively following a glowing runway directly to their prey."
+  },
+  "peregrine-falcon": {
+    "region": "The most widely distributed raptor in the world, found on every continent except Antarctica; it breeds from Arctic tundra to tropical coasts and has adapted successfully to urban environments worldwide.",
+    "behavior": "This species hunts almost exclusively by stooping — folding its wings and diving at speeds exceeding 240 mph to strike medium-sized birds in mid-air; it has thrived in cities, nesting on skyscrapers and hunting pigeons.",
+    "funFact": "The peregrine falcon is the fastest animal on Earth, recorded in a stoop at over 240 mph (389 km/h) — a speed made possible by specially adapted nostrils that deflect high-pressure air and allow it to breathe at full dive."
+  },
+  "merlin": {
+    "region": "Breeds across boreal forests and open tundra of North America and Eurasia, migrating south in winter to open woodlands, coastal areas, and grasslands across temperate latitudes.",
+    "behavior": "A small but fierce and fast-flying predator of small songbirds and large insects; this species often hunts by pursuing prey in direct, rapid flight at treetop level rather than stooping from above.",
+    "funFact": "Despite its small size, the merlin aggressively chases and mob-attacks much larger raptors — including hawks and even eagles — that venture too close to its nesting territory."
+  },
+  "turkey-vulture": {
+    "region": "Ranges from southern Canada to the southern tip of South America in a wide variety of open and semi-open habitats — shrublands, pastures, deserts, and subtropical forests.",
+    "behavior": "A scavenger that feeds almost exclusively on carrion, finding it by flying low and using a highly developed sense of smell — rare among birds — to detect gases produced by the early stages of decomposition.",
+    "funFact": "The turkey vulture lacks a syrinx — the vocal organ of birds — and can only produce grunts and hisses; it also urinates on its own legs, a cooling and antibacterial behavior called urohidrosis."
+  },
+  "black-vulture": {
+    "region": "Found from the southeastern United States south to Peru, central Chile, and Uruguay, most abundant in open areas with scattered trees, subtropical forests, and the Brazilian pantanal.",
+    "behavior": "This scavenger relies primarily on eyesight and follows Cathartes vultures that possess a keen sense of smell to locate carrion; it also takes eggs, small reptiles, and vulnerable newborn animals.",
+    "funFact": "Unlike most birds, the black vulture is known to maintain long-term pair bonds and displays unusually strong family cohesion — adults have been observed feeding grown offspring that are fully capable of feeding themselves."
+  },
+  "eastern-screech-owl": {
+    "region": "Fairly common across eastern North America from Mexico to Canada, inhabiting most types of woodland — suburban parks, orchards, and forest edges — and relatively tolerant of human presence.",
+    "behavior": "Strictly nocturnal, this compact owl roosts by day pressed against tree bark, where its cryptic bark-like plumage makes it nearly invisible; at night it hunts insects, small mammals, and birds by sound.",
+    "funFact": "The eastern screech owl comes in two distinct color morphs — red-brown and gray — and the ratio of the two varies geographically, with the gray morph generally more common in colder climates."
+  },
+  "barred-owl": {
+    "region": "Largely native to eastern North America's mature forests, it has expanded its range westward to the Pacific Coast, where it is now considered invasive and threatens the closely related spotted owl.",
+    "behavior": "An opportunistic predator of small mammals, birds, reptiles, amphibians, and invertebrates; it hunts primarily at night from a perch and is known for its distinctive eight-note 'who cooks for you' call.",
+    "funFact": "The barred owl's westward range expansion across the continent, facilitated by forest fragmentation, is now considered one of the most significant conservation threats to the endangered spotted owl."
+  },
+  "burrowing-owl": {
+    "region": "Native to the open grasslands, rangelands, agricultural areas, and deserts of North and South America; it favors low-vegetation, dry, open habitats and nests in underground burrows.",
+    "behavior": "Unlike most owls, this species is active during the day — especially dawn and dusk — and often runs along the ground in pursuit of insects and small vertebrates, sprinting on its unusually long legs.",
+    "funFact": "The burrowing owl rarely digs its own tunnels — instead it moves into abandoned burrows excavated by prairie dogs, badgers, or ground squirrels, sometimes lining the entrance with animal dung to attract dung beetles as food."
+  },
+  "ruffed-grouse": {
+    "region": "Found in forests from the Appalachian Mountains across Canada to Alaska, the most broadly distributed upland game bird in North America; it does not migrate.",
+    "behavior": "Males perform a distinctive 'drumming' display by beating their wings rapidly against the air while standing on a log, creating a deep, accelerating thump that carries through the forest; this species feeds on buds, leaves, and berries.",
+    "funFact": "The ruffed grouse 'drums' not by striking its wings on a log, but by compressing air with rapid wing beats — the sound is so low-frequency it is felt as much as heard, and can travel up to a quarter mile."
+  },
+  "northern-bobwhite": {
+    "region": "A ground-dwelling species native to the eastern and central United States, Mexico, and Cuba, inhabiting brushy fields, woodland edges, and overgrown farmland; its range has contracted sharply due to habitat loss.",
+    "behavior": "This secretive species walks through dense ground cover in small coveys, feeding on seeds, insects, and berries; coveys roost in tight circular formations facing outward for warmth and predator detection.",
+    "funFact": "The northern bobwhite's whistled call spells out its own name — a clear, rising 'bob-WHITE' that males repeat persistently through spring and summer, making it one of the most recognizable bird calls in eastern North America."
+  },
+  "ring-necked-pheasant": {
+    "region": "Native to Asia but widely introduced as a game bird across Europe, North America, and beyond; it inhabits farmland edges, hedgerows, grasslands, and woodland borders.",
+    "behavior": "A largely ground-dwelling species that forages for seeds, berries, grain, and insects by walking through vegetation; it is polygynous, with males defending territories and mating with multiple females each spring.",
+    "funFact": "The ring-necked pheasant is the state bird of South Dakota — one of only two US state birds that is not native to the United States, reflecting its status as an introduced game species rather than a wild native."
+  },
+  "greater-roadrunner": {
+    "region": "Resident in the arid and semi-arid scrublands, chaparral, and deserts of the southwestern United States and Mexico — the Aridoamerica biogeographic zone.",
+    "behavior": "This fast-running ground bird pursues lizards, snakes (including rattlesnakes), scorpions, rodents, and small birds on foot at speeds up to 25 mph, rarely taking flight; it kills venomous prey by bashing it against rocks.",
+    "funFact": "The greater roadrunner can kill and eat rattlesnakes, dispatching them by grabbing the head and repeatedly slamming the snake against a hard surface — an example of prey-handling rarely seen in birds."
+  },
+  "yellow-billed-cuckoo": {
+    "region": "Breeds across most of the eastern United States and into the west, migrating to South America for the winter; it favors dense riparian thickets and woodland edges near water.",
+    "behavior": "This species is a specialist predator of large, hairy caterpillars — including tent caterpillars and fall webworms that other birds avoid; it also eats cicadas, tree frogs, and small lizards.",
+    "funFact": "In the American South, the yellow-billed cuckoo earned the folk name 'rain crow' because its loud, rapid call — a hollow knocking that slows to a coo — is said to reliably predict thunderstorms."
+  },
+  "common-nighthawk": {
+    "region": "Found across most of North, Central, and South America; it breeds from Alaska to the southern United States and migrates to South America in winter, using open skies above forest, grassland, and cities.",
+    "behavior": "An aerial insectivore with an enormous mouth relative to its small bill, this species catches moths, beetles, and other flying insects in swooping, erratic flight at dawn, dusk, and through the night.",
+    "funFact": "The common nighthawk is not a hawk at all — it belongs to the nightjar family, and its misleading name comes from its hawklike flight silhouette and insect-hunting behavior in open air."
+  },
+  "acorn-woodpecker": {
+    "region": "Found across Central America and north into the western United States, from California and Oregon into parts of the Southwest; it inhabits pine-oak woodlands and mixed forests.",
+    "behavior": "This highly social species lives in cooperative family groups that collectively maintain a 'granary tree' — a single tree riddled with thousands of individually sized holes, each plugged with exactly one stored nut.",
+    "funFact": "An acorn woodpecker family may drill up to 50,000 storage holes into a single granary tree over its lifetime, filling each one with a precisely fitted nut that won't fall out but can be retrieved later."
+  },
+  "stellers-jay": {
+    "region": "Native to western North America from Alaska to Central America and the mountains of Central America, inhabiting coniferous and pine-oak forests; the only crested member of its family found west of the Rockies.",
+    "behavior": "An intelligent and bold species that forages for seeds, nuts, berries, and invertebrates, and readily caches food for winter; it is a skilled mimic, frequently imitating the calls of red-tailed hawks and other raptors.",
+    "funFact": "Steller's jay is the provincial bird of British Columbia — and the first bird collected on the Pacific coast of North America by European naturalists during Georg Wilhelm Steller's 1741 Alaska expedition."
+  },
+  "western-scrub-jay": {
+    "region": "Ranges from southern British Columbia through California and western Nevada to west of the Sierra Nevada, inhabiting oak woodlands, chaparral, and suburban gardens; nonmigratory.",
+    "behavior": "A highly intelligent, omnivorous species that caches thousands of seeds and invertebrates for winter and remembers the location of individual caches; it has been observed re-hiding food when it suspects it has been watched.",
+    "funFact": "California scrub jays hold 'funerals' — when one encounters a dead member of its species, it calls loudly to attract other individuals, and the group gathers silently around the body for several minutes before dispersing."
+  },
+  "clarks-nutcracker": {
+    "region": "Native to the mountains of western North America, from British Columbia south to Baja California and east to the Rockies, where it inhabits high-elevation pine forests near the treeline.",
+    "behavior": "This species harvests pine seeds using its stout bill and stores them in a sublingual pouch, then buries caches across a wide area; it recovers these stores through winter using a spatial memory of remarkable precision.",
+    "funFact": "Clark's nutcracker can cache up to 98,000 pine seeds in a single season and remembers the locations of thousands of individual caches months later — a feat of spatial memory that has made it a subject of animal cognition research."
+  },
+  "black-billed-magpie": {
+    "region": "Found across the western half of North America in open habitats with clumps of trees, farmland, and suburban areas; nonmigratory across its range.",
+    "behavior": "An omnivorous and opportunistic forager that walks and hops on the ground picking up beetles, grasshoppers, worms, and rodents; it follows large predators to scavenge kills and lands on the backs of cattle to pick ticks.",
+    "funFact": "The black-billed magpie builds an elaborate domed nest — a roofed structure of sticks sometimes requiring hundreds of trips to construct — which provides protection from aerial predators that open-cup nests cannot."
+  },
+  "american-dipper": {
+    "region": "Found along fast-moving mountain streams and rivers from Alaska south through the western United States and into Central America; it is a year-round resident, moving only to lower elevations in severe winters.",
+    "behavior": "This species is the only truly aquatic songbird in North America — it walks into and along the bottoms of rushing streams, using its wings to 'fly' underwater while hunting aquatic insect larvae and small fish.",
+    "funFact": "The American dipper bobs its entire body up and down almost continuously, even while perched on a midstream rock — a behavior so constant and distinctive that it gave the entire family its common name."
+  },
+  "varied-thrush": {
+    "region": "Found in dense coniferous and mixed forests of western North America, from Alaska south to northern California; it winters in the Pacific Coast states and occasionally wanders far east.",
+    "behavior": "This species forages on the forest floor for insects, earthworms, and berries, often scratching through leaf litter; its song — a single, long, haunting tone — carries far through dense forest.",
+    "funFact": "The varied thrush's song is uniquely simple for a member of the thrush family: a single sustained, eerie tone repeated on different pitches, which resonates through foggy Pacific coastal forests like no other North American bird call."
+  },
+  "western-tanager": {
+    "region": "Breeds in open coniferous and mixed forests of western North America from Alaska south to Baja California, migrating through Central America to winter in Mexico and as far south as Costa Rica.",
+    "behavior": "Despite its brilliant coloring, this species is surprisingly hard to spot as it gleans insects from the forest canopy; it also eats fruit and berries, particularly during migration and on wintering grounds.",
+    "funFact": "Despite belonging to the cardinal family (Cardinalidae) rather than the true tanager family, the western tanager's brilliant red-and-yellow male plumage makes it one of the most vividly colored breeding birds in western North America."
+  },
+  "lazuli-bunting": {
+    "region": "Breeds in brushy hillsides, shrubby open woodland edges, and chaparral of western North America from British Columbia south to northern Mexico, migrating to central Mexico for winter.",
+    "behavior": "Males sing persistently from exposed perches to defend territories; this species forages on the ground and in low shrubs for seeds and insects, moving through dense brushy cover where it can be difficult to observe.",
+    "funFact": "Young male lazuli buntings learn their songs not from their fathers but from neighboring males in their first breeding territory — meaning local song dialects can persist for generations in the same geographic area."
+  }
+}

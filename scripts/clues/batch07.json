@@ -1,0 +1,247 @@
+{
+  "gang-gang-cockatoo": {
+    "region": "Found in the cooler, wetter forests and alpine bushland of south-eastern Australia, including the Australian Capital Territory, where it is the official faunal emblem.",
+    "behavior": "This species forages in the canopy for seeds, berries, and fruits, often hanging acrobatically to reach food; pairs and small groups move quietly through the trees.",
+    "funFact": "The gang-gang cockatoo's call is famously described as resembling a cork being pulled from a wine bottle — an almost comically creaky sound for such a striking bird."
+  },
+  "cockatiel": {
+    "region": "Native to Australia, favouring the continent's wetlands, scrublands, and open bushlands, particularly in drier interior regions.",
+    "behavior": "Highly sociable and expressive, this species communicates constantly and requires regular interaction; in the wild it forages for seeds and plant matter in small flocks.",
+    "funFact": "The cockatiel is one of the five most popular pet birds in the world, with an estimated 4.8 million US households keeping one — yet many suffer from chronic malnutrition due to inadequate care."
+  },
+  "budgerigar": {
+    "region": "Native to the drier interior of Australia, where it has survived harsh inland conditions for over five million years; a nomadic species that moves in response to rainfall and food availability.",
+    "behavior": "A nomadic, seed-eating flock bird that breeds opportunistically on the move; individuals are monomorphic as juveniles, with adults distinguishable by cere colour and behaviour.",
+    "funFact": "The budgerigar is the third most popular pet in the world after dogs and cats, yet in the wild it has roamed Australia's arid interior for at least five million years."
+  },
+  "australian-king-parrot": {
+    "region": "Endemic to eastern Australia, ranging from Cooktown in Queensland south to Port Campbell in Victoria, in humid, heavily forested upland regions including subtropical and temperate rainforest edges.",
+    "behavior": "This species feeds on fruits and seeds gathered from trees or picked up from the ground; it favours dense eucalyptus woodland and adjacent rainforest for foraging and shelter.",
+    "funFact": "The Australian king parrot is the only species in Australia where the male sports an entirely red head combined with vivid green wings — a colour combination found nowhere else among the continent's native birds."
+  },
+  "crimson-rosella": {
+    "region": "Native to eastern and south-eastern Australia, commonly found in mountain forests and gardens; has been introduced to New Zealand and Norfolk Island.",
+    "behavior": "This bird forages in trees and on the ground for seeds, fruits, and insects; it is adaptable and regularly visits suburban gardens as well as dense mountain forest.",
+    "funFact": "The crimson rosella has three distinct colour forms — red, yellow, and orange — which interbreed where their ranges overlap, making it one of Australia's most visually variable native birds."
+  },
+  "eastern-rosella": {
+    "region": "Native and endemic to south-eastern Australia; introduced populations are now established in New Zealand's North Island and in the hills around Dunedin on the South Island.",
+    "behavior": "This species forages on the ground and in trees for seeds, fruits, and insects, often visiting open grassy areas, farmland, and suburban parks.",
+    "funFact": "The eastern rosella was first introduced to New Zealand in cages, but escapees established wild populations so successfully that the species is now considered naturalised across much of the North Island."
+  },
+  "splendid-fairywren": {
+    "region": "Widespread across much of inland Australia, from central-western New South Wales and south-western Queensland to coastal Western Australia, inhabiting arid and semi-arid scrub and dry woodland.",
+    "behavior": "This insectivorous species primarily eats insects and supplements its diet with seeds; socially monogamous but sexually promiscuous, males court females by displaying brightly coloured flower petals.",
+    "funFact": "Male splendid fairywrens pluck pink or purple petals and present them to females as a courtship gift — one of the few birds known to use flowers as part of their mating display."
+  },
+  "pied-currawong": {
+    "region": "Native to eastern Australia and Lord Howe Island, found in every type of forested habitat from mountain forest to suburban parks and gardens.",
+    "behavior": "An omnivorous and opportunistic predator, this species eats berries, seeds, invertebrates, eggs, juvenile birds, and even young marsupials; it forages mainly in trees rather than on the ground.",
+    "funFact": "Despite its melodious, far-carrying call, the pied currawong is an effective nest predator and has been linked to the decline of smaller songbirds in urban areas where its population has surged."
+  },
+  "australian-raven": {
+    "region": "Found across much of mainland Australia in open woodlands, transitional zones, cities, and towns; well adapted to urban environments and commonly seen in Sydney, Canberra, Perth, Adelaide, and Brisbane.",
+    "behavior": "An omnivorous opportunist, this species eats fruits, seeds, lizards, small mammals, carrion, and scraps from waste bins; territorial pairs bond for life and breed between July and September.",
+    "funFact": "The Australian raven is often blamed for killing lambs near sheep farms, but research shows it is almost certainly seeking the afterbirth rather than attacking live animals — acting more as a scavenger than a predator."
+  },
+  "willie-wagtail": {
+    "region": "Common throughout Australia, New Guinea, the Solomon Islands, the Bismarck Archipelago, and eastern Indonesia, occupying most habitats except dense forest.",
+    "behavior": "An insectivorous species that spends much of its time chasing prey in open ground; it wags its tail horizontally while foraging and aggressively mobs much larger birds such as eagles and kookaburras.",
+    "funFact": "In Aboriginal folklore across Australia and New Guinea, the willie wagtail plays wildly contradictory roles — sometimes a thief who steals secrets, sometimes a good omen for successful harvests."
+  },
+  "magpie-lark": {
+    "region": "Native to Australia, Timor, and southern New Guinea; a common and widespread bird across the continent in a wide range of open and lightly wooded habitats near water.",
+    "behavior": "This species forages on the ground for insects and other invertebrates; pairs are strongly territorial and defend their territory year-round with loud, distinctive duetting calls.",
+    "funFact": "Despite its common name, the magpie-lark is neither a magpie nor a lark — it has been reclassified into the monarch flycatcher family, and its mud nest is one of the most robust of any Australian passerine."
+  },
+  "noisy-miner": {
+    "region": "Endemic to eastern and south-eastern Australia, from Far North Queensland through New South Wales and Victoria to Tasmania and south-eastern South Australia, primarily in dry, open eucalypt forests without dense undergrowth.",
+    "behavior": "Gregarious and fiercely territorial, this species forages communally in canopy and on the ground for nectar, fruit, and insects, with colonies of hundreds of birds aggressively mobbing predators and driving away other species.",
+    "funFact": "The noisy miner's aggressive territorial dominance has been so effective in human-altered landscapes that its population explosion is directly linked to the decline of avian diversity across large swaths of eastern Australia."
+  },
+  "rainbow-bee-eater": {
+    "region": "Found across Australia and into New Guinea and parts of eastern Indonesia, favouring open woodland, grassland, and areas near water where flying insects are abundant.",
+    "behavior": "This species catches flying insects — especially bees and wasps — on the wing with acrobatic aerial sallies, then beats the prey against a branch to remove the sting before swallowing it.",
+    "funFact": "The rainbow bee-eater is one of Australia's most vividly coloured birds, sporting a combination of green, blue, orange, yellow, and black that makes it look more like a tropical species than a mainland Australian one."
+  },
+  "tawny-frogmouth": {
+    "region": "Found throughout the Australian mainland and Tasmania in a wide range of habitats including woodland, forest, scrubland, and suburban gardens.",
+    "behavior": "Nocturnal and cryptically patterned, this species roosts motionless against a branch during the day, relying on its bark-like plumage for camouflage; at night it hunts insects, frogs, and small vertebrates from a perch.",
+    "funFact": "The tawny frogmouth is one of Australia's most misidentified birds — its nocturnal habits and grey-brown streaked plumage cause it to be routinely mistaken for an owl, but it is more closely related to nightjars."
+  },
+  "powerful-owl": {
+    "region": "Found in coastal areas and along the Great Dividing Range of south-eastern and eastern Australia, rarely extending more than 200 km inland; it inhabits primary forest with tall, native trees.",
+    "behavior": "An apex predator dedicated mainly to hunting arboreal mammals — especially small to medium-sized marsupials, which can make up around three-quarters of its diet; it is strongly territorial and maintains a large home range.",
+    "funFact": "The powerful owl is Australia's largest owl, and unusually among raptors, the male is larger and stronger than the female — giving him the dominant position in the pair, including control over food distribution."
+  },
+  "white-bellied-sea-eagle": {
+    "region": "Resident from India and Sri Lanka through South-East Asia to Australia, along coasts and major waterways; in Australia it is found on coasts and large rivers and lakes across the continent.",
+    "behavior": "This large bird of prey breeds and hunts near water; fish form around half its diet, but it is opportunistic and takes carrion, waterbirds, and a wide variety of other animals.",
+    "funFact": "The white-bellied sea eagle's loud, goose-like honking call is revered by indigenous Australians, and it features in folk tales across its entire range from India to the Pacific."
+  },
+  "australian-pelican": {
+    "region": "Widespread on inland and coastal waters of Australia and New Guinea, also occurring in Fiji and parts of Indonesia, with occasional records from New Zealand.",
+    "behavior": "This large waterbird mainly eats fish, which it scoops up in its enormous pouch while swimming; it will also take other birds and scavenge food scraps opportunistically.",
+    "funFact": "The Australian pelican holds the record for the longest bill of any living bird — a remarkable pouch-tipped structure that can measure up to 50 cm in length."
+  },
+  "black-swan": {
+    "region": "Breeds mainly in the south-east and south-west of Australia; within Australia it is nomadic, with erratic movement patterns driven by climatic conditions rather than fixed seasonal migration.",
+    "behavior": "A monogamous waterbird, both partners share incubation and raising of young; it feeds on aquatic vegetation and can gather in loose groups numbering into the thousands on large lakes and wetlands.",
+    "funFact": "The black swan so thoroughly upended European assumptions about what a swan could look like that its name became a philosophical shorthand for an unexpected, world-changing event — the 'black swan theory.'"
+  },
+  "maned-duck": {
+    "region": "Found throughout much of Australia in a wide range of habitats including grasslands, open woodlands, wetlands, and farmland near water.",
+    "behavior": "This dabbling species grazes on grasses and other vegetation on land as well as in the water; pairs and small flocks are commonly seen on flooded paddocks and park lawns near water.",
+    "funFact": "Sometimes called the maned goose, this species is the only living member of its genus and is unusual among Australian waterfowl for spending as much time grazing on land as it does on water."
+  },
+  "australian-wood-duck": {
+    "region": "Widespread throughout much of Australia, found in grasslands, open woodlands, wetlands, and on flooded farmland and park lawns near water.",
+    "behavior": "A dabbling species that grazes on grasses and aquatic vegetation, foraging on land and in shallow water; pairs and small groups often congregate on flooded paddocks and suburban parks.",
+    "funFact": "Also known as the maned goose, the Australian wood duck is the only living species in its genus and holds the unusual distinction of spending almost as much time grazing on dry land as swimming."
+  },
+  "pacific-black-duck": {
+    "region": "Widespread across Indonesia, New Guinea, Australia, New Zealand, and many islands of the south-western oceanic region, as far north as the Caroline Islands and east to French Polynesia.",
+    "behavior": "A dabbling species that feeds at the water's surface and in shallow water on plant material, seeds, and invertebrates; adaptable and found in a wide range of freshwater and estuarine habitats.",
+    "funFact": "Known as the grey duck in New Zealand, where its Māori name is pārera, this species ranges so widely across the Pacific that it occurs on islands scattered across an area larger than most continents."
+  },
+  "masked-lapwing": {
+    "region": "Native to Australia — particularly the northern and eastern parts — as well as New Zealand and New Guinea; common on open fields, farmland, and areas near water.",
+    "behavior": "This ground-dwelling species searches for insects and worms on open land; it is famous for its aggressive swooping behaviour during the nesting season, boldly diving at intruders including humans.",
+    "funFact": "The masked lapwing carries sharp yellow spurs on its wings, which it uses to physically strike perceived threats during the breeding season — one of very few birds in Australia that will reliably attack people."
+  },
+  "brolga": {
+    "region": "A common wetland species of tropical and south-eastern Australia and New Guinea, frequenting marshes, floodplains, and shallow lakes; populations in the south have shown some decline.",
+    "behavior": "Omnivorous, this species eats plant matter, invertebrates, and small vertebrates; it is gregarious outside the breeding season and famous for its elaborate, synchronised courtship dancing.",
+    "funFact": "The brolga's courtship dance — involving bowing, wing-spreading, leaping, and calling in unison — is so celebrated in Australian culture that it features on the Queensland coat of arms."
+  },
+  "australasian-gannet": {
+    "region": "Ranges over waters above the continental shelf along the southern and eastern Australian coastline and around both main islands of New Zealand, also occurring at Lord Howe and Norfolk Islands.",
+    "behavior": "A spectacular plunge-diver, this species fishes by hurtling into the ocean at high speed; it eats mainly squid and schooling forage fish near the surface, and is highly territorial at its colonial nest sites.",
+    "funFact": "Australasian gannet chicks grow so rapidly on regurgitated fish from their parents that they actually outweigh the average adult by the time they fledge — then must slim down before they can fly properly."
+  },
+  "little-penguin": {
+    "region": "Native to New Zealand and Australia, found along coastal areas where it dives for food throughout the day and returns to burrow colonies on shore at dusk.",
+    "behavior": "A marine species that dives for fish and other small prey during daylight hours; it comes ashore only to breed and roost, nesting in burrows along the coastline.",
+    "funFact": "The little penguin is the world's smallest species — its slate-blue plumage, unique among penguins, is packed with melanosomes that increase water resistance and give the feathers their distinctive blue colour."
+  },
+  "superb-lyrebird": {
+    "region": "Endemic to Australia, found in forest in the south-east of the continent, where it inhabits dense temperate and subtropical rainforest and adjacent wet sclerophyll forest.",
+    "behavior": "One of the world's largest songbirds, this species is renowned for extraordinary vocal mimicry, accurately reproducing the calls of dozens of other bird species as well as chainsaws, camera shutters, and other sounds.",
+    "funFact": "David Attenborough described the superb lyrebird's voice as 'the most elaborate, the most complex, and the most beautiful' vocal display in the animal kingdom — a title it earns by flawlessly mimicking entire bird choruses."
+  },
+  "satin-bowerbird": {
+    "region": "Endemic to eastern Australia, found in rainforest and adjacent tall, wet eucalyptus forest from Queensland to Victoria.",
+    "behavior": "Males of this species construct and decorate an elaborate stick bower with blue objects — feathers, berries, bottle caps, plastic — to attract females, then spend hours rearranging and displaying their collection.",
+    "funFact": "Male satin bowerbirds have a near-obsessive preference for the colour blue, and will collect and jealously guard any blue object they can find — from flower petals to drinking straws — to impress potential mates."
+  },
+  "regent-bowerbird": {
+    "region": "Found in rainforest and dense wet sclerophyll forest of south-eastern Queensland and north-eastern New South Wales in eastern Australia.",
+    "behavior": "Males of this medium-sized species build and decorate a bower to attract females; the striking black-and-gold male is visually very different from the cryptically patterned brown female.",
+    "funFact": "The regent bowerbird was named after a prince regent of the United Kingdom, and the male's jet-black body set against a vivid golden-orange crown and mantle makes it one of Australia's most visually dramatic birds."
+  },
+  "crimson-chat": {
+    "region": "Found across arid and semi-arid regions of Australia, typically in saltbush, bluebush, and other low shrubland of the interior.",
+    "behavior": "This small, ground-foraging species searches for insects and spiders among low vegetation; it is nomadic, moving in response to rainfall and food availability across the dry inland.",
+    "funFact": "The crimson chat is sometimes called the saltbush canary — a name that hints at both its outback habitat and the vivid crimson breast of the male, which flashes brilliantly against the grey scrubland."
+  },
+  "new-holland-honeyeater": {
+    "region": "Found throughout southern Australia, from south-western Western Australia east across the south of the continent to Queensland, in heathland, woodland, and gardens with flowering shrubs.",
+    "behavior": "This species feeds primarily on nectar from flowering plants and is an important pollinator; it is aggressive at food sources and will chase away other nectar-feeders from favoured flowers.",
+    "funFact": "The New Holland honeyeater was among the very first birds to be scientifically described from Australia — yet it remains one of the most familiar garden birds in southern Australian cities today."
+  },
+  "kea": {
+    "region": "Found across the three main islands of New Zealand in native forest; it has disappeared from much of its former range but reintroduction programmes near Wellington have led to a recovering urban population.",
+    "behavior": "An intelligent and curious large parrot that investigates and manipulates almost any object it encounters; it is omnivorous, eating fruit, leaves, insects, and carrion, and is known for problem-solving and play.",
+    "funFact": "The New Zealand kākā is so endangered that a reintroduction at a single Wellington sanctuary has seeded a self-sustaining wild population across the city — proof that active management can reverse decades of decline."
+  },
+  "tui": {
+    "region": "Widespread across New Zealand's main islands, found in native forest, shrubland, and increasingly in urban parks and gardens with flowering trees.",
+    "behavior": "A highly vocal and aggressive nectar-feeder, this species defends flowering trees vigorously and is an important pollinator of New Zealand's native flora; it also eats fruit and insects.",
+    "funFact": "The tui is one of New Zealand's most celebrated songbirds, capable of producing a complex repertoire of clicks, coughs, and musical notes — and it can mimic human speech with startling clarity."
+  },
+  "north-island-brown-kiwi": {
+    "region": "Widespread across the upper two-thirds of New Zealand's main landmass, in a range of native forest and scrubland habitats; with about 35,000 individuals remaining, it is the most common of its family.",
+    "behavior": "A nocturnal, flightless species that probes the ground with its long bill to locate earthworms, insects, and berries by smell; uniquely among birds, it has nostrils at the very tip of its bill.",
+    "funFact": "The North Island brown kiwi lays one of the largest eggs relative to body size of any bird — an egg so proportionally enormous that it can account for up to 20% of the female's total body weight."
+  },
+  "black-browed-albatross": {
+    "region": "The most widespread and common of its family, this large seabird ranges widely across the Southern Ocean, breeding on subantarctic islands and foraging over cold productive waters.",
+    "behavior": "This species forages over open ocean, feeding on fish, squid, and crustaceans; like other members of its family, it uses dynamic soaring to cover vast distances with minimal energy expenditure.",
+    "funFact": "The black-browed albatross is the most common and widespread albatross in the world, yet it still faces serious threats from longline fishing, which kills tens of thousands of birds as bycatch every year."
+  },
+  "laysan-albatross": {
+    "region": "Ranges across the North Pacific; 99.7% of the world population breeds in the Northwestern Hawaiian Islands, making it the second-most common seabird in the Hawaiian archipelago.",
+    "behavior": "This large seabird soars efficiently over open ocean on long, narrow wings, feeding on squid and fish; like other members of its family, it covers enormous distances between breeding seasons.",
+    "funFact": "The Laysan albatross population is currently expanding to new island breeding sites, suggesting a species in active recovery — remarkable for a large seabird whose slow reproductive rate makes population growth very difficult."
+  },
+  "common-tern": {
+    "region": "Has a circumpolar breeding distribution across temperate and subarctic Europe, Asia, and North America; strongly migratory, wintering in coastal tropical and subtropical regions worldwide.",
+    "behavior": "This seabird plunge-dives for fish in both marine and freshwater habitats; it nests on any flat, poorly vegetated surface near water — beaches, gravel islands, and artificial rafts — laying up to three camouflaged eggs.",
+    "funFact": "The common tern breeds in a wider range of habitats than any of its relatives, nesting on natural beaches, gravel rooftops, and purpose-built floating rafts — a flexibility that has helped it persist as urban coastlines expand."
+  },
+  "sooty-tern": {
+    "region": "A seabird of tropical oceans worldwide, breeding on islands throughout the equatorial zone and ranging widely over open ocean between breeding seasons.",
+    "behavior": "This species can remain airborne for years at a time, skimming the sea surface to snatch prey without fully landing on water; it returns to land only to breed in dense island colonies.",
+    "funFact": "The sooty tern is one of the most aerial of all seabirds — young birds may spend years continuously aloft over the open ocean without once touching land or water, sleeping on the wing."
+  },
+  "great-frigatebird": {
+    "region": "Breeds in tropical Pacific colonies including Hawaii and the Galápagos Islands, in the Indian Ocean at the Seychelles and Mauritius, and in a tiny South Atlantic population around St. Helena and Ascension Island.",
+    "behavior": "This species feeds mainly on flying fish taken in flight from the ocean surface; less given to kleptoparasitism than its relatives, it forages in pelagic waters within about 80 km of its breeding colony.",
+    "funFact": "In breeding season, the male great frigatebird inflates a vivid scarlet throat pouch like a large balloon to attract females — a display visible from considerable distance across the open colony."
+  },
+  "magnificent-frigatebird": {
+    "region": "Occurs over tropical and subtropical waters of the Americas, from northern Mexico to Peru on the Pacific coast and from Florida to southern Brazil on the Atlantic, with populations also on the Galápagos and Cape Verde islands.",
+    "behavior": "One of the fastest birds in the world — capable of reaching 153 km/h — this species plucks flying fish from the ocean surface in flight and sometimes harasses other seabirds into dropping their catch.",
+    "funFact": "The magnificent frigatebird's striking red gular sac, inflated for minutes at a time during courtship displays, is so large it looks almost comically oversized — yet it is the key to attracting a mate in this highly competitive species."
+  },
+  "red-footed-booby": {
+    "region": "Found widely across the tropics, breeding colonially on isolated islands such as those in the Chagos Archipelago, Mauritius, and St. Brandon; adults always have bright red feet regardless of plumage colour morph.",
+    "behavior": "This powerful seabird catches flying fish by diving from above the ocean surface and also performs shallow plunge-dives; it is clumsy at takeoffs and landings but highly agile in flight over the open ocean.",
+    "funFact": "The red-footed booby is the most variable in plumage of all the booby species — adults may be entirely white, entirely brown, or a range of intermediate morphs, yet all reliably sport the same brilliant red feet."
+  },
+  "brown-booby": {
+    "region": "A pantropical species found across inshore and coastal waters worldwide, commuting and foraging at low height over the sea and nesting only on the ground on islands and coasts.",
+    "behavior": "Gregarious and social, this species commutes in flocks and plunge-dives cooperatively when small fish are driven to the surface by larger predators below; it roosts on solid objects rather than on water.",
+    "funFact": "The brown booby is one of the most common and widespread of its family, yet it relies on other marine predators to do much of the hunting work — diving in when tuna and dolphins push prey fish to the surface."
+  },
+  "king-penguin": {
+    "region": "Breeds on subantarctic islands at the northern reaches of Antarctica, including South Georgia, southern Argentina, Macquarie Island, and the Falkland Islands.",
+    "behavior": "A deep-diving species, this bird repeatedly descends to over 100 metres on foraging trips and has been recorded beyond 300 metres; it eats mainly lanternfish, squid, and krill.",
+    "funFact": "The king penguin was once hunted commercially to near-extinction for its blubber and oil, but today it is fully protected and its colonies have recovered to become among the most spectacular wildlife spectacles on Earth."
+  },
+  "gentoo-penguin": {
+    "region": "Found on subantarctic islands and the Antarctic Peninsula, with the type locality in the Falkland Islands; it inhabits cold southern ocean environments and breeds in coastal colonies.",
+    "behavior": "This species communicates with a loud, trumpeting call delivered with the head thrown back; it forages at sea for fish and krill, and is one of the fastest-swimming birds in the world.",
+    "funFact": "The gentoo penguin is the fastest-swimming bird on Earth, capable of reaching speeds of up to 36 km/h underwater — an ability that makes it one of the most agile penguin hunters of fish and krill."
+  },
+  "chinstrap-penguin": {
+    "region": "Inhabits various islands and shores of the Southern Pacific and Antarctic Oceans, breeding in colonies on rocky coastal terrain in some of the most remote areas of the Southern Hemisphere.",
+    "behavior": "Named for the distinctive narrow black band under its head, this species is known for its loud, harsh call and is an aggressive defender of its nest site on crowded rocky colonies.",
+    "funFact": "The chinstrap penguin's narrow black facial band gives it the appearance of wearing a military helmet, earning it the nickname 'stonecracker' — a nod to its remarkably loud, rasping call."
+  },
+  "adelie-penguin": {
+    "region": "Common along the entire coast of the Antarctic continent, the most widespread species in Antarctica and one of the most southerly distributed of any flightless seabird.",
+    "behavior": "This species obtains food by predation and foraging, diving for krill and fish; it breeds in enormous coastal colonies and makes long annual overland marches to and from its nesting sites.",
+    "funFact": "The Adélie penguin was named after Adèle Dumont d'Urville, the wife of the French explorer who first encountered this species in 1840 — making it one of very few animal species named for a specific woman."
+  },
+  "rockhopper-penguin": {
+    "region": "Found on subantarctic and southern temperate islands across the Southern Ocean, including the Falkland Islands, Tristan da Cunha, and islands off southern South America and the Indian Ocean.",
+    "behavior": "This crested species earns its name by hopping and scrambling up rocky cliff faces to reach its breeding colonies, often in dramatic, wave-swept locations inaccessible to other seabirds.",
+    "funFact": "Rockhopper penguins are the most aggressive of all penguin species, and colonies are filled with near-constant squabbling — yet these same combative birds faithfully return to the same nest site and partner year after year."
+  },
+  "great-grey-owl": {
+    "region": "Distributed across the Northern Hemisphere in boreal and montane forest, the only species in its genus found in both the Eastern and Western Hemispheres; ranges from North America across Eurasia to Siberia.",
+    "behavior": "This large owl hunts small mammals — especially voles — primarily by sound, using its enormous facial disc to detect prey moving beneath deep snow; it strikes through the snow surface to seize prey it cannot see.",
+    "funFact": "The great grey owl is the world's largest owl by length, yet it is much lighter than it appears — its massive size is largely an illusion created by extraordinarily dense, fluffy plumage insulating it against extreme cold."
+  },
+  "wild-turkey": {
+    "region": "Native to North America, where it is an upland game bird found across a wide range of woodland, forest edge, and open country habitats from southern Canada to Mexico.",
+    "behavior": "The heaviest member of the order Galliformes, this species forages on the ground for seeds, nuts, insects, and berries; males perform elaborate strutting displays with fanned tails to attract females during the breeding season.",
+    "funFact": "The wild turkey is the direct ancestor of the domestic turkey — originally domesticated from a southern Mexican subspecies, not the ocellated turkey, making every Thanksgiving bird a descendant of Mexican wild stock."
+  },
+  "rook": {
+    "region": "Found across the Palearctic from Scandinavia and western Europe to eastern Siberia; mainly a resident bird, with the northernmost populations migrating south to avoid the harshest winter weather.",
+    "behavior": "A gregarious species that forages in flocks on arable land and pasture, probing the ground with its strong bill for grubs, invertebrates, and soil-based prey; it also eats cereals and plant material.",
+    "funFact": "Rooks nest collectively in large, noisy colonies at the tops of tall trees called rookeries, often returning to the same site for generations — and their communal intelligence has made them a subject of scientific studies into tool use and problem-solving."
+  }
+}
