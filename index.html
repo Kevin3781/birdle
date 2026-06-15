@@ -21,6 +21,14 @@
       document.documentElement.setAttribute('data-theme', t);
     } catch (e) {}
   </script>
+  <!-- Heavy media (audio + photos) is served from a free CDN over the GitHub repo when
+       hosted on GitHub Pages, to keep Pages bandwidth low; locally it stays relative.
+       Silhouettes / JS / CSS / fonts are always bundled with the page. -->
+  <script>
+    window.ASSET_BASE = /\.github\.io$/.test(location.hostname)
+      ? 'https://cdn.jsdelivr.net/gh/Kevin3781/birdle@main'
+      : '';
+  </script>
 </head>
 <body>
 

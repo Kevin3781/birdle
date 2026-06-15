@@ -9759,7 +9759,7 @@ const BIRDS_INGESTED = [
     "regions": [
       "asia"
     ],
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Satyr_Tragopan%2C_Singalila_NP%2C_India.jpg/960px-Satyr_Tragopan%2C_Singalila_NP%2C_India.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20140417_Satyr-Tragopan_02.jpg/960px-20140417_Satyr-Tragopan_02.jpg",
     "audioUrl": "",
     "xenoCantoQuery": "Tragopan satyra",
     "focalPoint": {

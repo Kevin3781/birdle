@@ -9,6 +9,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg",
+    "photo": "photos/acorn-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/acorn-woodpecker.png"
   },
   "adelie-penguin": {
@@ -18,6 +19,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_(Pygoscelis_adeliae)_04.jpg",
+    "photo": "photos/adelie-penguin.jpg",
     "silhouette": "svg/silhouettes/species/adelie-penguin.png"
   },
   "african-crowned-eagle": {
@@ -27,6 +29,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Crowned_Eagle_(Stephanoaetus_coronatus)_with_prey_..._(29591438981).jpg",
+    "photo": "photos/african-crowned-eagle.jpg",
     "silhouette": "svg/silhouettes/species/african-crowned-eagle.png"
   },
   "african-fish-eagle": {
@@ -36,6 +39,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:African_fish_eagle_(Haliaeetus_vocifer).jpg",
+    "photo": "photos/african-fish-eagle.jpg",
     "silhouette": "svg/silhouettes/species/african-fish-eagle.png"
   },
   "african-grey-parrot": {
@@ -45,6 +49,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg",
+    "photo": "photos/african-grey-parrot.jpg",
     "silhouette": "svg/silhouettes/species/african-grey-parrot.png"
   },
   "african-jacana": {
@@ -54,6 +59,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:African_jacana_actophilornis_africanus.jpg",
+    "photo": "photos/african-jacana.jpg",
     "silhouette": "svg/silhouettes/species/african-jacana.png"
   },
   "african-penguin": {
@@ -63,6 +69,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(_1050602),_crop.jpg",
+    "photo": "photos/african-penguin.jpg",
     "silhouette": "svg/silhouettes/species/african-penguin.png"
   },
   "alexandrine-parakeet": {
@@ -72,6 +79,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Alexandrine_parakeet_(Psittacula_eupatria_eupatria)_male.jpg",
+    "photo": "photos/alexandrine-parakeet.jpg",
     "silhouette": "svg/silhouettes/species/alexandrine-parakeet.png"
   },
   "american-avocet": {
@@ -81,6 +89,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_Avocet1.jpg",
+    "photo": "photos/american-avocet.jpg",
     "silhouette": "svg/silhouettes/species/american-avocet.png"
   },
   "american-coot": {
@@ -90,6 +99,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_coot_in_Prospect_Park_(06152).jpg",
+    "photo": "photos/american-coot.jpg",
     "silhouette": "svg/silhouettes/species/american-coot.png"
   },
   "american-crow": {
@@ -99,6 +109,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus-brachyrhynchos-001.jpg",
+    "photo": "photos/american-crow.jpg",
     "silhouette": "svg/silhouettes/species/american-crow.png"
   },
   "american-dipper": {
@@ -108,6 +119,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:AmericanDipper.jpg",
+    "photo": "photos/american-dipper.jpg",
     "silhouette": "svg/silhouettes/species/american-dipper.png"
   },
   "american-flamingo": {
@@ -117,6 +129,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_Flamingo_JG.jpg",
+    "photo": "photos/american-flamingo.jpg",
     "silhouette": "svg/silhouettes/species/american-flamingo.png"
   },
   "american-goldfinch": {
@@ -126,6 +139,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Carduelis_tristis_-Michigan,_USA_-male-8.jpg",
+    "photo": "photos/american-goldfinch.jpg",
     "silhouette": "svg/silhouettes/species/american-goldfinch.png"
   },
   "american-kestrel": {
@@ -135,6 +149,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_Kestrel_(53468230687).jpg",
+    "photo": "photos/american-kestrel.jpg",
     "silhouette": "svg/silhouettes/species/american-kestrel.png"
   },
   "american-redstart": {
@@ -144,6 +159,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_redstart_in_JBWR_(24754).jpg",
+    "photo": "photos/american-redstart.jpg",
     "silhouette": "svg/silhouettes/species/american-redstart.png"
   },
   "american-robin": {
@@ -153,6 +169,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg",
+    "photo": "photos/american-robin.jpg",
     "silhouette": "svg/silhouettes/species/american-robin.png"
   },
   "american-white-pelican": {
@@ -162,6 +179,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_White_Pelican.jpg",
+    "photo": "photos/american-white-pelican.jpg",
     "silhouette": "svg/silhouettes/species/american-white-pelican.png"
   },
   "american-wigeon": {
@@ -171,6 +189,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_Wigeon_Male.jpg",
+    "photo": "photos/american-wigeon.jpg",
     "silhouette": "svg/silhouettes/species/american-wigeon.png"
   },
   "american-woodcock": {
@@ -180,6 +199,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_woodcock_(95252).jpg",
+    "photo": "photos/american-woodcock.jpg",
     "silhouette": "svg/silhouettes/species/american-woodcock.png"
   },
   "andean-cock-of-the-rock": {
@@ -189,6 +209,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Andean_cock-of-the-rock_(Rupicola_peruvianus_sanguinolentus)_male_Antioquia.jpg",
+    "photo": "photos/andean-cock-of-the-rock.jpg",
     "silhouette": "svg/silhouettes/species/andean-cock-of-the-rock.png"
   },
   "andean-condor": {
@@ -198,6 +219,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:AndeanCondorMale.jpg",
+    "photo": "photos/andean-condor.jpg",
     "silhouette": "svg/silhouettes/species/andean-condor.png"
   },
   "andean-flamingo": {
@@ -207,6 +229,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Andean_Flamingo,_Salta,_AR_imported_from_iNaturalist_photo_171995487.jpg",
+    "photo": "photos/andean-flamingo.jpg",
     "silhouette": "svg/silhouettes/species/andean-flamingo.png"
   },
   "annas-hummingbird": {
@@ -216,6 +239,7 @@ const BirdMedia = {
     "imageLicense": "Public domain",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Anna%27s_hummingbird.jpg",
+    "photo": "photos/annas-hummingbird.jpg",
     "silhouette": "svg/silhouettes/species/annas-hummingbird.png"
   },
   "arctic-tern": {
@@ -225,6 +249,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Arctic_tern_(Sterna_paradisaea)_Flatey_3.jpg",
+    "photo": "photos/arctic-tern.jpg",
     "silhouette": "svg/silhouettes/species/arctic-tern.png"
   },
   "asian-green-bee-eater": {
@@ -234,6 +259,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Green_bee-eater_(Merops_orientalis)_with_blue_pansy_4_Jojawar.jpg",
+    "photo": "photos/asian-green-bee-eater.jpg",
     "silhouette": "svg/silhouettes/species/asian-green-bee-eater.png"
   },
   "asian-koel": {
@@ -243,6 +269,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Asian_koel.jpg",
+    "photo": "photos/asian-koel.jpg",
     "silhouette": "svg/silhouettes/species/asian-koel.png"
   },
   "asian-openbill": {
@@ -252,6 +279,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Asian_openbill_(Anastomus_oscitans)_Pearaing.jpg",
+    "photo": "photos/asian-openbill.jpg",
     "silhouette": "svg/silhouettes/species/asian-openbill.png"
   },
   "atlantic-puffin": {
@@ -261,6 +289,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+    "photo": "photos/atlantic-puffin.jpg",
     "silhouette": "svg/silhouettes/species/atlantic-puffin.png"
   },
   "australasian-gannet": {
@@ -270,6 +299,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gannet_standing_in_Black_Reef_colony.jpg",
+    "photo": "photos/australasian-gannet.jpg",
     "silhouette": "svg/silhouettes/species/australasian-gannet.png"
   },
   "australian-king-parrot": {
@@ -279,6 +309,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Australian_King_Parrot_male_4737.jpg",
+    "photo": "photos/australian-king-parrot.jpg",
     "silhouette": "svg/silhouettes/species/australian-king-parrot.png"
   },
   "australian-magpie": {
@@ -288,6 +319,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cracticus_tibicen_hypoleuca_male_domain.jpg",
+    "photo": "photos/australian-magpie.jpg",
     "silhouette": "svg/silhouettes/species/australian-magpie.png"
   },
   "australian-pelican": {
@@ -297,6 +329,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pelecanus_conspicillatus_-_Doughboy_Head.jpg",
+    "photo": "photos/australian-pelican.jpg",
     "silhouette": "svg/silhouettes/species/australian-pelican.png"
   },
   "australian-raven": {
@@ -306,6 +339,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_coronoides_-_Doughboy_Head.jpg",
+    "photo": "photos/australian-raven.jpg",
     "silhouette": "svg/silhouettes/species/australian-raven.png"
   },
   "australian-wood-duck": {
@@ -315,6 +349,7 @@ const BirdMedia = {
     "imageLicense": "GFDL 1.2",
     "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Australian_wood_duck_-_male.jpg",
+    "photo": "photos/australian-wood-duck.jpg",
     "silhouette": "svg/silhouettes/species/australian-wood-duck.png"
   },
   "bald-eagle": {
@@ -324,6 +359,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bald_eagle_about_to_fly_in_Alaska_(2016).jpg",
+    "photo": "photos/bald-eagle.jpg",
     "silhouette": "svg/silhouettes/species/bald-eagle.png"
   },
   "baltimore-oriole": {
@@ -333,6 +369,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Baltimore_Oriole-_dorsum.jpg",
+    "photo": "photos/baltimore-oriole.jpg",
     "silhouette": "svg/silhouettes/species/baltimore-oriole.png"
   },
   "bar-headed-goose": {
@@ -342,6 +379,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bar-headed_Goose_AMSM5825_BHGE.jpg",
+    "photo": "photos/bar-headed-goose.jpg",
     "silhouette": "svg/silhouettes/species/bar-headed-goose.png"
   },
   "barn-owl": {
@@ -351,6 +389,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_Barn_Owl_(Tyto_furcata_guatemalae),_Orange_Walk.jpg",
+    "photo": "photos/barn-owl.jpg",
     "silhouette": "svg/silhouettes/species/barn-owl.png"
   },
   "barn-swallow": {
@@ -360,6 +399,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+    "photo": "photos/barn-swallow.jpg",
     "silhouette": "svg/silhouettes/species/barn-swallow.png"
   },
   "barnacle-goose": {
@@ -369,6 +409,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Barnacle-Goose.jpg",
+    "photo": "photos/barnacle-goose.jpg",
     "silhouette": "svg/silhouettes/species/barnacle-goose.png"
   },
   "barred-owl": {
@@ -378,6 +419,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Strix-varia-005.jpg",
+    "photo": "photos/barred-owl.jpg",
     "silhouette": "svg/silhouettes/species/barred-owl.png"
   },
   "bateleur": {
@@ -387,6 +429,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bataleur_-_Kruger_National_park_(37161617713).jpg",
+    "photo": "photos/bateleur.jpg",
     "silhouette": "svg/silhouettes/species/bateleur.png"
   },
   "baya-weaver": {
@@ -396,6 +439,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Baya_weaver_bird_on_its_nest_(India,_2022).jpg",
+    "photo": "photos/baya-weaver.jpg",
     "silhouette": "svg/silhouettes/species/baya-weaver.png"
   },
   "belted-kingfisher": {
@@ -405,6 +449,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:BeltedKingfisherJG_Male.jpg",
+    "photo": "photos/belted-kingfisher.jpg",
     "silhouette": "svg/silhouettes/species/belted-kingfisher.png"
   },
   "black-billed-magpie": {
@@ -414,6 +459,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:BlackBilledMagpie.jpg",
+    "photo": "photos/black-billed-magpie.jpg",
     "silhouette": "svg/silhouettes/species/black-billed-magpie.png"
   },
   "black-browed-albatross": {
@@ -423,6 +469,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Thalassarche_melanophrys_-_SE_Tasmania.jpg",
+    "photo": "photos/black-browed-albatross.jpg",
     "silhouette": "svg/silhouettes/species/black-browed-albatross.png"
   },
   "black-capped-chickadee": {
@@ -432,6 +479,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Poecile-atricapilla-001.jpg",
+    "photo": "photos/black-capped-chickadee.jpg",
     "silhouette": "svg/silhouettes/species/black-capped-chickadee.png"
   },
   "black-crowned-night-heron": {
@@ -441,6 +489,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Nycticorax_nycticorax_457953189.jpg",
+    "photo": "photos/black-crowned-night-heron.jpg",
     "silhouette": "svg/silhouettes/species/black-crowned-night-heron.png"
   },
   "black-drongo": {
@@ -450,6 +499,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bdrongo-Sandeep1.jpg",
+    "photo": "photos/black-drongo.jpg",
     "silhouette": "svg/silhouettes/species/black-drongo.png"
   },
   "black-headed-gull": {
@@ -459,6 +509,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_(summer).jpg",
+    "photo": "photos/black-headed-gull.jpg",
     "silhouette": "svg/silhouettes/species/black-headed-gull.png"
   },
   "black-headed-ibis": {
@@ -468,6 +519,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black-headed_Ibis_(Threskiornis_melanocephalus).jpg",
+    "photo": "photos/black-headed-ibis.jpg",
     "silhouette": "svg/silhouettes/species/black-headed-ibis.png"
   },
   "black-kite": {
@@ -477,6 +529,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Schwarzmilan.jpg",
+    "photo": "photos/black-kite.jpg",
     "silhouette": "svg/silhouettes/species/black-kite.png"
   },
   "black-legged-kittiwake": {
@@ -486,6 +539,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rissa_tridactyla_(Vard%C3%B8,_2012).jpg",
+    "photo": "photos/black-legged-kittiwake.jpg",
     "silhouette": "svg/silhouettes/species/black-legged-kittiwake.png"
   },
   "black-necked-stilt": {
@@ -495,6 +549,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black-necked_Stilt_(Himantopus_mexicanus),_Corte_Madera.jpg",
+    "photo": "photos/black-necked-stilt.jpg",
     "silhouette": "svg/silhouettes/species/black-necked-stilt.png"
   },
   "black-phoebe": {
@@ -504,6 +559,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black_phoebe_(Sayornis_nigricans_aquaticus)_Palopo.jpg",
+    "photo": "photos/black-phoebe.jpg",
     "silhouette": "svg/silhouettes/species/black-phoebe.png"
   },
   "black-redstart": {
@@ -513,6 +569,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rougequeue_noir_ichkeul057.jpg",
+    "photo": "photos/black-redstart.jpg",
     "silhouette": "svg/silhouettes/species/black-redstart.png"
   },
   "black-swan": {
@@ -522,6 +579,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black_swan_(Cygnus_atratus)_Scottsdale.jpg",
+    "photo": "photos/black-swan.jpg",
     "silhouette": "svg/silhouettes/species/black-swan.png"
   },
   "black-tailed-godwit": {
@@ -531,6 +589,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black-tailed_Godwit_Uferschnepfe.jpg",
+    "photo": "photos/black-tailed-godwit.jpg",
     "silhouette": "svg/silhouettes/species/black-tailed-godwit.png"
   },
   "black-vulture": {
@@ -540,6 +599,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black_vulture_(Coragyps_atratus_brasiliensis)_Peten.jpg",
+    "photo": "photos/black-vulture.jpg",
     "silhouette": "svg/silhouettes/species/black-vulture.png"
   },
   "black-winged-stilt": {
@@ -549,6 +609,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_(Himantopus_himantopus)_Pearaing.jpg",
+    "photo": "photos/black-winged-stilt.jpg",
     "silhouette": "svg/silhouettes/species/black-winged-stilt.png"
   },
   "blacksmith-lapwing": {
@@ -558,6 +619,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vanellus_armatus_-_Etosha_2014.jpg",
+    "photo": "photos/blacksmith-lapwing.jpg",
     "silhouette": "svg/silhouettes/species/blacksmith-lapwing.png"
   },
   "blood-pheasant": {
@@ -567,6 +629,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_Phrumsingla_National_Park_Bhutan.jpg",
+    "photo": "photos/blood-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/blood-pheasant.png"
   },
   "blue-and-yellow-macaw": {
@@ -576,6 +639,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ara_ararauna_Luc_Viatour.jpg",
+    "photo": "photos/blue-and-yellow-macaw.jpg",
     "silhouette": "svg/silhouettes/species/blue-and-yellow-macaw.png"
   },
   "blue-crowned-motmot": {
@@ -585,6 +649,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Blue_Crowned_Motmot_-_26676895852.jpg",
+    "photo": "photos/blue-crowned-motmot.jpg",
     "silhouette": "svg/silhouettes/species/blue-crowned-motmot.png"
   },
   "blue-footed-booby": {
@@ -594,6 +659,7 @@ const BirdMedia = {
     "imageLicense": "GFDL 1.2",
     "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Blue-footed-booby.jpg",
+    "photo": "photos/blue-footed-booby.jpg",
     "silhouette": "svg/silhouettes/species/blue-footed-booby.png"
   },
   "blue-grosbeak": {
@@ -603,6 +669,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Blue_Grosbeak_by_Dan_Pancamo.jpg",
+    "photo": "photos/blue-grosbeak.jpg",
     "silhouette": "svg/silhouettes/species/blue-grosbeak.png"
   },
   "blue-jay": {
@@ -612,6 +679,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Blue_jay_in_PP_(30960).jpg",
+    "photo": "photos/blue-jay.jpg",
     "silhouette": "svg/silhouettes/species/blue-jay.png"
   },
   "blue-winged-kookaburra": {
@@ -621,6 +689,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bluewingedkookaburra-male-2025.jpg",
+    "photo": "photos/blue-winged-kookaburra.jpg",
     "silhouette": "svg/silhouettes/species/blue-winged-kookaburra.png"
   },
   "blue-winged-teal": {
@@ -630,6 +699,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Blue-Winged_Teal.jpg",
+    "photo": "photos/blue-winged-teal.jpg",
     "silhouette": "svg/silhouettes/species/blue-winged-teal.png"
   },
   "bobolink": {
@@ -639,6 +709,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:20250702_adult_male_bobolink_glastonbury_meadows_squre_PD206841.jpg",
+    "photo": "photos/bobolink.jpg",
     "silhouette": "svg/silhouettes/species/bobolink.png"
   },
   "brahminy-kite": {
@@ -648,6 +719,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Haliastur_indus_136698204.jpg",
+    "photo": "photos/brahminy-kite.jpg",
     "silhouette": "svg/silhouettes/species/brahminy-kite.png"
   },
   "brent-goose": {
@@ -657,6 +729,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Atlantic_Brant_Fly-By_Wiki.png",
+    "photo": "photos/brent-goose.jpg",
     "silhouette": "svg/silhouettes/species/brent-goose.png"
   },
   "brolga": {
@@ -666,6 +739,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brolga-1-Healesville,-Vic,-3.1.2008_edit.jpg",
+    "photo": "photos/brolga.jpg",
     "silhouette": "svg/silhouettes/species/brolga.png"
   },
   "brown-booby": {
@@ -675,6 +749,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Atob%C3%A1-pardo.jpg",
+    "photo": "photos/brown-booby.jpg",
     "silhouette": "svg/silhouettes/species/brown-booby.png"
   },
   "brown-creeper": {
@@ -684,6 +759,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_creeper_(Certhia_americana)_in_Center_City,_Philadelphia,_PA,_USA.png",
+    "photo": "photos/brown-creeper.jpg",
     "silhouette": "svg/silhouettes/species/brown-creeper.png"
   },
   "brown-fish-owl": {
@@ -693,6 +769,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_fishing_owl.jpg",
+    "photo": "photos/brown-fish-owl.jpg",
     "silhouette": "svg/silhouettes/species/brown-fish-owl.png"
   },
   "brown-headed-cowbird": {
@@ -702,6 +779,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brown-headed_cowbird_male_(71126).jpg",
+    "photo": "photos/brown-headed-cowbird.jpg",
     "silhouette": "svg/silhouettes/species/brown-headed-cowbird.png"
   },
   "brown-pelican": {
@@ -711,6 +789,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_pelican_in_flight_(Bodega_Bay).jpg",
+    "photo": "photos/brown-pelican.jpg",
     "silhouette": "svg/silhouettes/species/brown-pelican.png"
   },
   "brown-thrasher": {
@@ -720,6 +799,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_thrasher_in_CP_(02147).jpg",
+    "photo": "photos/brown-thrasher.jpg",
     "silhouette": "svg/silhouettes/species/brown-thrasher.png"
   },
   "budgerigar": {
@@ -729,6 +809,7 @@ const BirdMedia = {
     "imageLicense": "GFDL 1.2",
     "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Budgerigar-male-strzelecki-qld.jpg",
+    "photo": "photos/budgerigar.jpg",
     "silhouette": "svg/silhouettes/species/budgerigar.png"
   },
   "bufflehead": {
@@ -738,6 +819,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Drake_Bufflehead_LBI_(cropped).png",
+    "photo": "photos/bufflehead.jpg",
     "silhouette": "svg/silhouettes/species/bufflehead.png"
   },
   "bullocks-oriole": {
@@ -747,6 +829,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bullock%27s_Oriole.jpg",
+    "photo": "photos/bullocks-oriole.jpg",
     "silhouette": "svg/silhouettes/species/bullocks-oriole.png"
   },
   "burrowing-owl": {
@@ -756,6 +839,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_burrowing_owl_(Athene_cunicularia_cunicularia)_Colonia.jpg",
+    "photo": "photos/burrowing-owl.jpg",
     "silhouette": "svg/silhouettes/species/burrowing-owl.png"
   },
   "burrowing-parrot": {
@@ -765,6 +849,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cyanoliseus_patagonus.jpg",
+    "photo": "photos/burrowing-parrot.jpg",
     "silhouette": "svg/silhouettes/species/burrowing-parrot.png"
   },
   "cactus-wren": {
@@ -774,6 +859,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cactus_Wren_Sandia_Mountains.jpg",
+    "photo": "photos/cactus-wren.jpg",
     "silhouette": "svg/silhouettes/species/cactus-wren.png"
   },
   "california-condor": {
@@ -783,6 +869,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:California-condor-gymnogyps-californianus-078_(21196759264).jpg",
+    "photo": "photos/california-condor.jpg",
     "silhouette": "svg/silhouettes/species/california-condor.png"
   },
   "california-quail": {
@@ -792,6 +879,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:California_quail_(Callipepla_californica)_male_Tricao.jpg",
+    "photo": "photos/california-quail.jpg",
     "silhouette": "svg/silhouettes/species/california-quail.png"
   },
   "canada-goose": {
@@ -801,6 +889,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Canada_goose.jpg",
+    "photo": "photos/canada-goose.jpg",
     "silhouette": "svg/silhouettes/species/canada-goose.png"
   },
   "canvasback": {
@@ -810,6 +899,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Aythya_valisineria_at_Las_Gallinas_Wildlife_Ponds.jpg",
+    "photo": "photos/canvasback.jpg",
     "silhouette": "svg/silhouettes/species/canvasback.png"
   },
   "cape-gannet": {
@@ -819,6 +909,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cape_gannet_(Morus_capensis)_sideview.jpg",
+    "photo": "photos/cape-gannet.jpg",
     "silhouette": "svg/silhouettes/species/cape-gannet.png"
   },
   "cape-sugarbird": {
@@ -828,6 +919,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cape_Sugarbird_(Promerops_cafer).jpg",
+    "photo": "photos/cape-sugarbird.jpg",
     "silhouette": "svg/silhouettes/species/cape-sugarbird.png"
   },
   "cape-weaver": {
@@ -837,6 +929,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ploceus_capensis_-Johannesburg,_South_Africa_-male-8.jpg",
+    "photo": "photos/cape-weaver.jpg",
     "silhouette": "svg/silhouettes/species/cape-weaver.png"
   },
   "carolina-chickadee": {
@@ -846,6 +939,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Carolina_Chickadee1_by_Dan_Pancamo.jpg",
+    "photo": "photos/carolina-chickadee.jpg",
     "silhouette": "svg/silhouettes/species/carolina-chickadee.png"
   },
   "carolina-wren": {
@@ -855,6 +949,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Carolina_wren_(14391).jpg",
+    "photo": "photos/carolina-wren.jpg",
     "silhouette": "svg/silhouettes/species/carolina-wren.png"
   },
   "carrion-crow": {
@@ -864,6 +959,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Carrion_crow_2022_04_05_05_02.jpg",
+    "photo": "photos/carrion-crow.jpg",
     "silhouette": "svg/silhouettes/species/carrion-crow.png"
   },
   "cedar-waxwing": {
@@ -873,6 +969,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cedar_Waxwing_-_Bombycilla_cedrorum,_George_Washington%27s_Birthplace_National_Monument,_Colonial_Beach,_Virginia_(39997434862).jpg",
+    "photo": "photos/cedar-waxwing.jpg",
     "silhouette": "svg/silhouettes/species/cedar-waxwing.png"
   },
   "channel-billed-toucan": {
@@ -882,6 +979,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ramphastos_vitellinus_-Matsue_Vogel_Park-8a-4c.jpg",
+    "photo": "photos/channel-billed-toucan.jpg",
     "silhouette": "svg/silhouettes/species/channel-billed-toucan.png"
   },
   "chilean-flamingo": {
@@ -891,6 +989,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Chilean_Flamingo,_Poza_La_Arenilla,_El_Callao_imported_from_iNaturalist_photo_517735784.jpg",
+    "photo": "photos/chilean-flamingo.jpg",
     "silhouette": "svg/silhouettes/species/chilean-flamingo.png"
   },
   "chimney-swift": {
@@ -900,6 +999,7 @@ const BirdMedia = {
     "imageLicense": "CC0",
     "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Chaetura_pelagica,_by_Lake_Erie,_Cleveland,_Ohio,_USA_339593191.jpg",
+    "photo": "photos/chimney-swift.jpg",
     "silhouette": "svg/silhouettes/species/chimney-swift.png"
   },
   "chinstrap-penguin": {
@@ -909,6 +1009,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg",
+    "photo": "photos/chinstrap-penguin.jpg",
     "silhouette": "svg/silhouettes/species/chinstrap-penguin.png"
   },
   "chipping-sparrow": {
@@ -918,6 +1019,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Spizella-passerina-015_edit.jpg",
+    "photo": "photos/chipping-sparrow.jpg",
     "silhouette": "svg/silhouettes/species/chipping-sparrow.png"
   },
   "clarks-nutcracker": {
@@ -927,6 +1029,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:ClarksNutcracker.jpg",
+    "photo": "photos/clarks-nutcracker.jpg",
     "silhouette": "svg/silhouettes/species/clarks-nutcracker.png"
   },
   "coal-tit": {
@@ -936,6 +1039,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Coal_Tit_2026_03_23.jpg",
+    "photo": "photos/coal-tit.jpg",
     "silhouette": "svg/silhouettes/species/coal-tit.png"
   },
   "cockatiel": {
@@ -945,6 +1049,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cockatiel_3.jpg",
+    "photo": "photos/cockatiel.jpg",
     "silhouette": "svg/silhouettes/species/cockatiel.png"
   },
   "common-blackbird": {
@@ -954,6 +1059,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Blackbird.jpg",
+    "photo": "photos/common-blackbird.jpg",
     "silhouette": "svg/silhouettes/species/common-blackbird.png"
   },
   "common-buzzard": {
@@ -963,6 +1069,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Buzzard_by_caroline_legg_(cropped).jpg",
+    "photo": "photos/common-buzzard.jpg",
     "silhouette": "svg/silhouettes/species/common-buzzard.png"
   },
   "common-chaffinch": {
@@ -972,6 +1079,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Male_Chaffinch_-_Fringilla_coelebs.jpg",
+    "photo": "photos/common-chaffinch.jpg",
     "silhouette": "svg/silhouettes/species/common-chaffinch.png"
   },
   "common-crane": {
@@ -981,6 +1089,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_crane_grus_grus.jpg",
+    "photo": "photos/common-crane.jpg",
     "silhouette": "svg/silhouettes/species/common-crane.png"
   },
   "common-cuckoo": {
@@ -990,6 +1099,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cuckoo_(51169010335).jpg",
+    "photo": "photos/common-cuckoo.jpg",
     "silhouette": "svg/silhouettes/species/common-cuckoo.png"
   },
   "common-eider": {
@@ -999,6 +1109,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg",
+    "photo": "photos/common-eider.jpg",
     "silhouette": "svg/silhouettes/species/common-eider.png"
   },
   "common-gallinule": {
@@ -1008,6 +1119,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common-gallinule-galapagos-casey-klebba.jpg",
+    "photo": "photos/common-gallinule.jpg",
     "silhouette": "svg/silhouettes/species/common-gallinule.png"
   },
   "common-goldeneye": {
@@ -1017,6 +1129,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_(Bucephala_clangula).jpg",
+    "photo": "photos/common-goldeneye.jpg",
     "silhouette": "svg/silhouettes/species/common-goldeneye.png"
   },
   "common-grackle": {
@@ -1026,6 +1139,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_grackle_in_PP_(36732).jpg",
+    "photo": "photos/common-grackle.jpg",
     "silhouette": "svg/silhouettes/species/common-grackle.png"
   },
   "common-guillemot": {
@@ -1035,6 +1149,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Murre_Uria_aalge.jpg",
+    "photo": "photos/common-guillemot.jpg",
     "silhouette": "svg/silhouettes/species/common-guillemot.png"
   },
   "common-house-martin": {
@@ -1044,6 +1159,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+    "photo": "photos/common-house-martin.jpg",
     "silhouette": "svg/silhouettes/species/common-house-martin.png"
   },
   "common-kestrel": {
@@ -1053,6 +1169,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+    "photo": "photos/common-kestrel.jpg",
     "silhouette": "svg/silhouettes/species/common-kestrel.png"
   },
   "common-kingfisher": {
@@ -1062,6 +1179,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Alcedo_atthis_-England-8_(cropped).jpg",
+    "photo": "photos/common-kingfisher.jpg",
     "silhouette": "svg/silhouettes/species/common-kingfisher.png"
   },
   "common-linnet": {
@@ -1071,6 +1189,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
+    "photo": "photos/common-linnet.jpg",
     "silhouette": "svg/silhouettes/species/common-linnet.png"
   },
   "common-loon": {
@@ -1080,6 +1199,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gavia_immer_-Minocqua,_Wisconsin,_USA_-swimming-8.jpg",
+    "photo": "photos/common-loon.jpg",
     "silhouette": "svg/silhouettes/species/common-loon.png"
   },
   "common-merganser": {
@@ -1089,6 +1209,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_merganser_2078_(5561922560).jpg",
+    "photo": "photos/common-merganser.jpg",
     "silhouette": "svg/silhouettes/species/common-merganser.png"
   },
   "common-moorhen": {
@@ -1098,6 +1219,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg",
+    "photo": "photos/common-moorhen.jpg",
     "silhouette": "svg/silhouettes/species/common-moorhen.png"
   },
   "common-myna": {
@@ -1107,6 +1229,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis00.jpg",
+    "photo": "photos/common-myna.jpg",
     "silhouette": "svg/silhouettes/species/common-myna.png"
   },
   "common-nighthawk": {
@@ -1116,6 +1239,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Nighthawk_(14428313550).jpg",
+    "photo": "photos/common-nighthawk.jpg",
     "silhouette": "svg/silhouettes/species/common-nighthawk.png"
   },
   "common-nightingale": {
@@ -1125,6 +1249,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_(cropped).jpg",
+    "photo": "photos/common-nightingale.jpg",
     "silhouette": "svg/silhouettes/species/common-nightingale.png"
   },
   "common-ostrich": {
@@ -1134,6 +1259,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_(3).jpg",
+    "photo": "photos/common-ostrich.jpg",
     "silhouette": "svg/silhouettes/species/common-ostrich.png"
   },
   "common-pheasant": {
@@ -1143,6 +1269,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_pheasant_(Phasianus_colchicus)_male_Heligan.jpg",
+    "photo": "photos/common-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/common-pheasant.png"
   },
   "common-pochard": {
@@ -1152,6 +1279,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Pochard_2025_11_15_04.jpg",
+    "photo": "photos/common-pochard.jpg",
     "silhouette": "svg/silhouettes/species/common-pochard.png"
   },
   "common-quail": {
@@ -1161,6 +1289,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix,_Fraunberg,_Bayern,_Deutschland_1,_Ausschnitt.jpg",
+    "photo": "photos/common-quail.jpg",
     "silhouette": "svg/silhouettes/species/common-quail.png"
   },
   "common-raven": {
@@ -1170,6 +1299,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_corax.jpg",
+    "photo": "photos/common-raven.jpg",
     "silhouette": "svg/silhouettes/species/common-raven.png"
   },
   "common-redshank": {
@@ -1179,6 +1309,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_redshank_(Tringa_totanus)_breeding_Marken.jpg",
+    "photo": "photos/common-redshank.jpg",
     "silhouette": "svg/silhouettes/species/common-redshank.png"
   },
   "common-redstart": {
@@ -1188,6 +1319,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08(js),_Lodz_(Poland).jpg",
+    "photo": "photos/common-redstart.jpg",
     "silhouette": "svg/silhouettes/species/common-redstart.png"
   },
   "common-reed-bunting": {
@@ -1197,6 +1329,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Reed_Bunting_-_Emberiza_schoeniclus_(52015951301).jpg",
+    "photo": "photos/common-reed-bunting.jpg",
     "silhouette": "svg/silhouettes/species/common-reed-bunting.png"
   },
   "common-shelduck": {
@@ -1206,6 +1339,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Shellduck_(Tadorna_tadorna)_(26499348215).jpg",
+    "photo": "photos/common-shelduck.jpg",
     "silhouette": "svg/silhouettes/species/common-shelduck.png"
   },
   "common-starling": {
@@ -1215,6 +1349,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg",
+    "photo": "photos/common-starling.jpg",
     "silhouette": "svg/silhouettes/species/common-starling.png"
   },
   "common-swift": {
@@ -1224,6 +1359,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02_(cropped).jpg",
+    "photo": "photos/common-swift.jpg",
     "silhouette": "svg/silhouettes/species/common-swift.png"
   },
   "common-teal": {
@@ -1233,6 +1369,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_(Anas_crecca_crecca)_male_Qingshui.jpg",
+    "photo": "photos/common-teal.jpg",
     "silhouette": "svg/silhouettes/species/common-teal.png"
   },
   "common-tern": {
@@ -1242,6 +1379,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:2014-05-18_Sterna_hirundo,_Killingworth_Lake,_Northumberland_04.jpg",
+    "photo": "photos/common-tern.jpg",
     "silhouette": "svg/silhouettes/species/common-tern.png"
   },
   "common-wood-pigeon": {
@@ -1251,6 +1389,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_EM1B1397_(27445478998).jpg",
+    "photo": "photos/common-wood-pigeon.jpg",
     "silhouette": "svg/silhouettes/species/common-wood-pigeon.png"
   },
   "common-yellowthroat": {
@@ -1260,6 +1399,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_yellowthroat_in_PP_(14155).jpg",
+    "photo": "photos/common-yellowthroat.jpg",
     "silhouette": "svg/silhouettes/species/common-yellowthroat.png"
   },
   "coopers-hawk": {
@@ -1269,6 +1409,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg",
+    "photo": "photos/coopers-hawk.jpg",
     "silhouette": "svg/silhouettes/species/coopers-hawk.png"
   },
   "coppersmith-barbet": {
@@ -1278,6 +1419,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Coppersmith_Barbet_(Megalaima_haemacephala)_by_Shantanu_Kuveskar.jpg",
+    "photo": "photos/coppersmith-barbet.jpg",
     "silhouette": "svg/silhouettes/species/coppersmith-barbet.png"
   },
   "crested-caracara": {
@@ -1287,6 +1429,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Schopfkarakara.jpg",
+    "photo": "photos/crested-caracara.jpg",
     "silhouette": "svg/silhouettes/species/crested-caracara.png"
   },
   "crested-serpent-eagle": {
@@ -1296,6 +1439,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Spilornis_cheela_(Bandipur,_2008).jpg",
+    "photo": "photos/crested-serpent-eagle.jpg",
     "silhouette": "svg/silhouettes/species/crested-serpent-eagle.png"
   },
   "crimson-chat": {
@@ -1305,6 +1449,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Crimson_Chat_Newhaven_Sep04.JPG",
+    "photo": "photos/crimson-chat.jpg",
     "silhouette": "svg/silhouettes/species/crimson-chat.png"
   },
   "crimson-rosella": {
@@ -1314,6 +1459,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Platycercus_elegans_Wilsons_Prom.jpg",
+    "photo": "photos/crimson-rosella.jpg",
     "silhouette": "svg/silhouettes/species/crimson-rosella.png"
   },
   "crimson-sunbird": {
@@ -1323,6 +1469,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:0A2A6965_Crimson_Sunbird.jpg",
+    "photo": "photos/crimson-sunbird.jpg",
     "silhouette": "svg/silhouettes/species/crimson-sunbird.png"
   },
   "crimson-topaz": {
@@ -1332,6 +1479,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Crimson_Topaz_(Topaza_pella).jpg",
+    "photo": "photos/crimson-topaz.jpg",
     "silhouette": "svg/silhouettes/species/crimson-topaz.png"
   },
   "crowned-lapwing": {
@@ -1341,6 +1489,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Avefr%C3%ADa_coronada_(Vanellus_coronatus),_Santuario_de_Rinocerontes_Khama,_Botsuana,_2018-08-02,_DD_22.jpg",
+    "photo": "photos/crowned-lapwing.jpg",
     "silhouette": "svg/silhouettes/species/crowned-lapwing.png"
   },
   "dark-eyed-junco": {
@@ -1350,6 +1499,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Junco_hyemalis_hyemalis_CT1_(cropped).jpg",
+    "photo": "photos/dark-eyed-junco.jpg",
     "silhouette": "svg/silhouettes/species/dark-eyed-junco.png"
   },
   "demoiselle-crane": {
@@ -1359,6 +1509,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Demoiselle_Cranes_at_Tal_Chappar.jpg",
+    "photo": "photos/demoiselle-crane.jpg",
     "silhouette": "svg/silhouettes/species/demoiselle-crane.png"
   },
   "double-crested-cormorant": {
@@ -1368,6 +1519,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Phalacrocorax-auritus-007.jpg",
+    "photo": "photos/double-crested-cormorant.jpg",
     "silhouette": "svg/silhouettes/species/double-crested-cormorant.png"
   },
   "downy-woodpecker": {
@@ -1377,6 +1529,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Dryobates_pubescens_UL_03.jpg",
+    "photo": "photos/downy-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/downy-woodpecker.png"
   },
   "dunnock": {
@@ -1386,6 +1539,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Dunnock_(Prunella_modularis)_3.jpg",
+    "photo": "photos/dunnock.jpg",
     "silhouette": "svg/silhouettes/species/dunnock.png"
   },
   "eastern-bluebird": {
@@ -1395,6 +1549,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sialia_sialis_-Michigan,_USA_-pair-8c.jpg",
+    "photo": "photos/eastern-bluebird.jpg",
     "silhouette": "svg/silhouettes/species/eastern-bluebird.png"
   },
   "eastern-kingbird": {
@@ -1404,6 +1559,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eastern_kingbird_on_the_hunt_(56948).jpg",
+    "photo": "photos/eastern-kingbird.jpg",
     "silhouette": "svg/silhouettes/species/eastern-kingbird.png"
   },
   "eastern-meadowlark": {
@@ -1413,6 +1569,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eastern_meadowlark_(Sturnella_magna_mexicana)_Orange_Walk.jpg",
+    "photo": "photos/eastern-meadowlark.jpg",
     "silhouette": "svg/silhouettes/species/eastern-meadowlark.png"
   },
   "eastern-phoebe": {
@@ -1422,6 +1579,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sayornis_phoebe_-Owen_Conservation_Park,_Madison,_Wisconsin,_USA-8.jpg",
+    "photo": "photos/eastern-phoebe.jpg",
     "silhouette": "svg/silhouettes/species/eastern-phoebe.png"
   },
   "eastern-rosella": {
@@ -1431,6 +1589,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Platycercus_eximius_diemenensis_male.jpg",
+    "photo": "photos/eastern-rosella.jpg",
     "silhouette": "svg/silhouettes/species/eastern-rosella.png"
   },
   "eastern-screech-owl": {
@@ -1440,6 +1599,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eastern_Screech_Owl.jpg",
+    "photo": "photos/eastern-screech-owl.jpg",
     "silhouette": "svg/silhouettes/species/eastern-screech-owl.png"
   },
   "eastern-towhee": {
@@ -1449,6 +1609,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:20241004_eastern_towhee_pleasant_valley_PD207764.jpg",
+    "photo": "photos/eastern-towhee.jpg",
     "silhouette": "svg/silhouettes/species/eastern-towhee.png"
   },
   "egyptian-goose": {
@@ -1458,6 +1619,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Egyptian_goose_(Alopochen_aegyptiaca)_London.jpg",
+    "photo": "photos/egyptian-goose.jpg",
     "silhouette": "svg/silhouettes/species/egyptian-goose.png"
   },
   "emperor-penguin": {
@@ -1467,6 +1629,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "photo": "photos/emperor-penguin.jpg",
     "silhouette": "svg/silhouettes/species/emperor-penguin.png"
   },
   "emu": {
@@ -1476,6 +1639,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg",
+    "photo": "photos/emu.jpg",
     "silhouette": "svg/silhouettes/species/emu.png"
   },
   "eurasian-bittern": {
@@ -1485,6 +1649,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_(15409347121).jpg",
+    "photo": "photos/eurasian-bittern.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-bittern.png"
   },
   "eurasian-blue-tit": {
@@ -1494,6 +1659,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_blue_tit_(Cyanistes_caeruleus_caeruleus)_Biebrzanski.jpg",
+    "photo": "photos/eurasian-blue-tit.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-blue-tit.png"
   },
   "eurasian-bullfinch": {
@@ -1503,6 +1669,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bullfinch_male.jpg",
+    "photo": "photos/eurasian-bullfinch.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-bullfinch.png"
   },
   "eurasian-collared-dove": {
@@ -1512,6 +1679,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto,_Plovdiv,_Bulgaria_1.jpg",
+    "photo": "photos/eurasian-collared-dove.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-collared-dove.png"
   },
   "eurasian-coot": {
@@ -1521,6 +1689,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot_2023_11_25_03.jpg",
+    "photo": "photos/eurasian-coot.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-coot.png"
   },
   "eurasian-curlew": {
@@ -1530,6 +1699,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Curlew.jpg",
+    "photo": "photos/eurasian-curlew.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-curlew.png"
   },
   "eurasian-eagle-owl": {
@@ -1539,6 +1709,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_3_(Martin_Mecnarowski).jpg",
+    "photo": "photos/eurasian-eagle-owl.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-eagle-owl.png"
   },
   "eurasian-hobby": {
@@ -1548,6 +1719,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg",
+    "photo": "photos/eurasian-hobby.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-hobby.png"
   },
   "eurasian-hoopoe": {
@@ -1557,6 +1729,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Israel._Eurasian_Hoopoe_(6497645007).jpg",
+    "photo": "photos/eurasian-hoopoe.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-hoopoe.png"
   },
   "eurasian-jay": {
@@ -1566,6 +1739,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
+    "photo": "photos/eurasian-jay.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-jay.png"
   },
   "eurasian-magpie": {
@@ -1575,6 +1749,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_(10860).jpg",
+    "photo": "photos/eurasian-magpie.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-magpie.png"
   },
   "eurasian-nuthatch": {
@@ -1584,6 +1759,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Kleiber_Sitta_europaea-0447.jpg",
+    "photo": "photos/eurasian-nuthatch.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-nuthatch.png"
   },
   "eurasian-oystercatcher": {
@@ -1593,6 +1769,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_He.jpg",
+    "photo": "photos/eurasian-oystercatcher.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-oystercatcher.png"
   },
   "eurasian-siskin": {
@@ -1602,6 +1779,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_male_Biebrzanski.jpg",
+    "photo": "photos/eurasian-siskin.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-siskin.png"
   },
   "eurasian-skylark": {
@@ -1611,6 +1789,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Skylark_2,_Lake_District,_England_-_June_2009.jpg",
+    "photo": "photos/eurasian-skylark.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-skylark.png"
   },
   "eurasian-sparrowhawk": {
@@ -1620,6 +1799,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_(Accipiter_nisus,_m),_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg",
+    "photo": "photos/eurasian-sparrowhawk.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-sparrowhawk.png"
   },
   "eurasian-spoonbill": {
@@ -1629,6 +1809,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Spoonbill-2.jpg",
+    "photo": "photos/eurasian-spoonbill.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-spoonbill.png"
   },
   "eurasian-tree-sparrow": {
@@ -1638,6 +1819,7 @@ const BirdMedia = {
     "imageLicense": "Public domain",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tree_Sparrow_August_2007_Osaka_Japan.jpg",
+    "photo": "photos/eurasian-tree-sparrow.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-tree-sparrow.png"
   },
   "eurasian-treecreeper": {
@@ -1647,6 +1829,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_Treecreeper_-_Certhia_familiaris_(54192274817).jpg",
+    "photo": "photos/eurasian-treecreeper.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-treecreeper.png"
   },
   "eurasian-wigeon": {
@@ -1656,6 +1839,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eurasian_wigeon_in_Sakai,_Osaka,_February_2016.jpg",
+    "photo": "photos/eurasian-wigeon.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-wigeon.png"
   },
   "eurasian-woodcock": {
@@ -1665,6 +1849,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Woodcock_earthworm.jpg",
+    "photo": "photos/eurasian-woodcock.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-woodcock.png"
   },
   "eurasian-wryneck": {
@@ -1674,6 +1859,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+    "photo": "photos/eurasian-wryneck.jpg",
     "silhouette": "svg/silhouettes/species/eurasian-wryneck.png"
   },
   "european-bee-eater": {
@@ -1683,6 +1869,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bee-eater_(19270331108).jpg",
+    "photo": "photos/european-bee-eater.jpg",
     "silhouette": "svg/silhouettes/species/european-bee-eater.png"
   },
   "european-golden-plover": {
@@ -1692,6 +1879,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:European_golden_plover_(Pluvialis_apricaria)_female_breeding_Keflavik.jpg",
+    "photo": "photos/european-golden-plover.jpg",
     "silhouette": "svg/silhouettes/species/european-golden-plover.png"
   },
   "european-goldfinch": {
@@ -1701,6 +1889,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/european-goldfinch.jpg",
     "silhouette": "svg/silhouettes/species/european-goldfinch.png"
   },
   "european-green-woodpecker": {
@@ -1710,6 +1899,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:European_green_woodpecker_(Picus_viridis)_female_Barnes.jpg",
+    "photo": "photos/european-green-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/european-green-woodpecker.png"
   },
   "european-greenfinch": {
@@ -1719,6 +1909,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_(profile).jpg",
+    "photo": "photos/european-greenfinch.jpg",
     "silhouette": "svg/silhouettes/species/european-greenfinch.png"
   },
   "european-herring-gull": {
@@ -1728,6 +1919,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:European_herring_gull_vocalizing_(00170).jpg",
+    "photo": "photos/european-herring-gull.jpg",
     "silhouette": "svg/silhouettes/species/european-herring-gull.png"
   },
   "european-pied-flycatcher": {
@@ -1737,6 +1929,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve,_Scotland_-male-8a.jpg",
+    "photo": "photos/european-pied-flycatcher.jpg",
     "silhouette": "svg/silhouettes/species/european-pied-flycatcher.png"
   },
   "european-robin": {
@@ -1746,6 +1939,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg",
+    "photo": "photos/european-robin.jpg",
     "silhouette": "svg/silhouettes/species/european-robin.png"
   },
   "european-roller": {
@@ -1755,6 +1949,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:European_Roller_(Coracias_garrulus)_(16475688389).jpg",
+    "photo": "photos/european-roller.jpg",
     "silhouette": "svg/silhouettes/species/european-roller.png"
   },
   "european-stonechat": {
@@ -1764,6 +1959,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Stonechat_(Saxicola_rubicola)_male,_Beaulieu,_Hampshire.jpg",
+    "photo": "photos/european-stonechat.jpg",
     "silhouette": "svg/silhouettes/species/european-stonechat.png"
   },
   "european-turtle-dove": {
@@ -1773,6 +1969,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Turtle_dove_(Streptopelia_turtur_turtur)_Hungary.jpg",
+    "photo": "photos/european-turtle-dove.jpg",
     "silhouette": "svg/silhouettes/species/european-turtle-dove.png"
   },
   "fieldfare": {
@@ -1782,6 +1979,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Turdus_pilaris_EM1B9020_(34450664312).jpg",
+    "photo": "photos/fieldfare.jpg",
     "silhouette": "svg/silhouettes/species/fieldfare.png"
   },
   "fischers-lovebird": {
@@ -1791,6 +1989,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Agapornis_fischeri_-Ueno_Zoo,_Japan_-three-8a-4c.jpg",
+    "photo": "photos/fischers-lovebird.jpg",
     "silhouette": "svg/silhouettes/species/fischers-lovebird.png"
   },
   "gadwall": {
@@ -1800,6 +1999,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gadwall-Anas-strepera.jpg",
+    "photo": "photos/gadwall.jpg",
     "silhouette": "svg/silhouettes/species/gadwall.png"
   },
   "galah": {
@@ -1809,6 +2009,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Galah_(Eolophus_roseicapilla_albiceps)_male_Adelaide.jpg",
+    "photo": "photos/galah.jpg",
     "silhouette": "svg/silhouettes/species/galah.png"
   },
   "gang-gang-cockatoo": {
@@ -1818,6 +2019,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Callocephalon_fimbriatum_male_-_Callum_Brae.jpg",
+    "photo": "photos/gang-gang-cockatoo.jpg",
     "silhouette": "svg/silhouettes/species/gang-gang-cockatoo.png"
   },
   "gentoo-penguin": {
@@ -1827,6 +2029,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gentoo_penguin_distribution.svg",
+    "photo": "photos/gentoo-penguin.jpg",
     "silhouette": "svg/silhouettes/species/gentoo-penguin.png"
   },
   "golden-crowned-kinglet": {
@@ -1836,6 +2039,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Golden-Crowned_Kinglet_EBFNWR.jpg",
+    "photo": "photos/golden-crowned-kinglet.jpg",
     "silhouette": "svg/silhouettes/species/golden-crowned-kinglet.png"
   },
   "golden-eagle": {
@@ -1845,6 +2049,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/golden-eagle.jpg",
     "silhouette": "svg/silhouettes/species/golden-eagle.png"
   },
   "golden-pheasant": {
@@ -1854,6 +2059,7 @@ const BirdMedia = {
     "imageLicense": "Public domain",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Fasanhona-1.jpg",
+    "photo": "photos/golden-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/golden-pheasant.png"
   },
   "goliath-heron": {
@@ -1863,6 +2069,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ardea_goliath_-Lake_Baringo,_Kenya-8.jpg",
+    "photo": "photos/goliath-heron.jpg",
     "silhouette": "svg/silhouettes/species/goliath-heron.png"
   },
   "goosander": {
@@ -1872,6 +2079,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_merganser_2078_(5561922560).jpg",
+    "photo": "photos/goosander.jpg",
     "silhouette": "svg/silhouettes/species/goosander.png"
   },
   "gray-catbird": {
@@ -1881,6 +2089,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gray_catbird_(85315).jpg",
+    "photo": "photos/gray-catbird.jpg",
     "silhouette": "svg/silhouettes/species/gray-catbird.png"
   },
   "great-blue-heron": {
@@ -1890,6 +2099,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:GreatBlueHeronInARiver.jpg",
+    "photo": "photos/great-blue-heron.jpg",
     "silhouette": "svg/silhouettes/species/great-blue-heron.png"
   },
   "great-cormorant": {
@@ -1899,6 +2109,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:2021-05-05_Phalacrocorax_carbo_carbo,_Killingworth_Lake,_Northumberland_1-1.jpg",
+    "photo": "photos/great-cormorant.jpg",
     "silhouette": "svg/silhouettes/species/great-cormorant.png"
   },
   "great-crested-flycatcher": {
@@ -1908,6 +2119,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:GreatCrestedFlycatcher.jpg",
+    "photo": "photos/great-crested-flycatcher.jpg",
     "silhouette": "svg/silhouettes/species/great-crested-flycatcher.png"
   },
   "great-crested-grebe": {
@@ -1917,6 +2129,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Podiceps_cristatus_2_-_Lake_Dulverton.jpg",
+    "photo": "photos/great-crested-grebe.jpg",
     "silhouette": "svg/silhouettes/species/great-crested-grebe.png"
   },
   "great-egret": {
@@ -1926,6 +2139,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Great_Egret_(Ardea_alba)_in_Breeding_Plumage,_Cape_May_County,_New_Jersey,_USA_(cropped).png",
+    "photo": "photos/great-egret.jpg",
     "silhouette": "svg/silhouettes/species/great-egret.png"
   },
   "great-frigatebird": {
@@ -1935,6 +2149,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Male_greater_frigate_bird_displaying.jpg",
+    "photo": "photos/great-frigatebird.jpg",
     "silhouette": "svg/silhouettes/species/great-frigatebird.png"
   },
   "great-grey-owl": {
@@ -1944,6 +2159,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D0%B0%D1%8F_%D0%BD%D0%B5%D1%8F%D1%81%D1%8B%D1%82%D1%8C_(Strix_nebulosa,_m),_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4.jpg",
+    "photo": "photos/great-grey-owl.jpg",
     "silhouette": "svg/silhouettes/species/great-grey-owl.png"
   },
   "great-hornbill": {
@@ -1953,6 +2169,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+    "photo": "photos/great-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/great-hornbill.png"
   },
   "great-horned-owl": {
@@ -1962,6 +2179,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bubo_virginianus_06.jpg",
+    "photo": "photos/great-horned-owl.jpg",
     "silhouette": "svg/silhouettes/species/great-horned-owl.png"
   },
   "great-kiskadee": {
@@ -1971,6 +2189,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Great_kiskadee_(70240).jpg",
+    "photo": "photos/great-kiskadee.jpg",
     "silhouette": "svg/silhouettes/species/great-kiskadee.png"
   },
   "great-spotted-woodpecker": {
@@ -1980,6 +2199,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Great_spotted_woodpecker_(Dendrocopos_major)_male_Drenthe.jpg",
+    "photo": "photos/great-spotted-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/great-spotted-woodpecker.png"
   },
   "great-tit": {
@@ -1989,6 +2209,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major)_Heligan.jpg",
+    "photo": "photos/great-tit.jpg",
     "silhouette": "svg/silhouettes/species/great-tit.png"
   },
   "greater-blue-eared-starling": {
@@ -1998,6 +2219,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_blue-eared_starling_(Lamprotornis_chalybaeus_nordmanni)_Kruger.jpg",
+    "photo": "photos/greater-blue-eared-starling.jpg",
     "silhouette": "svg/silhouettes/species/greater-blue-eared-starling.png"
   },
   "greater-coucal": {
@@ -2007,6 +2229,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_coucal_crop.jpg",
+    "photo": "photos/greater-coucal.jpg",
     "silhouette": "svg/silhouettes/species/greater-coucal.png"
   },
   "greater-flamingo": {
@@ -2016,6 +2239,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/greater-flamingo.jpg",
     "silhouette": "svg/silhouettes/species/greater-flamingo.png"
   },
   "greater-racket-tailed-drongo": {
@@ -2025,6 +2249,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:GRTDrongo_Sandeep.jpg",
+    "photo": "photos/greater-racket-tailed-drongo.jpg",
     "silhouette": "svg/silhouettes/species/greater-racket-tailed-drongo.png"
   },
   "greater-rhea": {
@@ -2034,6 +2259,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Nandu_Rhea_americana_Tierpark_Hellabrunn-1.jpg",
+    "photo": "photos/greater-rhea.jpg",
     "silhouette": "svg/silhouettes/species/greater-rhea.png"
   },
   "greater-roadrunner": {
@@ -2043,6 +2269,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_Roadrunner_Tingley_Beach.jpg",
+    "photo": "photos/greater-roadrunner.jpg",
     "silhouette": "svg/silhouettes/species/greater-roadrunner.png"
   },
   "greater-yellowlegs": {
@@ -2052,6 +2279,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Greater_yellowlegs_(Tringa_melanoleuca)_foraging_at_Huntley_Meadows,_Alexandria,_Virginia,_USA.png",
+    "photo": "photos/greater-yellowlegs.jpg",
     "silhouette": "svg/silhouettes/species/greater-yellowlegs.png"
   },
   "green-headed-tanager": {
@@ -2061,6 +2289,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Green-headed_tanager.jpg",
+    "photo": "photos/green-headed-tanager.jpg",
     "silhouette": "svg/silhouettes/species/green-headed-tanager.png"
   },
   "green-heron": {
@@ -2070,6 +2299,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Green_heron_(Butorides_virescens),_South_Padre_Island,_Texas,_USA_(cropped).jpg",
+    "photo": "photos/green-heron.jpg",
     "silhouette": "svg/silhouettes/species/green-heron.png"
   },
   "green-winged-teal": {
@@ -2079,6 +2309,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Green-winged_Teal,_Port_Aransas,_Texas.jpg",
+    "photo": "photos/green-winged-teal.jpg",
     "silhouette": "svg/silhouettes/species/green-winged-teal.png"
   },
   "grey-crowned-crane": {
@@ -2088,6 +2319,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Grey_crowned_crane_(Balearica_regulorum_gibbericeps).jpg",
+    "photo": "photos/grey-crowned-crane.jpg",
     "silhouette": "svg/silhouettes/species/grey-crowned-crane.png"
   },
   "grey-go-away-bird": {
@@ -2097,6 +2329,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Grey_go-away-bird_(Corythaixoides_concolor_concolor)_Kruger.jpg",
+    "photo": "photos/grey-go-away-bird.jpg",
     "silhouette": "svg/silhouettes/species/grey-go-away-bird.png"
   },
   "grey-heron": {
@@ -2106,6 +2339,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Grey_heron_2022_03_18_01.jpg",
+    "photo": "photos/grey-heron.jpg",
     "silhouette": "svg/silhouettes/species/grey-heron.png"
   },
   "grey-partridge": {
@@ -2115,6 +2349,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_Turvey_3.jpg",
+    "photo": "photos/grey-partridge.jpg",
     "silhouette": "svg/silhouettes/species/grey-partridge.png"
   },
   "grey-wagtail": {
@@ -2124,6 +2359,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+    "photo": "photos/grey-wagtail.jpg",
     "silhouette": "svg/silhouettes/species/grey-wagtail.png"
   },
   "greylag-goose": {
@@ -2133,6 +2369,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park,_London_-_Nov_2006.jpg",
+    "photo": "photos/greylag-goose.jpg",
     "silhouette": "svg/silhouettes/species/greylag-goose.png"
   },
   "guianan-cock-of-the-rock": {
@@ -2142,6 +2379,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Guianan_Cock-of-the-rock_(Rupicola_rupicola).jpg",
+    "photo": "photos/guianan-cock-of-the-rock.jpg",
     "silhouette": "svg/silhouettes/species/guianan-cock-of-the-rock.png"
   },
   "hadada-ibis": {
@@ -2151,6 +2389,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ibis_hadada_(Bostrychia_hagedash),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-24,_DD_23.jpg",
+    "photo": "photos/hadada-ibis.jpg",
     "silhouette": "svg/silhouettes/species/hadada-ibis.png"
   },
   "hairy-woodpecker": {
@@ -2160,6 +2399,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Picoides_villosus_monticola_male1.jpg",
+    "photo": "photos/hairy-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/hairy-woodpecker.png"
   },
   "hamerkop": {
@@ -2169,6 +2409,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hamerkop_(Scopus_umbretta_umbretta)_2.jpg",
+    "photo": "photos/hamerkop.jpg",
     "silhouette": "svg/silhouettes/species/hamerkop.png"
   },
   "harpy-eagle": {
@@ -2178,6 +2419,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_001_800.jpg",
+    "photo": "photos/harpy-eagle.jpg",
     "silhouette": "svg/silhouettes/species/harpy-eagle.png"
   },
   "hawfinch": {
@@ -2187,6 +2429,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_male_Drenthe.jpg",
+    "photo": "photos/hawfinch.jpg",
     "silhouette": "svg/silhouettes/species/hawfinch.png"
   },
   "helmeted-guineafowl": {
@@ -2196,6 +2439,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Numida_meleagris_-Kruger_National_Park,_South_Africa-8a.jpg",
+    "photo": "photos/helmeted-guineafowl.jpg",
     "silhouette": "svg/silhouettes/species/helmeted-guineafowl.png"
   },
   "hill-myna": {
@@ -2205,6 +2449,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gracula.svg",
+    "photo": "photos/hill-myna.jpg",
     "silhouette": "svg/silhouettes/species/hill-myna.png"
   },
   "himalayan-monal": {
@@ -2214,6 +2459,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Himalayan_Monal_at_Sagarmatha_National_Park,_Nepal.jpg",
+    "photo": "photos/himalayan-monal.jpg",
     "silhouette": "svg/silhouettes/species/himalayan-monal.png"
   },
   "hoatzin": {
@@ -2223,6 +2469,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hoatzin_(Opisthocomus_hoazin)_Rio_Napo.jpg",
+    "photo": "photos/hoatzin.jpg",
     "silhouette": "svg/silhouettes/species/hoatzin.png"
   },
   "hooded-merganser": {
@@ -2232,6 +2479,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hooded_merganser_male_in_Central_Park_(95790).jpg",
+    "photo": "photos/hooded-merganser.jpg",
     "silhouette": "svg/silhouettes/species/hooded-merganser.png"
   },
   "hoopoe": {
@@ -2241,6 +2489,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Upupa_epops_Madrid_01.jpg",
+    "photo": "photos/hoopoe.jpg",
     "silhouette": "svg/silhouettes/species/hoopoe.png"
   },
   "house-crow": {
@@ -2250,6 +2499,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_splendens.jpg",
+    "photo": "photos/house-crow.jpg",
     "silhouette": "svg/silhouettes/species/house-crow.png"
   },
   "house-finch": {
@@ -2259,6 +2509,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:House_finch_(33688)2.jpg",
+    "photo": "photos/house-finch.jpg",
     "silhouette": "svg/silhouettes/species/house-finch.png"
   },
   "house-sparrow": {
@@ -2268,6 +2519,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg",
+    "photo": "photos/house-sparrow.jpg",
     "silhouette": "svg/silhouettes/species/house-sparrow.png"
   },
   "house-wren": {
@@ -2277,6 +2529,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:House_wren_in_Prospect_Park_(23218).jpg",
+    "photo": "photos/house-wren.jpg",
     "silhouette": "svg/silhouettes/species/house-wren.png"
   },
   "humboldt-penguin": {
@@ -2286,6 +2539,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Spheniscus_humboldti_(54905367722).jpg",
+    "photo": "photos/humboldt-penguin.jpg",
     "silhouette": "svg/silhouettes/species/humboldt-penguin.png"
   },
   "hyacinth-macaw": {
@@ -2295,6 +2549,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:008_Hyacinth_macaw_couple_kissing_under_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/hyacinth-macaw.jpg",
     "silhouette": "svg/silhouettes/species/hyacinth-macaw.png"
   },
   "inca-tern": {
@@ -2304,6 +2559,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Larosterna_inca_-Lima,_Peru_-adult-8.jpg",
+    "photo": "photos/inca-tern.jpg",
     "silhouette": "svg/silhouettes/species/inca-tern.png"
   },
   "indian-grey-hornbill": {
@@ -2313,6 +2569,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_Grey_Hornbill_I_IMG_4051.jpg",
+    "photo": "photos/indian-grey-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/indian-grey-hornbill.png"
   },
   "indian-paradise-flycatcher": {
@@ -2322,6 +2579,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_paradise_flycatcher_(2018).jpg",
+    "photo": "photos/indian-paradise-flycatcher.jpg",
     "silhouette": "svg/silhouettes/species/indian-paradise-flycatcher.png"
   },
   "indian-peafowl": {
@@ -2331,6 +2589,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Peacock_on_tree_(52077240794).jpg",
+    "photo": "photos/indian-peafowl.jpg",
     "silhouette": "svg/silhouettes/species/indian-peafowl.png"
   },
   "indian-pond-heron": {
@@ -2340,6 +2599,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_pond_heron_(Ardeola_grayii)_non_breeding.jpg",
+    "photo": "photos/indian-pond-heron.jpg",
     "silhouette": "svg/silhouettes/species/indian-pond-heron.png"
   },
   "indian-roller": {
@@ -2349,6 +2609,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_roller_-_Timbi_Lake,_Vadodara_2023-12-03.jpg",
+    "photo": "photos/indian-roller.jpg",
     "silhouette": "svg/silhouettes/species/indian-roller.png"
   },
   "indian-white-eye": {
@@ -2358,6 +2619,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_white-eye_(Zosterops_palpebrosus_egregius).jpg",
+    "photo": "photos/indian-white-eye.jpg",
     "silhouette": "svg/silhouettes/species/indian-white-eye.png"
   },
   "indigo-bunting": {
@@ -2367,6 +2629,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indigo_Bunting_by_Dan_Pancamo_4.jpg",
+    "photo": "photos/indigo-bunting.jpg",
     "silhouette": "svg/silhouettes/species/indigo-bunting.png"
   },
   "jabiru": {
@@ -2376,6 +2639,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/jabiru.jpg",
     "silhouette": "svg/silhouettes/species/jabiru.png"
   },
   "java-sparrow": {
@@ -2385,6 +2649,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Java_Sparrow_-_Baluran_NP_-_East_Java_MG_8180_(29726690101).jpg",
+    "photo": "photos/java-sparrow.jpg",
     "silhouette": "svg/silhouettes/species/java-sparrow.png"
   },
   "kalij-pheasant": {
@@ -2394,6 +2659,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Kalij_pheasant_Prasanna_Mamidala.jpg",
+    "photo": "photos/kalij-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/kalij-pheasant.png"
   },
   "kea": {
@@ -2403,6 +2669,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Nestor_notabilis_-Fiordland,_New_Zealand-8b.jpg",
+    "photo": "photos/kea.jpg",
     "silhouette": "svg/silhouettes/species/kea.png"
   },
   "keel-billed-toucan": {
@@ -2412,6 +2679,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Keel-billed_toucan_(Ramphastos_sulfuratus_sulfuratus)_on_foxtail_palm_(Wodyetia_bifurcata)_Cayo.jpg",
+    "photo": "photos/keel-billed-toucan.jpg",
     "silhouette": "svg/silhouettes/species/keel-billed-toucan.png"
   },
   "killdeer": {
@@ -2421,6 +2689,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Killdeer_Heislerville.png",
+    "photo": "photos/killdeer.jpg",
     "silhouette": "svg/silhouettes/species/killdeer.png"
   },
   "king-penguin": {
@@ -2430,6 +2699,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Fortuna_Bay)%E2%80%93King_penguin_(Aptenodytes_patagonicus)_04.jpg",
+    "photo": "photos/king-penguin.jpg",
     "silhouette": "svg/silhouettes/species/king-penguin.png"
   },
   "king-vulture": {
@@ -2439,6 +2709,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Urubu_rei_-_Sarcoramphus_papa.jpg",
+    "photo": "photos/king-vulture.jpg",
     "silhouette": "svg/silhouettes/species/king-vulture.png"
   },
   "kori-bustard": {
@@ -2448,6 +2719,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Kori_bustard_(Ardeotis_kori_kori)_male.jpg",
+    "photo": "photos/kori-bustard.jpg",
     "silhouette": "svg/silhouettes/species/kori-bustard.png"
   },
   "lady-amhersts-pheasant": {
@@ -2457,6 +2729,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Chrysolophus_amherstiae_18092009.jpg",
+    "photo": "photos/lady-amhersts-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/lady-amhersts-pheasant.png"
   },
   "large-billed-crow": {
@@ -2466,6 +2739,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Jungle_crow_(Close-up_of_the_head_area),_Tenn%C5%8Dji_Park,_Osaka_II.jpg",
+    "photo": "photos/large-billed-crow.jpg",
     "silhouette": "svg/silhouettes/species/large-billed-crow.png"
   },
   "laughing-kookaburra": {
@@ -2475,6 +2749,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Laughing_Kookaburra_1.jpg",
+    "photo": "photos/laughing-kookaburra.jpg",
     "silhouette": "svg/silhouettes/species/laughing-kookaburra.png"
   },
   "laysan-albatross": {
@@ -2484,6 +2759,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Laysan_Albatross_RWD2.jpg",
+    "photo": "photos/laysan-albatross.jpg",
     "silhouette": "svg/silhouettes/species/laysan-albatross.png"
   },
   "lazuli-bunting": {
@@ -2493,6 +2769,7 @@ const BirdMedia = {
     "imageLicense": "Copyrighted free use",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Lazuli_Bunting.jpg",
+    "photo": "photos/lazuli-bunting.jpg",
     "silhouette": "svg/silhouettes/species/lazuli-bunting.png"
   },
   "lesser-flamingo": {
@@ -2502,6 +2779,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Flock_of_Lesser_Flamingo_along_with_juvenile_near_Jamnagar_railway_stationDSCN1798_1.jpg",
+    "photo": "photos/lesser-flamingo.jpg",
     "silhouette": "svg/silhouettes/species/lesser-flamingo.png"
   },
   "lilac-breasted-roller": {
@@ -2511,6 +2789,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Lilac-breasted_Roller_(Coracias_caudatus).jpg",
+    "photo": "photos/lilac-breasted-roller.jpg",
     "silhouette": "svg/silhouettes/species/lilac-breasted-roller.png"
   },
   "little-egret": {
@@ -2520,6 +2799,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Little_egret_(Egretta_garzetta)_Photograph_by_Shantanu_Kuveskar.jpg",
+    "photo": "photos/little-egret.jpg",
     "silhouette": "svg/silhouettes/species/little-egret.png"
   },
   "little-owl": {
@@ -2529,6 +2809,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+    "photo": "photos/little-owl.jpg",
     "silhouette": "svg/silhouettes/species/little-owl.png"
   },
   "little-penguin": {
@@ -2538,6 +2819,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Eudyptula_minor_Bruny_1.jpg",
+    "photo": "photos/little-penguin.jpg",
     "silhouette": "svg/silhouettes/species/little-penguin.png"
   },
   "long-eared-owl": {
@@ -2547,6 +2829,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_(15671750198).jpg",
+    "photo": "photos/long-eared-owl.jpg",
     "silhouette": "svg/silhouettes/species/long-eared-owl.png"
   },
   "long-tailed-shrike": {
@@ -2556,6 +2839,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Long-tailed_Shrilke_0A2A3080.jpg",
+    "photo": "photos/long-tailed-shrike.jpg",
     "silhouette": "svg/silhouettes/species/long-tailed-shrike.png"
   },
   "long-tailed-tit": {
@@ -2565,6 +2849,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%B0_2.jpg",
+    "photo": "photos/long-tailed-tit.jpg",
     "silhouette": "svg/silhouettes/species/long-tailed-tit.png"
   },
   "long-tailed-widowbird": {
@@ -2574,6 +2859,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Long-tailed_Widowbird_(Euplectes_progne)_male_...._(46718360972).jpg",
+    "photo": "photos/long-tailed-widowbird.jpg",
     "silhouette": "svg/silhouettes/species/long-tailed-widowbird.png"
   },
   "magellanic-penguin": {
@@ -2583,6 +2869,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:MagellanicPenguin.jpg",
+    "photo": "photos/magellanic-penguin.jpg",
     "silhouette": "svg/silhouettes/species/magellanic-penguin.png"
   },
   "magnificent-frigatebird": {
@@ -2592,6 +2879,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Fregata_magnificens_-Galapagos,_Ecuador_-male-8_(1).jpg",
+    "photo": "photos/magnificent-frigatebird.jpg",
     "silhouette": "svg/silhouettes/species/magnificent-frigatebird.png"
   },
   "magpie-lark": {
@@ -2601,6 +2889,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Magpie-lark_(Grallina_cyanoleuca_cyanoleuca)_male_Adelaide.jpg",
+    "photo": "photos/magpie-lark.jpg",
     "silhouette": "svg/silhouettes/species/magpie-lark.png"
   },
   "major-mitchells-cockatoo": {
@@ -2610,6 +2899,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Major_Mitchell%27s_Cockatoo_1_-_Mt_Grenfell.jpg",
+    "photo": "photos/major-mitchells-cockatoo.jpg",
     "silhouette": "svg/silhouettes/species/major-mitchells-cockatoo.png"
   },
   "malachite-kingfisher": {
@@ -2619,6 +2909,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Malachite_kingfisher_(Corythornis_cristatus_cristatus).jpg",
+    "photo": "photos/malachite-kingfisher.jpg",
     "silhouette": "svg/silhouettes/species/malachite-kingfisher.png"
   },
   "mallard": {
@@ -2628,6 +2919,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg",
+    "photo": "photos/mallard.jpg",
     "silhouette": "svg/silhouettes/species/mallard.png"
   },
   "mandarin-duck": {
@@ -2637,6 +2929,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pair_of_mandarin_ducks.jpg",
+    "photo": "photos/mandarin-duck.jpg",
     "silhouette": "svg/silhouettes/species/mandarin-duck.png"
   },
   "maned-duck": {
@@ -2646,6 +2939,7 @@ const BirdMedia = {
     "imageLicense": "GFDL 1.2",
     "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Australian_wood_duck_-_male.jpg",
+    "photo": "photos/maned-duck.jpg",
     "silhouette": "svg/silhouettes/species/maned-duck.png"
   },
   "marabou-stork": {
@@ -2655,6 +2949,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Marabou_stork_(Leptoptilos_crumenifer).jpg",
+    "photo": "photos/marabou-stork.jpg",
     "silhouette": "svg/silhouettes/species/marabou-stork.png"
   },
   "martial-eagle": {
@@ -2664,6 +2959,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Martial_eagle_(Polemaetus_bellicosus).jpg",
+    "photo": "photos/martial-eagle.jpg",
     "silhouette": "svg/silhouettes/species/martial-eagle.png"
   },
   "marvelous-spatuletail": {
@@ -2673,6 +2969,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Loddigesia_mirabilis_114707728.jpg",
+    "photo": "photos/marvelous-spatuletail.jpg",
     "silhouette": "svg/silhouettes/species/marvelous-spatuletail.png"
   },
   "masked-lapwing": {
@@ -2682,6 +2979,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Masked_lapwing_(Vanellus_miles_miles)_Darwin.jpg",
+    "photo": "photos/masked-lapwing.jpg",
     "silhouette": "svg/silhouettes/species/masked-lapwing.png"
   },
   "meadow-pipit": {
@@ -2691,6 +2989,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Wiesenpieper_Meadow_pipit.jpg",
+    "photo": "photos/meadow-pipit.jpg",
     "silhouette": "svg/silhouettes/species/meadow-pipit.png"
   },
   "merlin": {
@@ -2700,6 +2999,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Merlin_in_Prospect_Park_(63386).jpg",
+    "photo": "photos/merlin.jpg",
     "silhouette": "svg/silhouettes/species/merlin.png"
   },
   "mikado-pheasant": {
@@ -2709,6 +3009,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mikado_Pheasant_398.jpg",
+    "photo": "photos/mikado-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/mikado-pheasant.png"
   },
   "military-macaw": {
@@ -2718,6 +3019,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ara_militaris_-London_Zoo-8a.jpg",
+    "photo": "photos/military-macaw.jpg",
     "silhouette": "svg/silhouettes/species/military-macaw.png"
   },
   "mistle-thrush": {
@@ -2727,6 +3029,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus.001_-_Cardiff.jpg",
+    "photo": "photos/mistle-thrush.jpg",
     "silhouette": "svg/silhouettes/species/mistle-thrush.png"
   },
   "monk-parakeet": {
@@ -2736,6 +3039,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Monk_parakeet_(Myiopsitta_monachus)_Santiago.jpg",
+    "photo": "photos/monk-parakeet.jpg",
     "silhouette": "svg/silhouettes/species/monk-parakeet.png"
   },
   "mountain-bluebird": {
@@ -2745,6 +3049,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mountain_Bluebird.jpg",
+    "photo": "photos/mountain-bluebird.jpg",
     "silhouette": "svg/silhouettes/species/mountain-bluebird.png"
   },
   "mountain-hawk-eagle": {
@@ -2754,6 +3059,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mountain_Hawk_Eagle_Mahananda_WLS_West_Bengal_India_07.12.2015.jpg",
+    "photo": "photos/mountain-hawk-eagle.jpg",
     "silhouette": "svg/silhouettes/species/mountain-hawk-eagle.png"
   },
   "mourning-dove": {
@@ -2763,6 +3069,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Av_Mourning_Dove_JG.jpg",
+    "photo": "photos/mourning-dove.jpg",
     "silhouette": "svg/silhouettes/species/mourning-dove.png"
   },
   "mute-swan": {
@@ -2772,6 +3079,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mute_Swan_Emsworth2.JPG",
+    "photo": "photos/mute-swan.jpg",
     "silhouette": "svg/silhouettes/species/mute-swan.png"
   },
   "new-holland-honeyeater": {
@@ -2781,6 +3089,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:New_Holland_honeyeater_().jpg",
+    "photo": "photos/new-holland-honeyeater.jpg",
     "silhouette": "svg/silhouettes/species/new-holland-honeyeater.png"
   },
   "noisy-miner": {
@@ -2790,6 +3099,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Manorina_melanocephala_AF.jpg",
+    "photo": "photos/noisy-miner.jpg",
     "silhouette": "svg/silhouettes/species/noisy-miner.png"
   },
   "north-island-brown-kiwi": {
@@ -2799,6 +3109,7 @@ const BirdMedia = {
     "imageLicense": "Public domain",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:TeTuatahianui.jpg",
+    "photo": "photos/north-island-brown-kiwi.jpg",
     "silhouette": "svg/silhouettes/species/north-island-brown-kiwi.png"
   },
   "northern-bobwhite": {
@@ -2808,6 +3119,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Virginiawachtel_2007-06-16_065.jpg",
+    "photo": "photos/northern-bobwhite.jpg",
     "silhouette": "svg/silhouettes/species/northern-bobwhite.png"
   },
   "northern-cardinal": {
@@ -2817,6 +3129,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Male_northern_cardinal_in_Central_Park_(52612).jpg",
+    "photo": "photos/northern-cardinal.jpg",
     "silhouette": "svg/silhouettes/species/northern-cardinal.png"
   },
   "northern-flicker": {
@@ -2826,6 +3139,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_yellow-shafted_flicker_male_(33737)_(cropped).jpg",
+    "photo": "photos/northern-flicker.jpg",
     "silhouette": "svg/silhouettes/species/northern-flicker.png"
   },
   "northern-gannet": {
@@ -2835,6 +3149,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Morus_bassanus_adu.jpg",
+    "photo": "photos/northern-gannet.jpg",
     "silhouette": "svg/silhouettes/species/northern-gannet.png"
   },
   "northern-goshawk": {
@@ -2844,6 +3159,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_Goshawk_ad_M2.jpg",
+    "photo": "photos/northern-goshawk.jpg",
     "silhouette": "svg/silhouettes/species/northern-goshawk.png"
   },
   "northern-harrier": {
@@ -2853,6 +3169,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Circus_hudsonius,_male_perched,_Berkeley,_California_(cropped).jpg",
+    "photo": "photos/northern-harrier.jpg",
     "silhouette": "svg/silhouettes/species/northern-harrier.png"
   },
   "northern-lapwing": {
@@ -2862,6 +3179,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
+    "photo": "photos/northern-lapwing.jpg",
     "silhouette": "svg/silhouettes/species/northern-lapwing.png"
   },
   "northern-mockingbird": {
@@ -2871,6 +3189,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mockingbird_in_Bay_Ridge_(85082).jpg",
+    "photo": "photos/northern-mockingbird.jpg",
     "silhouette": "svg/silhouettes/species/northern-mockingbird.png"
   },
   "northern-pintail": {
@@ -2880,6 +3199,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_Pintails_(Male_%26_Female)_I_IMG_0911.jpg",
+    "photo": "photos/northern-pintail.jpg",
     "silhouette": "svg/silhouettes/species/northern-pintail.png"
   },
   "northern-shoveler": {
@@ -2889,6 +3209,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_(Spatula_clypeata)_male_Marken.jpg",
+    "photo": "photos/northern-shoveler.jpg",
     "silhouette": "svg/silhouettes/species/northern-shoveler.png"
   },
   "northern-wheatear": {
@@ -2898,6 +3219,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Steinschmaetzer_Northern_wheatear_male.jpg",
+    "photo": "photos/northern-wheatear.jpg",
     "silhouette": "svg/silhouettes/species/northern-wheatear.png"
   },
   "oriental-dollarbird": {
@@ -2907,6 +3229,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Dollarbird_Samcem_Dec02.JPG",
+    "photo": "photos/oriental-dollarbird.jpg",
     "silhouette": "svg/silhouettes/species/oriental-dollarbird.png"
   },
   "oriental-magpie-robin": {
@@ -2916,6 +3239,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Oriental_magpie-robin_(Copsychus_saularis_ceylonensis)_male.jpg",
+    "photo": "photos/oriental-magpie-robin.jpg",
     "silhouette": "svg/silhouettes/species/oriental-magpie-robin.png"
   },
   "oriental-pied-hornbill": {
@@ -2925,6 +3249,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Oriental_pied_hornbill_(Anthracoceros_albirostris)_male_(l)_female_(r).jpg",
+    "photo": "photos/oriental-pied-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/oriental-pied-hornbill.png"
   },
   "osprey": {
@@ -2934,6 +3259,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Osprey_Perched_Snag_Heislerville.jpg",
+    "photo": "photos/osprey.jpg",
     "silhouette": "svg/silhouettes/species/osprey.png"
   },
   "ostrich": {
@@ -2943,6 +3269,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Struthio_Diversity.jpg",
+    "photo": "photos/ostrich.jpg",
     "silhouette": "svg/silhouettes/species/ostrich.png"
   },
   "pacific-black-duck": {
@@ -2952,6 +3279,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pacific_black_duck_(Anas_superciliosa)_male_swimming_Sydney.jpg",
+    "photo": "photos/pacific-black-duck.jpg",
     "silhouette": "svg/silhouettes/species/pacific-black-duck.png"
   },
   "painted-bunting": {
@@ -2961,6 +3289,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Male_Painted_Bunting_Singing.jpg",
+    "photo": "photos/painted-bunting.jpg",
     "silhouette": "svg/silhouettes/species/painted-bunting.png"
   },
   "painted-stork": {
@@ -2970,6 +3299,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:P-Stork-Sandeep.jpg",
+    "photo": "photos/painted-stork.jpg",
     "silhouette": "svg/silhouettes/species/painted-stork.png"
   },
   "paradise-tanager": {
@@ -2979,6 +3309,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tangara_chilensis_94893412.jpg",
+    "photo": "photos/paradise-tanager.jpg",
     "silhouette": "svg/silhouettes/species/paradise-tanager.png"
   },
   "pels-fishing-owl": {
@@ -2988,6 +3319,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pel%27s_fishing_owl,_Scotopelia_pel.jpg",
+    "photo": "photos/pels-fishing-owl.jpg",
     "silhouette": "svg/silhouettes/species/pels-fishing-owl.png"
   },
   "peregrine-falcon": {
@@ -2997,6 +3329,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+    "photo": "photos/peregrine-falcon.jpg",
     "silhouette": "svg/silhouettes/species/peregrine-falcon.png"
   },
   "phainopepla": {
@@ -3006,6 +3339,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Phainopepla_nitens_M_2.jpg",
+    "photo": "photos/phainopepla.jpg",
     "silhouette": "svg/silhouettes/species/phainopepla.png"
   },
   "pheasant-tailed-jacana": {
@@ -3015,6 +3349,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pheasant-tailed_jacanas_(Hydrophasianus_chirurgus)_pair_cr.jpg",
+    "photo": "photos/pheasant-tailed-jacana.jpg",
     "silhouette": "svg/silhouettes/species/pheasant-tailed-jacana.png"
   },
   "pied-avocet": {
@@ -3024,6 +3359,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg",
+    "photo": "photos/pied-avocet.jpg",
     "silhouette": "svg/silhouettes/species/pied-avocet.png"
   },
   "pied-billed-grebe": {
@@ -3033,6 +3369,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pied-billed_Grebe_0561.jpg",
+    "photo": "photos/pied-billed-grebe.jpg",
     "silhouette": "svg/silhouettes/species/pied-billed-grebe.png"
   },
   "pied-crow": {
@@ -3042,6 +3379,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Corvus_albus_-Etosha_National_Park,_Namibia-8.jpg",
+    "photo": "photos/pied-crow.jpg",
     "silhouette": "svg/silhouettes/species/pied-crow.png"
   },
   "pied-currawong": {
@@ -3051,6 +3389,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pied_Currawong_-_Newington.jpg",
+    "photo": "photos/pied-currawong.jpg",
     "silhouette": "svg/silhouettes/species/pied-currawong.png"
   },
   "pileated-woodpecker": {
@@ -3060,6 +3399,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:PileatedWoodpeckerFeedingonTree,_crop.jpg",
+    "photo": "photos/pileated-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/pileated-woodpecker.png"
   },
   "pin-tailed-whydah": {
@@ -3069,6 +3409,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pin-tailed_whydah_(Vidua_macroura)_male_Sao_Tome.jpg",
+    "photo": "photos/pin-tailed-whydah.jpg",
     "silhouette": "svg/silhouettes/species/pin-tailed-whydah.png"
   },
   "plum-headed-parakeet": {
@@ -3078,6 +3419,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:104_Male_Plum-headed_parakeet_eating_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/plum-headed-parakeet.jpg",
     "silhouette": "svg/silhouettes/species/plum-headed-parakeet.png"
   },
   "powerful-owl": {
@@ -3087,6 +3429,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Powerful_Owl_0A2A8181.jpg",
+    "photo": "photos/powerful-owl.jpg",
     "silhouette": "svg/silhouettes/species/powerful-owl.png"
   },
   "purple-finch": {
@@ -3096,6 +3439,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Carpodacus_purpureus_CT3.jpg",
+    "photo": "photos/purple-finch.jpg",
     "silhouette": "svg/silhouettes/species/purple-finch.png"
   },
   "purple-martin": {
@@ -3105,6 +3449,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:PurpleMartin_cajay.jpg",
+    "photo": "photos/purple-martin.jpg",
     "silhouette": "svg/silhouettes/species/purple-martin.png"
   },
   "purple-sunbird": {
@@ -3114,6 +3459,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Purple_Sunbird_(Nectarinia_asiatica)-_Male_(Breeding)_on_Kapok_(Ceiba_pentandra)_in_Kolkata_I_IMG_1893.jpg",
+    "photo": "photos/purple-sunbird.jpg",
     "silhouette": "svg/silhouettes/species/purple-sunbird.png"
   },
   "rainbow-bee-eater": {
@@ -3123,6 +3469,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Merops_ornatus_-_Centenary_Lakes.jpg",
+    "photo": "photos/rainbow-bee-eater.jpg",
     "silhouette": "svg/silhouettes/species/rainbow-bee-eater.png"
   },
   "rainbow-lorikeet": {
@@ -3132,6 +3479,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rainbow_lorikeet_(Trichoglossus_moluccanus_moluccanus)_Sydney.jpg",
+    "photo": "photos/rainbow-lorikeet.jpg",
     "silhouette": "svg/silhouettes/species/rainbow-lorikeet.png"
   },
   "razorbill": {
@@ -3141,6 +3489,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Razorbill_with_a_nice_catch.jpg",
+    "photo": "photos/razorbill.jpg",
     "silhouette": "svg/silhouettes/species/razorbill.png"
   },
   "red-avadavat": {
@@ -3150,6 +3499,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_04.jpg",
+    "photo": "photos/red-avadavat.jpg",
     "silhouette": "svg/silhouettes/species/red-avadavat.png"
   },
   "red-bellied-woodpecker": {
@@ -3159,6 +3509,7 @@ const BirdMedia = {
     "imageLicense": "Public domain",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-bellied_Woodpecker-27527.jpg",
+    "photo": "photos/red-bellied-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/red-bellied-woodpecker.png"
   },
   "red-billed-hornbill": {
@@ -3168,6 +3519,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tockus_erythrorhynchus,_Tarangire,_crop.jpg",
+    "photo": "photos/red-billed-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/red-billed-hornbill.png"
   },
   "red-billed-oxpecker": {
@@ -3177,6 +3529,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Buphagus_erythrorhynchus00.jpg",
+    "photo": "photos/red-billed-oxpecker.jpg",
     "silhouette": "svg/silhouettes/species/red-billed-oxpecker.png"
   },
   "red-billed-quelea": {
@@ -3186,6 +3539,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-billed_quelea_(Quelea_quelea_aethiopica)_male_breeding_plumage_yellow.jpg",
+    "photo": "photos/red-billed-quelea.jpg",
     "silhouette": "svg/silhouettes/species/red-billed-quelea.png"
   },
   "red-breasted-merganser": {
@@ -3195,6 +3549,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-breasted_Merganser_male_(Mergus_serrator),_Barnegat_Inlet,_New_Jersey,_USA.jpg",
+    "photo": "photos/red-breasted-merganser.jpg",
     "silhouette": "svg/silhouettes/species/red-breasted-merganser.png"
   },
   "red-breasted-nuthatch": {
@@ -3204,6 +3559,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-breasted_Nuthatch_(48859254972).jpg",
+    "photo": "photos/red-breasted-nuthatch.jpg",
     "silhouette": "svg/silhouettes/species/red-breasted-nuthatch.png"
   },
   "red-crowned-crane": {
@@ -3213,6 +3569,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Grus_japonensis_-Hokkaido,_Japan_-several-8_(1).jpg",
+    "photo": "photos/red-crowned-crane.jpg",
     "silhouette": "svg/silhouettes/species/red-crowned-crane.png"
   },
   "red-footed-booby": {
@@ -3222,6 +3579,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sula_sula_by_Gregg_Yan_01.jpg",
+    "photo": "photos/red-footed-booby.jpg",
     "silhouette": "svg/silhouettes/species/red-footed-booby.png"
   },
   "red-headed-woodpecker": {
@@ -3231,6 +3589,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Melanerpes-erythrocephalus-003.jpg",
+    "photo": "photos/red-headed-woodpecker.jpg",
     "silhouette": "svg/silhouettes/species/red-headed-woodpecker.png"
   },
   "red-junglefowl": {
@@ -3240,6 +3599,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red_jungle_fowl.png",
+    "photo": "photos/red-junglefowl.jpg",
     "silhouette": "svg/silhouettes/species/red-junglefowl.png"
   },
   "red-kite": {
@@ -3249,6 +3609,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Milvus_milvus_R(ThKraft).jpg",
+    "photo": "photos/red-kite.jpg",
     "silhouette": "svg/silhouettes/species/red-kite.png"
   },
   "red-legged-partridge": {
@@ -3258,6 +3619,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Perdrix_rouge.jpg",
+    "photo": "photos/red-legged-partridge.jpg",
     "silhouette": "svg/silhouettes/species/red-legged-partridge.png"
   },
   "red-tailed-hawk": {
@@ -3267,6 +3629,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-tailed_Hawk_(45812546121).jpg",
+    "photo": "photos/red-tailed-hawk.jpg",
     "silhouette": "svg/silhouettes/species/red-tailed-hawk.png"
   },
   "red-vented-bulbul": {
@@ -3276,6 +3639,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-vented_bulbul_-_Jamnagar_2023-11-13.jpg",
+    "photo": "photos/red-vented-bulbul.jpg",
     "silhouette": "svg/silhouettes/species/red-vented-bulbul.png"
   },
   "red-whiskered-bulbul": {
@@ -3285,6 +3649,7 @@ const BirdMedia = {
     "imageLicense": "CC0",
     "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-whiskered_bulbul_-_Pycnonotous_jocosus.png",
+    "photo": "photos/red-whiskered-bulbul.jpg",
     "silhouette": "svg/silhouettes/species/red-whiskered-bulbul.png"
   },
   "red-winged-blackbird": {
@@ -3294,6 +3659,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red-Winged_Blackbird.png",
+    "photo": "photos/red-winged-blackbird.jpg",
     "silhouette": "svg/silhouettes/species/red-winged-blackbird.png"
   },
   "redhead": {
@@ -3303,6 +3669,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Redhead_-_Aythya_americana,_Oakley_Street,_Cambridge,_Maryland.jpg",
+    "photo": "photos/redhead.jpg",
     "silhouette": "svg/silhouettes/species/redhead.png"
   },
   "redwing": {
@@ -3312,6 +3679,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Redwing_Turdus_iliacus.jpg",
+    "photo": "photos/redwing.jpg",
     "silhouette": "svg/silhouettes/species/redwing.png"
   },
   "regent-bowerbird": {
@@ -3321,6 +3689,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sericulus_chrysocephalus_-Lamington_NP,_Queensland,_Australia_-male-8-4c.jpg",
+    "photo": "photos/regent-bowerbird.jpg",
     "silhouette": "svg/silhouettes/species/regent-bowerbird.png"
   },
   "resplendent-quetzal": {
@@ -3330,6 +3699,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+    "photo": "photos/resplendent-quetzal.jpg",
     "silhouette": "svg/silhouettes/species/resplendent-quetzal.png"
   },
   "rhinoceros-hornbill": {
@@ -3339,6 +3709,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg",
+    "photo": "photos/rhinoceros-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/rhinoceros-hornbill.png"
   },
   "ring-necked-duck": {
@@ -3348,6 +3719,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ring-Necked_Duck.jpg",
+    "photo": "photos/ring-necked-duck.jpg",
     "silhouette": "svg/silhouettes/species/ring-necked-duck.png"
   },
   "ring-necked-pheasant": {
@@ -3357,6 +3729,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Common_pheasant_(Phasianus_colchicus)_male_Heligan.jpg",
+    "photo": "photos/ring-necked-pheasant.jpg",
     "silhouette": "svg/silhouettes/species/ring-necked-pheasant.png"
   },
   "rock-pigeon": {
@@ -3366,6 +3739,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Columba_livia_(Rock_Dove,_wild),_Duncansby_Head,_Caithness,_Scotland_1.jpg",
+    "photo": "photos/rock-pigeon.jpg",
     "silhouette": "svg/silhouettes/species/rock-pigeon.png"
   },
   "rockhopper-penguin": {
@@ -3375,6 +3749,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:FAL-2016-New_Island,_Falkland_Islands-Rockhopper_penguin_(Eudyptes_chrysocome)_05.jpg",
+    "photo": "photos/rockhopper-penguin.jpg",
     "silhouette": "svg/silhouettes/species/rockhopper-penguin.png"
   },
   "rook": {
@@ -3384,6 +3759,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rook_(Corvus_frugilegus)_Heligan.jpg",
+    "photo": "photos/rook.jpg",
     "silhouette": "svg/silhouettes/species/rook.png"
   },
   "rose-breasted-grosbeak": {
@@ -3393,6 +3769,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:RosebreastedGrosbeak08.jpg",
+    "photo": "photos/rose-breasted-grosbeak.jpg",
     "silhouette": "svg/silhouettes/species/rose-breasted-grosbeak.png"
   },
   "rose-ringed-parakeet": {
@@ -3402,6 +3779,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:African_Rose-ringed_Parakeet,_Tendaba,_Gambia_1.jpg",
+    "photo": "photos/rose-ringed-parakeet.jpg",
     "silhouette": "svg/silhouettes/species/rose-ringed-parakeet.png"
   },
   "roseate-spoonbill": {
@@ -3411,6 +3789,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Roseate_Spoonbill_-_Myakka_River_State_Park.jpg",
+    "photo": "photos/roseate-spoonbill.jpg",
     "silhouette": "svg/silhouettes/species/roseate-spoonbill.png"
   },
   "rosy-faced-lovebird": {
@@ -3420,6 +3799,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rosy-faced_lovebird_(Agapornis_roseicollis_roseicollis)_2.jpg",
+    "photo": "photos/rosy-faced-lovebird.jpg",
     "silhouette": "svg/silhouettes/species/rosy-faced-lovebird.png"
   },
   "ruby-crowned-kinglet": {
@@ -3429,6 +3809,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Regulus_calendula_MP_3.jpg",
+    "photo": "photos/ruby-crowned-kinglet.jpg",
     "silhouette": "svg/silhouettes/species/ruby-crowned-kinglet.png"
   },
   "ruby-throated-hummingbird": {
@@ -3438,6 +3819,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Archilochus_colubris_-flying_-male-8.jpg",
+    "photo": "photos/ruby-throated-hummingbird.jpg",
     "silhouette": "svg/silhouettes/species/ruby-throated-hummingbird.png"
   },
   "ruddy-duck": {
@@ -3447,6 +3829,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ruddy_Duck_(Oxyura_jamaicensis)_RWD2.jpg",
+    "photo": "photos/ruddy-duck.jpg",
     "silhouette": "svg/silhouettes/species/ruddy-duck.png"
   },
   "ruddy-shelduck": {
@@ -3456,6 +3839,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:2021-01-30_Ruddy_Shelduck_pair_at_Keoladeo,_Rajasthan,_India.jpg",
+    "photo": "photos/ruddy-shelduck.jpg",
     "silhouette": "svg/silhouettes/species/ruddy-shelduck.png"
   },
   "ruddy-turnstone": {
@@ -3465,6 +3849,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ruddy_turnstone_(Arenaria_interpres)_Breeding_Plumage_Heislerville_WMA,_Cumberland_County,_New_Jersey,_USA.jpg",
+    "photo": "photos/ruddy-turnstone.jpg",
     "silhouette": "svg/silhouettes/species/ruddy-turnstone.png"
   },
   "ruffed-grouse": {
@@ -3474,6 +3859,7 @@ const BirdMedia = {
     "imageLicense": "Public domain",
     "imageLicenseUrl": "",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ruffed_Grouse_(18645551408).jpg",
+    "photo": "photos/ruffed-grouse.jpg",
     "silhouette": "svg/silhouettes/species/ruffed-grouse.png"
   },
   "rufous-bellied-thrush": {
@@ -3483,6 +3869,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0 br",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/br/deed.en",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Turdus-rufiventris.jpg",
+    "photo": "photos/rufous-bellied-thrush.jpg",
     "silhouette": "svg/silhouettes/species/rufous-bellied-thrush.png"
   },
   "rufous-treepie": {
@@ -3492,6 +3879,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rufous_treepie_(Dendrocitta_vagabunda_vagabunda)_Jahalana_pair.jpg",
+    "photo": "photos/rufous-treepie.jpg",
     "silhouette": "svg/silhouettes/species/rufous-treepie.png"
   },
   "sacred-ibis": {
@@ -3501,6 +3889,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sacred_ibis_(Threskiornis_aethiopicus).jpg",
+    "photo": "photos/sacred-ibis.jpg",
     "silhouette": "svg/silhouettes/species/sacred-ibis.png"
   },
   "saffron-finch": {
@@ -3510,6 +3899,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Saffron_finch_(Sicalis_flaveola)_male.JPG",
+    "photo": "photos/saffron-finch.jpg",
     "silhouette": "svg/silhouettes/species/saffron-finch.png"
   },
   "sand-martin": {
@@ -3519,6 +3909,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sand_martin_(Riparia_riparia),_Guidel-Plage,_Brittany,_France_(19765483180).jpg",
+    "photo": "photos/sand-martin.jpg",
     "silhouette": "svg/silhouettes/species/sand-martin.png"
   },
   "sanderling": {
@@ -3528,6 +3919,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sanderling_(Calidris_alba)_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg",
+    "photo": "photos/sanderling.jpg",
     "silhouette": "svg/silhouettes/species/sanderling.png"
   },
   "sandhill-crane": {
@@ -3537,6 +3929,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sandhill_Crane_JG.jpg",
+    "photo": "photos/sandhill-crane.jpg",
     "silhouette": "svg/silhouettes/species/sandhill-crane.png"
   },
   "sarus-crane": {
@@ -3546,6 +3939,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sarus_crane_(Grus_antigone).jpg",
+    "photo": "photos/sarus-crane.jpg",
     "silhouette": "svg/silhouettes/species/sarus-crane.png"
   },
   "satin-bowerbird": {
@@ -3555,11 +3949,17 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Satin_Bowerbird_at_Bower_6533.jpg",
+    "photo": "photos/satin-bowerbird.jpg",
     "silhouette": "svg/silhouettes/species/satin-bowerbird.png"
   },
   "satyr-tragopan": {
     "audio": "audio/satyr-tragopan.m4a",
     "audioAttribution": "iNaturalist (c) libbyhepburn, CC-BY-NC — observation 282014743",
+    "imageArtist": "Commander-pirx",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:20140417_Satyr-Tragopan_02.jpg",
+    "photo": "photos/satyr-tragopan.jpg",
     "silhouette": "svg/silhouettes/species/satyr-tragopan.png"
   },
   "scaly-breasted-munia": {
@@ -3569,6 +3969,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Scaly-breasted_munia_(Lonchura_punctulata_nisoria)_Ubud.jpg",
+    "photo": "photos/scaly-breasted-munia.jpg",
     "silhouette": "svg/silhouettes/species/scaly-breasted-munia.png"
   },
   "scarlet-ibis": {
@@ -3578,6 +3979,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Oceanografic_Scarlet_Ibis_02.jpg",
+    "photo": "photos/scarlet-ibis.jpg",
     "silhouette": "svg/silhouettes/species/scarlet-ibis.png"
   },
   "scarlet-macaw": {
@@ -3587,6 +3989,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan.jpg",
+    "photo": "photos/scarlet-macaw.jpg",
     "silhouette": "svg/silhouettes/species/scarlet-macaw.png"
   },
   "scarlet-tanager": {
@@ -3596,6 +3999,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Scarlet_tanager_in_GWC_(50867).jpg",
+    "photo": "photos/scarlet-tanager.jpg",
     "silhouette": "svg/silhouettes/species/scarlet-tanager.png"
   },
   "secretary-bird": {
@@ -3605,6 +4009,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg",
+    "photo": "photos/secretary-bird.jpg",
     "silhouette": "svg/silhouettes/species/secretary-bird.png"
   },
   "secretarybird": {
@@ -3614,6 +4019,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Secretary_bird_Mara_for_WC.jpg",
+    "photo": "photos/secretarybird.jpg",
     "silhouette": "svg/silhouettes/species/secretarybird.png"
   },
   "senegal-parrot": {
@@ -3623,6 +4029,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Senegal-parrot-montage-2.jpg",
+    "photo": "photos/senegal-parrot.jpg",
     "silhouette": "svg/silhouettes/species/senegal-parrot.png"
   },
   "seven-colored-tanager": {
@@ -3632,6 +4039,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tangara_fastuosa_-_Seven_colored_Tanager;_Macei%C3%B3,_Alagoas,_Brazil.jpg",
+    "photo": "photos/seven-colored-tanager.jpg",
     "silhouette": "svg/silhouettes/species/seven-colored-tanager.png"
   },
   "sharp-shinned-hawk": {
@@ -3641,6 +4049,7 @@ const BirdMedia = {
     "imageLicense": "CC0",
     "imageLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Accipiter_striatus,_Canet_Road,_San_Luis_Obispo_1.jpg",
+    "photo": "photos/sharp-shinned-hawk.jpg",
     "silhouette": "svg/silhouettes/species/sharp-shinned-hawk.png"
   },
   "short-eared-owl": {
@@ -3650,6 +4059,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Short_Eared_Owl_on_the_Ground.jpg",
+    "photo": "photos/short-eared-owl.jpg",
     "silhouette": "svg/silhouettes/species/short-eared-owl.png"
   },
   "snow-goose": {
@@ -3659,6 +4069,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Snow_goose_in_Central_Park_(33138).jpg",
+    "photo": "photos/snow-goose.jpg",
     "silhouette": "svg/silhouettes/species/snow-goose.png"
   },
   "snowy-egret": {
@@ -3668,6 +4079,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Snowy_Egret_(Egretta_thula)_Edwin_B_Forsythe_NWR,_Galloway,_NJ,_USA.jpg",
+    "photo": "photos/snowy-egret.jpg",
     "silhouette": "svg/silhouettes/species/snowy-egret.png"
   },
   "snowy-owl": {
@@ -3677,6 +4089,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:SnowyOwlAmericanBlackDuck.jpg",
+    "photo": "photos/snowy-owl.jpg",
     "silhouette": "svg/silhouettes/species/snowy-owl.png"
   },
   "song-sparrow": {
@@ -3686,6 +4099,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Song_sparrow_in_Prospect_Park_(93031).jpg",
+    "photo": "photos/song-sparrow.jpg",
     "silhouette": "svg/silhouettes/species/song-sparrow.png"
   },
   "song-thrush": {
@@ -3695,6 +4109,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_(Turdus_philomelos),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+    "photo": "photos/song-thrush.jpg",
     "silhouette": "svg/silhouettes/species/song-thrush.png"
   },
   "sooty-tern": {
@@ -3704,6 +4119,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:TRINTA-R%C3%89IS-DAS-ROCAS_na_Ilha_da_Trindade_-_2022_(52551310766).jpg",
+    "photo": "photos/sooty-tern.jpg",
     "silhouette": "svg/silhouettes/species/sooty-tern.png"
   },
   "southern-carmine-bee-eater": {
@@ -3713,6 +4129,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Carmine_Bee-eater_(Merops_nubicoides)_(16732824032).jpg",
+    "photo": "photos/southern-carmine-bee-eater.jpg",
     "silhouette": "svg/silhouettes/species/southern-carmine-bee-eater.png"
   },
   "southern-cassowary": {
@@ -3722,6 +4139,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_7071.jpg",
+    "photo": "photos/southern-cassowary.jpg",
     "silhouette": "svg/silhouettes/species/southern-cassowary.png"
   },
   "southern-ground-hornbill": {
@@ -3731,6 +4149,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Ground_Hornbill_(Bucorvus_leadbeateri)_male_(12714625605),_crop.jpg",
+    "photo": "photos/southern-ground-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/southern-ground-hornbill.png"
   },
   "southern-lapwing": {
@@ -3740,6 +4159,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_Lapwing_-_Indaiatuba,_SP,_BR.jpg",
+    "photo": "photos/southern-lapwing.jpg",
     "silhouette": "svg/silhouettes/species/southern-lapwing.png"
   },
   "southern-masked-weaver": {
@@ -3749,6 +4169,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Southern_masked_weaver_(Ploceus_velatus)_male.jpg",
+    "photo": "photos/southern-masked-weaver.jpg",
     "silhouette": "svg/silhouettes/species/southern-masked-weaver.png"
   },
   "southern-yellow-billed-hornbill": {
@@ -3758,6 +4179,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:155_Southern_yellow-billed_hornbill_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/southern-yellow-billed-hornbill.jpg",
     "silhouette": "svg/silhouettes/species/southern-yellow-billed-hornbill.png"
   },
   "speckled-mousebird": {
@@ -3767,6 +4189,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Colius_striatus_-_W%C3%BCstenhaus.jpg",
+    "photo": "photos/speckled-mousebird.jpg",
     "silhouette": "svg/silhouettes/species/speckled-mousebird.png"
   },
   "splendid-fairywren": {
@@ -3776,6 +4199,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Splendid_Fairywren_8352.jpg",
+    "photo": "photos/splendid-fairywren.jpg",
     "silhouette": "svg/silhouettes/species/splendid-fairywren.png"
   },
   "spot-billed-duck": {
@@ -3785,6 +4209,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Indian_Spot-billed_Duck_Anas_poecilorhyncha_by_Dr._Raju_Kasambe_DSCN3821_(11).jpg",
+    "photo": "photos/spot-billed-duck.jpg",
     "silhouette": "svg/silhouettes/species/spot-billed-duck.png"
   },
   "spotted-owlet": {
@@ -3794,6 +4219,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Spotted_Owlet_Bokkapuram_Nilgiris_Sep22_A7C_02968.jpg",
+    "photo": "photos/spotted-owlet.jpg",
     "silhouette": "svg/silhouettes/species/spotted-owlet.png"
   },
   "spotted-sandpiper": {
@@ -3803,6 +4229,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Actitis-macularia-005.jpg",
+    "photo": "photos/spotted-sandpiper.jpg",
     "silhouette": "svg/silhouettes/species/spotted-sandpiper.png"
   },
   "spur-winged-goose": {
@@ -3812,6 +4239,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Spur-winged_goose_(Plectropterus_gambensis).jpg",
+    "photo": "photos/spur-winged-goose.jpg",
     "silhouette": "svg/silhouettes/species/spur-winged-goose.png"
   },
   "stellers-jay": {
@@ -3821,6 +4249,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Steller%27s_Jay_flagstaff_arizona.jpg",
+    "photo": "photos/stellers-jay.jpg",
     "silhouette": "svg/silhouettes/species/stellers-jay.png"
   },
   "steppe-eagle": {
@@ -3830,6 +4259,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Steppe_Eagle_Portrait.jpg",
+    "photo": "photos/steppe-eagle.jpg",
     "silhouette": "svg/silhouettes/species/steppe-eagle.png"
   },
   "stork-billed-kingfisher": {
@@ -3839,6 +4269,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Stork-billed_Kingfisher_Baranagar_Kolkata_West_Bengal_India_21.04.2014.jpg",
+    "photo": "photos/stork-billed-kingfisher.jpg",
     "silhouette": "svg/silhouettes/species/stork-billed-kingfisher.png"
   },
   "sulphur-crested-cockatoo": {
@@ -3848,6 +4279,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cacatua_galerita_Tas_2.jpg",
+    "photo": "photos/sulphur-crested-cockatoo.jpg",
     "silhouette": "svg/silhouettes/species/sulphur-crested-cockatoo.png"
   },
   "sun-conure": {
@@ -3857,6 +4289,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Aratinga_solstitialis_-captive-two-8a.jpg",
+    "photo": "photos/sun-conure.jpg",
     "silhouette": "svg/silhouettes/species/sun-conure.png"
   },
   "superb-fairywren": {
@@ -3866,6 +4299,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Malurus_cyaneus_cyanochlamys_.jpg",
+    "photo": "photos/superb-fairywren.jpg",
     "silhouette": "svg/silhouettes/species/superb-fairywren.png"
   },
   "superb-lyrebird": {
@@ -3875,6 +4309,7 @@ const BirdMedia = {
     "imageLicense": "GFDL 1.2",
     "imageLicenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Superb_lyrbird_in_scrub.jpg",
+    "photo": "photos/superb-lyrebird.jpg",
     "silhouette": "svg/silhouettes/species/superb-lyrebird.png"
   },
   "superb-starling": {
@@ -3884,6 +4319,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Superb_Starling_Portrait.jpg",
+    "photo": "photos/superb-starling.jpg",
     "silhouette": "svg/silhouettes/species/superb-starling.png"
   },
   "sword-billed-hummingbird": {
@@ -3893,6 +4329,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sword-billed_hummingbird_(male)_at_Guango_Lodge,_Ecuador_(21310837273).jpg",
+    "photo": "photos/sword-billed-hummingbird.jpg",
     "silhouette": "svg/silhouettes/species/sword-billed-hummingbird.png"
   },
   "tawny-frogmouth": {
@@ -3902,6 +4339,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tawny_Frogmouth_-_Sydney_Olympic_Park.jpg",
+    "photo": "photos/tawny-frogmouth.jpg",
     "silhouette": "svg/silhouettes/species/tawny-frogmouth.png"
   },
   "tawny-owl": {
@@ -3911,6 +4349,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Strix_aluco_3_(Martin_Mecnarowski).jpg",
+    "photo": "photos/tawny-owl.jpg",
     "silhouette": "svg/silhouettes/species/tawny-owl.png"
   },
   "toco-toucan": {
@@ -3920,6 +4359,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "photo": "photos/toco-toucan.jpg",
     "silhouette": "svg/silhouettes/species/toco-toucan.png"
   },
   "tree-swallow": {
@@ -3929,6 +4369,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tree_swallow_in_JBWR_(25579).jpg",
+    "photo": "photos/tree-swallow.jpg",
     "silhouette": "svg/silhouettes/species/tree-swallow.png"
   },
   "trumpeter-swan": {
@@ -3938,6 +4379,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Trumpeter_swans_in_winter.jpg",
+    "photo": "photos/trumpeter-swan.jpg",
     "silhouette": "svg/silhouettes/species/trumpeter-swan.png"
   },
   "tufted-duck": {
@@ -3947,6 +4389,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tufted_Duck_09_05_2025_02.jpg",
+    "photo": "photos/tufted-duck.jpg",
     "silhouette": "svg/silhouettes/species/tufted-duck.png"
   },
   "tufted-titmouse": {
@@ -3956,6 +4399,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tufted_titmouse_(84917).jpg",
+    "photo": "photos/tufted-titmouse.jpg",
     "silhouette": "svg/silhouettes/species/tufted-titmouse.png"
   },
   "tui": {
@@ -3965,6 +4409,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Tui_(Prosthemadera_novaeseelandiae)_Tiritiri_Matangi.jpg",
+    "photo": "photos/tui.jpg",
     "silhouette": "svg/silhouettes/species/tui.png"
   },
   "tundra-swan": {
@@ -3974,6 +4419,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cygnus_bewickii_01.jpg",
+    "photo": "photos/tundra-swan.jpg",
     "silhouette": "svg/silhouettes/species/tundra-swan.png"
   },
   "turkey-vulture": {
@@ -3983,6 +4429,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Turkey_vulture_(Cathartes_aura)_Orange_Walk.jpg",
+    "photo": "photos/turkey-vulture.jpg",
     "silhouette": "svg/silhouettes/species/turkey-vulture.png"
   },
   "turquoise-browed-motmot": {
@@ -3992,6 +4439,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Turquoise-browed_motmot_(Eumomota_superciliosa_apiaster)_Copan_2.jpg",
+    "photo": "photos/turquoise-browed-motmot.jpg",
     "silhouette": "svg/silhouettes/species/turquoise-browed-motmot.png"
   },
   "varied-thrush": {
@@ -4001,6 +4449,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Varied_thrush_(73976).jpg",
+    "photo": "photos/varied-thrush.jpg",
     "silhouette": "svg/silhouettes/species/varied-thrush.png"
   },
   "verdin": {
@@ -4010,6 +4459,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Auriparus_flavicepsPCCA20050310-5817B.jpg",
+    "photo": "photos/verdin.jpg",
     "silhouette": "svg/silhouettes/species/verdin.png"
   },
   "vermilion-flycatcher": {
@@ -4019,6 +4469,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Karmintyrann_(Pyrocephalus_obscurus),_M%C3%A4nnchen_1.jpg",
+    "photo": "photos/vermilion-flycatcher.jpg",
     "silhouette": "svg/silhouettes/species/vermilion-flycatcher.png"
   },
   "vernal-hanging-parrot": {
@@ -4028,6 +4479,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Loriculus_vernalis_-Ganeshgudi,_Karnataka,_India_-male-8-1c.jpg",
+    "photo": "photos/vernal-hanging-parrot.jpg",
     "silhouette": "svg/silhouettes/species/vernal-hanging-parrot.png"
   },
   "verreauxs-eagle": {
@@ -4037,6 +4489,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Verreaux%27s_Eagle_(Black_Eagle),_Aquila_verreauxii,_at_Walter_Sisulu_National_Botanical_Garden,_Gauteng,_South_Africa_(28825027073).jpg",
+    "photo": "photos/verreauxs-eagle.jpg",
     "silhouette": "svg/silhouettes/species/verreauxs-eagle.png"
   },
   "village-weaver": {
@@ -4046,6 +4499,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Village_weaver_(Ploceus_cucullatus_cucullatus)_male_with_leaf.jpg",
+    "photo": "photos/village-weaver.jpg",
     "silhouette": "svg/silhouettes/species/village-weaver.png"
   },
   "vulturine-guineafowl": {
@@ -4055,6 +4509,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vulturine_Guineafowl_at_Samburu.jpg",
+    "photo": "photos/vulturine-guineafowl.jpg",
     "silhouette": "svg/silhouettes/species/vulturine-guineafowl.png"
   },
   "wandering-albatross": {
@@ -4064,6 +4519,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans_-_SE_Tasmania.jpg",
+    "photo": "photos/wandering-albatross.jpg",
     "silhouette": "svg/silhouettes/species/wandering-albatross.png"
   },
   "wedge-tailed-eagle": {
@@ -4073,6 +4529,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Aquila_audax_-_Captain%27s_Flat.jpg",
+    "photo": "photos/wedge-tailed-eagle.jpg",
     "silhouette": "svg/silhouettes/species/wedge-tailed-eagle.png"
   },
   "western-capercaillie": {
@@ -4082,6 +4539,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:David_Palmer_Capercaillie.jpg",
+    "photo": "photos/western-capercaillie.jpg",
     "silhouette": "svg/silhouettes/species/western-capercaillie.png"
   },
   "western-jackdaw": {
@@ -4091,6 +4549,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Nordic_jackdaw_(52563242448).jpg",
+    "photo": "photos/western-jackdaw.jpg",
     "silhouette": "svg/silhouettes/species/western-jackdaw.png"
   },
   "western-marsh-harrier": {
@@ -4100,6 +4559,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg",
+    "photo": "photos/western-marsh-harrier.jpg",
     "silhouette": "svg/silhouettes/species/western-marsh-harrier.png"
   },
   "western-meadowlark": {
@@ -4109,6 +4569,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Sturnella_neglecta_GNP_02.jpg",
+    "photo": "photos/western-meadowlark.jpg",
     "silhouette": "svg/silhouettes/species/western-meadowlark.png"
   },
   "western-scrub-jay": {
@@ -4118,6 +4579,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:California_Scrub_Jay,_Richmond,_Contra_Costa,_California_(30644196597).jpg",
+    "photo": "photos/western-scrub-jay.jpg",
     "silhouette": "svg/silhouettes/species/western-scrub-jay.png"
   },
   "western-tanager": {
@@ -4127,6 +4589,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Western_Tanager_(male).jpg",
+    "photo": "photos/western-tanager.jpg",
     "silhouette": "svg/silhouettes/species/western-tanager.png"
   },
   "white-backed-vulture": {
@@ -4136,6 +4599,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:2012-white-backed-vulture.jpg",
+    "photo": "photos/white-backed-vulture.jpg",
     "silhouette": "svg/silhouettes/species/white-backed-vulture.png"
   },
   "white-bellied-sea-eagle": {
@@ -4145,6 +4609,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:White-bellied_Sea-eagle_0A2A8670.jpg",
+    "photo": "photos/white-bellied-sea-eagle.jpg",
     "silhouette": "svg/silhouettes/species/white-bellied-sea-eagle.png"
   },
   "white-breasted-nuthatch": {
@@ -4154,6 +4619,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:White-breasted_nuthatch_(26471).jpg",
+    "photo": "photos/white-breasted-nuthatch.jpg",
     "silhouette": "svg/silhouettes/species/white-breasted-nuthatch.png"
   },
   "white-fronted-bee-eater": {
@@ -4163,6 +4629,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:White-fronted_bee-eater_(Merops_bullockoides)_Namibia.jpg",
+    "photo": "photos/white-fronted-bee-eater.jpg",
     "silhouette": "svg/silhouettes/species/white-fronted-bee-eater.png"
   },
   "white-ibis": {
@@ -4172,6 +4639,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:American_White_IbisII.jpg",
+    "photo": "photos/white-ibis.jpg",
     "silhouette": "svg/silhouettes/species/white-ibis.png"
   },
   "white-stork": {
@@ -4181,6 +4649,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_Bia%C5%82owieza.jpg",
+    "photo": "photos/white-stork.jpg",
     "silhouette": "svg/silhouettes/species/white-stork.png"
   },
   "white-tailed-eagle": {
@@ -4190,6 +4659,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:NZ7_5265_(52812350718).jpg",
+    "photo": "photos/white-tailed-eagle.jpg",
     "silhouette": "svg/silhouettes/species/white-tailed-eagle.png"
   },
   "white-throated-kingfisher": {
@@ -4199,6 +4669,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:White-throated_kingfisher_(Halcyon_smyrnensis)_Galle.jpg",
+    "photo": "photos/white-throated-kingfisher.jpg",
     "silhouette": "svg/silhouettes/species/white-throated-kingfisher.png"
   },
   "white-throated-sparrow": {
@@ -4208,6 +4679,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Zonotrichia_albicollis_CT1.jpg",
+    "photo": "photos/white-throated-sparrow.jpg",
     "silhouette": "svg/silhouettes/species/white-throated-sparrow.png"
   },
   "white-wagtail": {
@@ -4217,6 +4689,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_(40785272624).jpg",
+    "photo": "photos/white-wagtail.jpg",
     "silhouette": "svg/silhouettes/species/white-wagtail.png"
   },
   "whooper-swan": {
@@ -4226,6 +4699,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_Singschwan.jpg",
+    "photo": "photos/whooper-swan.jpg",
     "silhouette": "svg/silhouettes/species/whooper-swan.png"
   },
   "wild-turkey": {
@@ -4235,6 +4709,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:20260428_tom_wild_turkey_matthaei_botanical_gardens_PD08952.jpg",
+    "photo": "photos/wild-turkey.jpg",
     "silhouette": "svg/silhouettes/species/wild-turkey.png"
   },
   "willie-wagtail": {
@@ -4244,6 +4719,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rhipidura_leucophrys_-_Glen_Davis.jpg",
+    "photo": "photos/willie-wagtail.jpg",
     "silhouette": "svg/silhouettes/species/willie-wagtail.png"
   },
   "winter-wren": {
@@ -4253,6 +4729,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Winter_wren_in_Prospect_Park_(32249).jpg",
+    "photo": "photos/winter-wren.jpg",
     "silhouette": "svg/silhouettes/species/winter-wren.png"
   },
   "wood-duck": {
@@ -4262,6 +4739,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Wood_Duck_Wissahickon_Creek.png",
+    "photo": "photos/wood-duck.jpg",
     "silhouette": "svg/silhouettes/species/wood-duck.png"
   },
   "wood-stork": {
@@ -4271,6 +4749,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:WoodStorkWhole.JPG",
+    "photo": "photos/wood-stork.jpg",
     "silhouette": "svg/silhouettes/species/wood-stork.png"
   },
   "yellow-billed-cuckoo": {
@@ -4280,6 +4759,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Yellow-billed_cuckoo_(42690).jpg",
+    "photo": "photos/yellow-billed-cuckoo.jpg",
     "silhouette": "svg/silhouettes/species/yellow-billed-cuckoo.png"
   },
   "yellow-billed-stork": {
@@ -4289,6 +4769,7 @@ const BirdMedia = {
     "imageLicense": "CC BY 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Yellow-billed_Stork.jpg",
+    "photo": "photos/yellow-billed-stork.jpg",
     "silhouette": "svg/silhouettes/species/yellow-billed-stork.png"
   },
   "yellow-headed-blackbird": {
@@ -4298,6 +4779,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Male_Yellow-headed_Blackbird.jpg",
+    "photo": "photos/yellow-headed-blackbird.jpg",
     "silhouette": "svg/silhouettes/species/yellow-headed-blackbird.png"
   },
   "yellow-wagtail": {
@@ -4307,6 +4789,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
+    "photo": "photos/yellow-wagtail.jpg",
     "silhouette": "svg/silhouettes/species/yellow-wagtail.png"
   },
   "yellow-warbler": {
@@ -4316,6 +4799,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Yellow_warbler_(82905).jpg",
+    "photo": "photos/yellow-warbler.jpg",
     "silhouette": "svg/silhouettes/species/yellow-warbler.png"
   },
   "yellowhammer": {
@@ -4325,6 +4809,7 @@ const BirdMedia = {
     "imageLicense": "CC BY-SA 2.5",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Goldammer_Emberiza_citrinella.jpg",
+    "photo": "photos/yellowhammer.jpg",
     "silhouette": "svg/silhouettes/species/yellowhammer.png"
   }
 };
