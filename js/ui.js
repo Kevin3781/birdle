@@ -242,7 +242,7 @@ const UI = (() => {
       } else {
         msg = `Close — a close relative!`;
       }
-      html += `<span class="guess-row-hint">🔥 ${msg}</span>`;
+      html += `<span class="guess-row-hint">${msg}</span>`;
       row.classList.add('guess-row-item--close');
     }
     row.innerHTML = html;
@@ -290,8 +290,12 @@ const UI = (() => {
       resultEl.textContent = 'Out of guesses — nice try!';
     }
 
-    el('card-photo').src = photoUrl(bird);
-    el('card-photo').alt = bird.commonName;
+    const cardPhoto = el('card-photo');
+    cardPhoto.onerror = () => {
+      if (cardPhoto.src !== bird.imageUrl && bird.imageUrl) cardPhoto.src = bird.imageUrl;
+    };
+    cardPhoto.src = photoUrl(bird);
+    cardPhoto.alt = bird.commonName;
     el('card-name').textContent = bird.commonName;
     el('card-sci').textContent = bird.scientificName;
 
