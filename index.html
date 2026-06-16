@@ -12,7 +12,7 @@
   <noscript>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap">
   </noscript>
-  <link rel="stylesheet" href="css/styles.css?v=4">
+  <link rel="stylesheet" href="css/styles.css?v=5">
   <!-- Set theme before first paint to avoid a flash of the wrong colour scheme -->
   <script>
     try {
@@ -57,11 +57,11 @@
 
     <!-- Region selector — chooses which region's daily you play (applies to Daily + Archive) -->
     <div class="region-bar" id="region-bar" hidden>
-      <label class="region-bar-label" for="region-select">Region</label>
-      <div class="region-select-wrap">
-        <select id="region-select" class="region-select" aria-label="Choose region"></select>
-        <span class="region-select-caret" aria-hidden="true">▾</span>
-      </div>
+      <span class="region-bar-label">Region</span>
+      <button class="region-pick-btn" id="btn-region" aria-haspopup="dialog" aria-label="Choose region">
+        <span class="region-pick-label" id="region-pick-label">🌍 Global</span>
+        <span class="region-pick-caret" aria-hidden="true">▾</span>
+      </button>
     </div>
 
     <!-- Loading placeholder — visible before JS initializes, hidden immediately after -->
@@ -203,6 +203,50 @@
     </div>
   </div>
 
+  <!-- ── Region map picker ───────────────────── -->
+  <div class="overlay" id="overlay-region" role="dialog" aria-modal="true" aria-label="Choose your region" hidden>
+    <div class="modal region-modal" id="modal-region">
+      <div class="modal-header">
+        <h2 class="modal-title">Choose your region</h2>
+        <button class="modal-close" id="btn-close-region" aria-label="Close">&#x2715;</button>
+      </div>
+      <div class="modal-body">
+        <p class="region-modal-sub">Tap a continent to play its daily bird — each region keeps its own streak.</p>
+        <div class="map-frame">
+          <svg class="region-map" viewBox="0 0 1000 500" role="group" aria-label="World map of regions">
+            <g class="map-grid" aria-hidden="true">
+              <line x1="0" y1="125" x2="1000" y2="125"/><line x1="0" y1="250" x2="1000" y2="250"/>
+              <line x1="0" y1="375" x2="1000" y2="375"/>
+              <line x1="250" y1="0" x2="250" y2="500"/><line x1="500" y1="0" x2="500" y2="500"/>
+              <line x1="750" y1="0" x2="750" y2="500"/>
+            </g>
+            <g class="map-lands">
+              <path class="land" data-region="north-america" role="button" tabindex="0" aria-label="North America"
+                d="M105,76 L210,60 L300,64 L286,104 L250,126 L270,140 L242,206 L226,234 L219,221 L233,172 L205,164 L182,150 L156,162 L134,150 L118,112 Z"/>
+              <text class="rlabel" x="168" y="118">N. America</text>
+              <path class="land" data-region="south-america" role="button" tabindex="0" aria-label="South and Central America"
+                d="M252,256 L300,248 L332,274 L340,312 L312,368 L291,430 L279,395 L286,330 L265,297 Z"/>
+              <text class="rlabel" x="278" y="322">S. America</text>
+              <path class="land" data-region="europe" role="button" tabindex="0" aria-label="Europe"
+                d="M470,82 L520,74 L568,78 L580,102 L552,116 L562,136 L522,130 L502,148 L490,122 L478,106 Z"/>
+              <text class="rlabel rlabel--sm" x="498" y="106">Europe</text>
+              <path class="land" data-region="africa" role="button" tabindex="0" aria-label="Africa"
+                d="M482,168 L606,164 L630,206 L602,250 L582,316 L546,378 L520,366 L528,300 L496,254 L478,206 Z"/>
+              <text class="rlabel" x="520" y="250">Africa</text>
+              <path class="land" data-region="asia" role="button" tabindex="0" aria-label="Asia"
+                d="M590,70 L760,62 L892,80 L906,120 L866,150 L822,150 L802,180 L786,178 L778,212 L760,184 L740,198 L712,182 L672,176 L634,168 L604,140 L592,104 Z"/>
+              <text class="rlabel" x="724" y="118">Asia</text>
+              <path class="land" data-region="oceania" role="button" tabindex="0" aria-label="Australia and Oceania"
+                d="M798,328 L858,318 L902,332 L916,360 L884,392 L838,398 L806,372 L792,348 Z"/>
+              <text class="rlabel rlabel--sm" x="826" y="362">Oceania</text>
+            </g>
+          </svg>
+        </div>
+        <button class="region-global-btn" data-region="global" id="btn-region-global">🌍 Play the whole world &middot; Global</button>
+      </div>
+    </div>
+  </div>
+
   <!-- ── Help modal ───────────────────────────── -->
   <div class="overlay" id="overlay-help" role="dialog" aria-modal="true" aria-label="How to play" hidden>
     <div class="modal" id="modal-help">
@@ -266,10 +310,10 @@
 
   <!-- Scripts: load order matters (ingested → birds → media → ui → app).
        ?v=N busts browser/CDN caches on deploy — bump N when js/media change. -->
-  <script src="js/birds_ingested.js?v=4"></script>
-  <script src="js/birds.js?v=4"></script>
-  <script src="js/media.js?v=4"></script>
-  <script src="js/ui.js?v=4"></script>
-  <script src="js/app.js?v=4"></script>
+  <script src="js/birds_ingested.js?v=5"></script>
+  <script src="js/birds.js?v=5"></script>
+  <script src="js/media.js?v=5"></script>
+  <script src="js/ui.js?v=5"></script>
+  <script src="js/app.js?v=5"></script>
 </body>
 </html>

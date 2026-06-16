@@ -447,20 +447,44 @@ const UI = (() => {
     document.body.classList.remove('overlay-open');
   }
 
-  // ── Region selector ───────────────────────────────────────────────────────
+  // ── Region selector (clickable world map) ──────────────────────────────────
+  let _regionMeta = {}; // key -> { label, emoji }
+  function showRegionMap() {
+    el('overlay-region').hidden = false;
+    document.body.classList.add('overlay-open');
+  }
+  function hideRegionMap() {
+    el('overlay-region').hidden = true;
+    document.body.classList.remove('overlay-open');
+  }
   function buildRegionSelector(regions, current, onChange) {
-    const sel = el('region-select');
-    if (!sel) return;
-    sel.innerHTML = regions
-      .map(r => `<option value="${escHtml(r.key)}">${r.emoji || ''} ${escHtml(r.label)}</option>`)
-      .join('');
-    sel.value = current;
-    sel.addEventListener('change', () => onChange(sel.value));
+    _regionMeta = {};
+    regions.forEach(r => { _regionMeta[r.key] = { label: r.label, emoji: r.emoji || '' }; });
+
+    const pick = (key) => { onChange(key); hideRegionMap(); };
+
+    el('btn-region').addEventListener('click', showRegionMap);
+    document.querySelectorAll('#overlay-region .land').forEach(path => {
+      path.addEventListener('click', () => pick(path.dataset.region));
+      path.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(path.dataset.region); }
+      });
+    });
+    el('btn-region-global').addEventListener('click', () => pick('global'));
+    el('btn-close-region').addEventListener('click', hideRegionMap);
+    el('overlay-region').addEventListener('click', e => { if (e.target === e.currentTarget) hideRegionMap(); });
+
+    setRegionValue(current);
     el('region-bar').hidden = false;
   }
   function setRegionValue(key) {
-    const sel = el('region-select');
-    if (sel) sel.value = key;
+    const meta = _regionMeta[key] || { label: 'Global', emoji: '🌍' };
+    const lbl = el('region-pick-label');
+    if (lbl) lbl.textContent = `${meta.emoji} ${meta.label}`.trim();
+    document.querySelectorAll('#overlay-region .land').forEach(p =>
+      p.classList.toggle('land--sel', p.dataset.region === key));
+    const gb = el('btn-region-global');
+    if (gb) gb.classList.toggle('region-global-btn--sel', key === 'global');
   }
 
   // ── Stats modal ───────────────────────────────────────────────────────────
