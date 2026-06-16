@@ -12,7 +12,7 @@
   <noscript>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap">
   </noscript>
-  <link rel="stylesheet" href="css/styles.css?v=5">
+  <link rel="stylesheet" href="css/styles.css?v=13">
   <!-- Set theme before first paint to avoid a flash of the wrong colour scheme -->
   <script>
     try {
@@ -32,7 +32,7 @@
   <header class="site-header">
     <div class="header-inner">
       <div class="logo">
-        <span class="logo-icon">🐦</span>
+        <span class="logo-icon"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.6 4c-2.3 0-4.2 1.7-4.5 3.9-3.3.2-5.9 2.9-5.9 6.3 0 .9.2 1.7.5 2.4l-2 1.9c-.3.3-.1.8.3.8h7.7c3.8 0 6.9-3.1 6.9-6.9 0-.5 0-1-.2-1.5l1.8-1.4c.3-.2.2-.7-.2-.8l-1.7-.3A4.6 4.6 0 0 0 15.6 4zm.4 3.4a.95.95 0 1 1 0-1.9.95.95 0 0 1 0 1.9z"/></svg></span>
         <span class="logo-text">Bird<em>le</em></span>
       </div>
       <div class="mode-tabs" role="tablist" aria-label="Game mode">
@@ -48,7 +48,7 @@
         </svg>
       </button>
       <button class="icon-btn" id="btn-help" aria-label="How to play">?</button>
-      <button class="icon-btn" id="btn-theme" aria-label="Toggle dark mode">🌙</button>
+      <button class="icon-btn" id="btn-theme" aria-label="Toggle dark mode"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a7 7 0 1 0 10.5 10.5z"/></svg></button>
     </div>
   </header>
 
@@ -59,7 +59,8 @@
     <div class="region-bar" id="region-bar" hidden>
       <span class="region-bar-label">Region</span>
       <button class="region-pick-btn" id="btn-region" aria-haspopup="dialog" aria-label="Choose region">
-        <span class="region-pick-label" id="region-pick-label">🌍 Global</span>
+        <svg class="region-pick-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.6 2.7 2.6 15.3 0 18"/><path d="M12 3c-2.6 2.7-2.6 15.3 0 18"/></svg>
+        <span class="region-pick-label" id="region-pick-label">Global</span>
         <span class="region-pick-caret" aria-hidden="true">▾</span>
       </button>
     </div>
@@ -67,7 +68,7 @@
     <!-- Loading placeholder — visible before JS initializes, hidden immediately after -->
     <div class="screen" id="screen-loading">
       <div class="loading-splash">
-        <span class="loading-bird-icon">🐦</span>
+        <span class="loading-bird-icon"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.6 4c-2.3 0-4.2 1.7-4.5 3.9-3.3.2-5.9 2.9-5.9 6.3 0 .9.2 1.7.5 2.4l-2 1.9c-.3.3-.1.8.3.8h7.7c3.8 0 6.9-3.1 6.9-6.9 0-.5 0-1-.2-1.5l1.8-1.4c.3-.2.2-.7-.2-.8l-1.7-.3A4.6 4.6 0 0 0 15.6 4zm.4 3.4a.95.95 0 1 1 0-1.9.95.95 0 0 1 0 1.9z"/></svg></span>
         <p class="loading-text">Loading…</p>
       </div>
     </div>
@@ -143,6 +144,7 @@
         <div class="card-share" id="card-share" hidden>
           <div class="share-preview" id="share-preview" aria-hidden="true"></div>
           <p class="share-line" id="share-line"></p>
+          <p class="card-countdown" id="card-countdown" aria-live="polite"></p>
         </div>
 
         <ul class="card-facts" id="card-facts"></ul>
@@ -214,12 +216,6 @@
         <p class="region-modal-sub">Tap a continent to play its daily bird — each region keeps its own streak.</p>
         <div class="map-frame">
           <svg class="region-map" viewBox="0 0 1000 500" role="group" aria-label="World map of regions">
-            <g class="map-grid" aria-hidden="true">
-              <line x1="0" y1="125" x2="1000" y2="125"/><line x1="0" y1="250" x2="1000" y2="250"/>
-              <line x1="0" y1="375" x2="1000" y2="375"/>
-              <line x1="250" y1="0" x2="250" y2="500"/><line x1="500" y1="0" x2="500" y2="500"/>
-              <line x1="750" y1="0" x2="750" y2="500"/>
-            </g>
             <g class="map-lands">
               <path class="land" data-region="north-america" role="button" tabindex="0" aria-label="North America"
                 d="M105,76 L210,60 L300,64 L286,104 L250,126 L270,140 L242,206 L226,234 L219,221 L233,172 L205,164 L182,150 L156,162 L134,150 L118,112 Z"/>
@@ -228,7 +224,7 @@
                 d="M252,256 L300,248 L332,274 L340,312 L312,368 L291,430 L279,395 L286,330 L265,297 Z"/>
               <text class="rlabel" x="278" y="322">S. America</text>
               <path class="land" data-region="europe" role="button" tabindex="0" aria-label="Europe"
-                d="M470,82 L520,74 L568,78 L580,102 L552,116 L562,136 L522,130 L502,148 L490,122 L478,106 Z"/>
+                d="M470,84 L548,76 L580,92 L566,114 L578,134 L534,134 L510,150 L492,126 L476,106 Z"/>
               <text class="rlabel rlabel--sm" x="498" y="106">Europe</text>
               <path class="land" data-region="africa" role="button" tabindex="0" aria-label="Africa"
                 d="M482,168 L606,164 L630,206 L602,250 L582,316 L546,378 L520,366 L528,300 L496,254 L478,206 Z"/>
@@ -242,7 +238,7 @@
             </g>
           </svg>
         </div>
-        <button class="region-global-btn" data-region="global" id="btn-region-global">🌍 Play the whole world &middot; Global</button>
+        <button class="region-global-btn" data-region="global" id="btn-region-global"><svg class="rgb-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.6 2.7 2.6 15.3 0 18"/><path d="M12 3c-2.6 2.7-2.6 15.3 0 18"/></svg>Play the whole world &middot; Global</button>
       </div>
     </div>
   </div>
@@ -310,10 +306,10 @@
 
   <!-- Scripts: load order matters (ingested → birds → media → ui → app).
        ?v=N busts browser/CDN caches on deploy — bump N when js/media change. -->
-  <script src="js/birds_ingested.js?v=5"></script>
-  <script src="js/birds.js?v=5"></script>
-  <script src="js/media.js?v=5"></script>
-  <script src="js/ui.js?v=5"></script>
-  <script src="js/app.js?v=5"></script>
+  <script src="js/birds_ingested.js?v=13"></script>
+  <script src="js/birds.js?v=13"></script>
+  <script src="js/media.js?v=13"></script>
+  <script src="js/ui.js?v=13"></script>
+  <script src="js/app.js?v=13"></script>
 </body>
 </html>

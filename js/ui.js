@@ -3,12 +3,21 @@
 const UI = (() => {
   // The 5 clue spokes, in unlock order. `pos` maps to a grid area (s1..s5) laid
   // out as a point-up pentagon around the hub (see .hub-spoke in styles.css).
+  // Each clue has a ghost icon shown while locked, hinting at the reward to come
+  // (a waveform for song, a leaf for habitat, etc.) instead of a generic "?".
+  const ICON = {
+    song: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 9.5v5M8 6v12M12 9v6M16 4v16M20 9.5v5"/></svg>',
+    habitat: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 19C5 11 11 5 19 5c0 8-6 14-14 14z"/><path d="M5.5 18.5C8 14 11.5 11 15 9.5"/></svg>',
+    behaviour: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s4-7 10-7 10 7 10 7-4 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="2.6"/></svg>',
+    silhouette: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 6.3c-.8.4-1.6.6-2.5.7a4.3 4.3 0 0 0 1.9-2.4c-.8.5-1.8.9-2.8 1.1a4.3 4.3 0 0 0-7.4 3.9C7.4 9.4 4.1 7.6 1.9 4.8a4.3 4.3 0 0 0 1.3 5.8c-.7 0-1.4-.2-2-.5a4.3 4.3 0 0 0 3.5 4.3c-.6.2-1.3.2-2 .1a4.3 4.3 0 0 0 4 3 8.7 8.7 0 0 1-6.4 1.8 12.2 12.2 0 0 0 18.8-10.3v-.6c.8-.6 1.5-1.3 2-2.2z"/></svg>',
+    photo: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14"/><circle cx="8.5" cy="10" r="1.6"/><path d="M21 16l-5-5-8 7"/></svg>',
+  };
   const CLUES = [
-    { n: 1, key: 'song',       pos: 's1', icon: '🎵', label: 'Bird Song' },
-    { n: 2, key: 'habitat',    pos: 's2', icon: '📍', label: 'Habitat & Range' },
-    { n: 3, key: 'behaviour',  pos: 's3', icon: '🔍', label: 'Behaviour & Diet' },
-    { n: 4, key: 'silhouette', pos: 's4', icon: '⬛', label: 'Silhouette' },
-    { n: 5, key: 'photo',      pos: 's5', icon: '📷', label: 'Full Photo' },
+    { n: 1, key: 'song',       pos: 's1', label: 'Bird Song' },
+    { n: 2, key: 'habitat',    pos: 's2', label: 'Habitat & Range' },
+    { n: 3, key: 'behaviour',  pos: 's3', label: 'Behaviour & Diet' },
+    { n: 4, key: 'silhouette', pos: 's4', label: 'Silhouette' },
+    { n: 5, key: 'photo',      pos: 's5', label: 'Full Photo' },
   ];
 
   const el = id => document.getElementById(id);
@@ -74,7 +83,7 @@ const UI = (() => {
           `<span class="spoke-label">${clue.label}</span>` +
         `</div>` +
         `<div class="spoke-body">` +
-          `<div class="spoke-locked"><span class="spoke-q">?</span></div>` +
+          `<div class="spoke-locked" aria-label="Locked — make a wrong guess to unlock">${ICON[clue.key]}</div>` +
           `<div class="spoke-content"></div>` +
         `</div>`;
       // Insert spokes before the hub so source order is clue 1..5 then hub
@@ -264,6 +273,22 @@ const UI = (() => {
     input.classList.add('shake');
   }
 
+  // Brief red border flash on the input for a wrong (but valid) guess.
+  function flashWrongGuess() {
+    const input = el('guess-input');
+    input.classList.remove('flash-wrong');
+    void input.offsetWidth;
+    input.classList.add('flash-wrong');
+  }
+
+  // Brief accent pulse confirming an autocomplete pick (neutral acknowledgement).
+  function flashSelect() {
+    const input = el('guess-input');
+    input.classList.remove('flash-select');
+    void input.offsetWidth;
+    input.classList.add('flash-select');
+  }
+
   function setGuessError(msg) {
     let err = el('guess-error-msg');
     if (!err) {
@@ -297,6 +322,7 @@ const UI = (() => {
     cardPhoto.src = photoUrl(bird);
     cardPhoto.alt = bird.commonName;
     el('card-name').textContent = bird.commonName;
+    el('card-name').classList.toggle('card-name--win', !!won); // one-time light-catch sheen on a win
     el('card-sci').textContent = bird.scientificName;
 
     // Facts
@@ -373,30 +399,54 @@ const UI = (() => {
       el('share-line').textContent = shareLine || '';
       btnShare.hidden = false;
       btnShare.dataset.text = shareText || '';
-      btnShare.onclick = () => shareResult(shareText);
+      btnShare.onclick = () => shareResult(shareText, btnShare);
       btnNext.hidden = true;
+      startCountdown();
     } else {
       shareBlock.hidden = true;
       btnShare.hidden = true;
       btnNext.hidden = false;
+      stopCountdown();
     }
 
     card.hidden = false;
     document.body.classList.add('overlay-open');
   }
 
-  // 5-segment row: filled up to the solve clue (win) or all-X (fail).
+  // 5-segment row: filled up to the solve clue (win) or all-X (fail). Filled
+  // segments pop in in sequence (echoing the spoke-unlock cadence).
   function buildShareSegments(won, solveClue) {
     let html = '';
     for (let i = 1; i <= 5; i++) {
-      if (won && i <= solveClue) html += '<span class="seg seg--filled"></span>';
+      const delay = (0.55 + (i - 1) * 0.08).toFixed(2);
+      if (won && i <= solveClue) html += `<span class="seg seg--filled" style="animation-delay:${delay}s"></span>`;
       else if (!won) html += '<span class="seg seg--fail">✕</span>';
       else html += '<span class="seg"></span>';
     }
     return html;
   }
 
+  // Live countdown to the next daily bird (local midnight).
+  let _cdTimer = null;
+  function startCountdown() {
+    const node = el('card-countdown'); if (!node) return;
+    const tick = () => {
+      const now = new Date();
+      const next = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0, 0);
+      let s = Math.max(0, Math.floor((next - now) / 1000));
+      const h = String(Math.floor(s / 3600)).padStart(2, '0');
+      const m = String(Math.floor((s % 3600) / 60)).padStart(2, '0');
+      s = String(s % 60).padStart(2, '0');
+      node.textContent = `Next bird in ${h}:${m}:${s}`;
+    };
+    tick();
+    clearInterval(_cdTimer);
+    _cdTimer = setInterval(tick, 1000);
+  }
+  function stopCountdown() { clearInterval(_cdTimer); _cdTimer = null; }
+
   function hideBirdCard() {
+    stopCountdown();
     el('overlay-card').hidden = true;
     document.body.classList.remove('overlay-open');
     const player = el('card-audio-player');
@@ -478,9 +528,9 @@ const UI = (() => {
     el('region-bar').hidden = false;
   }
   function setRegionValue(key) {
-    const meta = _regionMeta[key] || { label: 'Global', emoji: '🌍' };
+    const meta = _regionMeta[key] || { label: 'Global', emoji: '' };
     const lbl = el('region-pick-label');
-    if (lbl) lbl.textContent = `${meta.emoji} ${meta.label}`.trim();
+    if (lbl) lbl.textContent = meta.label;
     document.querySelectorAll('#overlay-region .land').forEach(p =>
       p.classList.toggle('land--sel', p.dataset.region === key));
     const gb = el('btn-region-global');
@@ -488,27 +538,58 @@ const UI = (() => {
   }
 
   // ── Stats modal ───────────────────────────────────────────────────────────
+  const prefersReduced = () => matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let _lastMilestone = -1;
+  function countUp(id, to) {
+    const node = el(id); if (!node) return;
+    if (prefersReduced()) { node.textContent = to; return; }
+    const dur = 600, start = performance.now();
+    function tick(now) {
+      const t = Math.min((now - start) / dur, 1);
+      node.textContent = Math.round(to * (1 - Math.pow(1 - t, 3))); // ease-out cubic, no overshoot
+      if (t < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+  }
   function showStats(stats, regionLabel) {
     const rEl = el('stats-region');
     if (rEl) rEl.textContent = regionLabel ? `${regionLabel} · daily` : '';
-    el('stat-played').textContent = stats.played;
-    el('stat-win-pct').textContent = stats.played ? Math.round((stats.wins / stats.played) * 100) : 0;
-    el('stat-streak').textContent = stats.streak;
-    el('stat-max-streak').textContent = stats.maxStreak;
+    const winPct = stats.played ? Math.round((stats.wins / stats.played) * 100) : 0;
+    countUp('stat-played', stats.played);
+    countUp('stat-win-pct', winPct);
+    countUp('stat-streak', stats.streak);
+    countUp('stat-max-streak', stats.maxStreak);
+
+    // One-time flourish when the streak lands on a milestone.
+    const cell = el('stat-streak') && el('stat-streak').closest('.stat-cell');
+    if (cell) {
+      cell.classList.remove('stat-cell--milestone');
+      if ([3, 7, 14, 30, 50, 100].includes(stats.streak) && stats.streak !== _lastMilestone && !prefersReduced()) {
+        void cell.offsetWidth;
+        cell.classList.add('stat-cell--milestone');
+        _lastMilestone = stats.streak;
+      }
+    }
 
     const distEl = el('guess-dist');
     distEl.innerHTML = '';
     const max = Math.max(...stats.dist, 1);
     const labels = ['1', '2', '3', '4', '5', 'X'];
+    const pcts = [];
     stats.dist.forEach((count, i) => {
       const pct = Math.max(Math.round((count / max) * 100), count > 0 ? 4 : 0);
+      pcts.push(pct);
       const row = document.createElement('div');
       row.className = 'dist-row';
+      const w = prefersReduced() ? pct : 0;
       row.innerHTML =
         `<span class="dist-num">${labels[i]}</span>` +
-        `<div class="dist-bar-wrap"><div class="dist-bar" style="width:${pct}%">${count || ''}</div></div>`;
+        `<div class="dist-bar-wrap"><div class="dist-bar${i === 5 ? ' dist-bar--fail' : ''}" style="width:${w}%">${count || ''}</div></div>`;
       distEl.appendChild(row);
     });
+    if (!prefersReduced()) {
+      requestAnimationFrame(() => distEl.querySelectorAll('.dist-bar').forEach((b, i) => { b.style.width = pcts[i] + '%'; }));
+    }
 
     el('overlay-stats').hidden = false;
     document.body.classList.add('overlay-open');
@@ -519,17 +600,24 @@ const UI = (() => {
   }
 
   // ── Share ─────────────────────────────────────────────────────────────────
-  async function shareResult(text) {
+  async function shareResult(text, btn) {
     if (navigator.share) {
       try { await navigator.share({ title: 'Birdle', text }); return; }
       catch (_) { /* fallthrough to clipboard */ }
     }
-    try {
-      await navigator.clipboard.writeText(text);
-      alert('Result copied to clipboard!');
-    } catch (_) {
-      alert(text);
-    }
+    try { await navigator.clipboard.writeText(text); } catch (_) { /* ignore */ }
+    flashCopied(btn);
+  }
+  // In-place confirmation morph (replaces the old blocking alert).
+  function flashCopied(btn) {
+    if (!btn || btn._copying) return;
+    btn._copying = true;
+    const orig = btn.textContent;
+    btn.textContent = 'Copied ✓';
+    btn.classList.add('is-copied');
+    setTimeout(() => {
+      btn.textContent = orig; btn.classList.remove('is-copied'); btn._copying = false;
+    }, 1700);
   }
 
   // ── Utility ───────────────────────────────────────────────────────────────
@@ -590,6 +678,8 @@ const UI = (() => {
     setGuessInputEnabled,
     clearGuessInput,
     shakeGuessInput,
+    flashWrongGuess,
+    flashSelect,
     setGuessError,
     showBirdCard,
     hideBirdCard,

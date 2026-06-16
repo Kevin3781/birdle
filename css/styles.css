@@ -14,8 +14,8 @@
 
   --ink:          #1c1a17;
   --ink-mid:      #4a4540;
-  --ink-light:    #8a8278;
-  --ink-faint:    #bfb9b0;
+  --ink-light:    #6f6759;
+  --ink-faint:    #b0a99e;
 
   --border:       rgba(0,0,0,0.07);
   --border-md:    rgba(0,0,0,0.11);
@@ -76,8 +76,8 @@
 
   --ink:          #ece4d6;
   --ink-mid:      #c4bbac;
-  --ink-light:    #978d7e;
-  --ink-faint:    #655c50;
+  --ink-light:    #a99e8d;
+  --ink-faint:    #7d7466;
 
   --border:       rgba(255,255,255,0.09);
   --border-md:    rgba(255,255,255,0.16);
@@ -162,7 +162,10 @@ img { display: block; max-width: 100%; }
 }
 
 .logo { display: flex; align-items: center; gap: 0.45rem; flex-shrink: 0; text-decoration: none; }
-.logo-icon { font-size: 1.25rem; line-height: 1; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.12)); }
+.logo-icon { display: inline-flex; line-height: 1; }
+.logo-icon svg { width: 1.55rem; height: 1.55rem; color: var(--accent); filter: drop-shadow(0 1px 2px rgba(0,0,0,0.12)); }
+#btn-theme svg { width: 18px; height: 18px; }
+.region-pick-icon { width: 15px; height: 15px; color: var(--accent); flex-shrink: 0; }
 .logo-text { font-family: var(--font-display); font-size: 1.3rem; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); }
 .logo-text em { font-style: italic; font-weight: 600; color: var(--accent-deep); }
 
@@ -202,7 +205,7 @@ img { display: block; max-width: 100%; }
   border: 1px solid var(--border-md);
   color: var(--ink-mid);
   border-radius: var(--r-sm);
-  width: 34px; height: 34px;
+  width: 44px; height: 44px;
   display: flex; align-items: center; justify-content: center;
   font-size: 0.88rem;
   font-weight: 600;
@@ -221,7 +224,8 @@ img { display: block; max-width: 100%; }
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   flex: 1; gap: 0.75rem; color: var(--ink-faint);
 }
-.loading-bird-icon { font-size: 2.5rem; animation: float-pulse 2s ease-in-out infinite; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.10)); }
+.loading-bird-icon { display: inline-flex; animation: float-pulse 2s ease-in-out infinite; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.10)); }
+.loading-bird-icon svg { width: 2.6rem; height: 2.6rem; color: var(--accent); }
 .loading-text { font-size: 0.85rem; color: var(--ink-light); letter-spacing: 0.03em; }
 @keyframes float-pulse {
   0%, 100% { transform: translateY(0); opacity: 1; }
@@ -288,7 +292,8 @@ img { display: block; max-width: 100%; }
 .land { fill: var(--land); stroke: var(--land-edge); stroke-width: 1.5; cursor: pointer; transition: fill 0.15s var(--ease-out); }
 .land:hover { fill: var(--accent-deep); }
 .land:focus-visible { outline: none; fill: var(--accent-deep); }
-.land.land--sel { fill: var(--accent); }
+.land.land--sel { fill: var(--accent); transform-box: fill-box; transform-origin: center; animation: region-pick-pulse 0.32s var(--ease-spring); }
+@keyframes region-pick-pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
 .rlabel { fill: var(--ink-light); font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; pointer-events: none; }
 .rlabel--sm { font-size: 11px; }
 .land.land--sel + .rlabel { fill: #fff; }
@@ -296,10 +301,12 @@ img { display: block; max-width: 100%; }
   margin-top: var(--s-4); width: 100%; font-family: inherit; font-size: 0.92rem; font-weight: 600;
   padding: 0.7rem 1rem; cursor: pointer; border: 1px solid var(--card-edge);
   background: var(--bg-card); color: var(--ink);
+  display: flex; align-items: center; justify-content: center; gap: 0.5rem;
   transition: background 0.15s var(--ease-out), color 0.15s var(--ease-out), border-color 0.15s var(--ease-out);
 }
 .region-global-btn:hover { border-color: var(--accent); }
 .region-global-btn--sel { background: var(--accent); color: #fff; border-color: var(--accent); }
+.rgb-icon { width: 18px; height: 18px; flex-shrink: 0; }
 .stats-region {
   text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
   letter-spacing: 0.08em; color: var(--accent-deep); margin: 0 0 var(--s-4);
@@ -366,12 +373,16 @@ img { display: block; max-width: 100%; }
 }
 .spoke[data-locked="false"] {
   border-left: 3px solid var(--accent);
-  animation: spoke-unlock 0.5s var(--ease-out);
+  animation: spoke-unlock 0.55s var(--ease-spring);
 }
+/* Reward pop: spring in, flash an accent glow ring, then settle. */
 @keyframes spoke-unlock {
-  from { opacity: 0.4; transform: scale(0.97); }
-  to   { opacity: 1; transform: scale(1); }
+  0%   { opacity: 0; transform: scale(0.9) translateY(7px); box-shadow: 0 0 0 0 var(--accent-glow); }
+  55%  { opacity: 1; transform: scale(1.03) translateY(0); box-shadow: 0 0 0 8px var(--accent-glow); }
+  100% { transform: scale(1); box-shadow: var(--shadow-sm); }
 }
+.spoke[data-locked="false"] .spoke-num { animation: num-pop 0.5s 0.05s var(--ease-spring) both; }
+@keyframes num-pop { 0% { transform: scale(0.3); } 55% { transform: scale(1.22); } 100% { transform: scale(1); } }
 
 .spoke-head { display: flex; align-items: center; gap: var(--s-2); }
 .spoke-num {
@@ -394,7 +405,13 @@ img { display: block; max-width: 100%; }
 .spoke[data-locked="false"] .spoke-locked { display: none; }
 .spoke[data-locked="true"]  .spoke-content { display: none; }
 .spoke-locked { flex: 1; display: flex; align-items: center; justify-content: center; }
-.spoke-q { font-family: var(--font-display); font-size: 1.8rem; color: var(--ink-faint); font-weight: 700; }
+/* Ghost icon hinting at the locked clue's content type (waveform, leaf, eye…). */
+.spoke-locked svg { width: 30px; height: 30px; color: var(--ink-faint); opacity: 0.8; }
+:root[data-theme="dark"] .spoke-locked svg { opacity: 0.85; }
+/* A slow, low-amplitude breath so locked spokes read as "waiting", not disabled. */
+.spoke[data-locked="true"] .spoke-locked svg { animation: ghost-breathe 4.5s ease-in-out infinite; }
+@keyframes ghost-breathe { 0%, 100% { opacity: 0.8; } 50% { opacity: 0.52; } }
+:root[data-theme="dark"] .spoke[data-locked="true"] { border-color: rgba(255,255,255,0.22); }
 
 .spoke-content { flex: 1; display: flex; flex-direction: column; min-height: 0; }
 .spoke-text { font-size: 0.82rem; line-height: 1.5; color: var(--ink-mid); }
@@ -403,6 +420,9 @@ img { display: block; max-width: 100%; }
 /* Silhouette — per-species PNG (black on transparent) or generic body-type SVG,
    both rendered as <img> so they load reliably over file:// as well as http. */
 .spoke-silhouette-img { flex: 1; width: 100%; min-height: 96px; object-fit: contain; }
+/* The species silhouettes are solid black — invert them in dark mode so they don't
+   vanish into the dark card background. */
+:root[data-theme="dark"] .spoke-silhouette-img { filter: invert(0.9); }
 
 /* Photo spoke — full reveal */
 .spoke--photo .spoke-content { height: 100%; }
@@ -431,8 +451,8 @@ img { display: block; max-width: 100%; }
 }
 
 .hub-counter {
-  font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em;
-  color: var(--accent-deep); text-align: center;
+  font-size: 0.66rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em;
+  color: var(--ink-light); text-align: center;
 }
 
 /* The hub is the focal point — make its controls larger than elsewhere */
@@ -481,6 +501,7 @@ img { display: block; max-width: 100%; }
 .btn-primary:disabled { opacity: 0.45; cursor: not-allowed; transform: none; }
 .btn-outline { background: var(--bg-card); color: var(--ink-mid); border-color: var(--border-md); box-shadow: var(--shadow-xs); }
 .btn-outline:hover { background: var(--bg-surface); color: var(--ink); box-shadow: var(--shadow-sm); }
+.btn-outline.is-copied { background: var(--green-bg); color: var(--green); border-color: var(--green-border); }
 .btn-ghost { background: transparent; color: var(--ink-light); border-color: transparent; }
 .btn-ghost:hover { background: var(--bg-surface); color: var(--ink-mid); }
 
@@ -505,7 +526,28 @@ img { display: block; max-width: 100%; }
   animation: guess-slide-in 0.45s var(--ease-out) forwards; border: 1px solid transparent;
 }
 .guess-row-item--correct { background: var(--green-bg); color: var(--green); border-color: var(--green-border); box-shadow: var(--shadow-xs); }
-.guess-row-item--wrong { background: var(--red-bg); color: var(--red); border-color: var(--red-border); }
+.guess-row-item--wrong { background: var(--red-bg); color: var(--red); border-color: var(--red-border);
+  animation: guess-row-wrong 0.55s var(--ease-out); }
+/* Slide in, then a snappy settle-shake — visceral "wrong" cue with character. */
+@keyframes guess-row-wrong {
+  0%   { opacity: 0; transform: translateY(10px); }
+  42%  { opacity: 1; transform: translateY(0); }
+  54%  { transform: translateX(-7px); }
+  68%  { transform: translateX(6px); }
+  82%  { transform: translateX(-3px); }
+  100% { transform: translateX(0); }
+}
+/* Brief red border flash on the input itself when a guess is wrong. */
+@keyframes input-flash-wrong {
+  0%, 100% { border-color: var(--border-md); box-shadow: var(--shadow-sm); }
+  35% { border-color: var(--red); box-shadow: 0 0 0 3px var(--red-bg); }
+}
+.input-field.flash-wrong { animation: input-flash-wrong 0.55s var(--ease-out); }
+@keyframes input-flash-select {
+  0%, 100% { box-shadow: var(--shadow-sm); }
+  35% { box-shadow: 0 0 0 3px var(--accent-glow); }
+}
+.input-field.flash-select { animation: input-flash-select 0.4s var(--ease-out); }
 /* Wrong, but the right group/genus — warm it up with an accent edge + hint badge. */
 .guess-row-item--close { border-color: var(--accent); }
 .guess-row-hint {
@@ -558,10 +600,38 @@ img { display: block; max-width: 100%; }
 @keyframes card-pop-in { from { transform: scale(0.92) translateY(20px); opacity: 0; } to { transform: scale(1) translateY(0); opacity: 1; } }
 
 .card-result {
-  padding: 0.85rem 1.5rem; font-size: 0.78rem; font-weight: 700;
-  text-align: center; letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 0.95rem 1.5rem; font-family: var(--font-display); font-size: 1.18rem; font-weight: 700;
+  text-align: center; letter-spacing: 0; text-transform: none;
 }
-.card-result--correct { background: var(--green-bg); color: var(--green); border-bottom: 1px solid var(--green-border); }
+/* Win = a spring with overshoot (triumphant); loss = a quiet settle (no bounce). */
+.card-result--correct { animation: result-reveal 0.6s var(--ease-spring) both; }
+.card-result--wrong   { animation: result-settle 0.55s var(--ease-out) both; }
+@keyframes result-reveal {
+  0%   { opacity: 0; transform: translateY(12px) scale(0.96); }
+  60%  { opacity: 1; transform: translateY(0) scale(1.03); }
+  100% { transform: scale(1); }
+}
+@keyframes result-settle { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+/* Staged reveal: card frame → photo → facts → share, guiding the eye. */
+.card-photo-wrap { animation: fact-rise 0.5s var(--ease-out) 0.42s both; }
+.card-share { animation: fact-rise 0.45s var(--ease-out) 0.6s both; }
+/* Light-catch sheen sweeps once across the bird name on a win. */
+.card-name { position: relative; }
+.card-name--win::after {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(115deg, transparent 42%, rgba(255,255,255,0.55) 50%, transparent 58%);
+  background-size: 260% 100%; animation: name-sheen 0.9s var(--ease-out) 0.45s both;
+}
+@keyframes name-sheen { from { background-position: 170% 0; } to { background-position: -70% 0; } }
+/* Fact rows unfurl in sequence for a satisfying finish. */
+@keyframes fact-rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+.card-facts li { animation: fact-rise 0.42s var(--ease-out) both; }
+.card-facts li:nth-child(1) { animation-delay: 0.16s; }
+.card-facts li:nth-child(2) { animation-delay: 0.23s; }
+.card-facts li:nth-child(3) { animation-delay: 0.30s; }
+.card-facts li:nth-child(4) { animation-delay: 0.37s; }
+.card-facts li:nth-child(n+5) { animation-delay: 0.44s; }
+.card-result--correct { background: var(--accent-light); color: var(--accent-deep); border-bottom: 1px solid rgba(212,120,42,0.28); }
 .card-result--wrong { background: var(--red-bg); color: var(--red); border-bottom: 1px solid var(--red-border); }
 
 /* Give the wrap a DEFINITE height (aspect-ratio) so WebKit/Safari can't collapse it
@@ -590,9 +660,14 @@ img { display: block; max-width: 100%; }
   display: flex; align-items: center; justify-content: center;
   font-size: 0.78rem; font-weight: 700; color: var(--red);
 }
-.seg--filled { background: var(--accent); border-color: var(--accent-deep); }
+.seg--filled { background: var(--accent); border-color: var(--accent-deep); transform-origin: center; animation: seg-fill 0.34s var(--ease-spring) both; }
 .seg--fail { background: var(--red-bg); border-color: var(--red-border); }
+@keyframes seg-fill { from { transform: scale(0.25); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 .share-line { font-size: 0.8rem; font-weight: 600; color: var(--ink-mid); }
+.card-countdown {
+  text-align: center; font-size: 0.78rem; font-weight: 600; color: var(--ink-light);
+  font-variant-numeric: tabular-nums; letter-spacing: 0.02em; margin-top: 0.35rem;
+}
 
 .card-facts { list-style: none; display: flex; flex-direction: column; gap: 0.45rem; font-size: 0.88rem; color: var(--ink-mid); }
 .card-facts li { line-height: 1.6; }
@@ -655,6 +730,13 @@ img { display: block; max-width: 100%; }
 /* ── Stats ──────────────────────────────────────── */
 .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--s-3); text-align: center; margin-bottom: var(--s-6); }
 .stat-cell { display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.stat-cell--milestone { animation: milestone-pop 0.6s var(--ease-spring); }
+.stat-cell--milestone .stat-num { color: var(--accent-deep); }
+@keyframes milestone-pop {
+  0%   { transform: scale(0.9); }
+  50%  { transform: scale(1.12); box-shadow: 0 0 0 7px var(--accent-glow); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 transparent; }
+}
 .stat-num { font-family: var(--font-display); font-size: 1.9rem; font-weight: 700; color: var(--ink); line-height: 1; }
 .stat-label { font-size: 0.62rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); }
 .modal-body h3.dist-heading { margin-top: 0; margin-bottom: var(--s-3); }
@@ -667,6 +749,8 @@ img { display: block; max-width: 100%; }
   display: flex; align-items: center; padding-left: 6px; color: #fff;
   font-size: 0.72rem; font-weight: 700; transition: width 0.6s var(--ease-out);
 }
+/* The "X" (did-not-solve) bar uses the app's red, not success-orange. */
+.dist-bar--fail { background: var(--red); }
 .dist-note { font-size: 0.72rem; color: var(--ink-light); margin-top: var(--s-3); text-align: center; }
 
 /* ── Footer ─────────────────────────────────────── */
@@ -706,3 +790,15 @@ img { display: block; max-width: 100%; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--border-md); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--ink-faint); }
+
+/* ── Reduced motion ─────────────────────────────────
+   Neutralise all the juice for users who ask for less motion. JS-driven tweens
+   (count-up, dist bars) check matchMedia('(prefers-reduced-motion: reduce)') too. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

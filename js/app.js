@@ -194,6 +194,7 @@ const App = (() => {
 
     const correct = text.toLowerCase() === state.bird.commonName.toLowerCase();
     applyGuessResult(text, correct);
+    if (!correct) UI.flashWrongGuess();
 
     const isGameOver = correct || state.guesses.length >= MAX_GUESSES;
     if (isGameOver) {
@@ -267,6 +268,7 @@ const App = (() => {
       UI.showGuessSuggestions(matches, (name) => {
         input.value = name;
         UI.hideGuessSuggestions();
+        UI.flashSelect();
       });
     });
 
@@ -375,11 +377,13 @@ const App = (() => {
   }
 
   // ── Theme (light / dark) ──────────────────────────────────────────────────
+  const SUN_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.6 4.6l1.7 1.7M17.7 17.7l1.7 1.7M2 12h2.4M19.6 12H22M4.6 19.4l1.7-1.7M17.7 6.3l1.7-1.7"/></svg>';
+  const MOON_SVG = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a7 7 0 1 0 10.5 10.5z"/></svg>';
   function applyTheme(t) {
     document.documentElement.setAttribute('data-theme', t);
     const btn = document.getElementById('btn-theme');
     if (btn) {
-      btn.textContent = t === 'dark' ? '☀' : '🌙';
+      btn.innerHTML = t === 'dark' ? SUN_SVG : MOON_SVG;
       btn.setAttribute('aria-label', t === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
     }
   }

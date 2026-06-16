@@ -1357,10 +1357,16 @@ const Birds = (() => {
   }
 
   function dailyIndexForOffset(daysAgo, n) {
-    const EPOCH = Date.UTC(2025, 0, 1); // 2025-01-01 UTC
+    // Seed on the player's LOCAL date so the bird rolls over at their local
+    // midnight (like Wordle), not at UTC midnight. Math.round absorbs the ±1h
+    // DST wobble in the local-midnight-to-local-midnight span.
     const now = new Date();
-    const todayUTC = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
-    const dayIndex = Math.floor((todayUTC - EPOCH) / 86400000) - (daysAgo || 0);
+    const epoch = new Date(2025, 0, 1).getTime();                              // local 2025-01-01
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+    // +1 one-time shift: players who played the evening before the UTC→local fix had
+    // already seen "today's" bird, so advance the whole sequence by a day.
+    const DAILY_SHIFT = 1;
+    const dayIndex = Math.round((today - epoch) / 86400000) + DAILY_SHIFT - (daysAgo || 0);
     const len = n || ALL_BIRDS.length;
     return ((dayIndex % len) + len) % len;
   }
