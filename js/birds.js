@@ -1408,5 +1408,27 @@ const Birds = (() => {
       const q = query.toLowerCase().trim();
       return list.find(b => b.commonName.toLowerCase() === q) || null;
     },
+
+    // Warmer/colder feedback for a wrong guess: is the guessed bird "close" to the
+    // answer? Close = same group word (e.g. two macaws, two kingfishers) or same
+    // genus (e.g. two Haliaeetus eagles). Returns { group } (the shared group word,
+    // or null if related only by genus) when close, else null.
+    closeness(guessName, answer, pool) {
+      const list = pool || ALL_BIRDS;
+      const q = (guessName || '').toLowerCase().trim();
+      const guess = list.find(b => b.commonName.toLowerCase() === q);
+      if (!guess || !answer || guess.id === answer.id) return null;
+      const genus = b => (b.scientificName || '').toLowerCase().split(/\s+/)[0];
+      const lastWord = b => {
+        const t = b.commonName.toLowerCase().trim().split(/\s+/);
+        return t[t.length - 1];
+      };
+      const gw = lastWord(guess);
+      const sharedWord = (gw && gw.length >= 3 && gw === lastWord(answer)) ? gw : null;
+      const sameGenus = !!genus(guess) && genus(guess) === genus(answer);
+      if (sharedWord) return { group: sharedWord };
+      if (sameGenus) return { group: null };
+      return null;
+    },
   };
 })();

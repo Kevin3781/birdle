@@ -456,6 +456,12 @@ img { display: block; max-width: 100%; }
 }
 .guess-row-item--correct { background: var(--green-bg); color: var(--green); border-color: var(--green-border); box-shadow: var(--shadow-xs); }
 .guess-row-item--wrong { background: var(--red-bg); color: var(--red); border-color: var(--red-border); }
+/* Wrong, but the right group/genus — warm it up with an accent edge + hint badge. */
+.guess-row-item--close { border-color: var(--accent); }
+.guess-row-hint {
+  margin-left: auto; font-size: 0.74rem; font-weight: 600;
+  color: var(--accent-deep); white-space: nowrap;
+}
 .guess-row-icon { font-size: 0.76rem; font-weight: 700; }
 
 .guess-error { font-size: 0.78rem; color: var(--red); min-height: 1.1em; padding: 0 0.1rem; letter-spacing: 0.01em; }

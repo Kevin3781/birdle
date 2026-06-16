@@ -228,12 +228,24 @@ const UI = (() => {
   // ── Guess history ─────────────────────────────────────────────────────────
   function clearGuessHistory() { el('guess-history').innerHTML = ''; }
 
-  function addGuessToHistory(text, correct) {
+  function addGuessToHistory(text, correct, hint) {
     const row = document.createElement('div');
     row.className = `guess-row-item guess-row-item--${correct ? 'correct' : 'wrong'}`;
-    row.innerHTML =
+    let html =
       `<span class="guess-row-icon">${correct ? '✓' : '✗'}</span>` +
       `<span class="guess-row-text">${escHtml(text)}</span>`;
+    if (!correct && hint) {
+      let msg;
+      if (hint.group) {
+        const article = /^[aeiou]/.test(hint.group) ? 'an' : 'a';
+        msg = `Close — it's ${article} ${escHtml(hint.group)} too!`;
+      } else {
+        msg = `Close — a close relative!`;
+      }
+      html += `<span class="guess-row-hint">🔥 ${msg}</span>`;
+      row.classList.add('guess-row-item--close');
+    }
+    row.innerHTML = html;
     el('guess-history').appendChild(row);
   }
 

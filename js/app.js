@@ -136,7 +136,7 @@ const App = (() => {
     state.won = saved.won;
     state.unlockedClueCount = state.gameOver ? MAX_GUESSES : Math.min(1 + state.wrongCount, MAX_GUESSES);
 
-    saved.guesses.forEach(g => UI.addGuessToHistory(g.text, g.correct));
+    saved.guesses.forEach(g => UI.addGuessToHistory(g.text, g.correct, g.hint));
     UI.setUnlockedClues(state.unlockedClueCount);
     UI.setGuessBadge(Math.min(state.guesses.length + 1, MAX_GUESSES));
 
@@ -177,13 +177,15 @@ const App = (() => {
   }
 
   function applyGuessResult(text, correct) {
-    state.guesses.push({ text, correct });
+    // On a wrong guess, tell the player if they were close (right group/genus).
+    const hint = correct ? null : Birds.closeness(text, state.bird, state.pool);
+    state.guesses.push({ text, correct, hint });
     if (!correct) {
       state.wrongCount++;
       state.unlockedClueCount = Math.min(1 + state.wrongCount, MAX_GUESSES);
       UI.setUnlockedClues(state.unlockedClueCount);
     }
-    UI.addGuessToHistory(text, correct);
+    UI.addGuessToHistory(text, correct, hint);
     UI.setGuessBadge(Math.min(state.guesses.length + 1, MAX_GUESSES));
   }
 
