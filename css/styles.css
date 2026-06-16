@@ -514,12 +514,14 @@ img { display: block; max-width: 100%; }
 .card-result--correct { background: var(--green-bg); color: var(--green); border-bottom: 1px solid var(--green-border); }
 .card-result--wrong { background: var(--red-bg); color: var(--red); border-bottom: 1px solid var(--red-border); }
 
-.card-photo-wrap { width: 100%; max-height: 56vh; overflow: hidden; background: #1a1614; position: relative; }
+/* Give the wrap a DEFINITE height (aspect-ratio) so WebKit/Safari can't collapse it
+   to 0 — a height:auto <img> here paints in Chromium but not Safari. */
+.card-photo-wrap { flex: 0 0 auto; width: 100%; aspect-ratio: 3 / 2; max-height: 56vh; overflow: hidden; background: #1a1614; position: relative; }
 .card-photo-wrap::after {
   content: ''; position: absolute; inset: 0; pointer-events: none;
   background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.40) 100%);
 }
-.card-photo { display: block; width: 100%; height: auto; max-height: 56vh; object-fit: contain; transition: transform 0.5s var(--ease-out); }
+.card-photo { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: contain; transition: transform 0.5s var(--ease-out); }
 .card-photo:hover { transform: scale(1.025); }
 
 .card-body { padding: var(--s-6); display: flex; flex-direction: column; gap: var(--s-4); }

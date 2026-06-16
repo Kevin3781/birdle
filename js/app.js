@@ -81,7 +81,9 @@ const App = (() => {
     const segments = state.won
       ? '🟩'.repeat(n) + '⬜'.repeat(MAX_GUESSES - n)
       : '🟥'.repeat(MAX_GUESSES);
-    return `${shareLineText()}\n${segments}\nhttps://birdle.app`;
+    // Link to wherever the game is actually hosted (Pages, custom domain, …).
+    const url = location.origin + location.pathname.replace(/index\.html$/, '');
+    return `${shareLineText()}\n${segments}\n${url}`;
   }
 
   // ── Start game ────────────────────────────────────────────────────────────
