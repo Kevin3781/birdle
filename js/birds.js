@@ -1356,18 +1356,62 @@ const Birds = (() => {
     BIRDS_INGESTED.forEach(addBird);
   }
 
-  function dailyIndexForOffset(daysAgo) {
+  function dailyIndexForOffset(daysAgo, n) {
     const EPOCH = Date.UTC(2025, 0, 1); // 2025-01-01 UTC
     const now = new Date();
     const todayUTC = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
     const dayIndex = Math.floor((todayUTC - EPOCH) / 86400000) - (daysAgo || 0);
-    const n = ALL_BIRDS.length;
-    return ((dayIndex % n) + n) % n;
+    const len = n || ALL_BIRDS.length;
+    return ((dayIndex % len) + len) % len;
+  }
+
+  // ── Regions ──────────────────────────────────────────────────────────────────
+  // 'global' = the full pool (today's existing daily). Each region maps to the
+  // bird `regions` tags it includes (sparse/legacy tags folded into the 6 regions;
+  // worldwide/arctic/antarctica/global seabirds stay Global-only).
+  const REGIONS = [
+    { key: 'global',        label: 'Global',                  emoji: '🌍', tags: null },
+    { key: 'north-america', label: 'North America',           emoji: '🦅', tags: ['north-america', 'california'] },
+    { key: 'south-america', label: 'South & Central America', emoji: '🦜', tags: ['south-america', 'central-america'] },
+    { key: 'europe',        label: 'Europe',                  emoji: '🇪🇺', tags: ['europe'] },
+    { key: 'africa',        label: 'Africa',                  emoji: '🦩', tags: ['africa', 'north-africa'] },
+    { key: 'asia',          label: 'Asia',                    emoji: '🦚', tags: ['asia'] },
+    { key: 'oceania',       label: 'Australia & Oceania',     emoji: '🦘', tags: ['australia'] },
+  ];
+  const REGION_BY_KEY = new Map(REGIONS.map(r => [r.key, r]));
+  const _regionPools = new Map(); // key -> stable filtered array (cached)
+  function poolForRegion(key) {
+    const region = REGION_BY_KEY.get(key);
+    if (!region || !region.tags) return ALL_BIRDS;        // global / unknown
+    if (_regionPools.has(key)) return _regionPools.get(key);
+    const tags = new Set(region.tags);
+    // Filter ALL_BIRDS (fixed order) so the per-region daily index is stable.
+    const pool = ALL_BIRDS.filter(b => (b.regions || []).some(t => tags.has(t)));
+    _regionPools.set(key, pool);
+    return pool;
   }
 
   return {
     getAllBirds() {
       return ALL_BIRDS;
+    },
+
+    getRegions() {
+      return REGIONS;
+    },
+
+    isRegion(key) {
+      return REGION_BY_KEY.has(key);
+    },
+
+    getBirdsForRegion(key) {
+      return poolForRegion(key);
+    },
+
+    // Region-aware daily. key 'global' = full pool. daysAgo: 0 today, 1 yesterday…
+    getDailyBirdForRegion(key, daysAgo) {
+      const pool = poolForRegion(key);
+      return pool[dailyIndexForOffset(daysAgo, pool.length)];
     },
 
     getDailyBird() {

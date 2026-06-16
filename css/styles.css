@@ -255,6 +255,32 @@ img { display: block; max-width: 100%; }
 .archive-item-date { font-size: 0.82rem; color: var(--ink-light); }
 .archive-item-go { margin-left: auto; font-size: 0.82rem; font-weight: 600; color: var(--accent-deep); }
 
+/* ── Region selector ───────────────────────────── */
+.region-bar {
+  max-width: 940px; width: 100%; margin: 0 auto var(--s-4);
+  padding: 0 var(--s-4); display: flex; align-items: center; gap: var(--s-3);
+}
+.region-bar-label {
+  font-size: 0.66rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--ink-light);
+}
+.region-select-wrap { position: relative; }
+.region-select {
+  appearance: none; -webkit-appearance: none;
+  font-family: inherit; font-size: 0.9rem; font-weight: 600; color: var(--ink);
+  background: var(--bg-card); border: 1px solid var(--border-md); border-radius: var(--r-sm);
+  padding: 0.45rem 2rem 0.45rem 0.75rem; cursor: pointer; line-height: 1.2;
+}
+.region-select:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
+.region-select-caret {
+  position: absolute; right: 0.7rem; top: 50%; transform: translateY(-50%);
+  pointer-events: none; color: var(--accent); font-size: 0.7rem;
+}
+.stats-region {
+  text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--accent-deep); margin: 0 0 var(--s-4);
+}
+
 /* ── Game layout ───────────────────────────────── */
 #screen-game { padding: var(--s-8) var(--s-4); align-items: center; justify-content: center; }
 .game-layout { max-width: 940px; width: 100%; margin: 0 auto; display: flex; flex-direction: column; gap: var(--s-4); }

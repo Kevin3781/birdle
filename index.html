@@ -12,7 +12,7 @@
   <noscript>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600&display=swap">
   </noscript>
-  <link rel="stylesheet" href="css/styles.css?v=3">
+  <link rel="stylesheet" href="css/styles.css?v=4">
   <!-- Set theme before first paint to avoid a flash of the wrong colour scheme -->
   <script>
     try {
@@ -54,6 +54,15 @@
 
   <!-- ── Main ────────────────────────────────────── -->
   <main id="main">
+
+    <!-- Region selector — chooses which region's daily you play (applies to Daily + Archive) -->
+    <div class="region-bar" id="region-bar" hidden>
+      <label class="region-bar-label" for="region-select">Region</label>
+      <div class="region-select-wrap">
+        <select id="region-select" class="region-select" aria-label="Choose region"></select>
+        <span class="region-select-caret" aria-hidden="true">▾</span>
+      </div>
+    </div>
 
     <!-- Loading placeholder — visible before JS initializes, hidden immediately after -->
     <div class="screen" id="screen-loading">
@@ -168,6 +177,7 @@
         <button class="modal-close" id="btn-close-stats" aria-label="Close">&#x2715;</button>
       </div>
       <div class="modal-body">
+        <p class="stats-region" id="stats-region"></p>
         <div class="stats-grid">
           <div class="stat-cell">
             <span class="stat-num" id="stat-played">0</span>
@@ -217,6 +227,7 @@
         </ol>
 
         <h3>Modes</h3>
+        <p><strong>Region</strong> — pick a region up top to play that region's daily bird (or <strong>🌍 Global</strong> for the whole world). Each region keeps its own separate streak and stats, so you can master your home birds.</p>
         <p><strong>Daily Bird</strong> — one bird per day, the same for everyone. Progress saves if you close the tab, and results count toward your stats.</p>
         <p><strong>Archive</strong> — replay the last 5 daily birds. Great for practice — but Archive rounds <em>don't</em> affect your streak or stats.</p>
 
@@ -255,10 +266,10 @@
 
   <!-- Scripts: load order matters (ingested → birds → media → ui → app).
        ?v=N busts browser/CDN caches on deploy — bump N when js/media change. -->
-  <script src="js/birds_ingested.js?v=3"></script>
-  <script src="js/birds.js?v=3"></script>
-  <script src="js/media.js?v=3"></script>
-  <script src="js/ui.js?v=3"></script>
-  <script src="js/app.js?v=3"></script>
+  <script src="js/birds_ingested.js?v=4"></script>
+  <script src="js/birds.js?v=4"></script>
+  <script src="js/media.js?v=4"></script>
+  <script src="js/ui.js?v=4"></script>
+  <script src="js/app.js?v=4"></script>
 </body>
 </html>

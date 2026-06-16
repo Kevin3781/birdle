@@ -3,6 +3,9 @@
 const App = (() => {
   const MAX_GUESSES = 5;
 
+  // Persistent setting (survives game restarts): which region's daily you play.
+  let currentRegion = 'global';
+
   let state = {
     mode: 'daily',          // 'daily' | 'archive'
     bird: null,             // current bird
@@ -15,19 +18,36 @@ const App = (() => {
     archiveOffset: 0,       // days ago (archive mode only)
   };
 
-  // ── Stats (daily mode only) ───────────────────────────────────────────────
-  function getStats() {
+  function regionLabel(key) {
+    const r = (Birds.getRegions() || []).find(x => x.key === key);
+    return r ? r.label : 'Global';
+  }
+
+  // ── Stats (daily mode only, kept PER REGION) ──────────────────────────────
+  function emptyStats() { return { played: 0, wins: 0, streak: 0, maxStreak: 0, dist: [0, 0, 0, 0, 0, 0] }; }
+
+  // Stats are stored as { <region>: stats }. Migrate the old flat object (which
+  // was the global daily) into { global: … } on first read.
+  function getAllStats() {
     try {
-      return JSON.parse(localStorage.getItem('birdle_stats') || 'null') ||
-        { played: 0, wins: 0, streak: 0, maxStreak: 0, dist: [0, 0, 0, 0, 0, 0] };
-    } catch (_) {
-      return { played: 0, wins: 0, streak: 0, maxStreak: 0, dist: [0, 0, 0, 0, 0, 0] };
-    }
+      let s = JSON.parse(localStorage.getItem('birdle_stats') || 'null');
+      if (!s) return {};
+      if (typeof s.played === 'number') {            // legacy flat format
+        s = { global: s };
+        try { localStorage.setItem('birdle_stats', JSON.stringify(s)); } catch (_) {}
+      }
+      return s;
+    } catch (_) { return {}; }
+  }
+
+  function getStats(region) {
+    return getAllStats()[region || currentRegion] || emptyStats();
   }
 
   function recordStats(won, guessCount) {
     if (state.mode !== 'daily') return; // Archive never touches stats
-    const s = getStats();
+    const all = getAllStats();
+    const s = all[currentRegion] || emptyStats();
     s.played++;
     if (won) {
       s.wins++;
@@ -38,13 +58,17 @@ const App = (() => {
       s.streak = 0;
       s.dist[5]++;                     // fail
     }
-    try { localStorage.setItem('birdle_stats', JSON.stringify(s)); } catch (_) {}
+    all[currentRegion] = s;
+    try { localStorage.setItem('birdle_stats', JSON.stringify(all)); } catch (_) {}
   }
 
-  // ── Persistence (daily mode only) ─────────────────────────────────────────
-  function todayKey() {
+  // ── Persistence (daily mode only, keyed per region + date) ────────────────
+  function dateStamp() {
     const d = new Date();
-    return `birdle_${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  }
+  function todayKey() {
+    return `birdle_${currentRegion}_${dateStamp()}`;
   }
 
   function saveProgress() {
@@ -61,6 +85,13 @@ const App = (() => {
 
   function loadProgress() {
     try {
+      // Migrate the pre-region global key (birdle_<date>) -> birdle_global_<date>.
+      if (currentRegion === 'global') {
+        const legacy = localStorage.getItem(`birdle_${dateStamp()}`);
+        if (legacy && !localStorage.getItem(todayKey())) {
+          localStorage.setItem(todayKey(), legacy);
+        }
+      }
       const raw = localStorage.getItem(todayKey());
       return raw ? JSON.parse(raw) : null;
     } catch (_) { return null; }
@@ -73,7 +104,8 @@ const App = (() => {
 
   function shareLineText() {
     const result = state.won ? `solved on clue ${state.guesses.length}/5` : 'X/5';
-    return `Birdle ${shareDateStr()} — ${result}`;
+    const region = currentRegion !== 'global' ? ` ${regionLabel(currentRegion)}` : '';
+    return `Birdle${region} ${shareDateStr()} — ${result}`;
   }
 
   function buildShareText() {
@@ -112,13 +144,13 @@ const App = (() => {
   }
 
   function startDailyGame(saved) {
-    const bird = Birds.getDailyBird();
+    const bird = Birds.getDailyBirdForRegion(currentRegion, 0);
     startGame(bird, 'daily');
     if (saved && saved.birdId === bird.id) restoreProgress(saved);
   }
 
   function startArchiveGame(offset) {
-    const bird = Birds.getDailyBirdForOffset(offset);
+    const bird = Birds.getDailyBirdForRegion(currentRegion, offset);
     startGame(bird, 'archive', { archiveOffset: offset, archiveLabel: archiveLabel(offset) });
   }
 
@@ -281,6 +313,21 @@ const App = (() => {
     });
   }
 
+  // ── Region selector ───────────────────────────────────────────────────────
+  function setRegion(key) {
+    if (!Birds.isRegion(key)) return;
+    currentRegion = key;
+    try { localStorage.setItem('birdle_region', key); } catch (_) {}
+    UI.setRegionValue(key);
+    const activeMode = document.querySelector('.mode-tab--active')?.dataset.mode || 'daily';
+    if (activeMode === 'archive') showArchivePicker();
+    else startDailyGame(loadProgress());
+  }
+
+  function setupRegionSelector() {
+    UI.buildRegionSelector(Birds.getRegions(), currentRegion, setRegion);
+  }
+
   function setupCardButtons() {
     document.getElementById('btn-card-close').addEventListener('click', () => UI.hideBirdCard());
     document.getElementById('btn-card-next').addEventListener('click', () => {
@@ -299,7 +346,7 @@ const App = (() => {
   }
 
   function setupStatsButton() {
-    document.getElementById('btn-stats').addEventListener('click', () => UI.showStats(getStats()));
+    document.getElementById('btn-stats').addEventListener('click', () => UI.showStats(getStats(), regionLabel(currentRegion)));
     document.getElementById('btn-close-stats').addEventListener('click', UI.hideStats);
     document.getElementById('overlay-stats').addEventListener('click', e => {
       if (e.target === e.currentTarget) UI.hideStats();
@@ -349,7 +396,14 @@ const App = (() => {
 
   // ── Init ──────────────────────────────────────────────────────────────────
   function init() {
+    // Restore the player's chosen region (default global).
+    try {
+      const r = localStorage.getItem('birdle_region');
+      if (r && Birds.isRegion(r)) currentRegion = r;
+    } catch (_) {}
+
     setupTheme();
+    setupRegionSelector();
     setupModeTabs();
     setupGuessInput();
     setupCardButtons();
@@ -372,5 +426,5 @@ const App = (() => {
 
   document.addEventListener('DOMContentLoaded', init);
 
-  return { submitGuess, startDailyGame, startArchiveGame, getStats, buildShareText };
+  return { submitGuess, startDailyGame, startArchiveGame, getStats, buildShareText, setRegion };
 })();

@@ -447,8 +447,26 @@ const UI = (() => {
     document.body.classList.remove('overlay-open');
   }
 
+  // ── Region selector ───────────────────────────────────────────────────────
+  function buildRegionSelector(regions, current, onChange) {
+    const sel = el('region-select');
+    if (!sel) return;
+    sel.innerHTML = regions
+      .map(r => `<option value="${escHtml(r.key)}">${r.emoji || ''} ${escHtml(r.label)}</option>`)
+      .join('');
+    sel.value = current;
+    sel.addEventListener('change', () => onChange(sel.value));
+    el('region-bar').hidden = false;
+  }
+  function setRegionValue(key) {
+    const sel = el('region-select');
+    if (sel) sel.value = key;
+  }
+
   // ── Stats modal ───────────────────────────────────────────────────────────
-  function showStats(stats) {
+  function showStats(stats, regionLabel) {
+    const rEl = el('stats-region');
+    if (rEl) rEl.textContent = regionLabel ? `${regionLabel} · daily` : '';
     el('stat-played').textContent = stats.played;
     el('stat-win-pct').textContent = stats.played ? Math.round((stats.wins / stats.played) * 100) : 0;
     el('stat-streak').textContent = stats.streak;
@@ -555,6 +573,8 @@ const UI = (() => {
     hideHelp,
     showStats,
     hideStats,
+    buildRegionSelector,
+    setRegionValue,
     showCredits,
     hideCredits,
   };
